@@ -1,0 +1,231 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/a-quantum-mechanics-problem-on-a",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 140308432,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2024-01-07T06:37:06.604Z",
+  "updated_at": "2024-01-07T06:37:06.671Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "a-quantum-mechanics-problem-on-a",
+  "social_title": null,
+  "subtitle": "Quick exercises inspired by hard problems. ",
+  "teaser_post_eligible": true,
+  "title": "A Quantum Mechanics Problem on a Particle in a Line under an Electric Field. ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 5
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "preliminary-thoughts-on-solar-cell",
+  "next_post_slug": "do-physics-but-learn-history",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!7pjj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Quick exercises inspired by hard problems.",
+  "body_html": "<p>Here are some problems very loosely inspired by a few months\u2019 work looking at graphene band structure. In particular, I tried a bunch of computational methods to compute the band structure of graphene under electric fields, but it didn\u2019t work since it\u2019s so <em><strong>hard</strong></em> to get the compute set up. In fact, I plan to write another post on how unreasonably difficult it is to set this up for newcomers in the field. </p><p>So, the computational method is a bust for now, but this got me thinking - how far can we go with just analytical solutions to figure out some of the tricker properties of graphene? In particular, the problem we are looking at is what happens when we put some idealised graphene structure in water or expose graphene to electric fields. This gives some neat problems </p><ol><li><p>You have a system where an electron can hop between two atoms - what are the energy levels allowed in this system? </p></li><li><p>Suppose you have an infinite line of atoms, and you place a dipole at the top - does this construction still have a band structure? you would think not, since its no longer periodic. But, you could have an array of dipoles with a different frequency at the top to make it periodic. This is quite an interesting problem. </p></li><li><p>How would you add an electric field to an electron? The electron feels a force due to the Lorentz force. This should be a potential, and this potential causes some motion change. </p></li></ol><p></p><div><hr></div><h2>The Case of a Particle on a Finite Line with an Electric Field </h2><p>(Side note: I\u2019m surprised there aren\u2019t more expositions about this problem in university courses, but maybe it\u2019s because we have to deal with Airy functions). </p><p>To warm up, let\u2019s what are the possible energy levels of an electron trapped on a finite line, under the influence of some external electric field. This starting exercise is useful because it is a boiled-down toy model of the problems above, and it\u2019s in one dimension. To work quantum mechanically, we need to solve Schodinger\u2019s equation. Schrodinger\u2019s equation tells us what the wavefunction and the possible energy levels are, given some Hamiltonian. In quantum theory, it proposes that the wavefunction should merely be scaled under the influence of a Hamiltonian and that these wavefunctions are precisely the physically allowed states. The scaling factors, furthermore, are the permitted energies. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\lambda \\\\phi = H \\\\phi&quot;,&quot;id&quot;:&quot;BQZCQSHEIQ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The Hamiltonian is the sum of the kinetic energy of the wavefunction and the potential energy. The expression for the kinetic energy of a wave function is known, and we call it T. For the purposes of this exercise, I am setting Planck\u2019s constant to 1, just so we see the math that comes out. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;T =  - \\\\frac{ 1 } { 2m } \\\\frac{ d ^ 2 \\\\phi  } { dx ^ 2 } \\n&quot;,&quot;id&quot;:&quot;GUWQIFRERS&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>So, what\u2019s the potential term? We know that by the Lorenz force law, the force felt on an electron with a charge q should be equal to the electric field vector multiplied by that charge. As a reminder that this is true, you can convince yourself by trying to guess the motion of what happens when you put an electron between a positive and negative terminal (the electron would float towards the positive terminal by the law of attraction. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\n\\\\mathbf{F} = q  \\\\mathbf{ E } &quot;,&quot;id&quot;:&quot;BWANLKMLIW&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>From basic mechanics, we know that the force is equal to the grad operator of the potential, and hence, if the electric field is uniform, we can guess the form of the potential that will give us this field. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf F = \\\\nabla V  \\\\implies V = q E x &quot;,&quot;id&quot;:&quot;VRNOTQHJXW&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>This is great! We now have solved what the potential looks like and can now plug it into Schrodinger\u2019s equation and try to solve that equation. The potential is a linear potential, and so our setting looks like this where we set the regions outside the line L to an infinitely high potential to make sure that the electron can\u2019t go there. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!7pjj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!7pjj!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 424w, https://substackcdn.com/image/fetch/$s_!7pjj!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 848w, https://substackcdn.com/image/fetch/$s_!7pjj!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 1272w, https://substackcdn.com/image/fetch/$s_!7pjj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!7pjj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png\" width=\"454\" height=\"317.2253164556962\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:552,&quot;width&quot;:790,&quot;resizeWidth&quot;:454,&quot;bytes&quot;:23570,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!7pjj!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 424w, https://substackcdn.com/image/fetch/$s_!7pjj!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 848w, https://substackcdn.com/image/fetch/$s_!7pjj!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 1272w, https://substackcdn.com/image/fetch/$s_!7pjj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72e1d5cd-32a9-4b7b-b26e-78e195ed366f_790x552.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>If we take the sum of the potential term and the kinetic term, we get the neat equation below, and our mission now is to solve for phi, the save function. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\lambda \\\\phi  =  - \\\\frac{ 1 } { 2m } \\\\frac{ d ^ 2 \\\\phi  } { dx ^ 2 }  + q Ex \\n\\\\phi \\n&quot;,&quot;id&quot;:&quot;IITVTPUGCK&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>At this point, we have to answer two mathematical questions. Do solutions exist, and if so, with the boundary conditions - what does this look like? It turns out this is not really an equation you can solve with just some elementary methods. After some math, we find that this looks like a linear combination of Airy functions, the solution to this is given by the following, referenced here. https://theory.physics.manchester.ac.uk/~judith/AQMI/PHYS30201se31.xhtml</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\phi( x ) = CAi\\\\left(\\\\frac{(\\\\beta x - \\\\mu)}{(\\\\beta x_0)}\\\\right) + DBi\\\\left(\\\\frac{(\\\\beta x - \\\\mu)}{(\\\\beta x_0)}\\\\right)&quot;,&quot;id&quot;:&quot;HYLKGQESIL&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>These Airy functions are precisely the solutions to the simpler form, so to get this solution, you can reduce the earlier equation into simpler variables and then substitute it back out. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;y''( x)  - b x y( x)  = ay( x) , &quot;,&quot;id&quot;:&quot;NDCRQJRQUH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Now, what do these solutions look like? Well, let\u2019s examine the extreme case where we set the potential V = 0. We know that the solution to a particle in a box, without any potential, looks like waves whose frequency increments by integer numbers. So, we would expect that for small values of V, that the Airy functions look \u2018wavelike\u2019 to some degree. And this is exactly the case! </p><p>The constants C and D are determined by boundary conditions, which are the values of the wave function for which we already know the values. For a line of size L, we should expect that the probability distribution at the ends of this line go to zero. All of the other constants in the brackets are some function of the constants m, q, and E, but as we\u2019ll see later, we don\u2019t actually need to know what those values are. If our line is bounded such that </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\phi( 0 ) = \\\\phi ( L ) = 0&quot;,&quot;id&quot;:&quot;NWWHHDWLIK&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Substituting it to solve for C and D in the equation above necessarily forces our wave function to be zero everywhere, so for the problem above, we get that there are no solutions to Schrodinger\u2019s equation. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\phi (x ) = 0, 0 \\\\leq x \\\\leq L&quot;,&quot;id&quot;:&quot;YBOZNAMNQH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div>",
+  "truncated_body_text": "Here are some problems very loosely inspired by a few months\u2019 work looking at graphene band structure. In particular, I tried a bunch of computational methods to compute the band structure of graphene under electric fields, but it didn\u2019t work since it\u2019s so",
+  "wordcount": 957,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        4,
+        131,
+        251
+      ],
+      "population": 27
+    },
+    "DarkVibrant": {
+      "rgb": [
+        130,
+        130,
+        9
+      ],
+      "population": 7
+    },
+    "LightVibrant": {
+      "rgb": [
+        110,
+        183,
+        252
+      ],
+      "population": 56
+    },
+    "Muted": {
+      "rgb": [
+        97,
+        175,
+        175
+      ],
+      "population": 50
+    },
+    "DarkMuted": {
+      "rgb": [
+        100,
+        132,
+        60
+      ],
+      "population": 1
+    },
+    "LightMuted": {
+      "rgb": [
+        174,
+        212,
+        213
+      ],
+      "population": 26
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 5,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

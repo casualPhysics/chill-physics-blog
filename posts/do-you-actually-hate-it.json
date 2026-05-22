@@ -1,0 +1,353 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/do-you-actually-hate-it",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 175635917,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-10-08T16:56:58.495Z",
+  "updated_at": "2025-10-08T17:00:01.072Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "do-you-actually-hate-it",
+  "social_title": "Do You Actually Hate It? ",
+  "subtitle": "Or is it a 'you' problem?",
+  "teaser_post_eligible": true,
+  "title": "Do You Actually Hate It? ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 14
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "evidence-that-shrouds-increase-cr",
+  "next_post_slug": "culturing-yeast-for-independent-science",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 175635917,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Or is it a 'you' problem?",
+  "body_html": "<p>I place a lot of weight on enjoying the stuff I choose to do. But often, I\u2019ll be doing things that I loved a few weeks ago, and suddenly think \u2018this sucks, why am I doing this?\u2019. The question then becomes - do I actually genuinely enjoy what I\u2019m doing, or is there a fixable problem that is preventing me from enjoying it? </p><p>I think this is a really hard problem, so here\u2019s how I\u2019m trying to answer it. </p><p>My first suspicion about why I might dislike something is that I suck at it. To test if I dislike something because I\u2019m bad, I ask myself if I <strong>envy</strong> anyone who is an expert in the area. If I do, then its likely that I just need to get better to rekindle the love for it. This is why I dropped volleyball - I didn\u2019t really watch volleyball competitively or cared about pro players. Bike touring and poker on the other hand, I can watch videos all day long, and I am sticking to those even though I am a beginner. </p><p>My next test is whether it\u2019s a workflow issue. Repetition can always find a way to ruin things. A small while after I started computational chemistry work, I felt that running simulations, faffing around with linux, and copying and pasting files back and forth clusters was seriously getting in the way of my enjoyment. So today I spent the day figuring out how to reliably link my AI tools and IDE to the cluster via ssh and automate more standard workflows. My motivation has perked up again since I have to do much less grunt work </p><p>The next test, if other people are involved, is asking whether a project is going in the direction I want it to. To do this, I usually schedule a call and ask about whether people think the current way is most efficient. Either I\u2019m convinced, or thankfully people trust me enough to find a decent compromise or go my way. </p><p>Finally, its upside. If this goes well, is my world significantly going to change for the better? Will any doors open? If I can dream of an ideal state that someone detached will reasonably go \u2018wow\u2019, then I\u2019m usually happy with the upside. I\u2019m not too strict or calculative about this though, because of estimation error. </p><p>If none of these things work, I\u2019ll drop it. </p>",
+  "truncated_body_text": "I place a lot of weight on enjoying the stuff I choose to do. But often, I\u2019ll be doing things that I loved a few weeks ago, and suddenly think \u2018this sucks, why am I doing this?\u2019. The question then becomes - do I actually genuinely enjoy what I\u2019m doing, or is there a fixable problem that is preventing me from enjoying it?",
+  "wordcount": 402,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 14,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 175635917,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/175635917/tts/81fb8a83-25e0-46f7-80b1-0fd2149d9f3a/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 164305455,
+      "body": "This is maybe so obvious that it doesn't need stating, but I would add a check for \"is my physical existence in order? Am I eating, sleeping and hydrating well? Or am I on the verge of getting sick?\" After several weeks of great training for an athletic event, I recently had a day where I could not make myself do my workout. I started panicking that I had lost my love for it, but it turns out I was about to come down with some random illness my son brought home from daycare. In the case of illness, it generally is obvious, but I've found that committing to improving my sleep schedule or changing my diet has often fixed seemingly unrelated issues of motivation.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is maybe so obvious that it doesn't need stating, but I would add a check for \"is my physical existence in order? Am I eating, sleeping and hydrating well? Or am I on the verge of getting sick?\" After several weeks of great training for an athletic event, I recently had a day where I could not make myself do my workout. I started panicking that I had lost my love for it, but it turns out I was about to come down with some random illness my son brought home from daycare. In the case of illness, it generally is obvious, but I've found that committing to improving my sleep schedule or changing my diet has often fixed seemingly unrelated issues of motivation."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 175635917,
+      "user_id": 9215507,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-10-08T17:35:31.966Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Alex Hearn",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2de6dd7f-cb94-4107-8228-5ac0caa3c32d_750x750.jpeg",
+      "handle": "alexhearn",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 8
+      },
+      "reaction_count": 8,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "alexhearn",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 9,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 164422917,
+      "body": "I think most positive emotion comes from moving toward a desired goal. And if you are misdirected or stall along the way, it can cause you to question and doubt whether it's worth it. I think it's possible to re-kindle love for something just by doing small things that show progress. In volleyball for example, sometimes you need to play against lesser competition just to get your confidence back up.\n\nObviously we have natural inclinations for particular talents though.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I think most positive emotion comes from moving toward a desired goal. And if you are misdirected or stall along the way, it can cause you to question and doubt whether it's worth it. I think it's possible to re-kindle love for something just by doing small things that show progress. In volleyball for example, sometimes you need to play against lesser competition just to get your confidence back up."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Obviously we have natural inclinations for particular talents though."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 175635917,
+      "user_id": 321116091,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-10-08T23:40:09.539Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Joe Gaffney",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a1f0eae6-b9d8-46d3-bd22-2cea9d255623_828x828.jpeg",
+      "handle": "joegaff",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "joegaff",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Joe Gaffney",
+          "id": 4215187,
+          "base_url": "https://joegaff.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 3,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

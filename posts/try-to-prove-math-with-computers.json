@@ -1,0 +1,346 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/try-to-prove-math-with-computers",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 173201032,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-09-10T09:41:24.028Z",
+  "updated_at": "2025-09-10T11:06:18.049Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "try-to-prove-math-with-computers",
+  "social_title": "Try to Prove Math With Computers",
+  "subtitle": "Walking through an example! ",
+  "teaser_post_eligible": true,
+  "title": "Try to Prove Math With Computers",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 9
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "you-need-to-read-thomas-kuhn",
+  "next_post_slug": "dirt-cheap-holidays",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!Dvtv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 173201032,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Walking through an example!",
+  "body_html": "<p>I've written about<a href=\"https://chillphysicsenjoyer.substack.com/p/we-should-formalise-physics\"> formalising physics in PhysLEAN</a>, and this month I\u2019ve proved properties of a certain type of potential in quantum mechanics. </p><p>It\u2019s pretty magical that we can prove things with computers, and I wanted to write up a toy example of my process in proving things in the LEAN language. </p><p>Given a goal that I want to prove, my approach is to repeatedly apply theorems through guessing, pattern matching, and trial and error. </p><p>In this post, I\u2019ll be going through a really contrived example (which can be solved in one line now with standard libraries in Mathlib), but I think is instructive! </p><p>Suppose that I wanted to prove that 0 <code>\u2264 </code>2. First, I try to write this up as a goal. In LEAN, we have things called lemmas that represent minor statements that we wish to prove. The syntax looks like this. </p><p><code>lemma zero_leq_2 : 0 \u2264 2 := by</code></p><p>I\u2019ve named what I want to prove, <code>zero_leq_2</code>, followed by the actual statement. Once we write this down, <em>VS Code with LEAN</em> will automatically initialise this as a \u2018goal\u2019. We want to solve this goal with tactics and pre-existing theorems. It\u2019s like a game!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!0xls!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!0xls!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 424w, https://substackcdn.com/image/fetch/$s_!0xls!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 848w, https://substackcdn.com/image/fetch/$s_!0xls!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 1272w, https://substackcdn.com/image/fetch/$s_!0xls!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!0xls!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png\" width=\"744\" height=\"210\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:210,&quot;width&quot;:744,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:20430,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173201032?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!0xls!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 424w, https://substackcdn.com/image/fetch/$s_!0xls!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 848w, https://substackcdn.com/image/fetch/$s_!0xls!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 1272w, https://substackcdn.com/image/fetch/$s_!0xls!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc3d8fec-7d4c-46d5-8fde-d934a5fac24c_744x210.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a></figure></div><p>And from here, the game begins. We start searching for theorems that other people have written and try to apply it to our case. The main tool for that people use is <a href=\"https://loogle.lean-lang.org/\">Loogle</a>, which is a way to search the big codebase of theorems. </p><p>Let\u2019s say we\u2019ve found these two theorems that look promising, that have already been proved by someone else. </p><p><code>lemma one_leq_two : 1 \u2264 2 := </code></p><p><code>lemma zero_leq_n (a : \u2115) (h : 1 \u2264 a) : 0 \u2264 a := by</code></p><p>What do these mean? </p><p><code>one_leq_two</code> says that 1 is less than 2, which is close to what we want, but not exactly. </p><p><code>zero_leq_n</code> has more to it. The statements in brackets are hypotheses that need to be true to use the theorem. this case, we have two prerequisite hypotheses. First, <strong>a</strong> must be a natural number. Second, we need that <strong>1 is less than a. </strong>This is then followed by the main assertion <code>0 \u2264 a.</code> If then hypothesis are true, <strong>then</strong> 0 is less than a. </p><p>This final statement looks like what we want, <strong>because the pattern </strong><code>0 \u2264 a </code><strong>matches our goal of</strong> <code>0 \u2264 2.</code></p><p>In LEAN, we use things called tactics. My most used tactic is <strong>apply</strong>, which <strong>resolves a goal if it the pattern of the statement an existing theorem</strong>. So in this case, we want to apply <code>zero_leq_n </code>to our current goal. </p><p>Let\u2019s type this out and see what happens</p><p><code>lemma zero_leq_2 : 0 \u2264 2 := by</code></p><p><code>  apply zero_leq_n</code></p><p>Once we do this, LEAN automatically recognises that the pattern of our goal matches the theorem - since <code>0 \u2264 2 </code>matches <code>0 \u2264 a</code>. And so, it realises to set <code>a = 2,</code> so therefore progress is made. But are we done? Not quite! </p><p>Remember that in <code>zero_leq_n,</code>there is an additional hypothesis <code>(h : 1 \u2264 a)</code> that has to be true. Since LEAN has set <code>a = 2</code>, it then asks us to prove the subgoal of <code>1 \u2264 2 </code>that\u2019s required. This creation of subgoals is super convenient in keeping track of things - all one has to do is just focus on solving goals till the end. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Dvtv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Dvtv!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 424w, https://substackcdn.com/image/fetch/$s_!Dvtv!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 848w, https://substackcdn.com/image/fetch/$s_!Dvtv!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 1272w, https://substackcdn.com/image/fetch/$s_!Dvtv!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Dvtv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png\" width=\"696\" height=\"528\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:528,&quot;width&quot;:696,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:41436,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173201032?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Dvtv!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 424w, https://substackcdn.com/image/fetch/$s_!Dvtv!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 848w, https://substackcdn.com/image/fetch/$s_!Dvtv!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 1272w, https://substackcdn.com/image/fetch/$s_!Dvtv!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F85de5df3-61f4-4e61-937d-c80e62ccf7e3_696x528.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>So, given our new goal of proving <code>1 \u2264 2</code>, we can use the other theorem <code>one_leq_two</code>, to then resolve <strong>this</strong> goal. </p><p><code>lemma zero_leq_2 : 0 \u2264 2 := by</code></p><p><code>  apply zero_leq_n</code></p><p><code>  apply one_leq_two</code></p><p>Since the statement matches the goal exactly, we are done, and we\u2019ve proved something new and cool!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!oP_l!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!oP_l!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 424w, https://substackcdn.com/image/fetch/$s_!oP_l!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 848w, https://substackcdn.com/image/fetch/$s_!oP_l!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 1272w, https://substackcdn.com/image/fetch/$s_!oP_l!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!oP_l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png\" width=\"796\" height=\"396\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:396,&quot;width&quot;:796,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:31775,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173201032?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!oP_l!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 424w, https://substackcdn.com/image/fetch/$s_!oP_l!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 848w, https://substackcdn.com/image/fetch/$s_!oP_l!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 1272w, https://substackcdn.com/image/fetch/$s_!oP_l!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91ed4a87-132c-46f5-ac18-9350dc30468a_796x396.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>An important point: in practice, people that work in LEAN use a standard library (Mathlib) to prove easy stuff like this with one liners, with stuff like the below! </p><pre><code><code>import Mathlib.Tactic\n\nexample : 37 \u2264 1000000 := by\n  norm_num</code></code></pre>",
+  "truncated_body_text": "I've written about formalising physics in PhysLEAN, and this month I\u2019ve proved properties of a certain type of potential in quantum mechanics.",
+  "wordcount": 648,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": {
+    "post_id": 173201032,
+    "starts_at": "2025-09-10T09:41:24.222Z",
+    "ended_at": "2025-09-10T10:41:24.464Z",
+    "planned_duration_ms": 3600000,
+    "test_cohort_percent": 50,
+    "test_cohort_emailed": true,
+    "main_cohort_emailed": true,
+    "created_at": "2025-09-10T09:41:00.697Z",
+    "updated_at": "2025-09-10T10:41:26.469Z",
+    "creator_id": 49747279,
+    "ended_early": false,
+    "winner_overridden": false
+  },
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        162,
+        60,
+        60
+      ],
+      "population": 4
+    },
+    "DarkVibrant": {
+      "rgb": [
+        93,
+        41,
+        41
+      ],
+      "population": 19
+    },
+    "LightVibrant": {
+      "rgb": [
+        219.16216216216216,
+        158.23783783783784,
+        158.23783783783784
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        116,
+        160,
+        108
+      ],
+      "population": 2
+    },
+    "DarkMuted": {
+      "rgb": [
+        62,
+        82,
+        63
+      ],
+      "population": 9
+    },
+    "LightMuted": {
+      "rgb": [
+        133,
+        182,
+        118
+      ],
+      "population": 6
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 9,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 173201032,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/173201032/tts/a122e7f0-d32c-48a4-9d39-aaf11a24339e/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 154424426,
+      "body": "I wonder if eventually universities will start incorporating LEAN into their maths courses, e.g., introductory analysis courses. PS I think you have a typo in \"resolves a goal if it the pattern of the statement an existing theorem\"?",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I wonder if eventually universities will start incorporating LEAN into their maths courses, e.g., introductory analysis courses. PS I think you have a typo in \"resolves a goal if it the pattern of the statement an existing theorem\"?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 173201032,
+      "user_id": 308869142,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-10T15:21:01.947Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Elizabeth Holland",
+      "photo_url": "https://substackcdn.com/image/fetch/$s_!F17F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faff11c39-2010-48f1-8766-184ba1c2eeb9_408x408.png",
+      "handle": "elizabethholland2",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "elizabethholland2",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Elizabeth\u2019s Substack",
+          "id": 3742730,
+          "base_url": "https://hollande.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

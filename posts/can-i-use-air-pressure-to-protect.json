@@ -1,0 +1,258 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/can-i-use-air-pressure-to-protect",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 165539420,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-06-09T12:38:28.008Z",
+  "updated_at": "2025-06-09T19:04:23.490Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "can-i-use-air-pressure-to-protect",
+  "social_title": "Can I use Air Pressure to Protect my House?",
+  "subtitle": "Calculating how much airflow I'll need to bio-harden my living room. ",
+  "teaser_post_eligible": true,
+  "title": "Can I use Air Pressure to Protect my House?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 11
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "why-your-technical-expertise-might",
+  "next_post_slug": "what-is-the-most-effective-day",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/0bcf71cc-2eec-4894-b627-f3d45bfee5e4_687x295.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 165539420,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Calculating how much airflow I'll need to bio-harden my living room.",
+  "body_html": "<p>I'm trying to improve my impact by working on biosecurity problems. I'm working on this part-time and independently, so I'm better suited work on things that regular individuals could cheaply do by themselves in a pandemic crisis.</p><p>One idea that stood out was trying to find cheap ways to create <em><strong>positive air pressure </strong></em>in my house. This post is about why I think that's a good idea, and also goes through the theory of how to calculate what I need. An important part was trying to justify those equations so that someone with some math training could understand it -<a href=\"https://casualphysicsenjoyer.com/Essays+in+progress/Biosecurity/Ventilation/Can+I+use+Air+Pressure+to+Protect+my+House%3F\"> I've put an extended version with math on my website.</a></p><p>I've ordered my materials, and hopefully in the next few weeks I'll post an update if this works in real life!</p><div><hr></div><p>Creating positive pressure in your house might sound a bit odd to someone with no context, but I think there are a few compelling reasons why I should think about this:</p><p>First, here is a scenario that I think isn't all that unlikely. Suppose that in the <em>near</em> future,</p><ol><li><p>we have another air-borne epidemic of a pathogen 'X' and,</p></li><li><p>the population has an effective method of personally protecting themselves when going into public spaces outside. <em>For example, elastomeric respirators are reusable masks that are more effective than N95's. Assuming that we have sufficient stockpiles and proper usage, it's not a stretch to imagine a scenario where most people have one in their home</em></p></li></ol><p>Then, what obvious threats remain?</p><p>Well, it would be unreasonable to expect people to wear masks indoors with their families. Because of this, we have a problem for those who live in flats with shared spaces, like corridors.</p><p>The problem is that the air in the <em>common areas</em> of the building might be contaminated from other residents. So, every time someone opens their door, contaminated air risks going into their house. And when people remove their masks inside, they become at risk of infection.</p><p>Are there solutions I could build such that people have an easy way to protect against this?</p><p>After several discussions with the biosecurity community, one interesting idea is how a regular person could quickly and cheaply create <em>positive air pressure</em> in their household in the event of a widespread air-borne pathogen.</p><p>A space with higher air pressure than its surroundings always pushes air <em>out</em>. This means that the flow of air is always moves outwards into the surrounding area. If a room is positively pressurised, then clean filtered air from the inside would flow outwards, creating a shield that doesn't let infected air inside, even if entrance doors were open momentarily, or if there were small leaks through door openings.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!EUHK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!EUHK!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 424w, https://substackcdn.com/image/fetch/$s_!EUHK!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 848w, https://substackcdn.com/image/fetch/$s_!EUHK!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 1272w, https://substackcdn.com/image/fetch/$s_!EUHK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!EUHK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png\" width=\"687\" height=\"295\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:295,&quot;width&quot;:687,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:287043,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/165539420?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!EUHK!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 424w, https://substackcdn.com/image/fetch/$s_!EUHK!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 848w, https://substackcdn.com/image/fetch/$s_!EUHK!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 1272w, https://substackcdn.com/image/fetch/$s_!EUHK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4be3b9cc-8ad3-4705-b5d2-54d3842c1ff9_687x295.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>There are reasons to be excited about figuring out how duct tape, sheets and fans could help people defend their homes:</p><ul><li><p>the mechanism of how positive pressure protects a space is extremely well understood (since the time of Bernoullli!)</p></li><li><p>it's cheap, since I don't think there is much more required other than fans, duct tape, weather seals and plastic sheets.</p></li><li><p>tools to test whether my methods work (manometers to test pressure, and anemometers to test airflow) are widely available.</p></li><li><p>the pedagogy of pressure and DIY is relatively more accessible to the public, and feels less complicated than setting up far UVC lights.</p></li><li><p>I'm working on this part time, so the areas I work on should be cheap, testable, simple, and scalable enough to do myself, so that other people could replicate it by themselves.</p></li></ul><p>I live in London, and most flats are naturally ventilated (including my own), so figuring out how to do this will at least benefit one person! In addition, I've found that the literature out there on ventilation to be pretty directed towards engineers. I haven't really found crystal clear explanations for the layperson, which is why I wanted to write this.</p><h3>Initial design</h3><p>Here is a design which I think would work for my house, which I'll explain in this post along with some math.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!eJWc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!eJWc!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 424w, https://substackcdn.com/image/fetch/$s_!eJWc!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 848w, https://substackcdn.com/image/fetch/$s_!eJWc!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 1272w, https://substackcdn.com/image/fetch/$s_!eJWc!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!eJWc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png\" width=\"689\" height=\"457\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:457,&quot;width&quot;:689,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:102674,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/165539420?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!eJWc!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 424w, https://substackcdn.com/image/fetch/$s_!eJWc!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 848w, https://substackcdn.com/image/fetch/$s_!eJWc!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 1272w, https://substackcdn.com/image/fetch/$s_!eJWc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9524a98-8d4b-45cf-bd13-28db324fae00_689x457.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>My house has two rooms that I care about. The first is my living room, which is the room that I want to keep 'clean'. The second is my foyer, which I will use as an airlock.</p><p>In my living room, I have a fan at my window that faces inwards. The fan is fitted with an air filter which makes the fan blow filtered air inwards. This adds air particles in the space. <strong>And, since there are more particles now applying force outwards, the pressure increases.</strong></p><p>Suppose that the fan supplies some air in cubic meters per minute. As long as there is more air entering than there is escaping, the pressure of the room will increase. This then forces the air through openings, which is what we want.</p><p><strong>The unit of pressure that we'll be using is the Pascal. The pressure I am aiming for, going by current clean room standards, is 10 Pascals of difference between my living room and the outside.</strong></p><div><hr></div><h2>How strong does my fan need to be?</h2><p>Now, given I have a fan in my house, <strong>the main question I need to answer is powerful my fan needs to be.</strong> If it's too weak at it's max setting, I may not be able to generate enough pressure in my house and this experiment would fail, making this technique infeasible, and I would have to try something else!</p><p>Just from physical intuition, the amount of pressure I could generate in my house is probably a function of</p><ul><li><p>how strong my fan is</p></li><li><p>the total area of 'leakage' in my house where the air from the fan can escape</p></li></ul><p>Is there a way I could make this rigorous? One approximation is the <strong>orifice equation</strong>. It gives the relationship between</p><ul><li><p>the airflow through the room</p></li><li><p>how much space the air can leaks out, and the</p></li><li><p>pressure differential the space has.</p></li></ul><p>The equation says that the airflow required is proportional to how much area leaks out of the room, multiplied by the square root of the pressure we are trying to achieve.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!IKvo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!IKvo!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 424w, https://substackcdn.com/image/fetch/$s_!IKvo!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 848w, https://substackcdn.com/image/fetch/$s_!IKvo!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 1272w, https://substackcdn.com/image/fetch/$s_!IKvo!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!IKvo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png\" width=\"642\" height=\"84\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:84,&quot;width&quot;:642,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:16613,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/165539420?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!IKvo!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 424w, https://substackcdn.com/image/fetch/$s_!IKvo!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 848w, https://substackcdn.com/image/fetch/$s_!IKvo!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 1272w, https://substackcdn.com/image/fetch/$s_!IKvo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F448d1bfe-d84c-4e0f-8abc-5082db656ce4_642x84.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>Let's go through the terms individually on the right hand side.</p><p>A is the exposed leakage area in metres squared. I've measured 0.25 m\u00b2 (total gap area where air could escape) as a rough approximation. Right now, this consists of roughly how much I think there is in gaps under my doors, and also my stovetop vent. When trying to pressurise one's house, this is the main thing you should try to make as small as possible, by sealing up as many gaps as you can.</p><p>Delta P is the pressure differential. To start off with, I'm trying for a pressure differential of 5 Pa. Just to see if I can hit a decently high number. If I can't get higher than that, gg.</p><p>C_d = 0.65 is a discharge coefficient that is meant to capture the fact that the theoretical outflow of air won't match what the real outflow is. This parameter depends on shape and is roughly 0.6 for a square shape. Rho is just the density of air, which is 1.225 kg/m\u00b3</p><p>The left hand side is the <strong>airflow required through the room</strong>. In this equation it's measured in cubic metres of air added per second (m^3 / s). This quantity is a function of how much air we are pushing through the fan, which is given by the fan speed and the area of the fan.</p><p>This gives us the amount of air, in cubic metres per second, that we need to introduce into the space. So, the airflow that we need is</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!BCK7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!BCK7!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 424w, https://substackcdn.com/image/fetch/$s_!BCK7!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 848w, https://substackcdn.com/image/fetch/$s_!BCK7!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 1272w, https://substackcdn.com/image/fetch/$s_!BCK7!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!BCK7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png\" width=\"674\" height=\"75\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b1a517f6-10df-46f2-968e-b081fe06858e_674x75.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:75,&quot;width&quot;:674,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:19649,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/165539420?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!BCK7!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 424w, https://substackcdn.com/image/fetch/$s_!BCK7!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 848w, https://substackcdn.com/image/fetch/$s_!BCK7!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 1272w, https://substackcdn.com/image/fetch/$s_!BCK7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb1a517f6-10df-46f2-968e-b081fe06858e_674x75.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>Ok, so we need to push around 0.45 cubic meters of air per second. For retail purposes, most fans use cubic feet per minute to measure their air intake. 0.45 cubic meters is about 800 cfm. </p><p>So, to be extra safe, I should aim for a fan around twice that level. This is not an endorsement, but I found this <a href=\"https://lasko.com/products/lasko-b20201-20-box-fan-with-save-smart-technology?srsltid=AfmBOoq1Bz8fsRPclRKKhWcguQ7ji1aiR25__xg1RHKvqn-YFm3D30AT\">fan which is around 1800 CFM</a>.</p><p></p><h3>Acknowledgements </h3><p>Thank you to Andrew Snyder-Beattie for the discussions. </p>",
+  "truncated_body_text": "I'm trying to improve my impact by working on biosecurity problems. I'm working on this part-time and independently, so I'm better suited work on things that regular individuals could cheaply do by themselves in a pandemic crisis.",
+  "wordcount": 1343,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "230b757e-0916-404c-994b-98e4876d0d44",
+      "publication_id": 1692033,
+      "name": "Biosecurity",
+      "slug": "biosecurity",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        244.2253521126761,
+        186.76056338028175,
+        10.774647887323901
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        126.99718309859156,
+        97.1154929577465,
+        5.602816901408435
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        236,
+        187
+      ],
+      "population": 151
+    },
+    "Muted": {
+      "rgb": [
+        142,
+        141,
+        137
+      ],
+      "population": 28
+    },
+    "DarkMuted": {
+      "rgb": [
+        146.53521126760563,
+        112.05633802816904,
+        6.464788732394357
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        188,
+        188
+      ],
+      "population": 11
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 11,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 165539420,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/165539420/tts/cd1611e7-3533-46b0-89ed-85b7a53e8c3d/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

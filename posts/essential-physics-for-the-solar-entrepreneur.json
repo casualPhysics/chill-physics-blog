@@ -1,0 +1,238 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/essential-physics-for-the-solar-entrepreneur",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 134338105,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2023-07-20T07:49:07.512Z",
+  "updated_at": "2023-09-15T21:53:55.280Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "essential-physics-for-the-solar-entrepreneur",
+  "social_title": null,
+  "subtitle": "Reflections on ground-roots installation, to the mechanics of electrons in a lattice",
+  "teaser_post_eligible": true,
+  "title": "Experiences with the Physics and Economics of Solar Cells in Malaysia ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "solar-energy-from-the-sahara",
+  "next_post_slug": "quantifying-wants-for-better-outcomes",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!VR6_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Reflections on ground-roots installation, to the mechanics of electrons in a lattice",
+  "body_html": "<p><em>Tldr; I think understanding the physics of materials is important for anyone getting into solar energy. I also write about the basic physics of lattice structures - an introduction into condensed materials physics. </em></p><div><hr></div><h3>Motivation </h3><p>A few weeks ago, I wrote about my optimism about solar energy's economic potential. As part of this investigation, I have been lucky enough to meet with representatives from some of the leading solar installers in Malaysia, such as Solarvest, Northern Solar, and SOL. It\u2019s encouraging to hear that both residential and commercial clients in Southeast Asia are looking to solar energy as a source, to the point that client discovery is not required, since <em>major solar installers are already quite busy in meeting demand</em>. This proves to be more evidence in favour of an economic boom in solar technology in developing economies. I also performed a more entrepreneurial experiment in trying to sell datasets that I constructed from satellite images, and through this, I learned quite a bit about the technology requirements of the solar community in Malaysia as well. I hope to write about this more in a later post. </p><p>As part of this somewhat spiritual journey to get into the \u2018next best thing\u2019, I also decided that I want to <em>understand not just the economics of solar energy, but</em> the theory and physics of solar cells well. As a relic from my Cambridge University days, I tend to associate the word \u2018<em>understanding</em>\u2019, with some degree of mathematical competency and physical intuition. After all, if you can\u2019t prove why something is true, how can you believe it? I do think that, especially for entrepreneurs, it is worth developing mathematical and physical intuition of devices to a fairly high standard, a level maybe a third or fourth-year undergraduate with a keen interest in that field would have. </p><p>In particular, one should be able to explain the models underpinning solar cells accurately to the layman. I should be able to manipulate the physical models themselves and self-derive results. Maybe I should even be able to propose an experiment or tweak a current experiment out there. </p><p>But what is the point of all of this learning, you ask? Why not pay a solar cell expert, hire them on your team, and let the money come in? That is probably a fine strategy. But for now, it feels like pitches about solar or any type of technology to VCs, accelerators, or potential PhD supervisors come across as more credible from someone with decent technical knowledge to deliver the basic models. Being able to field technical questions, even as a non-technical founder, is impressive - it shows effort. Whilst I don\u2019t have a PhD in condensed matter theory, I think my current math background is sufficient to get me to a decent level of understanding through self-learning anyway.</p><p>One topic I had to get to grips with is the quantum mechanics of not single atoms but of repeating structures made from many atoms.<strong> In math, we have a fancy term for this - lattices.</strong> To understand how a solar cell works, one must understand some basic lattice physics. Particularly, we need to understand the link between conductors, insulators and semi-conductors. The key question any quantum physicist should ask is </p><ul><li><p>what energies can these structures take? </p></li><li><p>what constraints are there on the wave function? </p></li></ul><p>In \u2018first-grade\u2019 quantum mechanics, we learn that an electron trapped in a box can only have a discrete set of energy levels. This is because the state that describes the box needs to satisfy the Schrodinger equation and fulfil some conditions at the edges of the box. The Schrodinger equation is written below and consists of the kinetic and potential terms. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{\\\\hat{p}^2}{2m}\\\\psi(\\\\mathbf{r}) + V(\\\\mathbf{r})\\\\psi(\\\\mathbf{r}) = E\\\\psi(\\\\mathbf{r})\\n&quot;,&quot;id&quot;:&quot;PZQTLKMZNF&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p></p><h3>What happens in a repeating structure? </h3><p>The single atom case is quite different from what is going on in a lattice. In this problem, our environment is modelled as a grid (or, in physics language, a lattice) of atoms in which electrons can freely flow. This is already an interesting problem - what kinds of energies can a grid structure have? <strong>To me, this is the number one thing anyone getting into quantum mechanics should give a shit about.</strong></p><p>You know from high school that metals, or pure materials in general, have a structure where atoms are placed nicely in a grid. Now, place that electron in a grid, or any repeating lattice. </p><ul><li><p>What happens? </p></li><li><p>What do the quantum states look like, and how many are there? </p></li><li><p>What kinds of energies are permitted in this system? If we confine a particle in a box, we get a ladder of discrete states - so do electrons in a lattice behave similarly? </p></li><li><p>Is there any mathematical trick to make our lives easier? </p></li></ul><p>As I said in the previous section, the wave function representing this system must obey the Schrodinger equation above. The only thing we have to change here is the form of the potential. We could start by making the potential, V, periodic to model this.  Remember, periodic means that the potential stays the same when we move it in a certain direction over a fixed distance. Periodic functions are functions that \u2018repeat\u2019, like a sine wave. </p><p><em>Here is the main result - states in a periodic potential can be indexed by a \u2018crystal momentum\u2019 value, that only takes values in a closed range. So, we can restrict our physical analysis of states with a crystal momentum between this range.</em></p><p>Why is the above statement true? Well, the math here is fiddly, and I so will give a rough overview of the main results since they\u2019re the most important thing to remember. I will not go into insane minutae and the proof, but a quick search on Wikipedia is sufficient if you want to dig into the details. </p><p>First, how do we describe a lattice mathematically, in the first place? If we\u2019re working in three dimensions, we can construct a lattice out of three \u2018basis\u2019 vectors that can repeat any amount of times. So, we can describe the lattice as a set where each point can be written like  the below, where the n\u2019s are whole numbers. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{R} = n_1\\\\mathbf{a}_1 + n_2\\\\mathbf{a}_2  + n_3\\\\mathbf{a}_3\\n&quot;,&quot;id&quot;:&quot;DRAVZKBSDR&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The wavefunction describes how likely the electrons are to be observed at a specific point, so we ask ourselves, what does the wavefunction look like? <em>Bloch\u2019s theorem </em>says that in a periodic potential, the wavefunction needs to take on a specific form - it is the product of a plane wave, with a modulation term on the side, that also is periodic. This plane wave can have a range of momenta, represented by <strong>k</strong>, within the Brillouin zone. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\psi_k(\\\\mathbf{r}) = e^{i\\\\mathbf{k}\\\\cdot\\\\mathbf{r}}u_k(\\\\mathbf{r}), \\\\quad u_k ( \\\\mathbf r  + \\\\mathbf R ) = u _ k ( \\\\mathbf r ) , \\n\\\\quad  \\n\\\\mathbf R \\\\text{ is in lattice }\\n&quot;,&quot;id&quot;:&quot;HGDRVRRQUZ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p></p><p>What does Bloch\u2019s theorem tell us? As you can see, there is a shiny new value <strong>k</strong> that has suddenly come into play in the equation above. It tells us that there is now this interesting new physical quantity, called the <em>crystal momentum vecto</em>r, represented by <strong>k</strong> above, that indexes, or \u2018<em>labels</em>\u2019 the states. For those more into their quantum physics, notice that it is in the exponent, as hence reminds us of where the momentum of a wavevector would usually be placed. It is not the momentum of the state itself but something slightly different - it still has roughly the same interpretation. </p><p>The crucially interesting part is that <strong>k</strong> remains the same when we translate it by a special vectors <strong>K</strong> called reciprocal lattice vectors</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf k  \\\\text{ is the same as } \\\\mathbf k + \\\\mathbf K \\\\text{ when } \\\\mathbf { K } \\\\text{ is in the reciprocal lattice}&quot;,&quot;id&quot;:&quot;USDEAPWDCS&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>This means that we only care about certain values of <strong>k</strong>, within a range, since any values of k outside this range can be reduced back into this range. These is the main thing you should know about the quantum physics of lattices </p><ol><li><p>that there is a value that can index all the quantum states in a lattice - the crystal momentum </p></li><li><p>we can know about all the information we need restricting the value of this crystal momentum in a finite range. </p></li></ol><p>This is useful because we\u2019ve reduced a seemingly infinite and difficult problem into something we can analyse in a small space. A band structure diagram tells us the possible energies that a lattice structure can have. The x axis here is the value of the crystal momentum, and the y axis is the energy. Crucially, notice that the x axis is finite, and yet the energy is unbounded. As a result of this, we now have \u2018bands\u2019 - where the energy can keep getting larger, yet the crystal momenta remained trapped in this tight range. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!VR6_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!VR6_!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 424w, https://substackcdn.com/image/fetch/$s_!VR6_!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 848w, https://substackcdn.com/image/fetch/$s_!VR6_!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 1272w, https://substackcdn.com/image/fetch/$s_!VR6_!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!VR6_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png\" width=\"460\" height=\"430\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:430,&quot;width&quot;:460,&quot;resizeWidth&quot;:460,&quot;bytes&quot;:93422,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!VR6_!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 424w, https://substackcdn.com/image/fetch/$s_!VR6_!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 848w, https://substackcdn.com/image/fetch/$s_!VR6_!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 1272w, https://substackcdn.com/image/fetch/$s_!VR6_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F688aa648-9e2a-4467-8420-97722d1c95a6_460x430.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>These are the main points you should take away from this post - hope it was useful! </p><div><hr></div><p><strong>Epistemic notes </strong></p><p>As I write this, I\u2019m out camping in a forest in Sussex, hoping to convince myself of the workings, and the value of going into solar technology later down the line. One thing that I wanted to accomplish was to get a fairly accurate view of the current kinds of technologies and their promise currently. I\u2019m really quite new to technology, my background is in trading, but I think that technical knowledge, efficiency and cost effectiveness seem to be the current indicators that we should look at. I am a big believer in trying to understand a field before trying to change things up, so I thought I would start by giving my more \u2018mathematical\u2019 explanation of how solar cells work. </p><p>I\u2019ve been quite active in using large language models to help me with my research, they are useful as \u2018motivating guides\u2019. By motivation, I mean that they offer powerful summarisations that point me towards key points, much like a PCA. Summarisation with machine learning is not new, and I don\u2019t think that I am surprised that LLMs do it quite well. It also provides a window into what \u2018other people\u2019 are thinking through its training data. For example, in solving technical problems like math questions, ChatGPT often gives a framework on how to find a solution, for me to fill out the blanks. On good occasions, it will provide explicit algebraic manipulation that are too difficult for me to do. </p><p>The most insightful point here might be understanding the importance of the \"author's context\". When learning a new concept or working through complex problems, it's crucial to realize that the author of the material may come from a different perspective, or may assume a certain level of background knowledge that the learner may not have. Recognizing this can help learners identify any gaps in their understanding and guide them in seeking additional information or help. This understanding can also lead to more effective self-study strategies and help learners manage their expectations and frustration levels when they encounter difficult material.</p><p>I am going through elements of statistical learning to review my understanding of mahcine learning models, and this has proven quite useful, specifically in helping me solve the exercises at the end of the chapter . I think - treating it like a college level analyst or undergrad, providing you with best guesses, feels like the most useful context to use this in. I do </p><ol><li><p><strong>Time threshold for asking for help:</strong> Setting a time limit such as 10-20 minutes of independent struggle before seeking help can be an effective strategy. This not only allows one to explore potential solutions independently but also prevents getting stuck for an extended period, which might lead to frustration and inefficiency.</p></li><li><p><strong>Understanding the issue:</strong> It's essential to comprehend the problem at hand thoroughly. It's not just about getting the correct answer, but understanding why you're not getting it in the first place. This process aids in cultivating a deep learning approach.</p></li><li><p><strong>Learning from the solutions:</strong> Once the answer is known, recreating the solution by oneself can reinforce understanding and retention. This approach moves beyond rote learning to actively engaging with the material.</p></li><li><p><strong>Author's context matters:</strong> This point is particularly insightful. Sometimes, when we're trying to solve a problem or understand a concept, we might not share the same context or prerequisite knowledge that the author assumed. This discrepancy can lead to confusion or misinterpretation. Recognizing this gap can help tailor one's learning approach, which may include seeking more foundational knowledge before tackling advanced problems.</p></li><li><p><strong>Applying these principles to different domains:</strong> These principles of learning aren't exclusive to mathematics or algorithms. They're applicable to various fields, including trading, programming (as you mentioned with leetcode), and many others.</p><p></p><p></p></li></ol>",
+  "truncated_body_text": "Tldr; I think understanding the physics of materials is important for anyone getting into solar energy. I also write about the basic physics of lattice structures - an introduction into condensed materials physics.",
+  "wordcount": 2043,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "b23670cc-c801-4142-a5ff-49be602ad66d",
+      "publication_id": 1692033,
+      "name": "Entrepreneurship",
+      "slug": "entrepreneurship",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        100,
+        102,
+        250
+      ],
+      "population": 8
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4.143749999999996,
+        5.801249999999925,
+        128.45625
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        114,
+        114,
+        250
+      ],
+      "population": 84
+    },
+    "Muted": {
+      "rgb": [
+        100,
+        100,
+        172
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        60,
+        60,
+        60
+      ],
+      "population": 75
+    },
+    "LightMuted": {
+      "rgb": [
+        180,
+        180,
+        218
+      ],
+      "population": 15
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

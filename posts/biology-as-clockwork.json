@@ -1,0 +1,340 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/biology-as-clockwork",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 191904491,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-03-23T22:16:05.822Z",
+  "updated_at": "2026-03-23T22:19:14.444Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "biology-as-clockwork",
+  "social_title": "Biology as Clockwork ",
+  "subtitle": "Living systems as high temperature clocks. ",
+  "teaser_post_eligible": true,
+  "title": "Biology as Clockwork ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 12
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "being-maximally-useful-whilst-commuting",
+  "next_post_slug": "how-i-fixed-my-headaches",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/20707ba1-1a47-4f2e-bb6f-f0ed7c18b287_1866x1106.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 191904491,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Living systems as high temperature clocks.",
+  "body_html": "<p>I\u2019m trying to make models of biological systems that are scalable, predictive, and give a compelling interpretation about how such systems work. </p><p>In the past months,<a href=\"https://chillphysicsenjoyer.substack.com/p/bio-theory-lab-notes\"> I\u2019ve tried different techniques that model oscillatory behaviour in biological processes</a>. I have two reasons, out of many, that I wanted to write about for <em>why</em> I\u2019ve decided to focus on oscillatory phenomena. One is historical motivation from essays I\u2019ve read on the theory of biology. The second is my layperson\u2019s idea of what living systems do. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!XPOc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!XPOc!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 424w, https://substackcdn.com/image/fetch/$s_!XPOc!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 848w, https://substackcdn.com/image/fetch/$s_!XPOc!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 1272w, https://substackcdn.com/image/fetch/$s_!XPOc!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!XPOc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png\" width=\"1438\" height=\"716\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:716,&quot;width&quot;:1438,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:360024,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/187981671?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb909e61b-c2c8-4eae-90c6-bbad4d04df90_1438x716.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!XPOc!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 424w, https://substackcdn.com/image/fetch/$s_!XPOc!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 848w, https://substackcdn.com/image/fetch/$s_!XPOc!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 1272w, https://substackcdn.com/image/fetch/$s_!XPOc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff63bb828-a7c2-430d-91ad-13388be9792d_1438x716.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">My attempts at replicating the work of Daniel Wuestner, where his team applies DMD methods to glycolysis. </figcaption></figure></div><p>On the surface, organisms do things in clockwork patterns. Humans sweat to perform homeostasis. Mammals have circadian rhythms. And at the smaller level, the cell hosts oscillatory chemical reactions like the Krebs cycle or glycolysis. </p><p>Crucially, the idea linking biology and oscillators is not new. In his book, entitled \u2018<em>What is Life</em>\u2019 (1944), Schr\u00f6dinger tries to build a link with organisms and clockwork. A regular clock requires energy from the spring to maintain its order, and so inevitably decays to heat. And yet life seems to delay this process, by consuming energy. Ever since Clausius formalised entropy as the <em>quantity that never diminishes</em>, physicists labelled chemical reactions as entropic and irreversible processes. And yet Schr\u00f6dinger, in the seventh chapter of his book, ponders how living matter is able to produce ordered, clockwork motion, despite <em>consisting</em> of chemical reactions.</p><blockquote><p><em>The unfolding of events in the life cycle of an organism exhibits admirable regularity with orderliness, unrivalled by anything we meet with in inanimate matter.</em> </p></blockquote><p>The philosophy of living things as oscillators continued in the sixties. In C. H. Waddington\u2019s transcripts from his \u2018Towards A Theoretical Biology\u2019 seminar in 1968,  Waddington makes reference to the Brian Goodwin\u2019s interpretation of the \u2018cell as an oscillator\u2019. Goodwin was a developmental biologist who was also one of the first to propose a model of gene oscillator networks.  </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!U0q6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!U0q6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 424w, https://substackcdn.com/image/fetch/$s_!U0q6!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 848w, https://substackcdn.com/image/fetch/$s_!U0q6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!U0q6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!U0q6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg\" width=\"1152\" height=\"2048\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:2048,&quot;width&quot;:1152,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:361106,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/191904491?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!U0q6!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 424w, https://substackcdn.com/image/fetch/$s_!U0q6!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 848w, https://substackcdn.com/image/fetch/$s_!U0q6!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!U0q6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9a621e20-ac28-4858-8aab-ef017b3c581c_1152x2048.jpeg 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">I found this copy in the basement</figcaption></figure></div><p>This link between biology and oscillating systems spilled over to the physical sciences. In fact, early examples of oscillatory chemical reactions like the <a href=\"https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction\">Belousov\u2013Zhabotinsky reaction</a><em> </em>were initially inspired by the the desire to mimic biological processes. From<em> The Prehistory of the Belousov-Zhabotinsky Oscillator, </em>A.T. Winfree writes </p><blockquote><p><em>Belousov had studied chemistry in Zurich before the October 1917 Revolution, and was professor of chemistry in the USSR before World War 11. His interests included biochemistry, and 1950 found him endeavoring to model catalysis in the Krebs cycle using the metal ion cerium instead of the protein-hound metal ions common in the enzymes of living cells.</em></p></blockquote><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!maNr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!maNr!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 424w, https://substackcdn.com/image/fetch/$s_!maNr!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 848w, https://substackcdn.com/image/fetch/$s_!maNr!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 1272w, https://substackcdn.com/image/fetch/$s_!maNr!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!maNr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png\" width=\"654\" height=\"448\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:448,&quot;width&quot;:654,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:342063,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/187981671?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33565b1d-7b91-4ebe-8336-83a3fb17f6c1_654x448.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!maNr!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 424w, https://substackcdn.com/image/fetch/$s_!maNr!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 848w, https://substackcdn.com/image/fetch/$s_!maNr!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 1272w, https://substackcdn.com/image/fetch/$s_!maNr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc655d3af-f8d4-42f5-879a-5dc76805fce3_654x448.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Jkrieger at German Wikipedia, Public domain, via Wikimedia Commons</figcaption></figure></div><p>The first thing that comes to mind when modelling oscillations is the Fourier transform. More modern treatments like dynamic mode decomposition are variations on this theme. One takes a bunch of data, shifts it, and hopes for some lower dimensional space that explains what a biological system does. There are mathematical reasons that suggest we should be more ambitious when modelling oscillatory systems; in 1981 Florin Takens proved a theorem that the phase space of a dynamical system could be reconstructed from a set of observations, provided that the variables of the system were bounded.</p><p>To this end, I\u2019ve tried time-series methods like Hankel dynamic mode decomposition, which seems to work well on oscillatory processes, like in W\u00fcstner\u2019s work on glycolysis and synchronised lumination in yeast. I\u2019ve also tried it to model Lotka Volterra systems in ecology. </p><p>But one problem I\u2019ve had with the time series methods I\u2019ve tried is getting decent precision, and capturing changing regimes. I\u2019ve been having is getting it to be general and scaleable enough in different regimes, like when I\u2019ve tested it on my friend David Jordan\u2019s bioreactor data. </p><p>I am still excited about oscillations. But what is another promising way to understand what biological systems really are? One strategy of mine has been to look at previous regime changes in other fields like physics, and then think of what an analogue might be in biology. </p><p>To this end, there is a very interesting parallel that occurred in the eighteenth century in physics. The eighteenth century witnessed the birth of the first <em>non classical </em>science; the study of heat. In \u201c<em>Order Out of Chaos; Man\u2019s New Dialogue with Nature</em>\u201d, Ilya Prigogine and Isabelle Stengers describe the study of heat as not only a scientific paradigm shift, but a philosophical detour away from the rigid thinking of Newton\u2019s classical mechanics. </p><p>This change in thinking would serve as a transition into the study of thermodynamics, And in my next essay I want to talk about this paradigm shift, and how we could apply similar thinking to the field of biology, by applying thermodynamic principles to life in closed systems.</p><div><hr></div><h3>Acknowledgements </h3><p>My thanks to David Jordan and David Kim for their mentorship and support. Views here are my own, and mistakes are all mine. </p><div><hr></div><h3>References </h3><p>1. <strong>W\u00fcstner, D. et al. (2025).</strong> \u201cDynamic mode decomposition for analysis and prediction of metabolic oscillations.\u201d</p><p>2. <strong>Schr\u00f6dinger, E. (1944).</strong> <em>What is Life?</em> Cambridge University Press.</p><p>3. <strong>Waddington, C. H. (1968).</strong> <em>Towards a Theoretical Biology, Vol. 1: Prolegomena.</em> Edinburgh University Press. (Transcripts from the 1968 IUBS symposium.)</p><p>4. <strong>Goodwin, B. C. (1965).</strong> \u201cOscillatory behavior in enzymatic control processes.\u201d <em>Advances in Enzyme Regulation</em>, 3, 425\u2013438.</p><p>5. <strong>Winfree, A. T. (1984).</strong> \u201cThe Prehistory of the Belousov-Zhabotinsky Oscillator.\u201d <em>Journal of Chemical Education</em>, 61(8),</p><p>6. <strong>Takens, F. (1981).</strong> \u201cDetecting strange attractors in turbulence.\u201d In <em>Dynamical Systems and Turbulence, Warwick 1980</em>,</p><p>7. <strong>Prigogine, I. &amp; Stengers, I. (1984).</strong> <em>Order Out of Chaos: Man\u2019s New Dialogue with Nature.</em> Bantam Books.</p>",
+  "truncated_body_text": "I\u2019m trying to make models of biological systems that are scalable, predictive, and give a compelling interpretation about how such systems work.",
+  "wordcount": 899,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        228,
+        164,
+        51
+      ],
+      "population": 464
+    },
+    "DarkVibrant": {
+      "rgb": [
+        143,
+        56,
+        42
+      ],
+      "population": 5
+    },
+    "LightVibrant": {
+      "rgb": [
+        236,
+        194,
+        103
+      ],
+      "population": 169
+    },
+    "Muted": {
+      "rgb": [
+        165,
+        92,
+        76
+      ],
+      "population": 14
+    },
+    "DarkMuted": {
+      "rgb": [
+        101,
+        78,
+        73
+      ],
+      "population": 492
+    },
+    "LightMuted": {
+      "rgb": [
+        216,
+        209,
+        189
+      ],
+      "population": 279
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 12,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 191904491,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/191904491/tts/4304050a-d1de-4708-b9e6-01e78c4e3c4b/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 232375481,
+      "body": "Wow this is awesome. The idea that the core function of life is to accelerate entropy and seek free energy is so interesting to me. To me, studying the clockwork is studying the mechanism it uses to perform this function.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Wow this is awesome. The idea that the core function of life is to accelerate entropy and seek free energy is so interesting to me. To me, studying the clockwork is studying the mechanism it uses to perform this function."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 191904491,
+      "user_id": 321116091,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-03-24T03:39:27.851Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Joe Gaffney",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a1f0eae6-b9d8-46d3-bd22-2cea9d255623_828x828.jpeg",
+      "handle": "joegaff",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "joegaff",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Joe Gaffney",
+          "id": 4215187,
+          "base_url": "https://joegaff.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/finding",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391431,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2022-06-03T11:51:40.000Z",
+  "updated_at": "2023-05-28T15:50:19.276Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "finding",
+  "social_title": null,
+  "subtitle": "",
+  "teaser_post_eligible": true,
+  "title": "Finding The Ground States of Quantum Systems",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "untitled-2",
+  "next_post_slug": "a-list-of-problems-in-many-electron-systems",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/c5c99a45-c1bd-4e51-af77-d7c01e9ac6a6_635x77.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "The Energy of An Electron Hopping Model",
+  "body_html": "<h2>The Energy of An Electron Hopping Model</h2><p>In the previous post, I outlined the shape of the Hamiltonian which governs this system. To find this ground state, we use the DMRG, and only restrict interactions to atoms which are sufficiently close. DMRG works by considering the ground state of only a small block of atoms and them iterating to mucn larger sizes. It\u2019s the most precise algorithm to compute ground states in business right now.</p><p>To play with a simple toy example, let\u2019s consider a chain of atoms which can either be in a spin-up, or spin-down state. The Hamiltonian in this spin chain contains a term which governs an interaction between two neighbouring atoms. The S is the spin operator, and it has three components since its a vector.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!yZBm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!yZBm!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 424w, https://substackcdn.com/image/fetch/$s_!yZBm!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 848w, https://substackcdn.com/image/fetch/$s_!yZBm!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 1272w, https://substackcdn.com/image/fetch/$s_!yZBm!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!yZBm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!yZBm!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 424w, https://substackcdn.com/image/fetch/$s_!yZBm!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 848w, https://substackcdn.com/image/fetch/$s_!yZBm!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 1272w, https://substackcdn.com/image/fetch/$s_!yZBm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ff60f53-b6eb-4ec2-9811-3491f8920806_635x77.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a></figure></div><p>For large systems, diagonalising this Hamiltonian is near impossible. So, we need to find a numerical method to get just the low energy physics that we\u2019re interested in.</p><div><hr></div><h3>What would be an initial approach to finding out this system?</h3><p>Consider a system of length l, where l is very big. The Hilbert space consists of up or down states that could be in each one of these sites, and the energy is described by a Hamiltonian that is an operator on this Hilbert space. The energy eigenvalues of the Hamiltonian can be found by diagonalising this Hamiltonian, but this is an especially hard thing to do if the Hilbert space is very big. In this post, I'll outline a way to do this by diagonalising smaller blocks.</p><p>To remedy this issue, we divide up the problem into blocks. A block has a reduced Hilbert space, so it'll be easier to diagonalise and find energy eigenvalues. In the simplest case, we can combine the two Hamiltonians that we know, and then diagoanlise it. Then, with this large Hamiltoanian, we can truncate it into a reduced basis, to get a Hamiltonian that spans a bigger area but is the same size as the original block.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!9Gpf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!9Gpf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 424w, https://substackcdn.com/image/fetch/$s_!9Gpf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 848w, https://substackcdn.com/image/fetch/$s_!9Gpf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 1272w, https://substackcdn.com/image/fetch/$s_!9Gpf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!9Gpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png\" width=\"624\" height=\"538\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:538,&quot;width&quot;:624,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!9Gpf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 424w, https://substackcdn.com/image/fetch/$s_!9Gpf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 848w, https://substackcdn.com/image/fetch/$s_!9Gpf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 1272w, https://substackcdn.com/image/fetch/$s_!9Gpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66960a78-7766-4c99-8ac8-583d9c6f6b34_624x538.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>One of the systems in which the first method might work is a particle hopping between different sites. In this example, if we have L sites that a particle can occupy, then our Hilbert space has dimension L. In this Hilbert space, each state can be represented in the form</p><p>$$ | i \\rangle $$ &nbsp;</p><p>In this case, we expect that the Hamiltonian looks band diagonal, and has a form that looks like the following. The probability that a waveform transforms to occupy the next state is governed by the Hamiltonian. To this extent, it is likely that the Hamiltonian should probably have a form that looks like this.</p><p>$$ H = \\sum _ i 2 | i \\rangle \\langle i | - &nbsp;| i \\rangle \\langle i + 1 | - &nbsp;| i \\rangle \\langle i - 1 |$$</p><p>Now, the energy eigenvalues of this system are given by the eigenvalues of the Hamiltonian. The ground state is given by the smallest eigenvalue, and this can be calculated from diagonalising the Hamiltonian. In the basis that I've shown, the Hamiltonian appears band diagonal, and has the matrix entries that look like the following in this basis. We can use a standard diagonalisation algorithm like Gram-Schmidt to diagonalise this matrix. The lowest lying eigenvalue is then the ground state energy.</p><p>$$ H = \\begin{pmatrix} 2 &amp; -1 &amp; 0 \\cdots \\\\ -1 &amp; &nbsp;2 &amp; 0 &amp; \\cdots \\\\ \\vdots &amp; -1 &nbsp;&amp; 2 &nbsp;&amp; \\cdots &nbsp;\\\\ 0 &amp; 0 &amp; -1 &amp; \\ddots &amp; \\cdots \\\\ \\end{pmatrix} &nbsp;$$</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!qxrx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!qxrx!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 424w, https://substackcdn.com/image/fetch/$s_!qxrx!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 848w, https://substackcdn.com/image/fetch/$s_!qxrx!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 1272w, https://substackcdn.com/image/fetch/$s_!qxrx!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!qxrx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png\" width=\"994\" height=\"608\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:608,&quot;width&quot;:994,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!qxrx!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 424w, https://substackcdn.com/image/fetch/$s_!qxrx!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 848w, https://substackcdn.com/image/fetch/$s_!qxrx!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 1272w, https://substackcdn.com/image/fetch/$s_!qxrx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F518baeaf-c422-47f7-8dcd-ea7f368c7ba3_994x608.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>In the section below, I've put a code snippet on how I found the ground state energies.</p><pre><code>from scipy.sparse import diags\nfrom scipy.linalg import eig, block_diag\nimport seaborn as sns\nsns.set() \nsns.set_style('whitegrid')\n\ndef ground_state_energy(size):\n    \n    diagonals = [[2] * size, [-1] * size, [-1] * size]\n    H = diags(diagonals, [0, -1, 1]).toarray()\n\n    evals, rvec = eig(H)\n    return min(evals)\n\nplt.scatter([2 ** i for i in range(8)], [ground_state_energy(2 ** i) for i in range(8)], s = 5)\nplt.xlabel('Length of chain')\nplt.ylabel('Ground state energy')\n</code></pre><div><hr></div><h2>Heisenberg Spin Chains</h2><h3>Motivation</h3><p>There is a cottage industry in physics dedicated to the study of how magnets work. Modern models of magnetism depend on the spin of atoms in a given material, and how they interact. To incorporate our knowledge about physics at the small scale, it is no surprise that these models are quantum mechanical. This means that the system isn't in a fixed state. Rather, the system is described as a linear combination of possible states that occur with some probability after repeated observation.</p><p>Quantum mechanics of many body systems are often very difficult to deal with. In order to get a better grasp of the dynamics of these kinds of systems, we can try to reduce the dimensionality. One way to reduce the problem is by considering the quantum mechanics of a one-dimensional chain of atoms that behave like a magnet. This motivates the study of quantum spin chains. A spin chain is a model for atoms lined up in a lattice that interact with each other in some way through their spins.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!KuJN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!KuJN!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 424w, https://substackcdn.com/image/fetch/$s_!KuJN!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 848w, https://substackcdn.com/image/fetch/$s_!KuJN!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 1272w, https://substackcdn.com/image/fetch/$s_!KuJN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!KuJN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png\" width=\"286\" height=\"164\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:164,&quot;width&quot;:286,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!KuJN!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 424w, https://substackcdn.com/image/fetch/$s_!KuJN!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 848w, https://substackcdn.com/image/fetch/$s_!KuJN!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 1272w, https://substackcdn.com/image/fetch/$s_!KuJN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3575c4ec-b2a3-4c5f-a7fd-55ec74b355bb_286x164.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>Let's start with a simple example. Adjacent atoms that are lined up with opposite spins might be given an energy penalty that encourages them to align with the same spin. &nbsp;There are fascinating question in quantum mechanics about the energy and states of these kind of systems. Each 'site' has an assigned set of states it could be in - this is called a Hilbert space. The number of states on each site depends on the spin of the particle. If the particle is an electron, it has an up and a down spin state, and the particle in this site will be some linear combination of these states. When we combine multiple sites in a chain, the Hilbert space is described by the tensor product of these sub-Hilbert spaces. In other words, the total Hilbert space is described as below, where H_i denotes the Hilbert space of a 1 particle site.</p><p>$$ H = H _ 1 \\otimes H_ 2 \\otimes H _ 3 \\otimes \\cdots \\otimes H _ l $$</p><p>What do states in this space look like? States are constructed as a superposition of basis states - this is possible because Schrodinger's equation is linear. One possible basis would be the set of products of up and down states in each site. The dimension of a Hilbert space is the number of elements in its basis, and this number is invariant no matter what basis you choose.</p><p>$$ B _ { H_ 1 \\otimes H _ 2 } &nbsp;= \\{ \\uparrow \\uparrow, \\, \\downarrow \\downarrow, \\uparrow \\downarrow, \\downarrow \\uparrow \\} &nbsp;$$</p><p>States could be entangled. It is completely plausible that the state of a two-site spin chain can be described as the superposition of two up states and two down states, shown below. This is entangled because if we measure the first state, we instantly know that the state of the second atom will have the same spin direction. We could also have another basis that looks like entangled superpositions of these states.</p><div><hr></div><h2>The Heisenberg Spin Chain Model</h2><p>In this section, I'll go into some specifics about what current spin chain models look like. Now, the energy of any quantum system is determined by the Hamiltonian. A spin chain describes a model of atoms that interact with their adjacent neighbours on a chain, based on the spin that these particles have. Now, I've been confused many times over which operator acts on what, so I'll be explicit here about which operators act on which spaces. Explicitly, it looks like the sum of &nbsp;spin terms, each acting on pairs of adjacent places in the chain. In the example below, I present a simple three atom Hamiltonian.</p><p>$$ H = - S ^ x \\otimes S ^ x \\otimes \\mathbb I - &nbsp;S ^ y \\otimes S ^ y \\otimes &nbsp;\\mathbb I - &nbsp;S ^ z \\otimes S ^ z \\otimes \\mathbb I - \\mathbb I \\otimes S ^ x \\otimes S ^ x &nbsp;- &nbsp;\\mathbb I \\otimes S ^ y \\otimes S ^ y &nbsp;- &nbsp; \\mathbb I \\otimes S ^ z \\otimes S ^ z $$ &nbsp;</p><p>To figure out the energy of this system, we work iteratively by analysing the Hamiltonian of the left most site in the beginning, and then building it up slowly whilst keeping track of the eigenvalues. Slowly, we build up the full Hamiltonian by continuously updating edge states. Now, how do we build up this Hamiltonian iteratively? This will be the subject of the next section.</p><div><hr></div><h3>Combining Hamiltonians</h3><p>Finding the ground state of a system like this is very difficult because the search space of states is huge. Hence, we resort to trying to come up with useful numerical methods. Numerical methods like the DMRG method require us to figure out the ground state method iteratively by first taking the ground state of a smaller subset of the chain, and then updating it by adding sites one by one.</p><p>In this model, suppose that we have the Hamiltonian of the first <em>n</em> sites, and we know what this object looks like. Let S_n be spin operator acting on the nth site - in other words the boundary of these n sites. &nbsp;The rule to update this to the Hamiltonian describing n+1 sites would be as follows. We first need to extend the Hilbert space by taking a tensor product with the identity to leave the first n states unchanged, and then include an interaction of the nth and (n-1)th site.</p><p>$$ H_ n \\mapsto H_n \\otimes I - I \\otimes \\cdots \\otimes I \\otimes \\mathbf S_ n \\otimes \\mathbf {S} _ { n + 1 } $$</p><p>We also need to update the new boundary of the block by shifting it one site. This is achieved by doing again the tensor product as follows</p><p>$$ S_{\\text{boundary}} \\mapsto I \\times S_{\\text{boundary}} $$</p><p>In a future post, I'll go into more detail about how we can build this model using DMRG, and use that to find the ground state.</p><div><hr></div><h3>References</h3><p><a href=\"https://arxiv.org/pdf/quant-ph/0309188.pdf\">https://arxiv.org/pdf/quant-ph/0309188.pdf</a></p>",
+  "truncated_body_text": "The Energy of An Electron Hopping Model",
+  "wordcount": 1685,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        128.50393700787401,
+        128.50393700787401,
+        126.49606299212599
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        66.82204724409449,
+        66.82204724409449,
+        65.77795275590552
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        189.22204724409448,
+        189.22204724409448,
+        188.1779527559055
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        136,
+        135,
+        131
+      ],
+      "population": 89
+    },
+    "DarkMuted": {
+      "rgb": [
+        58,
+        56,
+        51
+      ],
+      "population": 90
+    },
+    "LightMuted": {
+      "rgb": [
+        192,
+        192,
+        191
+      ],
+      "population": 49
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

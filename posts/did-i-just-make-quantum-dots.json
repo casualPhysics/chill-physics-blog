@@ -1,0 +1,329 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/did-i-just-make-quantum-dots",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 174260899,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-09-23T11:08:00.337Z",
+  "updated_at": "2025-09-23T11:09:36.447Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "did-i-just-make-quantum-dots",
+  "social_title": "Did I Just Make Quantum Dots?",
+  "subtitle": "A possible airflow visualiser ",
+  "teaser_post_eligible": true,
+  "title": "Did I Just Make Quantum Dots?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 13
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "physics-departments-are-shutting",
+  "next_post_slug": "dear-friends-and-readers-please-help",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/ceac7af5-5a87-4e47-9846-3f43d85a765c_324x298.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 174260899,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A possible airflow visualiser",
+  "body_html": "<p>I want to visualise the air when I turn on my DIY air purifiers, so that I can understand how they work better. One idea I had was to make a fluorescent aerosol that shines under UV. But is there a non-toxic, non-messy and <strong>tuneable</strong> way to do this, without spoiling my room by trying to nebulise fluorescent paint? </p><p>One idea I had was quantum dots. These are nanoparticles that are fluorescent; when you shine UV light on them, they re-emit visible light. If we were to aerosolise this, and flood a room with UV backlighting, we might be able to visualise aerosols flowing around a room. It\u2019s also just fun to try and make nanoparticles, because why not? </p><p>Quantum dots are <strong>not</strong> as fluorescent as other easily obtainable chemicals like quinine (in tonic water), but they have other useful properties that might make them useful in a biosecurity context. The cool thing about quantum dots is that you can tune their sizes, which could be tune-able to the size of pathogens or other things that you want to measure in an aerosol. </p><p>Traditional quantum dots use heavy metals. But one interesting candidate is graphene quantum dots. There have <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0008622312005088?via%3Dihub\">been papers out on making these easily</a> with cheap equipment, and is a debate going on about their toxicity which I will leave <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC9419276/\">here</a>. That being said, they look pretty easy to make with standard materials, and are in principle quite tuneable. So, I tried making some myself. I wanted to replicate the paper by <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S0008622312005088?via%3Dihub\">Dong et al</a> faithfully, but I am still waiting on a heating mantle. </p><p>So, I messed around with my own microwave method. To do this, I needed</p><ul><li><p>citric acid, which you can get at a cleaning store. I got anhydrous citric acid for 13GBP from TradeChem.  </p></li><li><p>sodium hydroxide, also at a cleaning store. This is also called caustic soda, which you can get for 5GBP. </p></li><li><p>a microwave </p></li><li><p>regular pH strips</p></li><li><p>a UV backlight to test. </p></li></ul><p>The first thing I did was dissolve 5g of pure anhydrous citric acid into 20mL of water, in a 100mL borosilicate beaker. Then, I put it in a microwave at 900W for 1 minute, let it sit for 10s, and then microwaved for 3 mins at a time for 10 minutes of microwaving in total. Between each microwaving run, I let it rest for 20s. </p><p>In the microwave, most of the water boils off, and the citric acid begins to turn pale yellow and thick, almost like a thick candy by the end. You want to get a process called \u2018pyrolization\u2019 going! Admittedly, I\u2019m not sure how well this actually works with a microwave. The proper way to do this is to heat the citric acid powder on a heating mantle. Here are pictures of the citric acid solution progressively getting goopy and more yellow. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Q84B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Q84B!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 424w, https://substackcdn.com/image/fetch/$s_!Q84B!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 848w, https://substackcdn.com/image/fetch/$s_!Q84B!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 1272w, https://substackcdn.com/image/fetch/$s_!Q84B!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Q84B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png\" width=\"1426\" height=\"1332\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1332,&quot;width&quot;:1426,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3481175,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/174260899?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Q84B!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 424w, https://substackcdn.com/image/fetch/$s_!Q84B!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 848w, https://substackcdn.com/image/fetch/$s_!Q84B!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 1272w, https://substackcdn.com/image/fetch/$s_!Q84B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e786020-ecd6-441d-b75c-846df24d3075_1426x1332.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>When I got to this stage, I then poured 50mL of water back onto this candy-like substance, and then reheated it in the microwave at 900W for 30s to make it dissolve again. After this, I then added the grains of NaOH until I got around 6pH, to neutralise the solution. Do this slowly, and keep measuring! </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Xuo4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Xuo4!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 424w, https://substackcdn.com/image/fetch/$s_!Xuo4!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 848w, https://substackcdn.com/image/fetch/$s_!Xuo4!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 1272w, https://substackcdn.com/image/fetch/$s_!Xuo4!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Xuo4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png\" width=\"1456\" height=\"490\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:490,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1467890,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/174260899?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Xuo4!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 424w, https://substackcdn.com/image/fetch/$s_!Xuo4!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 848w, https://substackcdn.com/image/fetch/$s_!Xuo4!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 1272w, https://substackcdn.com/image/fetch/$s_!Xuo4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa387801e-9346-49a2-b168-3f3d7b42e98b_1474x496.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I then turned off my lights and then shone a UV light on it. I think you can see some fluorescence here, even though its pretty weak. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!aByY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!aByY!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 424w, https://substackcdn.com/image/fetch/$s_!aByY!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 848w, https://substackcdn.com/image/fetch/$s_!aByY!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 1272w, https://substackcdn.com/image/fetch/$s_!aByY!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!aByY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png\" width=\"1456\" height=\"374\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:374,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:965650,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/174260899?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!aByY!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 424w, https://substackcdn.com/image/fetch/$s_!aByY!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 848w, https://substackcdn.com/image/fetch/$s_!aByY!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 1272w, https://substackcdn.com/image/fetch/$s_!aByY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31297f84-430f-4ece-969a-bfd4cab8c0e1_1582x406.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Now that I\u2019ve figured out how to do this the rough way, I\u2019m going to refine my process using distilled water and a proper heating mantle.</p><p>I want to be clear about something though. In the spirit of scientific skepticism, I actually don\u2019t know if I\u2019ve done this correctly yet. Are we sure we have quantum dots, or is the fluorescence from impurities? I need to do more tests to <strong>actually be sure</strong> that this is quantum dot fluorescence. One cheap way to do this would be UV-Vis and seeing the absorbance spectra. UV-Vis spectrometers are pretty expensive, but I\u2019m thinking of recalibrating $250 ones from China and seeing how I fare.</p><p>The saga continues\u2026</p>",
+  "truncated_body_text": "I want to visualise the air when I turn on my DIY air purifiers, so that I can understand how they work better. One idea I had was to make a fluorescent aerosol that shines under UV. But is there a non-toxic, non-messy and tuneable way to do this, without spoiling my room by trying to nebulise fluorescent paint?",
+  "wordcount": 673,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "230b757e-0916-404c-994b-98e4876d0d44",
+      "publication_id": 1692033,
+      "name": "Biosecurity",
+      "slug": "biosecurity",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        6,
+        173,
+        241
+      ],
+      "population": 39
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4,
+        36,
+        132
+      ],
+      "population": 313
+    },
+    "LightVibrant": {
+      "rgb": [
+        125.62105263157895,
+        215.27368421052634,
+        251.77894736842106
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        3.7165991902833904,
+        107.16194331983806,
+        149.2834008097166
+      ],
+      "population": 0
+    },
+    "DarkMuted": {
+      "rgb": [
+        4.500000000000012,
+        40.49999999999998,
+        148.49999999999997
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        3.716599190283419,
+        107.16194331983804,
+        149.28340080971657
+      ],
+      "population": 0
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 13,
+  "comment_count": 2,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 174260899,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/174260899/tts/ab98cf02-a9e6-48ce-a531-15c5ee5e20be/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 159205767,
+      "body": "Hey bud! Did you ever get anyone in the discord community to review your UV aerosol and method? Great work this is a cool idea!",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hey bud! Did you ever get anyone in the discord community to review your UV aerosol and method? Great work this is a cool idea!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 174260899,
+      "user_id": 41720208,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-23T21:29:27.623Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Cristian S.",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/90526352-04bf-4103-ac57-37bddc4d87da_144x144.png",
+      "handle": "cristiansanchez",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "cristiansanchez",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    }
+  ]
+}

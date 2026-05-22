@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Making an Automated UV Sterilisation Pump  &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Making an Automated UV Sterilisation Pump </h2>
+    <p class="post-meta">
+      <span class="post-date">15 October 2025</span>
+      &middot; <span class="post-subtitle">Build log</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p> <em>Thanks to <a href="https://www.livingphysics.org/">David Jordan at Living Physics</a> for the supervision!</em></p><p>I wanted to make an automated setup to test the effect of UV sterilisation of yeast cells at different doses. <a href="https://chillphysicsenjoyer.substack.com/p/i-managed-to-grow-countable-yeast">I now have the concentration that I need to make a countable colony.</a></p><p>To do this, I have a source tube with the solution that I want to irradiate. A pump, which is connected to a relay, pumps it into a cuvette. The cuvette holder has a window where I can shine a different UV lights into it. The pump then finally moves it into the final tube. </p><p>The relay is connected to an Arduino nano so I can control the pump from my mac. I can also connect UV lights to the relay to control the dose from there as well. </p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!5LuW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!5LuW!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 424w, https://substackcdn.com/image/fetch/$s_!5LuW!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 848w, https://substackcdn.com/image/fetch/$s_!5LuW!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 1272w, https://substackcdn.com/image/fetch/$s_!5LuW!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":473,"width":767,"resizeWidth":null,"bytes":626463,"alt":null,"title":null,"type":"image/png","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://chillphysicsenjoyer.substack.com/i/176244490?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png","isProcessing":false,"align":null,"offset":false}' fetchpriority="high" height="473" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!5LuW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png" srcset="https://substackcdn.com/image/fetch/$s_!5LuW!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 424w, https://substackcdn.com/image/fetch/$s_!5LuW!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 848w, https://substackcdn.com/image/fetch/$s_!5LuW!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 1272w, https://substackcdn.com/image/fetch/$s_!5LuW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb856bf30-c5e7-4cd5-a768-e8a08db6c008_767x473.png 1456w" width="767"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>I made a video showing how it works here: </p><div class="youtube-wrap" data-attrs='{"videoId":"LzwFqcEuHPA","startTime":null,"endTime":null}' data-component-name="Youtube2ToDOM" id="youtube2-LzwFqcEuHPA"><div class="youtube-inner"><iframe allow="autoplay; fullscreen" allowautoplay="true" allowfullscreen="true" frameborder="0" gesture="media" height="409" loading="lazy" src="https://www.youtube-nocookie.com/embed/LzwFqcEuHPA?rel=0&amp;autoplay=0&amp;showinfo=0&amp;enablejsapi=0" width="728"></iframe></div></div><p></p>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Biosecurity, biology, Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/making-an-automated-uv-sterilisation">Read on Substack</a>
+     &middot; <a href="i-managed-to-grow-countable-yeast.html">&laquo; Previous</a>
+     &middot; <a href="how-life-works-by-philip-ball.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,265 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/a-thermodynamics-for-biology",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 195503492,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-04-26T07:32:33.258Z",
+  "updated_at": "2026-04-26T07:39:48.887Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "a-thermodynamics-for-biology",
+  "social_title": "A Thermodynamics For Biology",
+  "subtitle": "What genetic information can we get from macro state variables?",
+  "teaser_post_eligible": true,
+  "title": "A Thermodynamics For Biology",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 4,
+  "reactions": {
+    "\u2764": 16
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "its-ok-to-be-scared",
+  "next_post_slug": "why-read-faradays-diary",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!4F33!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 195503492,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "What genetic information can we get from macro state variables?",
+  "body_html": "<p>Thermodynamics relates variables that are observable on a large scale (macro), to variables of objects that are very small (micro).</p><p>The most celebrated result is the Maxwell-Boltzmann distribution. Given the temperature of an ideal gas, this result gives the probability distribution of the speeds of the particles in the gas. It\u2019s not obvious to link these two together. The temperature is the macro variable, and the speeds of the particles are near impossible to observe in isolation.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!5nDB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!5nDB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 424w, https://substackcdn.com/image/fetch/$s_!5nDB!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 848w, https://substackcdn.com/image/fetch/$s_!5nDB!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 1272w, https://substackcdn.com/image/fetch/$s_!5nDB!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!5nDB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png\" width=\"1456\" height=\"607\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/cae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:607,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:137503,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/195503492?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!5nDB!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 424w, https://substackcdn.com/image/fetch/$s_!5nDB!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 848w, https://substackcdn.com/image/fetch/$s_!5nDB!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 1272w, https://substackcdn.com/image/fetch/$s_!5nDB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcae27632-4cb0-488c-ad0a-2dc6e30e403b_1971x822.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Explicitly, the probability density for a particle of mass m to have speed v at temperature T is</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;P(v) \\\\;=\\\\; 4\\\\pi \\\\left(\\\\frac{m}{2\\\\pi k_B T}\\\\right)^{3/2} v^{2}\\\\, \\\\exp\\\\!\\\\left(-\\\\frac{m v^{2}}{2\\\\, k_B T}\\\\right)&quot;,&quot;id&quot;:&quot;WESEVHRWBC&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>where k_B is Boltzmann\u2019s constant. The whole curve is set by the single macro number T \u2014 increasing T shifts the peak to higher speeds and broadens the tail.</p><p>Why is this important? Well, it\u2019s not easy to observe the speeds of particles in isolation. But having a <strong>model</strong> for the speed distribution of particles then gives us the ability to compute other interesting things, like heat capacity, diffusion constants, and more. And these <strong>are</strong> observable.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!qekf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!qekf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 424w, https://substackcdn.com/image/fetch/$s_!qekf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 848w, https://substackcdn.com/image/fetch/$s_!qekf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 1272w, https://substackcdn.com/image/fetch/$s_!qekf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!qekf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png\" width=\"1456\" height=\"765\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:765,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:161719,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/195503492?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!qekf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 424w, https://substackcdn.com/image/fetch/$s_!qekf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 848w, https://substackcdn.com/image/fetch/$s_!qekf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 1272w, https://substackcdn.com/image/fetch/$s_!qekf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff97adba3-4a06-41dd-8dfa-b31e66b0edc0_2118x1113.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>There is one legendary result that uses the distribution to relate the viscosity, heat conductivity, and heat capacity all in one!</p><p>Elementary kinetic theory gives two macroscopic variables, viscosity and heat conductivity, in terms of microscopic quantities \u2014 the number density n, the mean speed \u27e8v\u27e9, and the mean free path \u03bb:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\eta \\\\;\\\\approx\\\\; \\\\tfrac{1}{3}\\\\, n\\\\, m\\\\, \\\\langle v \\\\rangle\\\\, \\\\lambda \\\\qquad\\\\qquad \\\\kappa \\\\;\\\\approx\\\\; \\\\tfrac{1}{3}\\\\, n\\\\, c_v\\\\, \\\\langle v \\\\rangle\\\\, \\\\lambda&quot;,&quot;id&quot;:&quot;KRITMATSCE&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>where \u03b7 is the viscosity, \u03ba is the heat conductivity, m is the mass per particle, and c_v is the heat capacity per particle. When you take the ratio \u2014 all the messy microscopic quantities (n, \u27e8v\u27e9, \u03bb) drop out and you are left with</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\boxed{\\\\;\\\\kappa \\\\;=\\\\; \\\\eta\\\\, \\\\frac{c_v}{m} \\\\;=\\\\; \\\\eta\\\\, c_V\\\\;}&quot;,&quot;id&quot;:&quot;UZDXVWNBXT&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>where c_V = c_v / m is the specific heat capacity per unit mass. So if you measure any two of {\u03b7, \u03ba, c_V}, the third is determined \u2014 a non-trivial macroscopic prediction that falls out of the micro-level distribution.</p><p>What would an analogous result in biology be?</p><p>Last time I used David Jordan\u2019s bioreactor to observe the state variables of algae. The macro variables here are temperature, CO2 concentration, O2 concentration, and so on. It would be cool to link these variables to <strong>genetics</strong>, which are the micro variables of biology.</p><p>In other words, what information does a macro state variable give us about the probability distribution of genetic states in the algae?</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!4F33!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!4F33!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 424w, https://substackcdn.com/image/fetch/$s_!4F33!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 848w, https://substackcdn.com/image/fetch/$s_!4F33!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 1272w, https://substackcdn.com/image/fetch/$s_!4F33!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!4F33!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png\" width=\"1456\" height=\"643\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/bd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:643,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:137597,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/195503492?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!4F33!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 424w, https://substackcdn.com/image/fetch/$s_!4F33!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 848w, https://substackcdn.com/image/fetch/$s_!4F33!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 1272w, https://substackcdn.com/image/fetch/$s_!4F33!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd4d9097-917a-4606-a8d7-5e405471519f_1971x870.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And if we know that distribution, can we relate it to any other macro variables that we can observe, like behaviour? </p><p><em>Thanks to <a href=\"https://www.livingphysics.org/\">David Jordan</a> for extensive discussions.</em> </p><h4><strong>References</strong></h4><p>Roberto Livi and Paolo Politi, <em>Nonequilibrium Statistical Physics: A Modern Perspective</em> (Cambridge University Press, 2017), Chapter 1. DOI: <a href=\"https://doi.org/10.1017/9781107278974\">10.1017/9781107278974</a>. Chapter 1 gives a clean derivation of the kinetic-theory transport coefficients above.</p>",
+  "truncated_body_text": "Thermodynamics relates variables that are observable on a large scale (macro), to variables of objects that are very small (micro).",
+  "wordcount": 442,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        208,
+        104,
+        96
+      ],
+      "population": 2
+    },
+    "DarkVibrant": {
+      "rgb": [
+        58,
+        132,
+        58
+      ],
+      "population": 4
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        236,
+        164
+      ],
+      "population": 3983
+    },
+    "Muted": {
+      "rgb": [
+        84,
+        164,
+        92
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        87,
+        83,
+        66
+      ],
+      "population": 49
+    },
+    "LightMuted": {
+      "rgb": [
+        196,
+        172,
+        212
+      ],
+      "population": 54
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 16,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 195503492,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/195503492/tts/beaca17a-9c46-4e92-b103-702a74fe7d39/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

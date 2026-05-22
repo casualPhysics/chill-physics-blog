@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/measuring-disorder-and-complexity",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391417,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2022-04-30T20:44:47.000Z",
+  "updated_at": "2023-05-28T15:50:19.141Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "measuring-disorder-and-complexity",
+  "social_title": null,
+  "subtitle": "The 2021 Nobel Prize was awarded for recent triumphs in complex systems research. This is my take on complexity, fractals and scale physics.",
+  "teaser_post_eligible": true,
+  "title": "Measuring Disorder and Complexity",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "noethers-theorem-and-the-principle-of-least-action",
+  "next_post_slug": "redshift-from-massive-objects",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/5297c25f-372d-4e4a-a50a-aa502157583c_2000x3048.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "The 2021 Nobel Prize was awarded for recent triumphs in complex systems research. This is my take on complexity, fractals and scale physics.",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!fJrJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!fJrJ!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 424w, https://substackcdn.com/image/fetch/$s_!fJrJ!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 848w, https://substackcdn.com/image/fetch/$s_!fJrJ!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!fJrJ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!fJrJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Measuring Disorder and Complexity&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Measuring Disorder and Complexity\" title=\"Measuring Disorder and Complexity\" srcset=\"https://substackcdn.com/image/fetch/$s_!fJrJ!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 424w, https://substackcdn.com/image/fetch/$s_!fJrJ!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 848w, https://substackcdn.com/image/fetch/$s_!fJrJ!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!fJrJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d22c352-f138-472d-bc9c-48836d08f636_2000x3048.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><div><hr></div><p>The 2021 Nobel Prize was awarded for recent triumphs in complex systems research. This is my take on complexity, fractals and scale physics.</p><p>This year's Nobel Prize in Physics had a clear theme: <strong>complexity\u00b9</strong>. The concept of complexity is something that anyone can imagine, but its definition is hard to pin down definitely. Complexity to many people is a classic example of 'I know what it is when I see it', but unfortunately not much more. What makes something complex? Is it the intricacy of some underlying process? Is it something that has a lot of moving parts? If you've thought about these kinds of problems before, you might be relieved to find out that scientists all over the world have made progress in answering them. They have not only successfully put forward definitions of what 'Complexity' means but have achieved meaningful results to quantify its behaviour.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!OQSt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!OQSt!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 424w, https://substackcdn.com/image/fetch/$s_!OQSt!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 848w, https://substackcdn.com/image/fetch/$s_!OQSt!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 1272w, https://substackcdn.com/image/fetch/$s_!OQSt!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!OQSt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!OQSt!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 424w, https://substackcdn.com/image/fetch/$s_!OQSt!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 848w, https://substackcdn.com/image/fetch/$s_!OQSt!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 1272w, https://substackcdn.com/image/fetch/$s_!OQSt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa040bdd5-0b3a-4d70-80be-379fb1803f6c_350x460.png 1456w\" sizes=\"100vw\"></picture><div></div></div></a><figcaption class=\"image-caption\">A schematic of a basic spin-glass model. Zureks, CC0, via Wikimedia Commons</figcaption></figure></div><p>In physics and mathematics, the word complexity is synonymous with the study of <strong>complex systems</strong>. However, complex systems don't have anything to do with a physical system's 'difficulty' or 'trickiness'. For example, consider a single, isolated wave packet of light\u200a\u2014\u200aa photon. Quantum electrodynamics is a complicated and challenging theory used to study this object, but in this context, we are not talking about a 'complex system'.</p><p>Instead, a complex system is a toy model of simple objects that interact, producing chaotic, disordered phenomena. Complex systems are all around you. For example, take the air you breathe. If we imagine each air particle as a single particle, then it's not actually so hard to model the motion of these things individually, on their own. It is only when we combine them do we start to see some interesting phenomena.</p><p>One of the most popular disordered systems is that of a magnet. With relatively simple ingredients, we can build complex and surprising models of magnetic materials\u200a\u2014\u200aone of which I will describe below.</p><div><hr></div><h4>What characterizes a complex system?</h4><p>Now, what do we mean by 'chaotic' or 'disordered'? Whilst many philosophers are trying to dig into that question, there are a few principles that we can go by</p><p>Firstly, how <em>stable</em> is the system? By stable, we mean the sensitivity of a physical system's state to the <strong>initial conditions </strong>that it is placed. Physical systems are governed by a system of equations that we have to solve. But, for the most part, these equations only lead us to a 'general shape' of the solution unless we plug in some data about the initial conditions themselves.</p><p>For example, imagine a pool table on the first hit. As physicists, we'd need to know the initial force and direction of the pool cue to predict the final state. We then ask ourselves if small changes in the initial conditions lead to significant changes in the final outcome. In the case of a pool game, the intuitive answer is yes\u200a\u2014\u200ahad we nudged the first player to miss her initial shot slightly, we could've ended up with a completely different game. In the same vein, if a physical system exhibits a high degree of sensitivity to its initial conditions, we might consider it a complex system.</p><p>You may have heard this anecdote before\u200a\u2014\u200aand it is so popular I cannot resist repeating it. The following quote is a jab at the unstable nature of weather physics to their initial conditions.</p><blockquote><p>The difference between the calm and the storm is a butterfly flapping its wings.</p></blockquote><p>Secondly, how does the behaviour of a physical system change if we 'zoom out' of it? In a previous post, I talked about how physical laws can bend and change depending on how zoomed in on the system. In particular, I talked about the physics of renormalisation\u00b2\u2014 how scientists rigorously define the physics of systems at different scales.</p><div><hr></div><h4>Renormalisation and the Simple Ising Model</h4><p>To get a taste of some complex systems, I will analyze a watered-down version of the spin-glass models that Giorgio Parisi solved to win his Nobel prize. I am going to use what is known as the Ising model as a quick example\u00b3. We'd expect a system to exhibit different physical characteristics depending if we were looking at it from the perspective of a towering giant, or the perspective of a minuscule ant. To explain, I'll walk us through a toy of basic magnetic material.</p><p>Suppose that we have a grid of 64 equally spaced atoms on a grid shown in the figure below. Suppose that each of these atoms has a property associated with them\u200a\u2014\u200alike a 'spin' orientation for each one. At this moment, 'spin' will be an abstract concept to capture the orientation of an atom, and for now, it has no real physical meaning other than to quantify how disordered a system is rigorous. We could have labelled these things apple and orange, for all I care. For simplicity, let's just imagine we only have two types\u200a\u2014\u200aan up spin or a down spin\u200a\u2014\u200aand we chose any configuration we want, like in the diagram below.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!MJFI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!MJFI!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 424w, https://substackcdn.com/image/fetch/$s_!MJFI!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 848w, https://substackcdn.com/image/fetch/$s_!MJFI!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 1272w, https://substackcdn.com/image/fetch/$s_!MJFI!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!MJFI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!MJFI!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 424w, https://substackcdn.com/image/fetch/$s_!MJFI!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 848w, https://substackcdn.com/image/fetch/$s_!MJFI!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 1272w, https://substackcdn.com/image/fetch/$s_!MJFI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2619649-8211-4a78-ab9d-6846a2c1bea4_888x410.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">This is a lattice of atoms, each one with a choice of either an 'up' or a 'down' orientation. We can label the spin of the i'th particle using the label s_i, for&nbsp;example.</figcaption></figure></div><p>With this setup, we can construct model quantities associated with this system, which might be important. In physics, we have our usual suspects like temperature, momentum and so on, but we can be <strong>even more general</strong>. What follows is wishy-washy, but there is a strong rationale behind doing this. We know that physical systems like to minimize energy, so we need a way to develop a model of how '<em>energetic</em>' a system is. We can construct a <em>Hamiltonian</em>, which is just a fancy word for a model of energy.</p><p>Since each atom has spin, we may want to penalize the configurations where nearby atoms have opposing spin. Philosophically, what we are doing here is coming up with a model that penalizes disorder. So we should develop an energy penalty for when a particular configuration has a mix of up spins and down spins. One such model is the Hamiltonian shown below.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!69En!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!69En!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 424w, https://substackcdn.com/image/fetch/$s_!69En!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 848w, https://substackcdn.com/image/fetch/$s_!69En!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 1272w, https://substackcdn.com/image/fetch/$s_!69En!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!69En!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!69En!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 424w, https://substackcdn.com/image/fetch/$s_!69En!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 848w, https://substackcdn.com/image/fetch/$s_!69En!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 1272w, https://substackcdn.com/image/fetch/$s_!69En!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12c0478b-3316-477f-9145-a8eb111cbf4d_1056x120.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">A model Hamiltonian for the energy in our toy&nbsp;system</figcaption></figure></div><p>The first term in this Hamiltonian is our penalty for when spins are misaligned. It adds on an energy penalty of every pair of spins in the system, which have an opposite direction. Since our lattice contains 64 atoms, our disorder is at its worst if we choose a configuration of 32 up spins and 32 down spins. On the other hand, we would have the most 'calm' configuration if all spins were up or down. The second term is just extra credit\u200a\u2014\u200aI added that in there to penalize the effect of any added extra magnetic fields.</p><p>The letters J and B represent the overall magnitude of the effect of disorder, and the applied magnetic field, respectively. These letters are called coupling constants, and they measure the strengths of the physical effects we are trying to capture.</p><p>In fact, this model is already extraordinarily similar to the spin-glass model. We can already ask many interesting questions. For example, suppose that the number J was not fixed\u200a\u2014\u200abut random. What would the 'minimal' energy states look like? It is not that obvious by any means. This question motivates a lot of the seminal work of symmetry breaking in spin glass models by Parisi.</p><p>Now, looking at every atom in this lattice is a bit difficult just because of the sheer number of them. So, we try to 'zoom out'. We could group atoms that are close together and assign something like an average composite spin at each site. One obvious way to do this is to group them up in groups of, say, 4 in squares and then attach an 'average' spin to each box. For example, if one box has two up spins and two down spins, then the average spin on that box would be zero. This method of averaging is what I mean by 'zooming out' of the system.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!sDCK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!sDCK!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 424w, https://substackcdn.com/image/fetch/$s_!sDCK!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 848w, https://substackcdn.com/image/fetch/$s_!sDCK!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 1272w, https://substackcdn.com/image/fetch/$s_!sDCK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!sDCK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!sDCK!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 424w, https://substackcdn.com/image/fetch/$s_!sDCK!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 848w, https://substackcdn.com/image/fetch/$s_!sDCK!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 1272w, https://substackcdn.com/image/fetch/$s_!sDCK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa03f63cd-484a-4c81-b00c-830f76e45a95_1080x404.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">We can simplify our problem by asking what would happen if we were to group sets of atoms together. The diagram on the left represents a mild zoom-out of the system. The diagram on the right represents a drastic zoom-out.</figcaption></figure></div><p>This is shown in the first diagram. First, we've grouped atoms into sets of four, then we assign a single amalgamated value (the average spin) to each group of four atoms. So now, we've reduced the problem to a zoomed-out problem of only 16 points instead of 64. We can make this reduction because there are currently 16 locations with a combined spin.</p><p>And guess what\u200a\u2014\u200awe can assign precisely the same types of physical quantities and models on this zoomed-out model, just like we did before! However, instead of penalizing spin differences on the individual spins of each atom, we now penalize the spin differences of the groups themselves. Let's assume for now that the form of our energy is the same, but perhaps with different coupling constants, J' and B'.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Mvre!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Mvre!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 424w, https://substackcdn.com/image/fetch/$s_!Mvre!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 848w, https://substackcdn.com/image/fetch/$s_!Mvre!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 1272w, https://substackcdn.com/image/fetch/$s_!Mvre!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Mvre!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Mvre!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 424w, https://substackcdn.com/image/fetch/$s_!Mvre!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 848w, https://substackcdn.com/image/fetch/$s_!Mvre!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 1272w, https://substackcdn.com/image/fetch/$s_!Mvre!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d3000e5-4194-4553-9d21-70524d2dd3b3_1266x106.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">The bars over the s_i's denote the average spin at each site instead of the individual spins. The form of the Hamiltonian here remains the same,&nbsp;however.</figcaption></figure></div><p>If this is the case, that the shape of the physical model is the same even after zooming out, we say that system exhibits <strong>self-similarity. </strong>This means that in the new model, our structure of the Hamiltonian is the same. However, our new parameters J and B might need to be changed to account for the grouping. So, by 'zooming' out of our system, we've mapped our pair of variables from (J, B) \u2192 (J', B'). If we were to repeat this procedure, we would find a further evolution (J, B) \u2192 (J', B') \u2192 (J\", B\"). The science of figuring out how these constants evolve is called the <strong>renormalization group</strong>.</p><p>Sometimes, physical effects wash out when you zoom out. Take the example of temperature in a box. There are straightforward, reliable laws that can successfully predict the temperature in a box if you slowly increase the pressure of the atoms inside. We don't need to know the subtle quantum mechanical interactions between each of the particles\u200a\u2014\u200atheir effect gets washed out in favour of a simple rule when we zoom out. Complex systems are the opposite. Complex systems show complex emergent behaviour from systems with relatively simple rules.</p><p>How does this relate to complex systems? Something that makes interesting systems stick out is that they exhibit <strong>scale invariance</strong> of some kind. This phenomenon means that the coupling constants <strong>J</strong> and <strong>B</strong> don't actually change when we zoom out. So, in this case, the physical system looks the same no matter how we view it. This is a prevalent feature in materials in the midst of changing phases, like liquid to gas. These kinds of systems are called critical points.</p><div><hr></div><h4>Wrap up</h4><p>I hope this article has given a crash course in some of my favourite topics in complex systems. This is just the tip of the iceberg. In a future post, I hope to detail more complex spin glass models studied by Parisi. Specifically, I wanted to detail the various \u2018equilibrium states\u2019 you can find in disordered systems.</p><div><hr></div><h4>References</h4><p>[1] The Nobel Committee for Physics, Scientific Background on the Nobel Prize in Physics 2021</p><p>[2] <a href=\"https://en.wikipedia.org/wiki/Kenneth_G._Wilson\">Wilson, K.G.</a> (1975). \"The renormalization group: Critical phenomena and the Kondo problem\". <em>Rev. Mod. Phys</em>. <strong>47</strong>(4): 773. <a href=\"https://en.wikipedia.org/wiki/Bibcode_%28identifier%29\">Bibcode</a>:<a href=\"https://ui.adsabs.harvard.edu/abs/1975RvMP...47..773W\">1975RvMP\u202647..773W</a>. <a href=\"https://en.wikipedia.org/wiki/Doi_%28identifier%29\">doi</a>:<a href=\"https://doi.org/10.1103%2FRevModPhys.47.773\">10.1103/RevModPhys.47.773</a>.</p><p>[3] <a href=\"https://www.afiqhatta.com/static/notes/4_SFT/article.pdf\">https://www.afiqhatta.com/static/notes/4_SFT/article.pdf</a></p>",
+  "truncated_body_text": "",
+  "wordcount": 1822,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        78.46153846153852,
+        149.07692307692312,
+        176.5384615384615
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        40.80000000000004,
+        77.52000000000001,
+        91.79999999999997
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        210,
+        228,
+        235
+      ],
+      "population": 603
+    },
+    "Muted": {
+      "rgb": [
+        99,
+        148,
+        161
+      ],
+      "population": 45
+    },
+    "DarkMuted": {
+      "rgb": [
+        83,
+        118,
+        127
+      ],
+      "population": 214
+    },
+    "LightMuted": {
+      "rgb": [
+        180,
+        204,
+        212
+      ],
+      "population": 622
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

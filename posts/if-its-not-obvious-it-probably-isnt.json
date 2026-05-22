@@ -1,0 +1,446 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/if-its-not-obvious-it-probably-isnt",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 171315222,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-08-18T21:47:07.949Z",
+  "updated_at": "2025-08-18T22:47:08.985Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "if-its-not-obvious-it-probably-isnt",
+  "social_title": "If It's Not Obvious, It Probably Isn't ",
+  "subtitle": "And you should say it out loud. ",
+  "teaser_post_eligible": true,
+  "title": "If It's Not Obvious, It Probably Isn't ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 26
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "how-to-easily-keep-something-alive",
+  "next_post_slug": "math-for-cleaning-air",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/88aea213-98e9-4664-88fa-7736205da339_228x412.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 171315222,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "And you should say it out loud.",
+  "body_html": "<p>Obvious is a word for fools. </p><p>Last week, I had been trying to solve the <a href=\"https://publish.obsidian.md/casualphysicsenjoyer/Essays+in+progress/Theoretical+Physics/Vladimir+Arnold's+Book+on+Classical+Mechanics%2C+Problem+1\">first exercise problem</a> in a mathematical physics book. </p><p>Problems early on in books are the easiest. And yet, I had spent four days days on it. I got nowhere. I have two degrees in mathematics, some research experience, and I still couldn\u2019t get it.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!k-A-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!k-A-!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 424w, https://substackcdn.com/image/fetch/$s_!k-A-!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 848w, https://substackcdn.com/image/fetch/$s_!k-A-!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 1272w, https://substackcdn.com/image/fetch/$s_!k-A-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!k-A-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png\" width=\"228\" height=\"412\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:412,&quot;width&quot;:228,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:238781,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/171315222?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!k-A-!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 424w, https://substackcdn.com/image/fetch/$s_!k-A-!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 848w, https://substackcdn.com/image/fetch/$s_!k-A-!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 1272w, https://substackcdn.com/image/fetch/$s_!k-A-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F845e1b50-4e3b-4ec3-a4a7-11e05162f217_228x412.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p> </p><p>I tried googling the answer, but nothing was really clear. All the explanations hinged on one supposedly <em>obvious</em> assumption (isometries in Euclidean space were affine maps), that <em><strong>everyone</strong></em> seemed to sweep under the rug. No one could explain why. Thinking it was my fault, I fell into a crisis of self confidence. Everywhere I looked, I couldn\u2019t find why this assumption was true. </p><p>I got desperate.</p><div><hr></div><p>Without any other options, I emailed a professor who used to teach me as an undergrad ten years ago. He is master of his craft, and one of the most brilliant people I\u2019ve had the pleasure of learning from. I remembered ten years ago that he said something that was connected to the problem that I was trying to solve. You probably know his name, but for privacy reasons I will not say it here. </p><p><em>\u2018Hey Prof, I\u2019m really struggling with this one question here, and if it\u2019s obvious, then I must really be missing something\u2019.</em> </p><p>He explained why this one assumption was true. It involved multiple long lines of crystal clear, insightful reasoning. It turns out, there was a deep meaning to where this assumption held and why. And it took a whole page to explain the nuance.</p><p>As for my question on whether this was meant to be <em>obvious</em>, his reply: </p><p><em>\u2018It isn\u2019t\u2019.</em> </p><p>This happens a lot. Don\u2019t let people convince you that things are obvious.</p>",
+  "truncated_body_text": "Obvious is a word for fools.",
+  "wordcount": 293,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": {
+    "post_id": 171315222,
+    "starts_at": "2025-08-18T21:47:08.351Z",
+    "ended_at": "2025-08-18T22:47:08.648Z",
+    "planned_duration_ms": 3600000,
+    "test_cohort_percent": 50,
+    "test_cohort_emailed": true,
+    "main_cohort_emailed": true,
+    "created_at": "2025-08-18T21:44:40.894Z",
+    "updated_at": "2025-08-18T22:47:20.476Z",
+    "creator_id": 49747279,
+    "ended_early": false,
+    "winner_overridden": false
+  },
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        244,
+        212,
+        4
+      ],
+      "population": 717
+    },
+    "DarkVibrant": {
+      "rgb": [
+        106,
+        88,
+        29
+      ],
+      "population": 262
+    },
+    "LightVibrant": {
+      "rgb": [
+        105,
+        182,
+        206
+      ],
+      "population": 148
+    },
+    "Muted": {
+      "rgb": [
+        129,
+        132,
+        124
+      ],
+      "population": 6
+    },
+    "DarkMuted": {
+      "rgb": [
+        73,
+        72,
+        46
+      ],
+      "population": 107
+    },
+    "LightMuted": {
+      "rgb": [
+        205,
+        214,
+        203
+      ],
+      "population": 560
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 26,
+  "comment_count": 3,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 171315222,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/171315222/tts/5c7c6448-cc97-4682-950e-175b7f507357/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 146859622,
+      "body": "This post really got my attention!\n\nI\u2019ve run into the same issue, wherein I\u2019m studying an advanced text and many of the most important proofs have assumptions stated by the author to be obvious. I would also lose confidence at that point. Being stubborn is the only way I\u2019ve gotten through these texts, and reaching out to others has also helped.\n\nOn the other hand, I have become very skeptical when reaching out because I\u2019ve run into work and advice that was wrong, but again it wasn\u2019t always obviously so. At these times, I wish I would have had a connection with a reputable mathematician! I\u2019ve often spent considerable time trying to figure out something \u201cobvious\u201d on my own, sometimes abandoning the problem for long periods of time.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This post really got my attention!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I\u2019ve run into the same issue, wherein I\u2019m studying an advanced text and many of the most important proofs have assumptions stated by the author to be obvious. I would also lose confidence at that point. Being stubborn is the only way I\u2019ve gotten through these texts, and reaching out to others has also helped."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "On the other hand, I have become very skeptical when reaching out because I\u2019ve run into work and advice that was wrong, but again it wasn\u2019t always obviously so. At these times, I wish I would have had a connection with a reputable mathematician! I\u2019ve often spent considerable time trying to figure out something \u201cobvious\u201d on my own, sometimes abandoning the problem for long periods of time."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 171315222,
+      "user_id": 113496520,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-08-19T03:57:06.129Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Jack Hanson",
+      "photo_url": null,
+      "handle": "jackhanson",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 3
+      },
+      "reaction_count": 3,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jackhanson",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Jack Hanson",
+          "id": 3019673,
+          "base_url": "https://jackhanson.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 10,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 10,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 8,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 146873910,
+      "body": "Don't be discouraged.  The word \u201cobvious\u201d has a special secret meaning in mathematics. It definitely doesn't mean \u201cself-evident.\u201d An obvious proposition in math is often like a Zen koan. You can break your head over it for weeks or years, and then (maybe) lightning strikes and you understand why it is called obvious.\n\nAnother fun mathematical term is \u201csimple.\u201d  In about the seventh hour of (I kid you not) a seminar on complexity theory, my advisor was going on about \"simple sets,\" and then he started talking about \"hypersimple sets.\" I made the mistake of asking whether a hypersimple set is one that is way simpler than a simple set.  Quick as a rattlesnake, he stood me up and demanded the (not simple) definition of a simple set, which fortunately I was able to produce. But I was in the doghouse for a while after that.  By the way, there are also hyperhypersimple sets, which you might think must be really bloody obvious sets.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Don't be discouraged. The word \u201cobvious\u201d has a special secret meaning in mathematics. It definitely doesn't mean \u201cself-evident.\u201d An obvious proposition in math is often like a Zen koan. You can break your head over it for weeks or years, and then (maybe) lightning strikes and you understand why it is called obvious."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Another fun mathematical term is \u201csimple.\u201d In about the seventh hour of (I kid you not) a seminar on complexity theory, my advisor was going on about \"simple sets,\" and then he started talking about \"hypersimple sets.\" I made the mistake of asking whether a hypersimple set is one that is way simpler than a simple set. Quick as a rattlesnake, he stood me up and demanded the (not simple) definition of a simple set, which fortunately I was able to produce. But I was in the doghouse for a while after that. By the way, there are also hyperhypersimple sets, which you might think must be really bloody obvious sets."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 171315222,
+      "user_id": 84532545,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-08-19T05:39:11.706Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "JJD",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bb6cce71-83fa-44d8-9aa4-71ad04466e41_500x305.jpeg",
+      "handle": "jjd12",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jjd12",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply"
+    }
+  ]
+}

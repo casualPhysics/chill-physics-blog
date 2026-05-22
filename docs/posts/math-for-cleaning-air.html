@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Models for Cleaning Air  &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Models for Cleaning Air </h2>
+    <p class="post-meta">
+      <span class="post-date">19 August 2025</span>
+      &middot; <span class="post-subtitle">Fluid physics is fun</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>I’ve been trying to figure out ways I could help in the indoor air quality space. I think there is evidence that Far UVC light can be effective for cleaning air, whilst being safe to skin and eyes in the right dose. </p><p>But modelling far UVC is complicated. Suppose I put such a light on my ceiling. How effective is it going to be at reducing infection rates at a house party? Fluids, aerosols, viruses, people, and light are difficult to model. </p><p>Right now, people use a technique called CFD. This involves using a computer to solve the Navier-Stokes equations that govern a room’s air and aerosol flow. This is then coupled with UVC light distribution and inactivation terms to see how pathogen concentration reduces over time.</p><p>But there are a few sticky points here. CFD can be slow to compute. It also requires the practitioner to specify a lot of free parameters, like the stickiness of the wall, turbulence assumptions, eddies and more. This makes it hard.</p><p>Given the fact that modelling is always going to be a coarse task, I want to understand what factors really <strong>actually matter.</strong> I’m not saying we should stop doing CFD. But a simpler model that <strong>replicates most of the CFD, with fewer parameters, would be great.</strong></p><p>Such a thing would scalable and easy to interpret, and could be rolled out to lots of UVC installers. </p><p>These are called zonal models / lumped parameter models. These types of reduced models are already done for fire modelling, to see how temperature spreads in a room. </p><p>So today, I tried to make one for a Far UVC installation. <a href="https://casualphysicsenjoyer.com/Essays+in+progress/Biosecurity/Far+UVC/Zonal+Models+for+CFD">Technical details, math and the full model is here.</a></p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!M9WG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!M9WG!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 424w, https://substackcdn.com/image/fetch/$s_!M9WG!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 848w, https://substackcdn.com/image/fetch/$s_!M9WG!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 1272w, https://substackcdn.com/image/fetch/$s_!M9WG!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/e9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":281,"width":521,"resizeWidth":null,"bytes":34889,"alt":null,"title":null,"type":"image/png","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://chillphysicsenjoyer.substack.com/i/171407303?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png","isProcessing":false,"align":null,"offset":false}' fetchpriority="high" height="281" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!M9WG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png" srcset="https://substackcdn.com/image/fetch/$s_!M9WG!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 424w, https://substackcdn.com/image/fetch/$s_!M9WG!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 848w, https://substackcdn.com/image/fetch/$s_!M9WG!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 1272w, https://substackcdn.com/image/fetch/$s_!M9WG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ef3de6-a44e-468d-8510-25ed50bb537f_521x281.png 1456w" width="521"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>Disclaimer: not medical advice, all views are strictly my own. </p>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Biosecurity, Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/math-for-cleaning-air">Read on Substack</a>
+     &middot; <a href="if-its-not-obvious-it-probably-isnt.html">&laquo; Previous</a>
+     &middot; <a href="do-anything-in-20-minutes.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

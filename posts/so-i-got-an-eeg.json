@@ -1,0 +1,452 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/so-i-got-an-eeg",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 185886061,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-01-26T21:22:42.342Z",
+  "updated_at": "2026-01-26T21:25:26.428Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "so-i-got-an-eeg",
+  "social_title": null,
+  "subtitle": "A weekend measuring my brainwaves. ",
+  "teaser_post_eligible": true,
+  "title": "So I got an EEG...",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 16
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "bio-theory-lab-notes",
+  "next_post_slug": "safety-and-danger",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!-qb7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg",
+  "cover_image_is_square": true,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 185886061,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A weekend measuring my brainwaves.",
+  "body_html": "<p>A few weeks ago I bought an EEG from a kind person in my <a href=\"https://chillphysicsenjoyer.substack.com/p/what-i-learned-from-500-independent?utm_source=publication-search\">independent science discord</a>, at a pretty generous price. <strong>Electroencephalography</strong> measures the fluctuations of electric signals in the brain that happen in ion channels. I got one because, well, I was just curious\u2026 haha . And on a side note - I\u2019m pretty optimistic about scientific communities that buy and sell used equipment to each other! I\u2019ve been trying to find gems from auctioned equipment from biotech startups that have gone out of business too (thanks David), but they usually are really annoying to go and pickup.</p><p>Anyway, the <a href=\"https://openbci.com/\">openBCI EEG</a> comes a handy cap that pre-places the electrodes. It\u2019s fairly simple to set up, I just attached each terminal from the cap to the respective pins in openBCI\u2019s Daisy and Cyton boards. Then it transmits via radio signal from the chip to a USB dongle that goes into my computer. I got Claude code to troubleshoot my setup after I had some syncing issues with the radio channels. </p><p>Then I put the cap on and it looks like this. (Excuse my messy house and disassembled bike).</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!-qb7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!-qb7!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 424w, https://substackcdn.com/image/fetch/$s_!-qb7!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 848w, https://substackcdn.com/image/fetch/$s_!-qb7!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!-qb7!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!-qb7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg\" width=\"1456\" height=\"1453\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1453,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1875166,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/185886061?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb84f705-2949-4da8-a803-8b772db54c0b_4032x3024.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!-qb7!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 424w, https://substackcdn.com/image/fetch/$s_!-qb7!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 848w, https://substackcdn.com/image/fetch/$s_!-qb7!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!-qb7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa84845a6-d982-442c-af2e-b9dd4c6c9ff5_3024x3018.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The most annoying and messy part is having to put electrode gel between your scalp and the electrodes to get a better signal. Amelia had to get a syringe and then squeeze electrode gel through the cap and into my scalp. It\u2019s pretty messy and takes a while to clean. Because of this, I\u2019m quite excited for non invasive brain interface technology that doesn\u2019t rely on electrode gel, or algorithms that somehow remove the noise you get when not using electrode gel. </p><p>This particular setup has 16 channels that are attached to different locations on my head. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Dlzm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Dlzm!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 424w, https://substackcdn.com/image/fetch/$s_!Dlzm!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 848w, https://substackcdn.com/image/fetch/$s_!Dlzm!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 1272w, https://substackcdn.com/image/fetch/$s_!Dlzm!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Dlzm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png\" width=\"866\" height=\"856\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:856,&quot;width&quot;:866,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1119487,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/185886061?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Dlzm!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 424w, https://substackcdn.com/image/fetch/$s_!Dlzm!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 848w, https://substackcdn.com/image/fetch/$s_!Dlzm!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 1272w, https://substackcdn.com/image/fetch/$s_!Dlzm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8cc1d78-55b9-42ad-8754-4827759dd7c1_866x856.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Once I got the connection working I started recording my brainwaves. For a bunch of the channels, the signal looks like it\u2019s corrupted, or \u2018railed\u2019, which probably means I didn\u2019t get the electrode connection working properly. But the others look fine. You can see a live recording here. The left hand side is a rolling timeseries of the waves associated with each channel, and the right hand side is a spectrum plot that moves realtime. </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;f2b3bdc4-d0c4-44f0-b85f-86474aa41fbe&quot;,&quot;duration&quot;:null}\"></div><p>Amelia and I did some pretty basic tests like how the waves changed when she played classical music, or scared me by surprise. Usually something changed but there was no real discernable pattern (so far). </p><p>From my discussions with my theoretical biology reading group, I\u2019m more optimistic about experiments that look at more macro type variables, both because I think it\u2019s been underexplored but also because I think it\u2019s more amenable to experiment and independent scientists. Having this in my home gives me access to much more data (myself), and also lets me explore the realm of extended measurement not available to university researchers - for example, how much EEG data is out there on people taking a shit? </p><p>I didn\u2019t have much of a plan on what I\u2019m going to use it for, but my main idea was either time series modelling or some sort of mapping of cognitive ability with air quality levels. </p><p>On the time series stuff, I\u2019ve been looking a lot at DMD and EDMD and I wonder if there is something to do there. </p><p>On the air quality stuff - for the most part I\u2019m focused on ways to prevent pandemics, but as a route to adoption I\u2019m also interested in looking at air quality and performance. at For example, I\u2019d be keen to know if I could get some signal in the EEG spectrum when CO2 levels rise, as evidence to weigh into the CO2 versus cognition debate. </p><p>As a corollary, I\u2019m wondering if I could get better signal into the best times to do things, other than just guessing an optimal schedule. But I think this is hard. There seem to be other research groups trying to do cool stuff with EEGs though. </p><p> </p>",
+  "truncated_body_text": "A few weeks ago I bought an EEG from a kind person in my independent science discord, at a pretty generous price. Electroencephalography measures the fluctuations of electric signals in the brain that happen in ion channels. I got one because, well, I was just curious\u2026 haha . And on a side note - I\u2019m pretty optimistic about scientific communities that b\u2026",
+  "wordcount": 652,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        242,
+        156,
+        7
+      ],
+      "population": 156
+    },
+    "DarkVibrant": {
+      "rgb": [
+        123,
+        74,
+        14
+      ],
+      "population": 361
+    },
+    "LightVibrant": {
+      "rgb": [
+        210,
+        183,
+        144
+      ],
+      "population": 446
+    },
+    "Muted": {
+      "rgb": [
+        157,
+        134,
+        101
+      ],
+      "population": 214
+    },
+    "DarkMuted": {
+      "rgb": [
+        99,
+        75,
+        52
+      ],
+      "population": 40
+    },
+    "LightMuted": {
+      "rgb": [
+        154,
+        166,
+        191
+      ],
+      "population": 177
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 16,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 185886061,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/185886061/tts/567e06f6-6a0e-41dd-aa56-1282d5b329ee/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 205592792,
+      "body": "EEGs are a lot of fun, and the related EMG (for muscles).   The Muse S is pretty cool and accessible for less mess, but only has 4 electrode points.\n\nIf you do mediation, there is lots of interesting research on that as well.\n\nIt's also super interesting for sleep health, seeing your periods of dreaming, deep sleep, movement is all super interesting.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "EEGs are a lot of fun, and the related EMG (for muscles). The Muse S is pretty cool and accessible for less mess, but only has 4 electrode points."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "If you do mediation, there is lots of interesting research on that as well."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It's also super interesting for sleep health, seeing your periods of dreaming, deep sleep, movement is all super interesting."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 185886061,
+      "user_id": 102222971,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-01-26T21:35:24.093Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "XTCatalyst",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7edd324-8001-4214-a3e0-1dc4391f19d1_96x96.jpeg",
+      "handle": "xtcatalyst",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "xtcatalyst",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Pleasurable Life",
+          "id": 6783531,
+          "base_url": "https://xtcatalyst.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 3,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 205787063,
+      "body": "Amelia is one patient person to entertain your scientific experiments \ud83d\ude0a",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Amelia is one patient person to entertain your scientific experiments \ud83d\ude0a"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 185886061,
+      "user_id": 127344067,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-01-27T06:36:24.087Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/45cda292-3ab2-425b-9eb5-5f9db40ff4e4_144x144.png",
+      "handle": "hatta2",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "hatta2",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "subscribed",
+        "eligibleForGift": false
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": {
+            "fg": {
+              "light": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              },
+              "dark": {
+                "r": 255,
+                "g": 255,
+                "b": 255,
+                "a": 1
+              }
+            },
+            "bg": {
+              "light": {
+                "r": 225,
+                "g": 29,
+                "b": 72,
+                "a": 1
+              },
+              "dark": {
+                "r": 225,
+                "g": 29,
+                "b": 72,
+                "a": 1
+              }
+            }
+          }
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

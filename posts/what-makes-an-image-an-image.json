@@ -1,0 +1,224 @@
+{
+  "audience": "only_paid",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/what-makes-an-image-an-image",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391416,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2022-05-08T21:11:25.000Z",
+  "updated_at": "2023-05-28T15:50:17.187Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "what-makes-an-image-an-image",
+  "social_title": null,
+  "subtitle": "I wanted to explore if simpler, small scale models can give us any insight for answering questions about creativity, meaning and abstraction in images and in language. This post will be about using simple techniques in machine learning to offer some answe",
+  "teaser_post_eligible": true,
+  "title": "Thoughts on Words and their Meaning",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 1
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "redshift-from-massive-objects",
+  "next_post_slug": "what-i-wished-i-knew-about-abstract-algebra",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/74b44412-7b59-4226-b9e1-78a81039bb17_2000x1333.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "I wanted to explore if simpler, small scale models can give us any insight for answering questions about creativity, meaning and abstraction in images and in language. This post will be about using simple techniques in machine learning to offer some answe",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!O4nt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!O4nt!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 424w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 848w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!O4nt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Thoughts on Words and their Meaning&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Thoughts on Words and their Meaning\" title=\"Thoughts on Words and their Meaning\" srcset=\"https://substackcdn.com/image/fetch/$s_!O4nt!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 424w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 848w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><p>I think that the mathematics of machine learning can give us some insight into deep questions in philosophy that previously seemed intractable. Up until a few years ago, philosophers didn't have the technology or the faith that neural networks were actually effective at doing their jobs. Now that the technology appears convincing, it could be an opportune time to rehash these deep questions from the perspective of deep learning.</p><p>After looking at some of the developments in <em>transformer</em> models, especially encoders, I wanted to explore if simpler, small scale models can give us any insight for answering questions about creativity, meaning and abstraction in language. This post will be about using simple techniques in machine learning to offer some answers to philosophical questions in language.</p><p>I was amazed at the recent caption-to-image techniques used by Open-AI to make DALL-E 2. DALL-E 2 uses an architecture called a transformer model to translate captions into various realistic images. Transformer models, loosely speaking, consist of two parts - an encoder and a decoder. An encoder tries to find an efficient representation of a larger space of words, and a decoder takes it from this abstract representation back into content. Mathematically, it's trying to find some functions that minimise this value over everything in the space:</p><p>$$ \\text{Find } \\phi, \\psi \\text{ such that } L = \\sum _ { v \\in \\chi } || v - \\phi \\circ \\psi ( v ) &nbsp;\\text{ is minimised} || ^ 2. $$</p><p>One obvious question to start with, yet probably the most difficult to answer, is what gives a word its meaning? This is a problem that has been one of the main themes in the philosophy of language. One common stream of thought is that words are signs that &nbsp;provoke mental images. This is part of the ideational theory of meaning, most commonly associated with the British empiricist John Locke.</p>",
+  "truncated_body_text": "I think that the mathematics of machine learning can give us some insight into deep questions in philosophy that previously seemed intractable. Up until a few years ago, philosophers didn't have the technology or the faith that neural networks were actually effective at doing their jobs. Now that the technology appears convincing, it could be an opportune time to rehash these deep questions from the perspective of deep learning.",
+  "wordcount": 1155,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        176,
+        127,
+        73
+      ],
+      "population": 289
+    },
+    "DarkVibrant": {
+      "rgb": [
+        111,
+        64,
+        15
+      ],
+      "population": 126
+    },
+    "LightVibrant": {
+      "rgb": [
+        211,
+        172,
+        125
+      ],
+      "population": 37
+    },
+    "Muted": {
+      "rgb": [
+        176,
+        130,
+        84
+      ],
+      "population": 183
+    },
+    "DarkMuted": {
+      "rgb": [
+        95,
+        76,
+        51
+      ],
+      "population": 390
+    },
+    "LightMuted": {
+      "rgb": [
+        193,
+        172,
+        157
+      ],
+      "population": 89
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hidden": true,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

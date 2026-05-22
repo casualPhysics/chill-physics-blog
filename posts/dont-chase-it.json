@@ -1,0 +1,336 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/dont-chase-it",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 153303217,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2024-12-22T16:02:53.843Z",
+  "updated_at": "2024-12-22T16:05:14.169Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "dont-chase-it",
+  "social_title": null,
+  "subtitle": "On ambition and avoiding the crowds",
+  "teaser_post_eligible": true,
+  "title": "Don't Chase It",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 5,
+  "reactions": {
+    "\u2764": 10
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "compulsion-as-a-tool",
+  "next_post_slug": "why-casual-conversations-is-so-hard",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!wyZD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 153303217,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On ambition and avoiding the crowds",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!wyZD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!wyZD!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 424w, https://substackcdn.com/image/fetch/$s_!wyZD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 848w, https://substackcdn.com/image/fetch/$s_!wyZD!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 1272w, https://substackcdn.com/image/fetch/$s_!wyZD!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!wyZD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png\" width=\"752\" height=\"688\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1530f52f-effc-45da-be5a-0663af35f77e_752x688.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:688,&quot;width&quot;:752,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:494673,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!wyZD!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 424w, https://substackcdn.com/image/fetch/$s_!wyZD!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 848w, https://substackcdn.com/image/fetch/$s_!wyZD!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 1272w, https://substackcdn.com/image/fetch/$s_!wyZD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1530f52f-effc-45da-be5a-0663af35f77e_752x688.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Augustus Burnham Shute</figcaption></figure></div><p>Weird thought. Maybe being in a mindset where I\u2019m not consciously chasing things,  actually gets me better results in the long term. I tried to figure out what this means, and felt like I needed to write about ambition first. </p><div><hr></div><p>What would happen if you took everyone in the world and asked them, one by one, to picture their ideal city? No doubt, some people would end up imagining cities bigger than others\u2019. There would be someone who thinks up the biggest city of them all, and another one person who thinks of the smallest. In theory, I could rank everyone based on the size of their cities, and then see where I landed in this list.</p><p>This is my model for ambitiousness in people. Where you land on this spectrum is probably random. I\u2019ve seen too many regular families with an ambitious child, but with easy-going siblings, for me to think that this trait is a matter of just the environment. </p><p>After speaking meaningfully with about a thousand people over time, I think I am probably in the middle of this ambitiousness line. I don\u2019t have a need for things in my life to be perfect. But I\u2019m not completely apathetic about it. I usually want things to go at <em>least</em> <em>well</em>. </p><p>I also think ambitiousness tends to stay fixed. I used to work longer hours to copy the ambitious ones, hoping that somehow their auras would attach to mine, but gave up on that because it didn\u2019t work. </p><p>Rather, I realised that I should focus on figuring out what it means to live <em>well</em>, given that my current ambitiousness <em>won\u2019t change</em>. </p><p><em>Wellness</em>, to me, means avoiding avoidable hardship. Avoidable hardship is like running around trying to find treasure without bothering to think simple things like drawing a map. I experience physical stress, like knots in my tummy, when I meet  this kind of hardship, like being late to a meeting for no reason. I sometimes replay in my mind how hard I tried at university despite getting mediocre results. </p><p>This is linked to my own problem solving strategy. It\u2019s not a precise, but I think of this as how I would dig for wells in the desert. Given a certain amount of energy, I\u2019m probably the type to dig lots of shallow holes, due to a prior belief that it\u2019s likely to be futile anyway. If on the off-chance the water was there, then it\u2019s probably a lot shallower than I initially thought. And so digging many shallow holes over a wide area makes sense. Others might focus on digging one deep hole, working hard to get something no matter what, but that is not me. </p><p>My strategy means finding quicker ways to put sheets on the duvet. Or optimising arrangements of my stuff, like setting my bicycle gear out in the evening so I\u2019m not ruffled the next morning trying to find things. Or trying to find the right angle to foam my milk for its best consistency in my cappuccino. </p><p>This efficiency gives me currency to spend on doing nothing. I usually spend a couple hours a day doing nothing, or trying to get some sleep in. This nothingness also feels like a magnet for ideas. Ideas often pop into my mind when I am staring into space. And so the rewards of being efficient slowly accumulate like a pile of sand. </p><p>Showing people that you care about them is an exception to the \u2018maximal efficiency\u2019 rule though. In this case, the impact of showing you care increases with the effort you put in. Work hard for your partners!</p><p>Bottom line is, I think many people are able to make things go well, and become efficient in areas that they choose to focus on. Even more so with automation tools becoming so widespread. But for me, making things go well in many areas is still hard. I think this is true for others too. It\u2019s hard on the brain, because switching between different things requires mental effort. Context switching consumes energy. If you\u2019ve ever tried to cook a large meal with different side dishes, and have felt that unique tiredness afterwards, you probably get what I mean. </p><div><hr></div><p>So, I\u2019ve spent some time in my twenties thinking about general principles that make things go <em>well</em>, customised to my easy-going personality. I\u2019ve looked for a set of around three to ten, ideas. Ideas that I can use when I\u2019m in this type of situation: </p><p><em>\u2018Hey, given this is who I am, and I\u2019m stuck on this problem, what styles of thinking can get me out of this rut?\u2019</em></p><p>But so far, I\u2019ve realised that either a) I am too stupid to find these principles, or b) general rules for doing well at something don\u2019t exist.</p><p>But whilst I haven\u2019t found concrete, general ideas, I think there might be looser <em>sayings</em> that kind of <em>feel</em> like general principles, but are not really fully fledged. Sayings and thoughts that are worthy of a short essay, instead of a fully fledged novel. </p><p>I call these \u2018idioms\u2019, inspired after the word for \u2018sayings\u2019 but in different languages. </p><p>And there\u2019s in an idiom that I have been thinking about more and more.</p><p><em>\u2018Don\u2019t chase it\u2019. </em></p><div><hr></div><p>Here\u2019s how I got thinking about it. You know that feeling when two unrelated people you respect tell you the same thing?</p><p>A mentor in my day job said something surprising to me whilst we were having coffee, at a time when business was shaky. My industry (which isn\u2019t science) often involves aggressively making calls about opportunities to do. But out of the blue, he said</p><p><em>\u2018Yeah, you don\u2019t want to be chasing things right now\u2019. </em></p><p>This struck me as odd. I\u2019d usually think that chasing what you want, especially when you\u2019re in a tough spot, means you\u2019re more likely to get it. I was going to brush this off but then\u2026</p><p>My chemistry supervisor tried to tell me the same thing, about a different problem. </p><p>As part of my research, I was thinking about using machine learning to make energy calculation algorithms faster. This work still has a lot of hype. I then wrote an email to him asking what he thought about me trying to work on that. He replied, </p><p><em>\u2018It\u2019s an active field, but it\u2019s crowded, don\u2019t chase it\u2019 </em></p><p>By now this phrase was ringing some alarm bells. Both of these individuals seem to be quite successful in their respective areas. And now they\u2019re telling me the same thing, in the same year. Shouldn\u2019t I be paying attention? </p><p>It was unclear to me what this meant in the beginning. What does \u2018<em>not chase</em>\u2019 even mean? And why does \u2018not chasing\u2019 make you more successful? I\u2019ve heard of the phrase \u2018if you choose two rabbits, you will lose them both\u2019, but this was like saying not to trying chasing anything at all. </p><p>After thinking about it for a week, I think that \u2018chasing\u2019 is feeling pressure to finish something. Like running a race that you want to win. Or in my case, digging into a research area that you feel is hot because everyone else is doing it. In each case, you have an awareness in your brain that the completion of the task itself is important. And probably, there is also some awareness that you have to beat other people to it. </p><p>Chasing is great for a lot of things, like a sprinting race, anything that is adversarial, or routine tasks. Stuff like coding up a system that you\u2019ve already built before. </p><p>But when does \u2018chasing\u2019 not work? I think it doesn\u2019t work when you\u2019re trying to do <strong>new</strong> things. </p><p>I think this is because, if you feel you\u2019re chasing, then what you\u2019re doing is probably crowded. There\u2019s probably other people doing it. It\u2019s like walking down a street and seeing a queue of people outside a new tasty desert store, and then thinking \u2018wow, I need to get myself some of that\u2019. </p><p>So it\u2019s like the crowdedness induces the <em>feeling</em> of the chase. You think that you need to get in line, otherwise you\u2019ll miss out. </p><p>In the case of research, this feeling of chase now means you\u2019re less likely to discover something new, because other people are already there. I\u2019ve started to use this emotional feeling of \u2018chasing\u2019 as an indicator of how relatively undiscovered something is. If I listen to my body and I think \u2018wow, I\u2019m quite anxious to get this done\u2019, then that\u2019s a warning sign to me. </p><p>I think a good way to use this is by thinking of how you got an idea. Did it just spark out of the blue, or is it because you heard it from someone else? If it\u2019s the latter, then how likely is it that you have an edge in solving it? </p><p>More recently, I\u2019ve been thinking a lot about the importance of not entering crowded fields when doing work. It used to be a minor consideration when making decisions. But now, I think it\u2019s probably more important than even trying to work hard.  </p><p>Right now, I think the best way to decide if a field is crowded is to seek mentors that can tell you. </p><p>But the <strong>next</strong> best way seems to be to notice your feelings of the \u2018chase\u2019. If you are, it\u2019s worth corroborating with others. </p><p>I also think that the physical pressure from chasing puts a \u2018lock\u2019 on creativity, because now you have a second variable to think about. Which is quickness. And for me, this second variable is simply too much to handle. I think having slack is really important to doing good work. I wrote about this in a different post <a href=\"https://substack.com/@casualphysicsenjoyer/p-148239410\">here</a>. </p><p>Don\u2019t chase! </p>",
+  "truncated_body_text": "Weird thought. Maybe being in a mindset where I\u2019m not consciously chasing things, actually gets me better results in the long term. I tried to figure out what this means, and felt like I needed to write about ambition first.",
+  "wordcount": 1618,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        66.3,
+        66.3,
+        66.3
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        188.7,
+        188.7,
+        188.7
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        135,
+        135,
+        135
+      ],
+      "population": 335
+    },
+    "DarkMuted": {
+      "rgb": [
+        85,
+        85,
+        85
+      ],
+      "population": 240
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        188,
+        188
+      ],
+      "population": 653
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 10,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 153303217,
+      "voice_id": "en-US-OnyxTurboMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/153303217/tts/58ca227b-55b5-4c28-ac62-a89291dd91b4/en-US-OnyxTurboMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 84575352,
+      "body": "I\u2019m not chasing too. Taking a mental sabbatical from out put and just taking in absorbing. And poof! New ideas and reformed old ideas just pop up. I take notes and prepare my tools for the restart of my process. The idea of Not Chasing helps me sleep at night too!  ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I\u2019m not chasing too. Taking a mental sabbatical from out put and just taking in absorbing. And poof! New ideas and reformed old ideas just pop up. I take notes and prepare my tools for the restart of my process. The idea of Not Chasing helps me sleep at night too!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 153303217,
+      "user_id": 8568735,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-01-05T17:49:43.185Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "James Griffith",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/f97e58cd-0470-4416-8f16-acaab27107e3_332x330.jpeg",
+      "handle": "jamesgriffith1",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jamesgriffith1",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "James Griffith",
+          "id": 8606404,
+          "base_url": "https://jamesgriffith1.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

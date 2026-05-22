@@ -1,0 +1,284 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/why-independent-science-now",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 176164296,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-10-22T15:25:30.990Z",
+  "updated_at": "2025-11-04T00:31:15.244Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "why-independent-science-now",
+  "social_title": "Why Independent Science Now? ",
+  "subtitle": "Catalysts.",
+  "teaser_post_eligible": true,
+  "title": "Why Independent Science Now? ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "\u2764": 19
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "how-life-works-by-philip-ball",
+  "next_post_slug": "non-equilibrium-statistical-mechanics",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 176164296,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Catalysts.",
+  "body_html": "<p>I expect that <em>independent science</em> - the act of studying and experimenting on nature outside of academia - is going to grow quickly. </p><p>But why <strong>now</strong> as opposed to other periods in time? I think there are compelling catalysts. I\u2019m going to list them casually. A lot of these are vibes and anecdotes, so am keen to hear feedback. </p><p><strong>Reduced government funding, tight fiscal conditions and higher debt load means that less government money is going to traditional academia</strong>. Unfortunately, this was no surprise with the US, nor with the UK. But I was saddened to hear similar complaints by the <a href=\"https://www.japantimes.co.jp/news/2025/10/08/japan/science-health/nobel-laureate-sakaguchi-interview/\">Japanese Nobel prize winners</a>. This means that people who want to do science are going to have less opportunities to do it in government funded academia. But I don\u2019t think that there will be any less desire, and so people will find other ways independently. </p><p><strong>Some government funding agencies are supportive of alternative ways to do science, and are willing to fund people with alternative backgrounds.</strong> For example, the<a href=\"https://www.aria.org.uk/funding-opportunities\"> ARIA programmes</a> have programme directors from different backgrounds. From my reading, they seem willing to fund those not from traditional backgrounds too. </p><p><strong>Philanthropic funding agencies are investing into meta-science</strong> at different scales. For example, Renaissance Philanthropy, Convergent Research and others are trying to do new science organisational work with FRCs, FROs. There are also smaller grant making programmes like <a href=\"https://bagel.fund/\">Bagel Fund</a>. </p><p><strong>People realising that traditional publishing and peer review is annoying.</strong><a href=\"https://www.vox.com/2016/3/4/11160540/timothy-gowers-discrete-analysis\"> More and more scientists seem to be open in communicating results in different ways, like blogs.</a> This makes it easier for folks not in academia to get their results out on blogs and communicate on a level comparable to academics. See arxiv, Erik Hoel, distill.pub. <a href=\"https://distressedscientists.substack.com/p/entry-006-the-rise-of-the-researcher\">There is also seems to be vibes that scientists are more aware of the importance of better scientific communication.</a> See <a href=\"https://distressedscientists.substack.com/\">The Distressed Scientist Dept.</a> </p><p><strong>The history / philosophy of science blogosphere is getting popular</strong>. Folks like <a href=\"https://www.experimental-history.com/\">Adam Mastroianni\u2019s Science House</a> and <a href=\"https://slimemoldtimemold.com/\">Slime Mold Time Mold </a>have made me realise that traditional academia is a fairly new invention! For most of our history, most people did science independently and recreationally. </p><p><strong>The rise of discord. </strong>I cofounded an independent science discord group where we share ideas, and there are other really popular ones too like EleutherAI. </p><p><strong>LLMs make it easier to get to knowledge frontiers.</strong> Provided you know how to use them properly, people aren\u2019t wasting time trying to find the right paper they need. You can just ask an LLM that now. <a href=\"https://www.reddit.com/r/math/comments/1o8xz7t/terence_tao_literature_review_is_the_most/\">Terry Tao on literature review. </a></p><p><strong>LLMs are making it easier to do DIY home labs.</strong> Independent science seems ripe for the theoretical sciences, but I think empirical stuff is going to get easier too. My experiments with air purifiers and yeast were significantly aided with LLMs - they told me how to do the mundane stuff like calibration, electronics, sterilisation, dose quantities and much more. I probably couldn\u2019t have done it without LLMs. Flip side: LLMs don\u2019t really help with wet lab work because of safety concerns, which is understandable. </p><p><strong>Cheaper microelectronics, consumer goods and delivery. </strong>Next day delivery is possible.<strong> </strong>It\u2019s now really quick and easy to order microelectronics and components, so I am optimistic for a development in home labs. Checkout <a href=\"https://physicsopenlab.org/\">PhysicsOpenLab</a>. </p><p><strong>People being put off PhDs.</strong> It\u2019s no secret anymore that PhDs are underpaid and the experience seems heavily dependent on how cool your supervisor is. </p><p><strong>People not working as much in their day jobs. </strong>People realising that they deserve more leisure time and not have to just work for the man! Leisure time has always been a component of European and UK culture, but <a href=\"https://fortune.com/article/tokyo-4-day-workweek-desperate-attempt-japan-shed-title-worlds-oldest-population/\">reduced working hours and less intensive culture has been shown in East Asia as well. </a> I think COVID and remote working had something to do with this. </p><p><strong>Interdisciplinary science getting big.</strong> Interdisciplinary science needs people from diverse backgrounds right? There are probably some great candidates outside of academia. </p><p><strong>The rise of \u2018higher agency\u2019 philosophical movements</strong>. Stuff like EA, concepts like agency, things like the \u2018you can actually just do things\u2019 meme. </p><p><strong>People are caring less about status and more about meaning.</strong> Is it just me or are Gucci handbags not really a thing anymore? I don\u2019t know if this has something to do with the AI boom or polarisation or whatever but I think being materialistic isn\u2019t that cool anymore, especially in the UK. But this is just me. It seems cooler to be into doing things now. </p><p></p><p></p>",
+  "truncated_body_text": "I expect that independent science - the act of studying and experimenting on nature outside of academia - is going to grow quickly.",
+  "wordcount": 743,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "22d6c0df-14f9-4739-a401-2b3b2eb0118b",
+      "publication_id": 1692033,
+      "name": "Metascience",
+      "slug": "metascience",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 19,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 176164296,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/176164296/tts/a827fbcf-30c8-4078-87ef-6ebdf93564db/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 170068008,
+      "body": "Would like to add : In our times, it has become relatively easier to get visibility of your work via LinkedIn and hence constructive feedback, since science at its heart is a collaborative effort and this feedback and visibility helps me a lot.\n\u957f\u6c5f\u9ec4\u6cb3\u4e0d\u4f1a\u5012\u6d41\uff01",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Would like to add : In our times, it has become relatively easier to get visibility of your work via LinkedIn and hence constructive feedback, since science at its heart is a collaborative effort and this feedback and visibility helps me a lot."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "\u957f\u6c5f\u9ec4\u6cb3\u4e0d\u4f1a\u5012\u6d41\uff01"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 176164296,
+      "user_id": 120667348,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-10-25T15:42:32.022Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Shlok Vaibhav",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2905bedb-0f14-4352-bb8e-8f7fae11ab6a_2448x2448.jpeg",
+      "handle": "shlokvaibhav",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "shlokvaibhav",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Fear and Trembling",
+          "id": 4625439,
+          "base_url": "https://shlokvaibhav.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

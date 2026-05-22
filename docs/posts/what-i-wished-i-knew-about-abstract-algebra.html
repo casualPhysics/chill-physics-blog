@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>A TL-DR for Basic Group Theory &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">A TL-DR for Basic Group Theory</h2>
+    <p class="post-meta">
+      <span class="post-date">10 May 2022</span>
+      &middot; <span class="post-subtitle">My previous essays have described the role of symmetry and order in physics. Whilst the lines between mathematics and physics are now incredibly blurred, the science of classifying symmetries into rigorous and well-defined objects was primarily the domain</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <a class="image-link image2" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!BYN0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!BYN0!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 424w, https://substackcdn.com/image/fetch/$s_!BYN0!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 848w, https://substackcdn.com/image/fetch/$s_!BYN0!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 1272w, https://substackcdn.com/image/fetch/$s_!BYN0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 1456w" type="image/webp"/><img alt="A TL-DR for Basic Group Theory" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":null,"width":null,"resizeWidth":null,"bytes":null,"alt":"A TL-DR for Basic Group Theory","title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' fetchpriority="high" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!BYN0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png" srcset="https://substackcdn.com/image/fetch/$s_!BYN0!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 424w, https://substackcdn.com/image/fetch/$s_!BYN0!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 848w, https://substackcdn.com/image/fetch/$s_!BYN0!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 1272w, https://substackcdn.com/image/fetch/$s_!BYN0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c10d83a-6807-4ff9-a5d0-2af343250a06_436x285.png 1456w" title="A TL-DR for Basic Group Theory"/></picture><div></div></div></a><h3>What I wished I knew as a Math Undergrad (with no talent for math)</h3><p>My previous essays have described the role of symmetry and order in physics. Whilst the lines between mathematics and physics are now incredibly blurred, the science of classifying symmetries into rigorous and well-defined objects was primarily the domain of mathematicians. This study is known as group theory, or abstract algebra. It is now a wide reaching field of rich research with applications in anything from physics, computer science, geometry, number theory and topology. I wonder if there will be any strong links with the social sciences in the future.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!Eide!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!Eide!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 424w, https://substackcdn.com/image/fetch/$s_!Eide!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 848w, https://substackcdn.com/image/fetch/$s_!Eide!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 1272w, https://substackcdn.com/image/fetch/$s_!Eide!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":285,"width":436,"resizeWidth":null,"bytes":null,"alt":"","title":null,"type":null,"href":null,"belowTheFold":false,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="285" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!Eide!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png" srcset="https://substackcdn.com/image/fetch/$s_!Eide!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 424w, https://substackcdn.com/image/fetch/$s_!Eide!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 848w, https://substackcdn.com/image/fetch/$s_!Eide!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 1272w, https://substackcdn.com/image/fetch/$s_!Eide!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F86a2b4d6-603f-4956-b9d5-399774f32f44_436x285.png 1456w" title="" width="436"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>Prioritisation is a skill I definitely lacked when I was younger, and I wanted to write some posts about what I wish I prioritised in my undergraduate years learning math. I wanted to start with group theory. In my opinion, a person wanting to learn basic group theory should learn a few key theorems and then build their understanding of groups around that. This I think is sensible for two reasons. Firstly, it frees up space in our memory for more important things. Secondly, it forces our brains to find the pieces of information that are the most reusable, and hence the most important.</p>
+  </div>
+
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/what-i-wished-i-knew-about-abstract-algebra">Read on Substack</a>
+     &middot; <a href="what-makes-an-image-an-image.html">&laquo; Previous</a>
+     &middot; <a href="more-thoughts-on-space-solar-energy.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

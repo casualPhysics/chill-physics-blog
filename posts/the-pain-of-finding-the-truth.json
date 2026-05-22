@@ -1,0 +1,252 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/the-pain-of-finding-the-truth",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 160150209,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-03-29T20:27:42.478Z",
+  "updated_at": "2025-03-29T20:28:15.290Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "the-pain-of-finding-the-truth",
+  "social_title": null,
+  "subtitle": "Ways I am trying to not fool myself ",
+  "teaser_post_eligible": true,
+  "title": "The Pain of Finding the Truth ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 9
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "three-skills-of-virtue",
+  "next_post_slug": "a-two-tier-model-of-optimal-career",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!ftgM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 160150209,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Ways I am trying to not fool myself",
+  "body_html": "<p>Finding the truth is hard. But you should try to find it. I am, in general, worried about getting things wrong. </p><p>And I don\u2019t mean \u2018oh I tried something that I think it\u2019s likely to work, but didn\u2019t for a reasonable reason\u2019. Rather, I\u2019m worried about when I make a claim, reasoned from some assumptions, but then </p><ol><li><p>The chain of reasoning is incorrect (which can be prevented with care and practice), or </p></li><li><p>The base assumptions from which I start my argument are incorrect.  </p></li></ol><p>I can apply this to a lot of fields I\u2019m interested in, but stuff like ethics is prickly and thorny, and can be erroneous not in the way that I\u2019ve written above. But stuff like science or engineering, yeah, errors 1 and 2 happen all that time. </p><p>Science is just complicated, and it is likely that one of my pyramids of reasoning might have a faulty brick. For context, try some of the problems in Landau's famed 'theoretical minimum' - a physics test for his unfortunate students. If you are impressive enough to attempt them, how confident can you be in your correctness once you\u2019ve got the answer? </p><p>Here's a problem that, in plain English, gets you to calculate the rate of decay of a particle trapped in attraction with a source.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!S2Yl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!S2Yl!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 424w, https://substackcdn.com/image/fetch/$s_!S2Yl!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 848w, https://substackcdn.com/image/fetch/$s_!S2Yl!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 1272w, https://substackcdn.com/image/fetch/$s_!S2Yl!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!S2Yl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png\" width=\"641\" height=\"264\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/dc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:264,&quot;width&quot;:641,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:25396,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160150209?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!S2Yl!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 424w, https://substackcdn.com/image/fetch/$s_!S2Yl!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 848w, https://substackcdn.com/image/fetch/$s_!S2Yl!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 1272w, https://substackcdn.com/image/fetch/$s_!S2Yl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc1da63a-ddbb-4ba6-92c5-307884e90e95_641x264.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>And if it's that hard to understand an electron, what makes you think we are capable of understanding humans to an acceptable level, in the social sciences? Rather, what makes you think that the claims on human behavior and in social policy are trustworthy? To illustrate the irony of this, there was a paper in 2023 on trying to improve the replicability of results in the social sciences. But the paper itself wasn't replicable, and so it got retracted as well.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ftgM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ftgM!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 424w, https://substackcdn.com/image/fetch/$s_!ftgM!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 848w, https://substackcdn.com/image/fetch/$s_!ftgM!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 1272w, https://substackcdn.com/image/fetch/$s_!ftgM!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ftgM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png\" width=\"1213\" height=\"799\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/70e876df-7771-43f9-a117-456c28864390_1213x799.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:799,&quot;width&quot;:1213,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:160538,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160150209?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ftgM!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 424w, https://substackcdn.com/image/fetch/$s_!ftgM!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 848w, https://substackcdn.com/image/fetch/$s_!ftgM!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 1272w, https://substackcdn.com/image/fetch/$s_!ftgM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e876df-7771-43f9-a117-456c28864390_1213x799.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Unfortunately, I think that this is probably due to the well-flagged pressure to publish, and so faking data from experiments that are not likely reproducible is easy to do. But still, the message is clear - it is hard to trust other people since they probably have incentives.</p><p>So I think this skeptic anxiety is worth it, because since science and truth are complicated and hard, having a continual self-skeptical mindset is likely to protect you from future harm. This is why I now consider self-skepticism as a core value of my personality, and I genuinely think that the world would be a better place if more people thought like this. Sure, people would be annoyed.</p><p>It's easy to fool yourself into thinking you're right. Which I am even more worried about. This sense seems to be shared by some of the greatest scientists we have ever had.</p><p>One line that has stuck with me from Richard Feynman's memoir <em>Surely You're Joking, Mr. Feynman</em>:</p><blockquote><p><em>The first principle is that you must not fool yourself\u2014and you are the easiest person to fool. So you have to be very careful about that. After you\u2019ve not fooled yourself, it\u2019s easy not to fool other scientists. You just have to be honest in a conventional way after that.</em></p></blockquote><p>Terence Tao, one of the most eminent mathematicians of our time, also offers similar advice when it comes to self-skepticism in mathematical arguments, which I think can also be applied to trusting others. He argues that because of the complexity of nature, getting something too easily is a signal of an error in logic somewhere. I share this sentiment, that effort is a necessary but not sufficient indicator of novelty.</p><blockquote><p><em>If you unexpectedly find a problem solving itself almost effortlessly, and you can\u2019t quite see why, you should try to analyze your solution more sceptically.</em></p></blockquote><p>This is in the context of solving mathematical problems but is applicable advice to literally anything. One just needs to see all of the cases of unintended consequences in policy to see what I mean.</p><p>It's one thing to fool oneself in the sciences, but trying to get things right about policy, economics, and ethics is a lot harder because we can't have experiments. For ethical reasons, it is near impossible to create scientific standard experiments with humans. And so we have to rely on Bayesianism, logic, and rationality to figure out what's what.</p><div><hr></div><h3>Minimal Trust Investigations</h3><p>One of the texts which have influenced my thinking is Holden Karnofsky's piece on minimal trust investigations, which is when you aim to answer a question without straight-away assuming Karnofsky argues that minimal trust investigations help him to think about when to trust and not to trust something:</p><blockquote><p><em>But I also think it's a good idea to occasionally do a <strong>minimal-trust investigation:</strong> to suspend my trust in others and dig as deeply into a question as I can. This is not the same as taking a class, or even reading and thinking about both sides of a debate; it is always enormously more work than that. I think the vast majority of people (even within communities that have rationality and critical inquiry as central parts of their identity) have never done one.</em></p></blockquote><p>And that doing one on GiveWell's strategy of malaria nets helped him to question whether malaria nets worked.</p><p>I also think this is a great exercise. From a physics perspective, this can be done by:</p><ul><li><p>Reading historical accounts to gain insight into the conditions of experiments.</p></li><li><p>Verifying mathematical claims in a paper.</p></li><li><p>Reading historical papers and comparing them to modern experiments.</p></li><li><p>Conducting experiments yourself, which is the hardest but most rewarding approach.</p></li></ul><p>If you're an undergrad doing science, the kicker is actually doing the derivations and exercises yourself. If there are problems in the text that you're reading, try to do them. And if you can't, seek assistance or use an AI model to help. Often, the very act of posing the question and then asking on platforms like StackExchange will help.</p><p>Terence Tao offers another valuable insight:</p><blockquote><p><em>'When you read something, don't just read it, fight it!'</em></p></blockquote><p>A side effect of doing these things is that you'll probably write up some expository content, which would probably be a bit original since you're likely to spend some time focusing on your own problems.</p><p>This culture of minimal trust was also prevalent in Feynman's thinking. He once questioned the result of a psychologist:</p><blockquote><p><em>\"I explained to her that it was necessary first to repeat in her laboratory the experiment of the other person\u2014to do it under condition X to see if she could also get result A, and then change to Y and see if A changed. Then she would know that the real difference was the thing she thought she had under control.\"</em></p></blockquote><p>And even if you don't do a minimal trust investigation, you can still err on the side of caution by:</p><ul><li><p>Baking skepticism into your personality and questioning assumptions.</p></li><li><p>Writing things down to clarify your thoughts.</p></li></ul><p>I\u2019ve found that a practical way to do minimal trust investigations on topics is to map out a network of the connected papers that you\u2019re reading. You can do this by going on <a href=\"https://www.connectedpapers.com/\">here</a>. And then you can try to make sure you can understand the math of each constituent paper individually, thereby creating a tree. </p><p>For example, I was trying to look at mechanistic explanations of human memory. I was wondering if any of the electronic structure stuff I was working on was relatable, but to do that, I had to do a deep-dive into this single paper on memory engrams. And to help me out, I used the connected papers website to build a list tree of papers I needed to read. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ugHP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ugHP!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 424w, https://substackcdn.com/image/fetch/$s_!ugHP!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 848w, https://substackcdn.com/image/fetch/$s_!ugHP!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 1272w, https://substackcdn.com/image/fetch/$s_!ugHP!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ugHP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png\" width=\"1192\" height=\"780\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:780,&quot;width&quot;:1192,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:323014,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160150209?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ugHP!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 424w, https://substackcdn.com/image/fetch/$s_!ugHP!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 848w, https://substackcdn.com/image/fetch/$s_!ugHP!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 1272w, https://substackcdn.com/image/fetch/$s_!ugHP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c10725d-4536-4afa-ad27-1904b8664a0d_1192x780.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Another thing that I like to do is ground-up expository texts. Start with any claim, and then work deeper and deeper down the tree in the things behind that claim. For example, I was looking at this <a href=\"https://pubmed.ncbi.nlm.nih.gov/38641327/\">paper</a> on microtubules exhibiting quantum properties called \u2018superradiance\u2019. But then I didn\u2019t realise what superradiance actually was from a first principles, mathematical perspective. So then I wrote an expository section about it in my notes, and worked through the math assuming nothing from what I read in papers was true, and rechecking each claim. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!1OFj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!1OFj!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 424w, https://substackcdn.com/image/fetch/$s_!1OFj!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 848w, https://substackcdn.com/image/fetch/$s_!1OFj!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 1272w, https://substackcdn.com/image/fetch/$s_!1OFj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!1OFj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png\" width=\"1456\" height=\"1119\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1119,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:242934,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160150209?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!1OFj!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 424w, https://substackcdn.com/image/fetch/$s_!1OFj!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 848w, https://substackcdn.com/image/fetch/$s_!1OFj!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 1272w, https://substackcdn.com/image/fetch/$s_!1OFj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a8f54c9-1f0f-4461-a2d0-e4c8702796ff_1572x1208.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><h3>Bibliography</h3><ol><li><p>Landau, L. D., &amp; Lifshitz, E. M. <em>Theoretical Minimum</em>.</p><ul><li><p>https://people.tamu.edu/~abanov/QE/TM-QM.pdf</p></li></ul></li><li><p>Stanford retracted social science paper.</p><ul><li><p>[Unavailable, screenshot referenced]</p></li></ul></li><li><p>Terence Tao on skepticism in mathematical arguments.</p><ul><li><p>https://terrytao.wordpress.com/career-advice/be-sceptical-of-your-own-work/</p></li></ul></li><li><p>Camus, A. (1991). <em>The Myth of Sisyphus and Other Essays</em>. Vintage International.</p><ul><li><p>https://www.goodreads.com/work/quotes/855563</p></li></ul></li><li><p>Holden Karnofsky on minimal trust investigations.</p><ul><li><p><a href=\"https://www.cold-takes.com/minimal-trust-investigations/\">[Referenced but no direct link]</a></p></li></ul></li></ol>",
+  "truncated_body_text": "Finding the truth is hard. But you should try to find it. I am, in general, worried about getting things wrong.",
+  "wordcount": 1398,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        173.1716417910448,
+        81.82835820895521,
+        81.82835820895521
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        90.0492537313433,
+        42.5507462686567,
+        42.5507462686567
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        212,
+        164,
+        164
+      ],
+      "population": 20
+    },
+    "Muted": {
+      "rgb": [
+        188,
+        120,
+        121
+      ],
+      "population": 10
+    },
+    "DarkMuted": {
+      "rgb": [
+        103.90298507462688,
+        49.09701492537312,
+        49.09701492537312
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        210,
+        174,
+        174
+      ],
+      "population": 70
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 9,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 160150209,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/160150209/tts/12d5cfd2-0eb0-4e01-8813-97445792fb5b/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

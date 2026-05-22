@@ -1,0 +1,328 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/london-and-the-country",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 155782337,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-02-05T22:03:41.391Z",
+  "updated_at": "2025-02-05T22:04:29.281Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "london-and-the-country",
+  "social_title": null,
+  "subtitle": "A story of busyness versus intentionality ",
+  "teaser_post_eligible": true,
+  "title": "London and the Country",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 9
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "chicken-curry-piece-by-piece",
+  "next_post_slug": "the-professor-and-the-plumber",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!3oHp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 155782337,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A story of busyness versus intentionality",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!3oHp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!3oHp!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 424w, https://substackcdn.com/image/fetch/$s_!3oHp!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 848w, https://substackcdn.com/image/fetch/$s_!3oHp!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!3oHp!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!3oHp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg\" width=\"1456\" height=\"1934\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1934,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:949813,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!3oHp!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 424w, https://substackcdn.com/image/fetch/$s_!3oHp!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 848w, https://substackcdn.com/image/fetch/$s_!3oHp!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!3oHp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd200b37e-31d0-4ae6-81a3-a4dcab0ea056_1536x2040.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I\u2019ve lived in South central London for five years. My neighbourhood is one of disparity. The people around me come from England, Asia and Africa. There is disparity in geography and in culture. There is disparity in wealth too. Many are rich and many are poor. </p><p>My home is a small flat next to a busy street lit up by white street lamps. The main road is filled with loud butchers and bright phone stores. My mom somehow convinced me to get this flat after I listened to murmurs about how it\u2019s \u2018guaranteed to increase in value\u2019, betting on a possible tube line extension that might never happen. </p><p>My flat\u2019s building is a converted warehouse. The walls are exposed brown bricks, with big windows that poorly insulate my room. I need three duvets to sleep in the winter. I have a huge painting of four cartoon-style women by my sister, above my couch. Outside my door, there\u2019s a nifty lift that I shove my bicycle into every morning when I cycle to work. The bottom door, which is the entrance to the apartment complex, always gets broken into as people come in and try to steal bikes.  </p><p>I love this place. </p><p>There\u2019s a small cafe at the bottom of my building. I was there when it opened, and the exacting owner and I are familiar with each other. His staff serve coffee at exactly the right temperature, at exactly the right sourness. It plays exactly the right jazz music, at exactly the right volume. On the walls, there are paintings of scary characters in elaborate golden frames. It is next to the park that my girlfriend and I like to walk in. </p><p>When I walk into this cafe on cold Saturday mornings, my heart rate drops, and my breathing slows, with the sense of being at ease. </p><p>There is also a very well stocked library run by the council, with a surprisingly deep collection of books. There are soft benches to sit down. They\u2019ll even order books in for you if they don\u2019t have it. It is quiet and community driven. </p><p>But this essay is not about being calm. </p><p>I thought I knew a lot about my area. And yet somehow, I didn\u2019t realise until a few months ago that there were three places where I have come to discover some good ol\u2019 <em>failure</em>. Near me, there is </p><ul><li><p> a very popular chess club by the library (where some famous chess YouTubers have visited)  </p></li><li><p>a calisthenics workout group down by the local park</p></li><li><p>a very busy, and yet not <em>too</em> busy to be off-putting, poker hall. </p></li></ul><p>And through each of these places, I have found that the beauty of London is that you can always find fresh ways to get your ass kicked. </p><p>Last weekend, I went into one of these chess games in London and lost. It wasn\u2019t anything serious, but I care a lot about my skills in decision making. Whilst I\u2019m only rated 300 elo (this is a low number), losing that day reminded that I have a lot to work on. I care about the speed at which I do things, and being a naturally slow thinker, I\u2019ve tried to poorly compensate by being cavalier sometimes about decisions. </p><p>I\u2019ve lost against plenty of prodigious under-ten year olds, and it stings. </p><p>I do meet some cool characters. The guy sitting next to me on the table ordered some BBQ sauce with his chicken wings and kept getting irritated that the restaurant didn\u2019t have the right kind of flavour of sauce. </p><p>I went to this chess game with my friend, who is an excellent math teacher as well. He\u2019s also very strong. He was the one who introduced me to a calisthenics group where I regularly got my ass kicked in gruelling workouts, to the point of throwing up. </p><p>The day after the chess game, I cycled around Regent\u2019s park in London, with a friend from high school. Many in London are into endurance sports. I am kind of into bike touring, and yet I know people who have taken it much further, like doing triathlons abroad, or Ironmans.  I really enjoy cycling, but it was raining on the way back, and I gave up half way. It is peak winter season now. When I returned home, I felt a burning sensation as I tried to defrost my frozen toes in a hot bath. </p><p>And for those who haven\u2019t experienced the weather in winter in London, take it from me that it can be soul destroying. </p><p>And so, something about that weekend felt a bit \u2018hectic\u2019. I tried to do a lot of things, and didn\u2019t really do any of them that well. But it wasn\u2019t the weekend on its own. Sometimes, at work, I feel frantic with the sense that there are too many tasks to accomplish, in little time. </p><p>And this got me worried - am I trying to do too many things? And if so, am I doing them badly because I\u2019m unfocused? </p><p>I tried to find an antidote to that feeling. </p><div><hr></div><p>So, a few days ago my girlfriend and I traveled to her family home in the countryside. We drove in my reliable, yet tiny Volkswagen Up! into the Cotswolds area near Bristol. Before we left, I spent an hour in the frosty morning figuring out how to check my engine oil, and pumping the tires. It takes around thirty whole seconds for me to accelerate to seventy miles an hour, and by the time I\u2019m off the slip road on the highway, I\u2019m only just up to speed. It took us around two and a half hours to get there. </p><p>The Cotswolds area is formed of large rolling hills, with cottages made out of white sandstone. It is an idyllic, English version of the limestone formations and thick rainforests of the Malaysian peninsula I grew up around. </p><p>I can\u2019t imagine anyone being physically unfit here, since the hills are so steep. It is nerve wracking to drive a manual car. There is green farmland, and sparse wood, all around. The beauty of the Cotswold\u2019s area and its villages - Stroud, Cirencester and Woodchester - rivals what I\u2019ve seen in both Scandinavia and Europe. </p><p>We went on hikes and walks. Coincidentally, throughout the trip, I was reading a book called \u2018Slow Productivity\u2019 by Cal Newport. The main idea from this book was to try to do less \u2018types\u2019 of things. Rather, one should focus on quality. The net result is a piece of work whose impact is greater than someone who is trying to wade through distractions to get stuff done. </p><p>And I felt like that aligned with what I\u2019ve experienced in the countryside. People who live here, are more intentional in what they do. When they go for a walk, it feels as if they are actually focusing on walking, and not on the infinite amounts of distraction you can get in a big city. I think it\u2019s because there are simply less options to worry about here. The lack of things to do out here has systemically pushed people to be more focused at the few things available. </p><p>This is different from the franticness of trying to think about too many different things at once, a feeling that I feel in London. Sometimes at work, and sometimes in my personal life. Even when I walk down the street, there are street vendors, butchers, stores and restaurants trying to grab my attention. </p><p>The intentionality of the countryside manifests most obviously in the food. The ingredients taste better because there is a focus on quality and health. When I walk past the butchers, the meat is fresh and red. The vegetables are bigger and more succulent. The butter and cheese has a nuttier, saltier and more complex taste. It also manifests in the home. The houses are beautiful, intentional and well kept. People take time to finish their meals, as opposed to city workers scoffing them down at their desks. </p><p>But just because countryside people are focused, does not mean that they are less busy. Rather, they are focused on singular tasks, but just go more in depth. When I read \u2018A Shepherd\u2019s Life\u2019 by James Rebanks, and \u2018Deep Country\u2019 by Neill Ansell, I began to understand that people in the countryside are always busy. Ansell describes constantly having to find firewood to heat up his cottage in the Welsh hills. Rebanks never ceases to find things to fix. But when they are doing something, they do it well and to completion.  </p><p>One striking point that Neill Ansell himself says is that he was so busy doing things and focusing on nature, that he never really had any time for self introspection. I for one would love to be able to be so locked into something that I cease to care about who I am. </p><p>I tried to copy this mindset, and I managed to get a lot more science work in the countryside, and the work was better quality. This is in spite of me having slower internet and no access to my big monitors at home. I also managed to really focus in on the Brothers Kamarazov, an epic novel by Dostoyevsky that requires concentration. </p><p>This focus on artisanal quality somewhat conflicts with the wisdom I hear about not being a perfectionist, and trying to just \u2018get something out there quickly\u2019. I think that this can work sometimes, perhaps if you are not sure what you want to do, or are testing out building new products.  </p><p>That triggered me to try and change my way of thinking a bit. I am trying to do less things per day. One main thing for my work, and one main thing for either a hobby or in science. I try to do it well. When I am writing, I take time and effort in writing good sentences and articulating myself clearly. When I am writing code, I make sure it is crystal clear and well tested. </p><p>And when it is done, I let myself have a break in the evenings. I then focus on making my hot chocolate that is slightly salted to enhance the cocoa flavour. I feel better about taking breaks now, because I am now more convinced that long term effort in quality pays off. </p>",
+  "truncated_body_text": "I\u2019ve lived in South central London for five years. My neighbourhood is one of disparity. The people around me come from England, Asia and Africa. There is disparity in geography and in culture. There is disparity in wealth too. Many are rich and many are poor.",
+  "wordcount": 1722,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        152,
+        148,
+        65
+      ],
+      "population": 103
+    },
+    "DarkVibrant": {
+      "rgb": [
+        100,
+        94,
+        48
+      ],
+      "population": 289
+    },
+    "LightVibrant": {
+      "rgb": [
+        215.2811059907834,
+        212.836866359447,
+        162.1188940092166
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        151,
+        126,
+        103
+      ],
+      "population": 180
+    },
+    "DarkMuted": {
+      "rgb": [
+        81,
+        65,
+        53
+      ],
+      "population": 230
+    },
+    "LightMuted": {
+      "rgb": [
+        192,
+        184,
+        164
+      ],
+      "population": 179
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 9,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 155782337,
+      "voice_id": "en-US-OnyxTurboMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/155782337/tts/82e0ef37-c29d-4e18-8e99-7ebc64ac420f/en-US-OnyxTurboMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 91711511,
+      "body": "Have you read Walden by Henry David Thoreau? Judging by this essay of yours, I think you would enjoy it.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Have you read Walden by Henry David Thoreau? Judging by this essay of yours, I think you would enjoy it."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 155782337,
+      "user_id": 84532545,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-02-07T08:54:28.550Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "JJD",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bb6cce71-83fa-44d8-9aa4-71ad04466e41_500x305.jpeg",
+      "handle": "jjd12",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jjd12",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

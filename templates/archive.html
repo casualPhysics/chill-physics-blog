@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+{% block title %}Archive &mdash; Casual Physics Enjoyer{% endblock %}
+{% block content %}
+
+<h2 class="page-title">Archive</h2>
+<p class="page-blurb">{{ total }} posts, newest first.</p>
+
+{% for year, year_posts in by_year %}
+<section class="archive-year">
+  <h3 class="archive-year-title">{{ year }}</h3>
+  <ul class="archive-list">
+    {% for post in year_posts %}
+    <li>
+      <span class="archive-date">{{ post.date_short }}</span>
+      <a href="posts/{{ post.slug }}.html">{{ post.title }}</a>
+      {% if post.subtitle %}<span class="archive-subtitle"> &mdash; {{ post.subtitle }}</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+
+{% endblock %}

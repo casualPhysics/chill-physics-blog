@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thoughts on Words and their Meaning &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Thoughts on Words and their Meaning</h2>
+    <p class="post-meta">
+      <span class="post-date">8 May 2022</span>
+      &middot; <span class="post-subtitle">I wanted to explore if simpler, small scale models can give us any insight for answering questions about creativity, meaning and abstraction in images and in language. This post will be about using simple techniques in machine learning to offer some answe</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <a class="image-link image2" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!O4nt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!O4nt!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 424w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 848w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1456w" type="image/webp"/><img alt="Thoughts on Words and their Meaning" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/c3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":null,"width":null,"resizeWidth":null,"bytes":null,"alt":"Thoughts on Words and their Meaning","title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' fetchpriority="high" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!O4nt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg" srcset="https://substackcdn.com/image/fetch/$s_!O4nt!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 424w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 848w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!O4nt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a0e48e-e032-4eb6-a15b-5922060dbdcf_2000x1333.jpeg 1456w" title="Thoughts on Words and their Meaning"/></picture><div></div></div></a><p>I think that the mathematics of machine learning can give us some insight into deep questions in philosophy that previously seemed intractable. Up until a few years ago, philosophers didn't have the technology or the faith that neural networks were actually effective at doing their jobs. Now that the technology appears convincing, it could be an opportune time to rehash these deep questions from the perspective of deep learning.</p><p>After looking at some of the developments in <em>transformer</em> models, especially encoders, I wanted to explore if simpler, small scale models can give us any insight for answering questions about creativity, meaning and abstraction in language. This post will be about using simple techniques in machine learning to offer some answers to philosophical questions in language.</p><p>I was amazed at the recent caption-to-image techniques used by Open-AI to make DALL-E 2. DALL-E 2 uses an architecture called a transformer model to translate captions into various realistic images. Transformer models, loosely speaking, consist of two parts - an encoder and a decoder. An encoder tries to find an efficient representation of a larger space of words, and a decoder takes it from this abstract representation back into content. Mathematically, it's trying to find some functions that minimise this value over everything in the space:</p><p>$$ \text{Find } \phi, \psi \text{ such that } L = \sum _ { v \in \chi } || v - \phi \circ \psi ( v )  \text{ is minimised} || ^ 2. $$</p><p>One obvious question to start with, yet probably the most difficult to answer, is what gives a word its meaning? This is a problem that has been one of the main themes in the philosophy of language. One common stream of thought is that words are signs that  provoke mental images. This is part of the ideational theory of meaning, most commonly associated with the British empiricist John Locke.</p>
+  </div>
+
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/what-makes-an-image-an-image">Read on Substack</a>
+     &middot; <a href="redshift-from-massive-objects.html">&laquo; Previous</a>
+     &middot; <a href="what-i-wished-i-knew-about-abstract-algebra.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

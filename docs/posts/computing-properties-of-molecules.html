@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Computing Properties of Molecules.  &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Computing Properties of Molecules. </h2>
+    <p class="post-meta">
+      <span class="post-date">3 September 2025</span>
+      &middot; <span class="post-subtitle">Changing basis to make sense of a dimeric system. </span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>Hey guys! I’ve been wanting to post more of my technical work. I will link details, but write about the aims, motivations and content here. My technical <a href="https://casualphysicsenjoyer.com/Essays+in+progress/Computational+chemistry/Stylised+Toy+Example+of+the+Diabatisation+Procedure">post is here</a>. </p><p>My main project is predicting what happens when polarised light shines on a protein. This is called <a href="https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Supplemental_Modules_(Physical_and_Theoretical_Chemistry)/Spectroscopy/Electronic_Spectroscopy/Circular_Dichroism">circular dichroism spectroscopy</a>. It’s a fast way to get some basic structural information about a a protein, albeit less accurate. </p><p>It’s really hard to do this calculation quantum mechanically for long proteins, so we split them up into chunks called dimers. Each dimer is comprised of two smaller chunks called monomers, joined together at a particular angle. For each type of dimer, our computers are strong enough to compute their properties in reasonable time. </p><p>But our programs to get the properties of a molecule are blunt. When we use a computer to get the energies of a dimer, we get some information, like its energies, and the first order direction of their charge. </p><p>But this isn’t in the format that we need it. This diagonal matrix tells us properties about the dimer as a whole, but not how two, separate monomers interact. For example, consider two monomers joined together by a peptide bond.</p><p>We want to the interaction information, so that when we chain these monomers together for the protein, so we know how each link in the chain affects the next one. </p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!tkhF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!tkhF!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 424w, https://substackcdn.com/image/fetch/$s_!tkhF!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 848w, https://substackcdn.com/image/fetch/$s_!tkhF!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 1272w, https://substackcdn.com/image/fetch/$s_!tkhF!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/c3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":590,"width":790,"resizeWidth":null,"bytes":22266,"alt":null,"title":null,"type":"image/png","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://chillphysicsenjoyer.substack.com/i/172657953?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png","isProcessing":false,"align":null,"offset":false}' fetchpriority="high" height="590" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!tkhF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png" srcset="https://substackcdn.com/image/fetch/$s_!tkhF!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 424w, https://substackcdn.com/image/fetch/$s_!tkhF!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 848w, https://substackcdn.com/image/fetch/$s_!tkhF!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 1272w, https://substackcdn.com/image/fetch/$s_!tkhF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3761e4e-6b78-4ec7-ba73-92ea27fe6a60_790x590.png 1456w" width="790"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>So, we can use math to ‘change basis’ to get into into a different form, where we can read off the couplings that we associate with a particular interpretation. I found the literature and exposition of this procedure pretty light. As such, <a href="https://casualphysicsenjoyer.com/Essays+in+progress/Computational+chemistry/Stylised+Toy+Example+of+the+Diabatisation+Procedure">I wrote a small note on such a procedure, where we can compute the properties of two small monomers joined by a bond, here.</a></p>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/computing-properties-of-molecules">Read on Substack</a>
+     &middot; <a href="for-here-too-gods-dwell.html">&laquo; Previous</a>
+     &middot; <a href="just-get-a-partial-fix-and-move-on.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

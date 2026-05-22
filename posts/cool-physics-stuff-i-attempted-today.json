@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/cool-physics-stuff-i-attempted-today",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391432,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2022-06-15T21:10:48.000Z",
+  "updated_at": "2023-05-28T15:50:19.415Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "cool-physics-stuff-i-attempted-today",
+  "social_title": null,
+  "subtitle": "What to do on a sick day...",
+  "teaser_post_eligible": true,
+  "title": "Cool Physics Stuff I Attempted today",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 1
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "a-list-of-problems-in-many-electron-systems",
+  "next_post_slug": "physics-diaries-2",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/7a1b64d1-10de-49e4-abc6-23968e49afcd_518x518.png",
+  "cover_image_is_square": true,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "What to do on a sick day...",
+  "body_html": "<p>Sometimes I like to attempt short, self-contained problems to test my understanding of basic physics topics. It is part of my programme of spaced repetition - it helps keep concepts that I feel like I should remember in my brain. These problems often comes from textbooks, but also from myself. I mentioned in a previous post that I believe that problem solving is probably the best way to gain a deep understanding.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!4oqM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!4oqM!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 424w, https://substackcdn.com/image/fetch/$s_!4oqM!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 848w, https://substackcdn.com/image/fetch/$s_!4oqM!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 1272w, https://substackcdn.com/image/fetch/$s_!4oqM!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!4oqM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png\" width=\"518\" height=\"518\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:518,&quot;width&quot;:518,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!4oqM!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 424w, https://substackcdn.com/image/fetch/$s_!4oqM!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 848w, https://substackcdn.com/image/fetch/$s_!4oqM!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 1272w, https://substackcdn.com/image/fetch/$s_!4oqM!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7ec239f-b11d-49a1-9cab-03b565f663a6_518x518.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">By OpenStreetMap contributors - You may find a page on the OpenStreetMap wiki page for CERN, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=4763402</figcaption></figure></div><p>This takes a significant amount of my time, so I felt that I should start documenting some of my exploits. I think writing about it makes the pursuit a little less lonely, and it feels more fruitful. So, without further ado, here's some cool physics stuff I did today.</p><h3>Special Relativity</h3><p>Special relativity can be practical if you want to create a particle accelerator! Often times, particle scattering problems require a minimum energy for them to happen, so we need to get an intuition for how fast they need to travel to reach these energies. I am by no means an expert in particle physics, but I do often hear the phrase 'the particle collider can accelerate protons to<em> x</em> TeV's'. I tried to remind myself of how to compute the actual speed, in terms of metres per second, as a function of centre of mass energy.</p><p>If we have two particles of equal mass, then we can write each of them in the centre of mass frame, where 3-momenta components add to zero. In special relativity, we work with 4-momenta. 4-momentum is the rate of change of a particle in space time with respect to a particle's proper time (the time that is observed by the particles themselves).</p><p>$$ p _ 1^ \\mu = m \\gamma ( 1 , \\mathbf v ), \\quad p _ 2 ^\\mu &nbsp;= m \\gamma &nbsp;( 1 , - \\mathbf v )$$</p><p>If we know the total energy of the system, we can just take a look at the top components to get the following equation, and then back solve.</p><p>$$ p _ 1 ^ 0 + p _ 2 ^ 0 = 14 \\text{TeV} &nbsp;= 2 * m \\gamma $$</p><p>So, we get a speed of around 99.9999991% speed of light!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!U9hy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!U9hy!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 424w, https://substackcdn.com/image/fetch/$s_!U9hy!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 848w, https://substackcdn.com/image/fetch/$s_!U9hy!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 1272w, https://substackcdn.com/image/fetch/$s_!U9hy!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!U9hy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png\" width=\"1758\" height=\"428\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:428,&quot;width&quot;:1758,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!U9hy!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 424w, https://substackcdn.com/image/fetch/$s_!U9hy!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 848w, https://substackcdn.com/image/fetch/$s_!U9hy!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 1272w, https://substackcdn.com/image/fetch/$s_!U9hy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7c0708d-727e-41f3-b62f-929091d1e038_1758x428.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><h3>Wick's Theorem</h3><p>I tried to prove this crucial mathematical identity - Wick's theorem is a theorem which relates the expected value of multiple values in a physical quantity to pairwise elements between them. This can be proved quite easily by adding a source current, differentiating, and then setting it to zero.</p><p>$$ \\langle v_ 1 v _ 2 v _ 3 v _ 4 \\rangle = \\langle v _ 1 v _ 2 \\rangle \\langle v _ 3 v _ 4 \\rangle + \\langle v _ 1 v _ 3 \\rangle \\langle v _ 3 v _ 2 \\rangle + \\langle v _ 1 v _ 4 \\rangle \\langle v _ 3 v _ 1 \\rangle $$</p><h3>Notes on Quantum Condensed Matter Theory</h3><p>My resource so far for learning condensed matter theory was the textbook by Xiao Gang-Wen, on Quantum Many Body systems. I found a pretty comprehensive set of notes here <a href=\"https://www.tcm.phy.cam.ac.uk/~bds10/tp3.html\">https://www.tcm.phy.cam.ac.uk/~bds10/tp3.html</a> from Cambridge's Quantum Condensed Matter theory course.</p>",
+  "truncated_body_text": "Sometimes I like to attempt short, self-contained problems to test my understanding of basic physics topics. It is part of my programme of spaced repetition - it helps keep concepts that I feel like I should remember in my brain. These problems often comes from textbooks, but also from myself. I mentioned in a previous post that I believe that problem s\u2026",
+  "wordcount": 530,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        127,
+        192,
+        103
+      ],
+      "population": 464
+    },
+    "DarkVibrant": {
+      "rgb": [
+        53.65674418604652,
+        93.74511627906976,
+        38.85488372093024
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        167,
+        228,
+        154
+      ],
+      "population": 15
+    },
+    "Muted": {
+      "rgb": [
+        121,
+        178,
+        186
+      ],
+      "population": 6
+    },
+    "DarkMuted": {
+      "rgb": [
+        61.91162790697674,
+        108.16744186046512,
+        44.83255813953488
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        199,
+        212,
+        166
+      ],
+      "population": 326
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

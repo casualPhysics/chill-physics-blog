@@ -1,0 +1,599 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/when-scientific-method-fails",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 152208127,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2024-11-26T21:43:02.174Z",
+  "updated_at": "2025-05-30T22:22:14.487Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "when-scientific-method-fails",
+  "social_title": null,
+  "subtitle": "A physicist's reflections on living life well through the skill of judgement, not hard-core empiricism . ",
+  "teaser_post_eligible": true,
+  "title": "When The Scientific Method Fails",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "calibrating-myself-through-science",
+  "next_post_slug": "conquering-the-molecules",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 152208127,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A physicist's reflections on living life well through the skill of judgement, not hard-core empiricism .",
+  "body_html": "<h3>Frameworks for living better </h3><p>I\u2019ve been reflecting a lot on how to live life better. Whilst there are many ways to do this effectively, I now have some conviction that the best method is by making better decisions. Decisions seem to be the main channel to living better, since fairly motivated people generally have the same amount of working hours in the day. And so the only real differentiator you have have versus peers (with a similar background / environment that you had), is the choices you make. I enjoy figuring out ways to have more money, do better research, live a more comfortable life, and have better health and relationships. But how does one make better decisions? I think the answer to that is by improving your decision making <strong>framework</strong>. </p><p>And if the title isn\u2019t already a hint enough, this post is going to be about some errors in my own decision making framework in the past. </p><p></p><h3>The Scientific Method </h3><p>As someone who does science research, and as someone who has been trained in math and physics, I\u2019ve had some prior ideas about what makes a good framework for making decisions. Initially thought that the <strong>scientific method</strong> was a universally good way to guide oneself to making better decisions. The scientific method, to first order, is a recipe book that was originally used to arrive at truths about nature. To first order, the steps go like this: </p><ol><li><p>make or guess a hypothesis about what is true, to come up with an updated \u2018theory\u2019 about the world. <em>Example - diseases are caused by things called \u2018germs\u2019, that are really really small entities we can\u2019t see but can be killed.   </em></p></li><li><p>make sure that what is new in the model fits into your current existing model of what else is true in the world. <em>Example - Since germs are really small, we can\u2019t expect to see them with the naked eye, and so there is nothing obviously wrong with this germ theory. </em></p></li><li><p>figure out the novel thing that your theory predicts. <em>Example - if we sanitise the rooms, we can kill the germs that cause disease! </em></p></li><li><p>if you\u2019ve done 1., 2. and 3. correctly, congratulations! Now you have to verify that your new theory could be correct by testing the novel thing your theory predicts. <em>Example - lets see what happens when we do surgery in dirty rooms versus clean rooms. </em></p></li><li><p>If your experiment turns out to be false, go back to step 1.</p><p></p></li></ol><p>And I think <em>sometimes</em>, thinking about life problems with the scientific method is useful. Like in exercise, for example. For example, when was working on trying to work on my skills in calisthenics, I tried to use the scientific method quite liberally. I did fairly rigorous work in trying to isolate the problems&nbsp;that I had with my current technique, came to some ground truth and then experimented. It\u2019s also a really useful technique obviously if you have a career in</p><ul><li><p>engineering - stress testing designs  </p></li><li><p>finance - backtesting investment hypotheses</p></li><li><p>or tech - unit testing software.  </p><p></p></li></ul><h3>Where the Scientific Method Doesn\u2019t Really Help </h3><p>But unfortunately I think that the scope of applicability of the scientific method is just really small, and doesn\u2019t apply to most of the things that are meaningful to me -  even when, funnily enough, doing science! </p><p>Whilst the scientific method tells you <strong>how</strong> to test if something is true - it doesn\u2019t tell you much about <strong>what</strong> you should test. For example, suppose I want to make an awesome research breakthrough. The scientific method doesn\u2019t tell me at all about how to find and choose interesting and useful hypotheses. It only really tells me to test them. To find interesting and useful hypothesises, I\u2019d have to defer to other methods decision making and thinking. For example, </p><ul><li><p>finding a supervisor to guide me (people skills, persuasion and introversion) </p></li><li><p>building probabilistic priors about the likelihood of me succeeding at proving different hypothesis (decision theory, bayesian reasoning) </p></li><li><p>judgement about whether a problem is important (talking with people, estimation) </p></li><li><p>asking questions (idea generation) </p></li></ul><p>Moreover the scientific method says nothing at all about the ethics or morals of decision making in any normative sense. For that kind of problem we\u2019d need to defer to law, history and analytic philosophy - all which have styles of thinking that have nothing to do with experiments. And for good reason - it\u2019s pretty much impossible to make serious scientific experiments to decide what is or is not societally good, unless you want to seriously breach some traditionally ethical guidelines. </p><p>This is where I really see some clear value in perhaps imprecise and rambling type thoughts, because those often fuel ideas about what to then test with the scientific method. For example, if I\u2019m messing around with some math, I might come across a mistake that I find interesting, then follow that lead to actually testing something rigourous. </p><p>Another area where the scientific method fails is that most problems in the world aren\u2019t \u2018stationary\u2019 - which means that the structure we are trying to probe changes with time. If something changes with time, it\u2019s really hard to make meaningful experiments because by definition, an experiment requires that everything but one thing is kept constant. For example, if I\u2019m trying to probe the structure of an atom, I am betting on the fact that the natural laws that govern the dynamics of this atom stay the same. Whereas, if I\u2019m trying to make a definitive statement about human society with the scientific </p><p>It\u2019s important to note here that I\u2019m not claiming that the scientific method is wrong or not useful. All I\u2019m saying just that one should beware&nbsp;about using it too liberally in trying to think about problems in the world. My point here is that the scientific method is hailed as a fix it all way of thinking in school, but it\u2019s not. I think part of the reason think this is because I\u2019ve always looked up great physicists, but then perhaps extrapolated too far. So this has been quite a painful conclusion for me to come to. </p><p>In excruciating detail, here are some other where the scientific method fails as a default way to make decisions. </p><ul><li><p>the cost of doing experiments is high. I think this is a real consideration. Doing a proper experiment takes time and patience and cost. It is sometimes simply not worth trying to do an experiment every time, rather rely on educated guesses.</p></li><li><p>Randomness. Think about playing a poker game - it\u2019s really hard to improve as a player because it\u2019s hard tell if your poker playing process actually improves - because poker games involve a huge degree of randomness. </p></li><li><p>It doesn\u2019t quantify uncertainty. Noise and randomness in decision making is inevitable, and sometimes the scientific method just proves indefensible against this. </p></li><li><p>It doesn\u2019t take into account your preferences and utility. The scientific method doesn\u2019t say anything about whether you\u2019ll actually enjoy the results of whatever is being tested. That is a mysterious, and purely emotional call. </p><p></p></li></ul><h3>So what do we do instead? </h3><p>So, I\u2019ve just spent quite a bit of time rambling about the drawbacks of the scientific method. What are some alternatives for decision making? Well, I aim to write a whole new post on this but here are some ideas that I\u2019ve been playing around with </p><ul><li><p>decision theory - this is the economic approach where given a space of decisions, you try to map out the probability of the success of each one along with its reward, and then figure out the decision with the highest expected value </p></li><li><p>analytical reasoning - the approach where you use pure ol\u2019 fashion logic to just try and reason out mechanically how decisions lead to outcomes. (If I do this then this, then this, then this will happen, and so forth.) </p></li><li><p>pros and cons - sometimes, the simplest solution is the best! Making a pros and cons list and then literally counting the number of pros versus the number of cons </p></li><li><p>seeking mentorship - sometimes, you just don\u2019t know what you don\u2019t know. And the best course of action is just to find a mentor that you want to emulate, and take advice from them. </p></li><li><p>not thinking at all - this can be fun! Go to a rave and enjoy mindless dancing!</p></li></ul><p>Somehow, I think the thing that really underlies all of these different frameworks is figuring out a way to get the external world to match your internal preferences. And so I\u2019d like to give a special mention to \u2018being introspective\u2019 as a really great way to think about making decisions.</p><p>Overall, there really isn\u2019t a clear answer on how to best make decisions, and so I\u2019d defer to the reader to decide what the best mix of thinking styles works for them! </p>",
+  "truncated_body_text": "Frameworks for living better",
+  "wordcount": 1468,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 8,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 152208127,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/152208127/tts/23ade7e7-ccb8-4af8-bb5e-2597569a862a/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 127961508,
+      "body": "> For that kind of problem we\u2019d need to defer to law, history and analytic philosophy - all which have styles of thinking that have nothing to do with experiments.\n\nWhat about thought experiments?",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "> For that kind of problem we\u2019d need to defer to law, history and analytic philosophy - all which have styles of thinking that have nothing to do with experiments."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "What about thought experiments?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 152208127,
+      "user_id": 163587899,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-06-21T12:52:49.053Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Ariel Cheng",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/90b4d45c-ccd7-4956-82cf-abf5a1db425d_700x700.jpeg",
+      "handle": "arielcheng",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "arielcheng",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "sum ergo cogito",
+          "id": 2064057,
+          "base_url": "https://arielcheng.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 5,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 5,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 89728434,
+      "body": "Dear Physics Enjoyer \n\nThank you. Allow me please to make the following comment. \n\nHere, I present a short description of the statistical analysis of Aspect's experiment. \n\nThe x is angle(a,b) in [0,2\u03c0).\nThe, a, is Alice's instrument parameter vector. The, b, is Bob's instrument parameter vector.\nThe angle is measured in the plane orthogonal to the A-S-B axis. This \u201corthogonal to the A-S-B in the plane variation of x\" is sufficient variation for understanding the statistics of the  experiment. It is also physically valid. \n\nNote furthermore that the experiment is embedded in classical probability theory. E.g. the law of large numbers to estimate the probability space behind the Bell correlation formula. \n\nAspect then requires: \n\n1. cos(x)=  P(x,=) - P(x,\u2260)\n1a. P(x,=)=N(x,=)/N\n1b. P(x,\u2260)=N(x,\u2260)/N\n1c. N(x,=)=N(x,+,+)+N(x,-,-)\n1d. N(x,\u2260)=N(x,+,-)+N(x,-,+)\n1e. N=N(x,=)+N(x,\u2260)\n2. cos(x)=1-2sin\u00b2(x/2), x in [0,2\u03c0)\n3. P(x,=)+P(x,\u2260)=1\n4. P(x,\u2260)=sin\u00b2(x/2), x in [0,2\u03c0)\n\nThe left-hand in 4. is a data probability (estimate) determined by nature. The right-hand isn't a probability function. It isn't monotone non-descending for x in [0,2\u03c0). \n\n5. For x in [0,2\u03c0), the alleged associated probability density is f(x)=(1/2)sin(x).\n5a. This alleged probability density is derived from 4. via f(x)=dF(x)/dx. But observe, f(x)=(1/2)sin(x), x in [0,2\u03c0), isn't a probability density.  It isn't  positive definite for x in [0,2\u03c0). \n5b. This f(x) results in negative probabilities and other violations of Kolmogorov axioms. \n5c. There are absolutely no classical probability model assumptions necessary for the presented statistical analysis in order to describe the entanglement correlation.\n\n6. Obviously,  x is a part of the random variable X describing the event \u201cx,\u2260\u201d in the measurement.\n\n7. The x is entirely free to have any value in [0,2\u03c0), in order to maintain Einstein locality. \n\nIf an experiment violates Kolmogorov axioms, it's invalid. In fact,  potential Einstein positive data is excluded from observation by requiring, e.g., a not positive definite probability density for that data. That's clearly a nonsensical requirement. \n\nAspect's experiment is statistically flawed.\n\nHence, also within science,  the scientific method can fail.\n\n\n",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dear Physics Enjoyer"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Thank you. Allow me please to make the following comment."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Here, I present a short description of the statistical analysis of Aspect's experiment."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The x is angle(a,b) in [0,2\u03c0)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The, a, is Alice's instrument parameter vector. The, b, is Bob's instrument parameter vector."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The angle is measured in the plane orthogonal to the A-S-B axis. This \u201corthogonal to the A-S-B in the plane variation of x\" is sufficient variation for understanding the statistics of the experiment. It is also physically valid."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Note furthermore that the experiment is embedded in classical probability theory. E.g. the law of large numbers to estimate the probability space behind the Bell correlation formula."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Aspect then requires:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "1. cos(x)= P(x,=) - P(x,\u2260)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "1a. P(x,=)=N(x,=)/N"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "1b. P(x,\u2260)=N(x,\u2260)/N"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "1c. N(x,=)=N(x,+,+)+N(x,-,-)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "1d. N(x,\u2260)=N(x,+,-)+N(x,-,+)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "1e. N=N(x,=)+N(x,\u2260)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "2. cos(x)=1-2sin\u00b2(x/2), x in [0,2\u03c0)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "3. P(x,=)+P(x,\u2260)=1"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "4. P(x,\u2260)=sin\u00b2(x/2), x in [0,2\u03c0)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The left-hand in 4. is a data probability (estimate) determined by nature. The right-hand isn't a probability function. It isn't monotone non-descending for x in [0,2\u03c0)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "5. For x in [0,2\u03c0), the alleged associated probability density is f(x)=(1/2)sin(x)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "5a. This alleged probability density is derived from 4. via f(x)=dF(x)/dx. But observe, f(x)=(1/2)sin(x), x in [0,2\u03c0), isn't a probability density. It isn't positive definite for x in [0,2\u03c0)."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "5b. This f(x) results in negative probabilities and other violations of Kolmogorov axioms."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "5c. There are absolutely no classical probability model assumptions necessary for the presented statistical analysis in order to describe the entanglement correlation."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "6. Obviously, x is a part of the random variable X describing the event \u201cx,\u2260\u201d in the measurement."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "7. The x is entirely free to have any value in [0,2\u03c0), in order to maintain Einstein locality."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "If an experiment violates Kolmogorov axioms, it's invalid. In fact, potential Einstein positive data is excluded from observation by requiring, e.g., a not positive definite probability density for that data. That's clearly a nonsensical requirement."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Aspect's experiment is statistically flawed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hence, also within science, the scientific method can fail."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 152208127,
+      "user_id": 313968821,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-01-30T12:25:34.581Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Han",
+      "photo_url": null,
+      "handle": "han1498070",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "han1498070",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Han",
+          "id": 4177815,
+          "base_url": "https://han1498070.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": false,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

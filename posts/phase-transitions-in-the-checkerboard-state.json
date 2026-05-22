@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/phase-transitions-in-the-checkerboard-state",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391343,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2021-12-19T23:02:59.000Z",
+  "updated_at": "2023-05-28T15:49:22.397Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "phase-transitions-in-the-checkerboard-state",
+  "social_title": null,
+  "subtitle": "How does the state look like when it\u2019s transforming into the checkerboard phase? Is there some interesting behaviour at the limiting area when it collapses into a checkerboard state? ",
+  "teaser_post_eligible": true,
+  "title": "Phase Transitions in the Checkerboard State",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "explaining-quantum-degeneracy",
+  "next_post_slug": "untitled-6",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/03981615-0734-4cdd-8ca0-3db976544687_2000x2327.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "How does the state look like when it\u2019s transforming into the checkerboard phase? Is there some interesting behaviour at the limiting area when it collapses into a checkerboard state?",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!uEaD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!uEaD!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 424w, https://substackcdn.com/image/fetch/$s_!uEaD!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 848w, https://substackcdn.com/image/fetch/$s_!uEaD!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!uEaD!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!uEaD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Phase Transitions in the Checkerboard State&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Phase Transitions in the Checkerboard State\" title=\"Phase Transitions in the Checkerboard State\" srcset=\"https://substackcdn.com/image/fetch/$s_!uEaD!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 424w, https://substackcdn.com/image/fetch/$s_!uEaD!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 848w, https://substackcdn.com/image/fetch/$s_!uEaD!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!uEaD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3091424d-5d6a-4c77-abe6-1941a4accf75_2000x2327.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><h4>Moving from Order to Disorder in an Atom Array</h4><div><hr></div><p>In the <a href=\"https://medium.com/@afiqhatta.ah/correlation-functions-in-checkerboard-arrays-7de7fe46c549\">previous post</a>, I discussed how the authors of [3] arranged Rubidium atoms in an array and then excited these atoms to make a checkerboard of alternating energies. How does the state look like when it\u2019s transforming into the checkerboard phase? Is there some interesting behaviour at the limiting area when it collapses into a checkerboard state? The study of phase transitions answers these questions. Critical exponents are called the numbers that govern the power-law relationships between physically observable quantities.</p><div><hr></div><h4>Correlation lengths</h4><p>One of the quantities of interest is how the correlation lengths grow as our detuning increases and the system evolves into the checkerboard phase. We first start with all the atoms in the ground state to experiment. Then, the ratio \u2206/\u03a9 is increased, and the correlation lengths are measured. The faster this ratio increases, the larger the correlation lengths we see. There is a mechanism for how this works\u200a\u2014\u200ait\u2019s called the quantum Kibble-Zurek Mechanism. This mechanism describes how correlations break down when we\u2019re near critical points. In physics, <strong>relaxation</strong> usually means returning a perturbed system into <a href=\"https://en.wikipedia.org/wiki/Thermodynamic_equilibrium\">equilibrium</a>. For example, we might like to see how fast an oscillating spring returns to equilibrium after a quick impulse. A relaxation time \u03c4 can categorize each relaxation process.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 424w, https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 848w, https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 1272w, https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 424w, https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 848w, https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 1272w, https://cdn-images-1.medium.com/max/800/1*SiLiQHOlFq8FyzGnNdysbQ.png 1456w\" sizes=\"100vw\"></picture><div></div></div></a></figure></div><div><hr></div><h4>The Switch from an Ordered to a Disordered Phase</h4><p>We want to study the transition from the disordered phase to the ordered checkerboard phase. Before we go into the details of the actual experiment, I wanted to do a \u2018simplified\u2019 explanation assuming that we have a critical point when our order parameter is equal to zero. As the detuning goes from negative to positive, standard critical theory tells us to expect the correlation length and the relaxation time to vary like the below. The greek letter Lambda represents our control parameter\u200a\u2014\u200athe thing that we vary in the experiment (in this case, it is \u2206, but we can generally use any control parameter).</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 424w, https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 848w, https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 1272w, https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 424w, https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 848w, https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 1272w, https://cdn-images-1.medium.com/max/800/1*19xFqbowP2PgCMWWLw5u3g.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>The greek exponent nu here is called the critical exponent\u200a\u2014\u200ait primarily describes how the correlations between atoms change as we move from a disordered state to an ordered state and vice versa. As the order parameter approaches zero, we find that the correlation length diverges, implying that the local structure breaks down. Tau represents the relaxation time, and z is a scaling factor to relate the correlation length and the relaxation time.</p><div><hr></div><h4>Sweep rates</h4><p>The sweep rate of a system is how fast we change the control parameter with respect to time. A faster sweep rate leads to a smaller correlation length in the scenario above. The sweep rates affect how the correlation lengths grow. However, the Kibble-Zurek mechanism states that these can all be rescaled into a single curve, allowing us to find critical exponents more easily.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 424w, https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 848w, https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 1272w, https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 424w, https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 848w, https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 1272w, https://cdn-images-1.medium.com/max/800/1*8kOAZrjiGy38w95G3F9Ohg.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><div><hr></div><h4>Obtaining the Critical Point for Detuning</h4><p>There is a critical value for our control parameter \u2206\u200a\u2014\u200athis critical value is where a phase transition occurs. For a Rydberg lattice of Rubidium atoms, this is the point where the material\u2019s susceptibility is at its peak. The susceptibility of a material is defined as follows. On average, we can measure the proportion of atoms in the Rydberg state. The rate of change of this proportion versus the detuning parameter \u2206 is the susceptibility. Where the susceptibility reaches its peak is where the critical point is.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 424w, https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 848w, https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 1272w, https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 424w, https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 848w, https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 1272w, https://cdn-images-1.medium.com/max/800/1*GrrS5xtYi0f9zzzrsLfO9w.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>We can also measure the critical exponent nu once we have a critical point for our detuning value. In this paper [3], it was estimated to be 0.624. This measurement is in good agreement with the predicted \u03bd = 0.629, that is in paper [1]. I hope to go over how this is numerically predicted in a later post!</p><div><hr></div><h4>References</h4><p>[1] R. Samajdar, W. W. Ho, H. Pichler, M. D. Lukin, and S. Sachdev, Phys. Rev. Lett. 124, 103601 (2020). <a href=\"https://arxiv.org/pdf/1910.09548.pdf\">https://arxiv.org/pdf/1910.09548.pdf</a>\u200a\u2014\u200aDetails on this computation</p><p>[2] <a href=\"https://en.wikipedia.org/wiki/Kibble%E2%80%93Zurek_mechanism\">https://en.wikipedia.org/wiki/Kibble\u2013Zurek_mechanism</a></p><p>[3] Sepehr Ebadi et al. Quantum Phases of Matter on a 256-Atom Programmable Quantum Simulator, <a href=\"https://arxiv.org/abs/2012.12281\">arXiv:2012.12281</a> [quant-ph]</p>",
+  "truncated_body_text": "Moving from Order to Disorder in an Atom Array",
+  "wordcount": 672,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        52,
+        113,
+        169
+      ],
+      "population": 3
+    },
+    "DarkVibrant": {
+      "rgb": [
+        14,
+        75,
+        135
+      ],
+      "population": 273
+    },
+    "LightVibrant": {
+      "rgb": [
+        177,
+        252,
+        252
+      ],
+      "population": 980
+    },
+    "Muted": {
+      "rgb": [
+        83,
+        134,
+        165
+      ],
+      "population": 126
+    },
+    "DarkMuted": {
+      "rgb": [
+        78,
+        124,
+        132
+      ],
+      "population": 3
+    },
+    "LightMuted": {
+      "rgb": [
+        177,
+        200,
+        207
+      ],
+      "population": 44
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

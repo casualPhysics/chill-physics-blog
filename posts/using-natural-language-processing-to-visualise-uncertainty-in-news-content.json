@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/using-natural-language-processing-to-visualise-uncertainty-in-news-content",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391332,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2021-09-17T23:17:11.000Z",
+  "updated_at": "2023-05-28T15:49:21.332Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "using-natural-language-processing-to-visualise-uncertainty-in-news-content",
+  "social_title": null,
+  "subtitle": "As a physics geek, I have always been intrigued by quantitative analysis used in government. Whilst I agree that statistics and numbers are incapable of telling the whole story, it is still interesting to apply math and computer science in creative ways t",
+  "teaser_post_eligible": true,
+  "title": "Using Natural Language Processing to visualise Uncertainty in News Content",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-wonderful-math-that-powers-disneys-animationwhere-physics-computer-science-and-art-come-together",
+  "next_post_slug": "how-do-physicists-understand-the-different-phases-of-matter",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/91cf6c4d-fdd8-4a9b-9108-ac1dbc756e92_2000x2667.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "As a physics geek, I have always been intrigued by quantitative analysis used in government. Whilst I agree that statistics and numbers are incapable of telling the whole story, it is still interesting to apply math and computer science in creative ways t",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!8WLt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!8WLt!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 424w, https://substackcdn.com/image/fetch/$s_!8WLt!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 848w, https://substackcdn.com/image/fetch/$s_!8WLt!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!8WLt!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!8WLt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Using Natural Language Processing to visualise Uncertainty in News Content&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Using Natural Language Processing to visualise Uncertainty in News Content\" title=\"Using Natural Language Processing to visualise Uncertainty in News Content\" srcset=\"https://substackcdn.com/image/fetch/$s_!8WLt!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 424w, https://substackcdn.com/image/fetch/$s_!8WLt!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 848w, https://substackcdn.com/image/fetch/$s_!8WLt!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!8WLt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f798603-bc7a-4fcd-a44f-3b042296aec7_2000x2667.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><h4>Exploring Policy Uncertainty in Malaysia, from the Eyes of a Physicist</h4><div><hr></div><p>As a physics geek, I have always been intrigued by quantitative analysis used in government. Whilst I agree that statistics and numbers are incapable of telling the whole story, it is still interesting to apply math and computer science in creative ways that might help steer policy decisions.</p><p>This post will outline the importance of quantifying and defining the public\u2019s uncertainty concerning their government and policies. I\u2019ll also describe a straightforward machine-learning solution I designed a few years ago. As a first step towards visualising policy uncertainty, I wrote a simple piece of code.</p><div><hr></div><h4>The role of uncertainty in public policy</h4><p>In August of 2021, Muhyiddin Yassin resigned from his role as the prime minister of Malaysia. The Malaysian people elected <em>Pakatan Harapan </em>elected into power in May 2018. The regime change ushered Malaysia and its people, again, into an era of uncertainty. What was the fate of its leadership as well as its policies, both social and political? In these volatile times, it seems that understanding and managing the public\u2019s uncertainty concerning its leadership is becoming increasingly important.</p><p>Malaysian news reporters and pundits often use the word \u2018uncertainty in the wake of a significant policy change, but little work or analysis is done on their part to quantify the magnitude of uncertainty at any given period. Furthermore, there is even less work to compare current uncertainty to periods of previous uncertainty. There is already complicated philosophical debate on what uncertainty even <em>means</em>. We also rarely hear about the <strong>causes</strong> behind why the citizens feel uncertain. The public is anxious about a new government in the wake of Malaysia\u2019s recent political changes. But why?</p><ul><li><p>Are people unsure about the direction of the general economy?</p></li><li><p>Are they worried about the fate of their children?</p></li><li><p>Are they unsure about the future handling of COVID-19 in Malaysia?</p></li></ul><p>There are several practical steps a more active government might wish to take once having a greater understanding of policy uncertainty. They might identify \u2018high priority issues\u2019, which are the most pressing and, they may wish to reassure the public on these exact issues. They might also provide assurances to sources of foreign direct investment which are concerned about particularly uncertain topics.</p><div><hr></div><h4>My first dip into policy as a math undergrad, and some academic inspiration</h4><p>It was the summer of 2017, and I had just finished an exhausting first year as a math undergrad at Cambridge. I knew I wanted to do something in government, but I didn\u2019t know how to apply my particular skillset. People I knew in government were economists, but I focused on physical applied mathematics in my first year, so it wasn\u2019t immediately clear how my skills would be helpful. Luckily, I had an opportunity to do some research in the monetary policy department of the Malaysian Central Bank.</p><p>I knew how to do some basic coding and had a repertoire of first-year undergrad math to help me figure out what I wanted to do. In the end, my supervisor and I decided on doing a rough project on ways to quantify public policy uncertainty in the spirit of what was outlined in Baker, Bloom and Davis (2016)\u00b9. In this paper, they developed an index of economic policy uncertainty for the United States and examined its evolution since 1985. The authors count articles in 10 leading U.S. newspapers that contain the following trio of terms: \u201ceconomic\u201d or \u201ceconomy\u201d; \u201cuncertain\u201d or \u201cuncertainty\u201d; and one or more of \u201cCongress,\u201d \u201cdeficit,\u201d \u201cFederal Reserve,\u201d \u201clegislation,\u201d \u201cregulation,\u201d or \u201cWhite House\u201d, and then normalise the counts to take into account varying numbers of articles released on the whole in general.</p><p>The use of newspaper articles to quantify policy uncertainty sounded like a good place to start. However, there were some modifications that I wanted to make:</p><ul><li><p>I was more concerned about \u2018explaining\u2019 policy uncertainty\u200a\u2014\u200aso my strategy consisted of finding ways to visualise the different subject matter of Malaysian news articles which pertained to policy uncertainty. So, I wanted to find a programmatic way to classify \u2018policy uncertainty articles\u2019 and see the different topics which caused uncertainty over time. But, of course, an index is merely a measurement tool. Undoubtedly, the <em>content</em> and <em>story</em> of an index are just as interesting.</p></li><li><p>I didn\u2019t want to count articles based on search results manually, so I built some python code to automatically scrape news article metadata from a range of Malaysian websites.</p></li></ul><div><hr></div><h4>The final project itself</h4><p>Thus, the final project I settled on had a three-step plan which I carried out. First, I was going to count articles published throughout time related to policy uncertainty and then visualise the \u2018topics\u2019 that made up the composition of these articles throughout time.</p><ol><li><p>First, I found a way to automatically scrape article meta-data at scale from various Malaysian news websites, using an automated scraping code I wrote in Python. I then had to do some work to obtain just the articles related to policy uncertainty in Malaysia, and filter out junk and clean the dataset\u200a\u2014\u200aI describe this in the next section, where I follow an approach quite similar to that presented in Baker, Bloom and Davis.</p></li><li><p>Once I had the dataset of articles relating to policy uncertainty, I then used a simple clustering algorithm as an unsupervised method to classify the different articles into five distinct groups, where each group represents a distinct \u2018theme\u2019 of policy uncertainty. The \u2018labels\u2019 of each cluster were the first two words closest to the centroid of each cluster. Thus, these labels can be interpreted as the \u2018theme\u2019 of each cluster.</p></li><li><p>The final step was to do some primary aggregation to see the proportion of articles in each cluster throughout time and then plot this in an area plot.</p></li></ol><p>The final result involved a successful scrape of article metadata of around 600 different news articles from 2005 to 2018. I then used k-means clustering on a word matrix to sort these articles into 5 distinct clusters, each of which has labels (the words closest to the middle of the centroid) which are shown in the below plot. As you can see the first result that is interesting is that each of the centroid labels is fairly interpretable, and it is clear what each cluster represents\u200a\u2014\u200athere was no checking required by me. It appears that k-means clustering selected fairly natural topics (all by itself) as possible categories for policy uncertainty.</p><p>The stacked plot below shows the relative weights of these clusters throughout time. The y-axis shows the cumulative proportion of each topic\u2019s prevalence in the whole set of articles that pertain to uncertainty at a given time . If there\u2019s more of a given colour, then a more significant proportion of articles belongs to that category. The x-axis is time. Overall, we see some reasonably unsurprising events\u200a\u2014\u200auncertainty around the ringgit formed almost all of the explained uncertainty around 2008. We also see increased uncertainty around former prime minister Najib in the run-up to the 2013 General election. Coming up to the 2018 General Election, there was serious doubt over who would take power, so the \u2018election\u2019 category in yellow is more prevalent.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 424w, https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 848w, https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 1272w, https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 424w, https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 848w, https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 1272w, https://cdn-images-1.medium.com/max/2600/1*H8njVfJ6jSt6xoeFA4YU0w.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">One of the final outputs\u200a\u2014\u200aa stacked area plot of the factors which explain policy uncertainty in Malaysian news articles. The topics were chosen through unsupervised clustering.</figcaption></figure></div><p>I think this is a rudimentary but perhaps useful start at how one might find a way to visualise public uncertainty. If we were more proactive about collecting data, it might be helpful to for governments and organisations to inform their decision making around visualisations such as the above. I am a big believer in exploiting technology in policy decision making, and this is a novel example of one way it could be done.</p><p>This is a methodology is far from perfect. Obviously, there are questions around newspaper bias, the accuracy of the scraping, and whether newspapers accurately capture a nation\u2019s psyche. In addition, there is more work to be done trying to capture the relative \u2018magnitude\u2019 of uncertainty throughout time\u200a\u2014\u200ahowever this question is difficult to answer without an estimate of the total production rate of Malaysian newspapers at any given period.</p><p>Here are some of the rougher notes below on how I constructed this index. If you\u2019re interested in some more of the details, read on.</p><div><hr></div><h4>Constructing the web scraper</h4><p>First, I selected a range of popular Malaysian websites which I thought would be a good sample of the general Malaysian news ecosystem. I also made sure (from my own heuristics) that my choice of websites were not from overtly opinionated sources\u200a\u2014\u200aI will not declare the explicit names of these websites on this post.</p><p>I then used a mix of <em>scrapy</em>, <em>beautifulsoup</em> and the <em>requests</em> package in Python to set up an automated process to scrape the links which were found in the search pages of these websites. If you are new to web scraping, something which makes this job much more manageable is understanding how to select the correct webpage elements using the XPath syntax\u200a\u2014\u200athere is an excellent guide to XPath selection on this <a href=\"https://devhints.io/xpath\">webpage</a>.</p><p>I then wrote an automated loop to download the text content associated with each article that appeared in the search through a web service, one can look this up. The diagram here shows the flow:</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 424w, https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 848w, https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 1272w, https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 424w, https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 848w, https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 1272w, https://cdn-images-1.medium.com/max/880/0*A1Msd5EH3DP6-Miy.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><div><hr></div><h4>Filtering out what we want</h4><p>Even though I only scraped articles that appeared in the search\u200a\u2014\u200athere was still a lot of junk present in our articles. Spot checking showed that only around 10 per cent of the articles contained content that one could say was related to \u2018policy uncertainty\u2019. So I decided to use some simple heuristics to help me choose the articles that mattered. Surprisingly, I managed to get some decent results from following the method outlined in Baker, Bloom and Davis, but I adapted it to this use case.</p><p>After scraping all of the articles, I only chose to keep pieces that contained at least one word from each of these lists:</p><ul><li><p><em>Economy, economics, market</em></p></li><li><p><em>Uncertainty, uncertainties, uncertain</em></p></li><li><p><em>Najib, government, parliament, bnm, BNM</em></p></li><li><p><em>Malaysia, Malaysia, Kuala Lumpur</em></p></li></ul><div><hr></div><h4>Clustering the content of the article</h4><p>Something simple that I tried to help me visualise the content of the selected articles was simple k-means clustering. I converted the documents into a term-frequency, inverse-document frequency matrix and then clustered the documents into 5 clusters. There is a fantastic guide on how to do this by Brandon Rose <a href=\"http://brandonrose.org/clustering\">here</a>. Below, we show an image of the clusters and the composite documents.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 424w, https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 848w, https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 1272w, https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 424w, https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 848w, https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 1272w, https://cdn-images-1.medium.com/max/1320/0*EeGge7MFNxCjV8i2.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">I used Brandon Rose\u2019s post on document clustering to generate some clusters&nbsp;myself.</figcaption></figure></div><p><em>This article was initially published at <a href=\"https://www.afiqhatta.com/policy_uncertainty.html\">https://www.afiqhatta.com</a>.</em></p>",
+  "truncated_body_text": "Exploring Policy Uncertainty in Malaysia, from the Eyes of a Physicist",
+  "wordcount": 1746,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        7,
+        121,
+        146
+      ],
+      "population": 397
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4,
+        108,
+        140
+      ],
+      "population": 21
+    },
+    "LightVibrant": {
+      "rgb": [
+        221,
+        169,
+        151
+      ],
+      "population": 19
+    },
+    "Muted": {
+      "rgb": [
+        181,
+        180,
+        106
+      ],
+      "population": 6
+    },
+    "DarkMuted": {
+      "rgb": [
+        78,
+        82,
+        39
+      ],
+      "population": 331
+    },
+    "LightMuted": {
+      "rgb": [
+        177,
+        206,
+        213
+      ],
+      "population": 473
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

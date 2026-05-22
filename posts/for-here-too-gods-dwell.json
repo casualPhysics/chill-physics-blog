@@ -1,0 +1,258 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/for-here-too-gods-dwell",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 172463809,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-09-01T19:52:21.469Z",
+  "updated_at": "2025-09-01T19:52:41.476Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "for-here-too-gods-dwell",
+  "social_title": null,
+  "subtitle": "Finding research problems from the mundane ",
+  "teaser_post_eligible": true,
+  "title": "For Here Too, Gods Dwell",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 17
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "tolerating-confusion",
+  "next_post_slug": "computing-properties-of-molecules",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/5be88d3c-743a-420e-80db-7c404591f3d8_455x629.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 172463809,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Finding research problems from the mundane",
+  "body_html": "<blockquote><p><em>For Here Too, Gods Dwell - Heraclitus Anecdote on finding meaning in the mundane, next to a fire.</em></p></blockquote><p>I need to think deeper about mundane things. <a href=\"https://terrytao.wordpress.com/career-advice/ask-yourself-dumb-questions-and-answer-them/#:~:text=So%20one%20should%20be%20unafraid,which%20is%20well%20worth%20knowing.\">Dumb questions</a> about mundane things always seem to give the most interesting research. </p><p>Last week I was asked whether <a href=\"https://casualphysicsenjoyer.com/Essays+in+progress/Biosecurity/Far+UVC/Different+sized+particles+under+airflow\">airflow from a pressurised space would be better at blocking large particles vs small particles from entering</a>. Knowing this would have helped me figure better out ways to keep air clean. </p><p>It's a simple question. But when I tried to get a clear, quantified answer, I realised it was really hard, and I got stumped.  </p><p>How could I translate a pressure differential into airspeed based on the shape of the holes? What were the forces on the droplets? What about buoyancy, friction, internal rotational energy, evaporation, charge and clustering effects? This lead me down a rabbit hole on the fluid dynamics of droplets moving in air. I started to read aerosol documents from old military textbooks. I redid exercise questions from my second year fluid dynamics course, and I learnt highly obscure facts about estimated drag on aerosols. </p><p><a href=\"https://chillphysicsenjoyer.substack.com/p/if-its-not-obvious-it-probably-isnt\">If it's not obvious, it probably isn't.</a></p><p>When I have dumb questions about mundane physics, the story is always more complex than what I thought. It's usually counterintuitive and painful. Often, I end up writing pages about it. I always learn.</p><p>Here are questions I have asked in the past month that turned out to be non obvious and deep. I\u2019ve put the deep subject fields in brackets.</p><ul><li><p>If I put a shoelace in a container and shake it, how many shakes will give me a knot? (Mechanics, topology, probability, knot theory) </p></li><li><p>Where is the best place to put a UVC lamp in a room? (Biophysics, optics, electromagnetism, optimisation). </p></li><li><p>Are the transformations between inertial frame only comprised of 10 possible things? (Group theory, classical mechanics)</p></li><li><p>How can we automatically label orbitals from computational chemistry software? (Quantum mechanics, machine learning, computational chemistry) </p></li><li><p>Does the reflectionless potential in quantum mechanics preserve Schwartz spaces? (LEAN, formal systems, functional analysis, quantum mechanics)</p></li></ul><p>Research is about getting to the frontier and then adding to it. Learning about high energy, sexy topics like black holes and quantum computing is fun. But the required level of complexity means that it takes very long to get to the frontier. </p><p>On the other hand, asking dumb questions about the world in front of you leads you to a natural frontier that you can touch. Independent researchers take note.</p><p><em>*There are Gods even here.* </em></p><p>I first came across the idea of thinking about the ordinary when my first university supervisor asked me to predict what would happen when I flicked a coin into another one. Try this yourself. Take two coins, flick one in the direction of the other, guess what happens, quantify it, and then test it - you might discover something new. </p>",
+  "truncated_body_text": "For Here Too, Gods Dwell - Heraclitus Anecdote on finding meaning in the mundane, next to a fire.",
+  "wordcount": 477,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        215,
+        125,
+        83
+      ],
+      "population": 475
+    },
+    "DarkVibrant": {
+      "rgb": [
+        134,
+        46,
+        37
+      ],
+      "population": 448
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        154,
+        109
+      ],
+      "population": 9
+    },
+    "Muted": {
+      "rgb": [
+        171,
+        131,
+        94
+      ],
+      "population": 180
+    },
+    "DarkMuted": {
+      "rgb": [
+        86,
+        54,
+        39
+      ],
+      "population": 350
+    },
+    "LightMuted": {
+      "rgb": [
+        213,
+        191,
+        163
+      ],
+      "population": 226
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 17,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 172463809,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/172463809/tts/a501a135-6aef-4101-8e4b-bb99537789a3/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

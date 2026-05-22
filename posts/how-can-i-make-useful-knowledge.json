@@ -1,0 +1,417 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-can-i-make-useful-knowledge",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 184998449,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-01-18T22:07:37.133Z",
+  "updated_at": "2026-01-18T22:11:35.547Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-can-i-make-useful-knowledge",
+  "social_title": "How can I Make Useful Knowledge? ",
+  "subtitle": "On trying to be useful with words ",
+  "teaser_post_eligible": true,
+  "title": "How Can I Make Useful Knowledge? ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "\u2764": 19
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "20-references-in-complexity-theory",
+  "next_post_slug": "bio-theory-lab-notes",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/1583557b-7e91-4c2e-87f1-80bb74d7347d_1120x1192.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 184998449,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On trying to be useful with words",
+  "body_html": "<div class=\"pullquote\"><p>\u2018It is my practice at this hour to read some improving book; but, if you desire my services, this can easily be postponed, or, indeed, abandoned altogether.\u2019 - Jeeves</p></div><p>In \u2018The Inimitable Jeeves\u2019, P.G. Wodehouse describes the daily shenanigans of Jeeves, a <em>manservant</em> of a stately Englishman. The Englishman, Bertie, is a bachelor amongst London\u2019s upper crust. And Jeeves is a competent, fiercely loyal and witty employee that caters to his every whim. The two have an affectionate relationship; Jeeves\u2019 tasks include elaborate schemes to fend off gold-digging suitors, doing calculations for horse racing bets, and generally procuring a odd items on demand. In return, he has ample free time and receives what seems to be a healthy salary. </p><p>In one story, Jeeves attracts hundreds of cats to Bertie\u2019s apartment with rotten fish to fend off a potential suitor\u2019s father - who was secretly known to have a cat allergy. But nothing escapes Jeeves, and yet again he managed to engineer a situation to gracefully save Bertie from a costly, unwanted romance. </p><p>Unsurprisingly, Jeeves\u2019 skills draw admiration from Bertie, his employer, as well as the female employees of the other British aristocrats. But it is by far his intelligence of the social scene, and knowledge of the world that provides most value to Bertie. Jeeves is able to know things, to know many things, and to present such information in a way that was non-trivial to whom he served.</p><p>And so, these fictional stories of Jeeves made me reflect what it means to be truly useful with knowledge.</p><p>I think a big chunk of my peers in the workforce feel inklings what it means to truly add value through knowing things. Now that knowledge is cheap, a part of me feels replaceable, and at least <em>once a day</em> I ask myself of what value I\u2019m adding through me writing and reading. </p><p>By far and large, I\u2019ve been training my whole life to be useful in the realm of knowlege and theory. But now knowledge work feels less and less useful because there are less barriers to entry - you need a computer and some paper, and this is becoming more widely available. Moreover, more people have degrees (grade inflation), more people have internet (starlink), there are more people, and most relevant to us all, AI is getting better. There is a wide range of evidence that AI is getting better at coding than humans. The quality of AI literature review is also becoming excellent.</p><p>And I used to feel bad about this. After all, I want to be useful, if not for any other reason than a primal urge to maintain relevance in my community. And I think that the past three years have become especially poignant, with these feelings coming in the midst of tools like Claude code basically being able to do most tasks I ask it to, a psychological wave of people worried out about losing their jobs, and a general sense of lower societal trust amongst society. </p><p>But over the past few months, I feel like this has ailed me less. Because I now believe that it\u2019s actually very hard to be useful in the ways that matter. But that doesn\u2019t mean I should stop trying! </p><p>And so, what\u2019s the point of being useful? And why is it so hard? I\u2019ll try to explain why in this short note, and how I\u2019m trying to be more useful by writing words on paper.  </p><div><hr></div><p>First, let\u2019s take a quick step back and ask where we are in the state of the world. After the initial freakout I had after seeing LLMs doing literature review, and despite rapid advancements since then, I still think that the top 1% of human writers vastly outperform LLMs knowledge dissemination and writing. I\u2019m specifically referring to non-fiction writers and the best bloggers who have written to audiences with wide appeal. </p><p>My evidence for this is anecdotal, but I still find reading paper books to be more insightful that just asking Claude or other LLMs questions. And this gives me  evidence that humans can still be useful with ideas and words. Last year, here were some of my reads in non-fiction: </p><ul><li><p><em>*Tuxedo Park: A Wall Street Tycoon and the Secret Palace of Science That Changed the Course of World War II*</em> by Jennet Conant (2002)</p></li><li><p><em>*How to Win Friends and Influence People*</em> by Dale Carnegie (1936)</p></li><li><p><em>The Tangled Tree: A Radical New History of Life*</em> by David Quammen (2018)</p></li><li><p><em>*Deadliest Enemy: Our War Against Killer Germs*</em> by Michael T. Osterholm and Mark Olshaker (2017)</p></li><li><p><em>*How Life Works: A User\u2019s Guide to the New Biology*</em> by Philip Ball (2023)</p></li><li><p><em>*A History of Modern Britain*</em> by Andrew Marr (2007) </p></li><li><p><em>*Empire of AI*</em> by Karen Hao (2024)</p></li><li><p> <em>*Airborne: The Hidden History of the Life We Breathe*</em> by Carl Zimmer (2025)</p></li></ul><p>So what makes this stuff actually good? I think it boils down to a few factors. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!lAuW!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!lAuW!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!lAuW!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!lAuW!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!lAuW!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!lAuW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg\" width=\"1456\" height=\"1941\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1941,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2833400,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/184998449?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!lAuW!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!lAuW!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!lAuW!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!lAuW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff0c2af2b-bcc7-487d-97ff-2241c82ae83e_4032x3024.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>First, it\u2019s the ability to collect an encyclopaedic amount of niche knowledge and high fidelity descriptions of detail about the world. Second, it\u2019s knowing what is \u2018naturally interesting\u2019 to humans, and knowing tactically when to go into more detail. Third is the ability to offer an opinion on something, or give a moral judgement. In other words, the author has their own objective function about how to write about the world and we see the process they take to get there. And finally it\u2019s writing in a way that is nice to read, with <em>style</em>.</p><p>And so far, from my experience in working with LLMs, I don\u2019t think that AI has managed to get remotely close to the author\u2019s that I\u2019ve mentioned. But that being said, I don\u2019t think it will be long till they do. <em>And so, I want to figure out how I can retain an edge.</em> </p><p>Let\u2019s go through the first point specifically on collecting knowledge, since this is what we are most in competition with in AI. </p><p>First, I still think there is value in having sheer amounts of encyclopaedic knowledge in a topic obtained either through reading or through first hand experience.In Tuxedo Park, Conant goes through excruciating amounts of detail in Alfred Loomis\u2019 life, including his fraught marriages, affairs, friendships and his science. A lot of this was obtained through first hand accounts and interviews with relatives. Similarly with Osterholm\u2019s work, we get a step by step run-down of how top officials in the US Centre for Disease control\u2019s methods in tracking down the Ebola crisis. In this case, their key selling value proposition is just sheer levels of godly detail that they offer to their audience. </p><p>This kind of almost encyclopaedic knowledge of a certain subject is what I think is great about modern blog writers of today. If you have time, I recommend you check out the writing of Gwern, Adam Tooze, John Baez, Tyler Cowan, Terence Tao and David Jordan. This level of detail seems to still currently be a gap for LLMs. And what makes John Baez\u2019s blog really great? Well in this case, it\u2019s just doing something really niche, and providing an excruciating amount of details knowledge. </p><p>So how am I trying to load up on detail? </p><p>My main strategy is just trying to bulk up on how much I\u2019ve been reading and how quickly I\u2019ve been doing it. Volume is the lever I am pulling on, and for me this has meant just collecting way more pdfs of papers, organising them, and trying to extract details faster and more efficiently. I\u2019m also reading paper books as well. As a guide, I\u2019m trying to aim for the high tens of papers in my reading per question or topic I am exploring. I\u2019m trying to also increase the volume and speed at which I\u2019m going through papers. To find papers, I look at the references of a current paper I\u2019m reading and then try to build a tree. I\u2019ve found recording as many things things to be especially important. Previously I used to just read things, but now I\u2019ve made it a habit to make hotkeys to save pdfs quickly in the places I want them to be saved. I then try to sort through the papers in Visual Studio code to make them easy to cycle through. I\u2019ve also found my Kindle invaluable in highlighting quotes that I want to remember. I use Claude Code pretty judiciously to organise the content, and I\u2019m trying to buy more storage to keep a record of things that I\u2019ve read. </p><p>This is basically what my VS Code workspace looks like so far</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!1YZ7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!1YZ7!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 424w, https://substackcdn.com/image/fetch/$s_!1YZ7!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 848w, https://substackcdn.com/image/fetch/$s_!1YZ7!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 1272w, https://substackcdn.com/image/fetch/$s_!1YZ7!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!1YZ7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png\" width=\"1456\" height=\"771\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:771,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1119593,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/184998449?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!1YZ7!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 424w, https://substackcdn.com/image/fetch/$s_!1YZ7!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 848w, https://substackcdn.com/image/fetch/$s_!1YZ7!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 1272w, https://substackcdn.com/image/fetch/$s_!1YZ7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36ece9d7-01a2-4718-ae7d-1add3727f7d8_2844x1506.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>For example, in my latest exploration in theoretical biology, I\u2019ve started just keeping a big folder of different papers and models in one place where I collect models, notes and simulations. Here are some of the papers I\u2019ve referenced the most in my recent articles on my blog</p><ul><li><p>Rieger et al. - Lotka-Volterra stability analysis (25 mentions across documentation)</p></li><li><p>Ros, V., Roy, F., Biroli, G., Bunin, G., &amp; Turner, A. M. (2023). \u201cGeneralized Lotka-Volterra equations with random, non-reciprocal interactions: the typical number of equilibria.\u201d arXiv:2212.01837v2 (21 mentions)</p></li><li><p>Koopman, B. O. (1931). \u201cHamiltonian systems and transformation in Hilbert space.\u201d Proceedings of the National Academy of Sciences, 17(5), 315-318 (20 mentions)</p></li><li><p>May, R. M. (1972). \u201cWill a large complex system be stable?\u201d Nature, 238(5364), 413-414 (18 mentions)</p></li><li><p>Mezi\u0107, I. (2005). \u201cSpectral properties of dynamical systems, model reduction and decompositions.\u201d Nonlinear Dynamics, 41, 309-325 (15 mentions)</p></li></ul><p>And so far, my process for developing a taste for what to write about has just been to ask myself questions that I myself find genuinely fun and interesting. Often this consists of prompting AI, asking friends, reading comments on my posts, or just pure whimsy. For example, one concept in dynamical systems is the theory of manifolds, which lead me down a rabbit hole in immersion theory. </p><p>And speaking of whimsicalness, I also think there is edge in reading old papers and old books - the stuff that the AI companies and data scrapers haven\u2019t touched yet. You get an intuition about muddy things are at the start of an investigation and become braver in thinking about new ideas. When I read modern papers, I try to backtrack in time to when the seeds of the idea were planted to get an intuition about why the idea exists. My first old book that I read was on Rutherford. I started thinking about this when I signed up for an overpriced subscription at the London Library and looked at some relics from the 1800s. I found Rutherford\u2019s first exposition of the atom, and tried to backtrack the history of electricity. One of the good things about London is that there are lots of old book stores with books that are unlikely to be used as AI training data, and so I try to pick up books for a bargain there.  </p><p>In a way, I guess what I\u2019m doing by reading a ton of papers is really just trying to curate good \u2018word data\u2019, for myself. </p><p>Another thing is also being much more ambitious about breadth of research. Taleb\u2019s <em>The</em> <em>Black Swan\u2019</em> and Housel\u2019s \u2018<em>The Psychology of Money</em>\u2019 convinced me of how the world\u2019s economies are dominated by rare, extreme events. And I think this is true of research as well - most of our scientific research is dominated by a few amount of outlier ideas. And so the proper way to maximise the amount Black Swan ideas is by trying to read as widely as possible, from multiple angles. </p><p>I think another underrated way to get range is through interacting with the community. And so its worth trying to stay ahead of developments by being part of a community and speaking to as many people as possible. It\u2019s for this reason (other than fulfilling friendships) that I try to hang out as much as possible with my scientist peers through dinners and events, to get a feel for what\u2019s happening in scientific research. I myself have been hosting meetups and co-working sessions, which I\u2019ll talk about in my next post. </p><p>I still have quite a few thoughts on disseminating knowledge in a useful way, but I feared that if I waited too long to write them that this post would run away from me! So stay tuned for more. </p>",
+  "truncated_body_text": "\u2018It is my practice at this hour to read some improving book; but, if you desire my services, this can easily be postponed, or, indeed, abandoned altogether.\u2019 - Jeeves",
+  "wordcount": 2051,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        213,
+        130,
+        34
+      ],
+      "population": 71
+    },
+    "DarkVibrant": {
+      "rgb": [
+        23,
+        73,
+        116
+      ],
+      "population": 119
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        213,
+        183
+      ],
+      "population": 20
+    },
+    "Muted": {
+      "rgb": [
+        167,
+        141,
+        117
+      ],
+      "population": 572
+    },
+    "DarkMuted": {
+      "rgb": [
+        92,
+        60,
+        50
+      ],
+      "population": 47
+    },
+    "LightMuted": {
+      "rgb": [
+        217,
+        202,
+        183
+      ],
+      "population": 561
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 19,
+  "comment_count": 6,
+  "child_comment_count": 5,
+  "audio_items": [
+    {
+      "post_id": 184998449,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/184998449/tts/70c8b62c-053e-42dd-a619-88e0f4672520/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 201865368,
+      "body": "I found your workspace image very interesting. I would love to know more about how you've configured VS Code\u2014which extensions you use, etc. I'm sure many others would find this valuable too.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I found your workspace image very interesting. I would love to know more about how you've configured VS Code\u2014which extensions you use, etc. I'm sure many others would find this valuable too."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 184998449,
+      "user_id": 105397432,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-01-19T07:38:59.466Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Alexis Argyris",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1ad3b96e-596e-4cb1-825d-9881cb52d282_144x144.png",
+      "handle": "alexisargyris908403",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "alexisargyris908403",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 201737472,
+      "body": "For all the reasons you\u2019ve mentioned, I\u2019ve started to lean into reading more fiction, as well as into writing fewer technical explainers and more articles with a perspective/take from me. \n\nAI has shown tremendous progress in a number of fields, but it still has very poor taste when it comes to writing quality (with basically no improvement there over the last 1-2 years imo) and obviously cannot provide an idiosyncratic viewpoint from the perspective of someone we find compelling. \n\nSo focusing on writing creatively/well and writing from one\u2019s own perspective and moral framework seems to be the niche we\u2019ll settle into as AIs dominate more of the other parts of writing. ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For all the reasons you\u2019ve mentioned, I\u2019ve started to lean into reading more fiction, as well as into writing fewer technical explainers and more articles with a perspective/take from me."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "AI has shown tremendous progress in a number of fields, but it still has very poor taste when it comes to writing quality (with basically no improvement there over the last 1-2 years imo) and obviously cannot provide an idiosyncratic viewpoint from the perspective of someone we find compelling."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "So focusing on writing creatively/well and writing from one\u2019s own perspective and moral framework seems to be the niche we\u2019ll settle into as AIs dominate more of the other parts of writing."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 184998449,
+      "user_id": 22345903,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-01-18T23:13:59.084Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Chris Hayduk",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/5cc411dd-7c4b-4ec7-885d-1a475ea472b9_1165x1167.jpeg",
+      "handle": "chrishayduk",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "chrishayduk",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Musings by Chris Hayduk",
+          "id": 455980,
+          "base_url": "https://www.chrishayduk.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/scientists-will-become-data-harvesters",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 152687662,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2024-12-10T22:11:38.717Z",
+  "updated_at": "2025-05-30T22:22:20.030Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "scientists-will-become-data-harvesters",
+  "social_title": null,
+  "subtitle": "What is left to do when we are able to 'simulate everything'? ",
+  "teaser_post_eligible": true,
+  "title": "Scientists will become Data Harvesters ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "tediousness-is-good",
+  "next_post_slug": "on-good-writing",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!8PAA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png",
+  "cover_image_is_square": true,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 152687662,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "What is left to do when we are able to 'simulate everything'?",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!8PAA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!8PAA!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 424w, https://substackcdn.com/image/fetch/$s_!8PAA!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 848w, https://substackcdn.com/image/fetch/$s_!8PAA!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 1272w, https://substackcdn.com/image/fetch/$s_!8PAA!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!8PAA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png\" width=\"1260\" height=\"1256\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ec3c9e05-5f46-424d-a792-025228711861_1260x1256.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1256,&quot;width&quot;:1260,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2392437,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!8PAA!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 424w, https://substackcdn.com/image/fetch/$s_!8PAA!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 848w, https://substackcdn.com/image/fetch/$s_!8PAA!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 1272w, https://substackcdn.com/image/fetch/$s_!8PAA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec3c9e05-5f46-424d-a792-025228711861_1260x1256.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Humanity will eventually figure out how to simulate everything. When that happens, what job scientists will have? </p><p>This is a slice of the life for what might happen to your average scientist.  </p><p><em>It\u2019s 2030. </em></p><p>You\u2019re a researcher who\u2019s just entered your fifth year at a public biology lab at a university in the UK. You\u2019ve been educated in the world\u2019s top institutions. You have a wealth of knowledge in both theory and experiment in all of the natural sciences. But your specialty is molecular physics. You\u2019ve even won some early academic awards. </p><p>But science has advanced so rapidly in the past five years. Almost all the physical laws that govern our immediate world have already been theorised and verified, after an intergovernmental project to unify all of the physical research done by humanity so far. </p><p>There is a repository on Github that has all the code required to simulate anything you want, at the reasonable energy levels humans have access to. It can simulate molecules, general relativity, and more. And it\u2019s all free! And it is fairly simple. It doesn\u2019t use much more than a simulation of Schrodinger\u2019s equations for the small stuff, and Einstein\u2019s equations for the big stuff. </p><p>And so you might ask - since everything has already been discovered - what work is there left for you to do, as an ambitious mid career researcher?  Finding stuff to contribute is still a big source of emotional anxiety for you. It goes beyond grand ambitions. To feed your family you need funding. And to get funding you need results! And to get results, you need to find a worthwhile problem to work on. </p><p>Well, luckily, there\u2019s still a huge problem to solve. And everyone is working on it. </p><p>The problem is this. The code that simulates everything, is really, really slow. The time is takes to run is on the order of thousands of years, for systems with more than a thousand molecules. </p><p>And to fix this issue, your lab\u2019s work is to create <em>fast</em> models. Your area of expertise is the quantum behaviour of molecules. It\u2019s work that other institutions use to predict the properties of chemicals and proteins. Your customers are drugs companies and materials engineers. </p><p>Notice the word \u2018fast\u2019. It\u2019s no longer about being correct. Being correct is basic and easy. The current simulations take a lot of time because in your case, it needs to solve Schrodinger\u2019s equation for a really large system. This requires the computer to break down a really, really large matrix into smaller parts. The whole gamut scales to order n^7 in complexity, where n is the number of molecules. The first-order algorithms to do this would\u2019ve been quite quick. But since we\u2019re working on the state of the art, you want second and third order corrections that take into account electron correlation. Despite the fact that you\u2019re working on a supercomputer, it\u2019s a tall order. </p><p>So to make it fast, scientists have resorted to making computers learn the results of physical simulations. The pattern recognition makes the \u2018learned\u2019 version run thousands of times faster. It\u2019s slightly more approximate, which means that the results aren\u2019t as accurate as the physical simulations but that\u2019s okay. Most of the end users of your research don\u2019t need an extreme level of accuracy. </p><p>Your job consists of three steps. You repeat these three steps day in, and day out.</p><div><hr></div><h3>Step One - Running Some Simulations</h3><p>A research task you are working on is predicting the spectrum of some theoretical protein shapes that you\u2019ve designed. The goal is to match up these computed spectra with the light patterns of existing proteins whose shapes you don\u2019t know. If you did this, you would be able to guess the shapes of these unknown proteins, and figure out how they behave. </p><p>You run some physics simulations on the lab supercomputer. The simulations haven\u2019t got much better (in the theory sense) over the past decade. Not much has been discovered after quantum field theory, but it doesn\u2019t matter. Because we have much more computing power. And the level of theory is enough for most our purposes, like making medicines. </p><p>You try to get a range of simulations by modelling as many different scenarios as possible, and varying parameters. This step takes a while - maybe a couple of days for a decently sized simulation. The hard part is getting the config and initial conditions right. </p><div><hr></div><h3>Step Two - Sense Checking </h3><p>Step two is making sure the results of the simulation \u2018make sense\u2019. This is the hard part, and requires to use your brain muscles to make sure the first principles algorithms are working. You do some sense checks to see that the algorithms have converged to a solution without any breaks. You use theory to check that the energies and electric charges that the simulations have spit out make sense. </p><p>The work is finicky. The simulations take ages, but most of the delay comes from human error. You could have made a bug, like getting the configuration wrong or setting the initial conditions of the simulation in correctly. If you had made a single error, it could\u2019ve taken hours or days for the algorithm to run into a road block and for you to realise your mistake. And so you\u2019d have to start again. More time wasted. </p><div><hr></div><h3>Step Three - Curating the dataset and Modelling</h3><p>You collect the results of the simulation into a database, which is shared publicly in a massive data centre spanning billions upon billions of terabytes. You upload the energy trajectories, the spectrum, the dipole moments, and other chemical quantities of interest. </p><p>After that, we now have the secret sauce:</p><p>You feed the results into a massive deep learning model, which then takes the results and learns the rules of the simulation. In your case, it\u2019s learned how to compute the spectra of a protein in seconds, whereas the simulation took two days. The model is able to extend the results of the simulation to molecules you haven\u2019t even tested in the first place.  </p><p>All someone has to do now is to upload a protein that they want to find the spectrum of, and the model will spit it out in a matter of seconds!</p><p>Your work is done. </p><div><hr></div><h3>The Data Harvester </h3><p>This kind of work has been going on for a long time. Since 2021, quantum chemists have been interested in the machine learning of classical force fields. They started by asking if the classical force field approximations could be \u2018learned\u2019 from quantum data, so that the simulations could run quicker. And it worked. </p><p>The research community kept experimenting with larger and larger models. Over the next decade, the models got so big that nobody knows how to interpret the machine learned models. No one really knows how they work. </p><p>But who cares! It works! </p><p>Ironically, no one needs machine learning engineers anymore. Labs are now looking for people who have a strong theoretical and commercial knowledge of where the simulations run the slowest. Your job is to figure out which datasets are required, and which routines would benefit from speeding up through machine learning. And so a lot of your skill set is just talking to people, to figure out what is important. It\u2019s not all boring.</p><p>And here\u2019s the good part. The scientific community recognizes that the hard work comes from curating and cleaning those datasets! Just five years ago, it was the machine learning engineers that took all the credit for progress. In 2024, DeepMind won the Nobel Prize in Chemistry. They ignored all of the hard spectroscopy work done to build the dataset. But that\u2019s changed. </p><p>Your official position is called a \u2018dataset harvester\u2019. Not bad!</p>",
+  "truncated_body_text": "Humanity will eventually figure out how to simulate everything. When that happens, what job scientists will have?",
+  "wordcount": 1286,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        66.3,
+        66.3,
+        66.3
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        188.7,
+        188.7,
+        188.7
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        124,
+        124,
+        124
+      ],
+      "population": 603
+    },
+    "DarkMuted": {
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "population": 179
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        188,
+        188
+      ],
+      "population": 97
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 8,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 152687662,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/152687662/tts/c58d97ef-dfa0-43e4-b036-f9958d022e5a/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 102528674,
+      "body": "We had this exact same moment when planck's teacher told him that there is nothing more to be discovered just more accurate measurements. But the guy decided to go into physics anyways.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "We had this exact same moment when planck's teacher told him that there is nothing more to be discovered just more accurate measurements. But the guy decided to go into physics anyways."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 152687662,
+      "user_id": 178742791,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-03-22T16:39:53.706Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "theduck",
+      "photo_url": null,
+      "handle": "theduck2",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "theduck2",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "theduck",
+          "id": 3585535,
+          "base_url": "https://theduck2.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 83399428,
+      "body": "Perhaps 2030 is overly optimistic a date for when we will be able to \u201csimulate everything\u201d. I have been running simulations of star clusters and working closely with people who simulate star formation regions and stars themselves, as well as planetary formation. We are far, very very far from being able to properly simulate even just the known physics. The physics is multi-scale and very different scales are coupled in non-trivial ways. Unless we get AGI I expect 2030 simulations to be slightly less crude versions of ours. On top of this there probably also relevant (and perhaps dominant) physics effects we just don\u2019t know about.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhaps 2030 is overly optimistic a date for when we will be able to \u201csimulate everything\u201d. I have been running simulations of star clusters and working closely with people who simulate star formation regions and stars themselves, as well as planetary formation. We are far, very very far from being able to properly simulate even just the known physics. The physics is multi-scale and very different scales are coupled in non-trivial ways. Unless we get AGI I expect 2030 simulations to be slightly less crude versions of ours. On top of this there probably also relevant (and perhaps dominant) physics effects we just don\u2019t know about."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 152687662,
+      "user_id": 33570925,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2024-12-28T18:23:43.267Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Mario Pasquato",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2daed885-c0d5-4491-8198-3d31a46d8502_1221x1221.jpeg",
+      "handle": "mariopasquato",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "mariopasquato",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Mario\u2019s Substack",
+          "id": 1344747,
+          "base_url": "https://mariopasquato.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

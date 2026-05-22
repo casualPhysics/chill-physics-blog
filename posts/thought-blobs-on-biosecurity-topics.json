@@ -1,0 +1,252 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/thought-blobs-on-biosecurity-topics",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 162166909,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-04-26T00:25:31.052Z",
+  "updated_at": "2025-04-26T00:26:36.079Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "thought-blobs-on-biosecurity-topics",
+  "social_title": null,
+  "subtitle": "My (slow) process learning about info-hazards, biosecurity books, history and lab leaks",
+  "teaser_post_eligible": true,
+  "title": "Thought Blobs On Biosecurity Topics",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "lets-not-rawdog-the-next-plague",
+  "next_post_slug": "problems-trying-to-model-far-uvc",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!sKLc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 162166909,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "My (slow) process learning about info-hazards, biosecurity books, history and lab leaks",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!sKLc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!sKLc!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 424w, https://substackcdn.com/image/fetch/$s_!sKLc!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 848w, https://substackcdn.com/image/fetch/$s_!sKLc!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 1272w, https://substackcdn.com/image/fetch/$s_!sKLc!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!sKLc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png\" width=\"1456\" height=\"708\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:708,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:880567,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/162166909?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!sKLc!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 424w, https://substackcdn.com/image/fetch/$s_!sKLc!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 848w, https://substackcdn.com/image/fetch/$s_!sKLc!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 1272w, https://substackcdn.com/image/fetch/$s_!sKLc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fab8c3a-b75d-4b17-9303-02c77ed191f0_1724x838.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><h3>The \u2018Throwing Eggs at a Wall\u2019 Approach</h3><p>As a follow on from my last post, I'm still trying to figure out the right questions to ask in biosecurity. I'm still an outsider to the field, and so I'm making an effort to log my thinking as a 'warm-up' strategy, and get some momentum snowballing. I also think there is value in just writing shit down and putting it out there - It helps me think, I might come up with random useful nuggets by sheer dice rolling, and its a good signal of my interest.</p><p>So here's an essay on some things I've been working on over the past week. I've mostly got this through reading, web-link following and talking to people. I am uncertain about a lot of these claims, and have done my best to qualify that uncertainty in this post. But regardless, hopefully it is useful to anyone that's reading this.</p><p>I also feel that due to my unstructured mental model of the field, I didn't think it was worth putting my thoughts in such a neat and polished form, because they are likely to change anyway. I am biased towards this style of writing and working because of my experience as a quantitative trader, where my views might be valid for a timespan of anything from a few seconds to a few months. I call this splattering of ideas 'thought blobs'.</p><p>So what I've done here is to simply write a stream of logical chains from my research in order to flesh out and clean up some of my thoughts. Again, ideas are subject to change as I learn more, and I really welcome feedback.</p><p>I'll talk about</p><ul><li><p>Info-hazards</p></li><li><p>Books that I am reading to get historical context</p></li><li><p>Lab leaks</p></li><li><p>How I am trying to figure out if big biological risks are actually neglected</p></li></ul><h3>The Prickly Part - Info-hazards</h3><h4>Definitions</h4><p>An <a href=\"app://obsidian.md/Information%20hazard\">Information hazard</a> is when disseminating information potentially causes harm, like posting instructions about how to make a bomb on the internet.</p><h4>Well flagged concerns about Info-hazards in biosecurity</h4><p>One of my concerns in trying to do work in biosecurity is info-hazards. My rough model is, when I writing about biosecurity, I might unintentionally disseminate information about science, threat models, or scientifically useful pieces of history that could be used by malicious actors to cause harm.</p><p>The harms from the above seems obvious, and there are details on more harm mechanics in a <a href=\"https://docs.google.com/document/d/1VSfU3GiZumHDX2hoz3YY1PT2dQHtkbrfO8xLxI9BTGE/edit?tab=t.0\">handy guidance document</a> by Chris Bakerlee and Tessa Alexanian. I also think there is another weird type of weaker info-hazard that comes from say, discussing a foreign actor (country or organisation X) and saying something like:</p><blockquote><p>X might do Y! So we should be careful!</p></blockquote><p>Now, this could be harmful if 1) its untrue and or 2) its spoken in a way that ratchets up the tension between X and the<em> actors that are invested in what X is doing</em>. This kind of hear say, up-the-ante tension was evident in the nuclear arms race between the US and the USSR, and a thrilling account is written in the first couple of chapters by David Hoffman's book, <a href=\"https://en.wikipedia.org/wiki/The_Dead_Hand\">The Dead Hand.</a></p><p>I am new to the field and so am exercising caution in terms of disseminating information about something that could cause harm. Overall, so far I am invested in learning more, and so I plan to read literature recommended in the article below, including the following</p><ul><li><p>Information hazards in biotechnology, a <a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC6519142/\">paper</a> here.</p></li><li><p>Biosecurity Dilemmas by Christian Enemark</p></li><li><p>At this point, I feel like I need to talk to people to get a better intuition and some feedback on whether working on infohazards would be useful. This is definitely one for the to-do list.</p></li></ul><p>My approach to infohazards right now is taken pretty much verbatim from Chris Bakerlee and Tessa Alexanian's <a href=\"https://docs.google.com/document/d/1VSfU3GiZumHDX2hoz3YY1PT2dQHtkbrfO8xLxI9BTGE/edit?tab=t.0\">info-hazard guidance</a>, because currently I have no real prior, and the suggestions here seem sensible. The two main things that stuck out to me in the document were</p><ol><li><p>Trying to avoid discussing / creating new biorisk threat models</p></li><li><p>That talking about 'history' is probably safe to do, since incidents are already likely to be well documented, and so one is unlikely to do additional harm.</p></li></ol><p>The document also states that the most important issues in biosecurity don't require specific threat models to be discussed. </p><p>I broadly agree with this because</p><ul><li><p>just from the epidimiology side in global health, good policy in dealing with pandemics doesn't actually rely on in depth technical, biochemical knowledge about how pathogens work. Maybe questions along the lines of 'disease X that is airborne and kills people within 2 hours' are sufficient.</p></li><li><p>a lot of good policy decisions and problems just don't require any technical knowledge at all. Rather, it's also stuff like convincing people that vaccines don't cause autism, which is a whole different kind of prickly problem. I really got this vibe by reading <a href=\"https://en.wikipedia.org/wiki/The_Dead_Hand\">The Dead Hand</a>.</p></li></ul><p>On the flip side though, for something like mirror life (which I plan to write about soon), I do think it is possible that some form of threat models need to be discussed in a vague fashion since its a new technology. And having a better idea for how it might be used for harm could be useful in designing policy. But so far, its hard to know how much and how in depth the discussion needs to go. I find this to be quite meta. I plan to review some mirror life materials in my next few essays. I need to be more focused god-damn!</p><p>Some specific topics that I am unsure whether to write about, that I actually would like to write on (for my own curiosity, wanting to add to open discussion and personal interest purposes) include</p><ul><li><p>digging into the biochemistry of mirror life</p></li><li><p>the exact mechanisms of which pathogens might be engineered to do other things, whether harmful or not.</p></li></ul><p>Info-hazards seem to make the already prickly problem of biosecurity more prickly, and adds a new dimension to the whole problem.<br>Working through info-hazards would only be worth the effort if solving the problem itself is worth the effort, and I currently believe that in the case of biosecurity this is true. So, the problems are worth trying to fix, and I shouldn't be discouraged.</p><ul><li><p>One thing that concerns me is that because of information barriers, there already may be a lot of groups outside of the biosecurity / EA philanthropic sphere that<br>already know a significant portion of what we are trying to discover. And so, there could be a lot of redundancies in effort on that front, if governmental organisations<br>seem to have more edge.</p></li><li><p>Info-hazards in general add a lot of redundancy to working, because groups may potentially overlap. I can find that this is often emotionally discouraging.</p></li></ul><p>These are one of the reasons I have decided to have a slight tilt to start by looking at the history of biosecurity. I've written a section on this below.</p><h3>Historical Context on Biosecurity</h3><p>In light of infohazards, I've done some super preliminary investigation into some scattered topics in biosecurity. My aim right now is not to do a deepdive, but rather just find some topics that interest me, and to see if there are any areas that I could have some potential impact in.</p><p>So far, I'm reading</p><ul><li><p>The Genetic Age by Matthew Cobb,</p></li><li><p>The Dead Hand by David Hoffman</p></li></ul><p>I've currently just finished reading <a href=\"app://obsidian.md/The%20Genetic%20Age,%20Matthew%20Cobb\">The Genetic Age, Matthew Cobb</a>. I need to do a second pass, but so far it's given me a useful narrative timeline on the history of genetic engineering, genetically modified crops and synthetic biology. The book focuses more on history, ethics and societal implications rather than the hard science. This is why I think it makes it appropriate for science researchers.</p><p>On the science side, it covers</p><ul><li><p>the development of recombinant DNA in the 1980s</p></li><li><p>genetically modifying crops</p></li><li><p>gene drives and ecosytems.</p></li></ul><p>One thing that it has paid interesting attention on is the history of lab leaks, and also incidents that have caused shutdowns in the past.</p><p>The book also offers a fairly strong view on the potential ethical harms synthetic biology / genetic engineering has in place today. It offers a particularly damning account on He Jianqui's CRISP experiment on two human embryos, marking it as clearly unethical but leaves some ambiguity on the who's calling the shots on genetic engineering ethics in China.</p><p>On the flip side, there are convincing arguments from properly managed genetic modification in agriculture, where he references vitamin A fortification of golden rice.</p><p>Overall I got the vibe that Cobb feels like its not worth using these technologies other than for the purposes exclusive scientific curiosity. Reminds me of his quoting Paul Berg (in the context of the genetic language)</p><blockquote><p>Paul Berg, argued in 1993: To be fluent in a language, one needs to be able to read, to write, to copy, and to edit in that language</p></blockquote><p>Here's a brief timeline of events that the book covers, which I think is a useful reference that I will keep in my back pocket for later on. I think the key conference here is the Asilomar conference, and the subsequent research moratoriums after that.</p><ul><li><p><strong>1975</strong> \u2013 <em>Asilomar Conference</em> takes place, initiating global debate on genetic research regulation.</p></li><li><p><strong>1976</strong> \u2013 <em>Harvard</em> applies to build a P3 biosafety lab; greater attention to containment.</p></li><li><p><strong>1977</strong> \u2013 GMAG (<em>UK regulatory body</em>) formed; <em>Chang and Cohen</em> advance E. coli gene integration methods.</p></li><li><p><strong>1979</strong> \u2013 Public and scientific interest in recombinant DNA safety wanes; debate largely fades.</p></li><li><p><strong>1997</strong> \u2013 Ethical concerns emerge globally with rise of GM crops; public distrust grows.</p></li><li><p><strong>2012</strong> \u2013 Third major <strong>pause in genetic research</strong> after concerns around engineered H5N1 bird flu.</p></li><li><p><strong>2015</strong> \u2013 Scientists declare it <strong>irresponsible to edit human embryos</strong> using CRISPR.</p></li><li><p><strong>2018</strong> \u2013 <em>He Jiankui</em> conducts controversial CRISPR experiment on human embryos in China, causing mutations \u2014 marks <strong>entry into heritable genome editing</strong>.</p></li><li><p><strong>Recent Years</strong></p><ul><li><p><strong>Gene drive</strong> technology developed, capable of altering entire ecosystems (e.g., to eliminate malaria mosquitoes).</p></li><li><p>Experiments to simulate future pandemics by creating <strong>deadlier pathogens</strong> spark biosecurity fears.</p></li></ul></li></ul><p>In this vein, I wanted to dig a little more into the history of lab leaks. What I've found so far leads me to believe that accidental exposures is still a problem, is tractable, and actually is a more prevalent problem that I thought.</p><p>I am currently also reading 'The Dead Hand', by David Hoffman, and the chapters of biorisk also have given a very detailed narrative into mishaps in the Soviet and US bioweapons programs. Detailed narratives are given on specifics of several programs, such as<br>- The Japanese biological weapons experimentation right after World War II in Manchuria<br>- The beginnings of the Soviet SV40 and smallpox weaponisation attempts, as well as accounts of the scientists who were pressured to take part<br>- The US biological weapons programs<br>- The Soviet drive to further genetic engineering experiments given the US's progress in that area.</p><p>Then there are also mishaps which are documented in detail. The events which I found particularly worrying include</p><ul><li><p><a href=\"https://en.wikipedia.org/wiki/Dugway_sheep_incident\">The 1968 Dugway Sheep Incident</a>, where around 6000 sheep had died as a result of an aircraft delivery system failing to close on a VX nerve gas test.</p></li><li><p><a href=\"https://en.wikipedia.org/wiki/1971_Aral_smallpox_incident\">The 1971 Aralsk Incident</a>, where three people died, and details had only come to light in 2002.<br>I found these examples worrying because</p></li><li><p>They were pretty dumb mistakes</p></li><li><p>Nothing really preventing us from making them again.</p></li></ul><p>As part of this, I also stumbled across the paper <a href=\"app://obsidian.md/High-risk%20human-caused%20pathogen%20exposure%20events%20from%201975-2016%20-%20PMC\">High-risk human-caused pathogen exposure events from 1975-2016 - PMC</a>, which is a dataset of around 71 non-natural human exposures to highly pathogenic agents.</p><p>If the data is solid, then that is a lot more frequent than I expected. Given that state agents are actually incentivised to hide lab leaks, this number of 71 is probably a lower bound, and so the real number across the sample could be more like once a year, unbounded above.</p><blockquote><p>The research and development of biological weapons is forbidden by the BWC, so that violations of this convention, and any attendant accidents, would be expected to be kept secret.</p></blockquote><p>To state the obvious though, there seems to be only one study on this, and so I'm trying not to put too much weight on it. One concern that the paper highlights is that there are some ambiguity to what counts as a qualifying event. I would love to see a replication of this piece of work, to check if the order of magnitude is about the same. I would also love to see an up-to-date version as well. Alternatively, maybe it could be a cool project that I could do myself, but I still think I need to resolve some uncertainties before dedicated more time on it.</p><p>As part of this, I am wondering if its worth looking at lab safety standards as a potential area to spend more time working in. Potentially, with my physics background, I wonder if I could contribute in the area of anti-microbial surfaces or far UVC, as that seems like it could be first order useful for lab safety. There are also other techniques like maintaining a negative pressure differential to make sure airborne microbes can't escape.</p><p>Currently, there is a protocol called '<a href=\"https://en.wikipedia.org/wiki/Biosafety_level\">biosafety level</a>' which seems to be a set of guidelines loosely defined by the Centres for Disease Control in the US, as well as in the respective organisations in the EU and Canada. Just from the wikipedia page:</p><blockquote><p>A <strong>biosafety level</strong> (<strong>BSL</strong>), or <strong>pathogen/protection level</strong>, is a set of <a href=\"https://en.wikipedia.org/wiki/Biocontainment\">biocontainment</a> precautions required to isolate dangerous <a href=\"https://en.wikipedia.org/wiki/Biological_agent\">biological agents</a> in an enclosed laboratory facility. The levels of containment range from the lowest biosafety level 1 (BSL-1) to the highest at level 4 (BSL-4). In the United States, the <a href=\"https://en.wikipedia.org/wiki/Centers_for_Disease_Control_and_Prevention\">Centers for Disease Control and Prevention</a> (CDC) have specified these levels in a publication referred to as Biosafety in Microbiological and Biomedical Laboratories (BMBL).2 In the <a href=\"https://en.wikipedia.org/wiki/European_Union\">European Union</a> (EU), the same biosafety levels are defined in a <a href=\"https://en.wikipedia.org/wiki/European_Union_directive\">directive</a>.3 In Canada the four levels are known as Containment Levels.4 Facilities with these designations are also sometimes given as <strong>P1</strong> through <strong>P4</strong> (for pathogen or protection level), as in the term <em>P3 laboratory</em>.5</p></blockquote><p>There is also a paper by Nature which I plan to dig into that argues for more stringent and standardised biosafety protocols -<br><a href=\"https://www.nature.com/articles/s41467-022-29889-y\">Pei, L., Garfinkel, M. &amp; Schmidt, M. Bottlenecks and opportunities for synthetic biology biosafety standards</a></p><h3>Are global catastrophic biological risks actually neglected?</h3><p>In my previous post I outlined some general budgets by philanthropic organisations working on the life sciences. I still need to do more work on this, and its on the to-do list, but I would like to somehow improve estimates of the amount of dollars invested.</p><p>Just a brief reminder on <a href=\"https://forum.effectivealtruism.org/posts/pnincG5vW8Far8Ggg/how-well-funded-is-biosecurity-philanthropy\">C.K's report</a>, which still currently seems to be the most comprehensive I've seen so far. I found the following table from the report to be especially useful, which is biosecurity investment from philanthropic foundations. My quick thoughts are that even though the fields are muddily defined due to cross-over, the order of magnitude estimates are useful.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!6DRt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!6DRt!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 424w, https://substackcdn.com/image/fetch/$s_!6DRt!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 848w, https://substackcdn.com/image/fetch/$s_!6DRt!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 1272w, https://substackcdn.com/image/fetch/$s_!6DRt!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!6DRt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png\" width=\"750\" height=\"914\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d24a640a-c17f-4224-93bb-379e44b552d6_750x914.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:914,&quot;width&quot;:750,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:342679,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/162166909?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!6DRt!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 424w, https://substackcdn.com/image/fetch/$s_!6DRt!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 848w, https://substackcdn.com/image/fetch/$s_!6DRt!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 1272w, https://substackcdn.com/image/fetch/$s_!6DRt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd24a640a-c17f-4224-93bb-379e44b552d6_750x914.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>Some really subjective ideas from me on this table:</p><ul><li><p>As agreed with the report, there is a lot of dollars in rapid vaccines, disease surveillance and pathogenesis research. And the skew is towards these areas look quite big.</p></li><li><p>GBCR priority areas still look neglected</p></li><li><p>Laboratory preparedness looks neglected</p></li><li><p>AI-Bio is also neglected</p></li><li><p>PPE investment seems low versus non philanthropic organisations working on it</p></li><li><p>Therapeutics seems low versus non philanthropic organsiations working on it</p></li></ul><p>One really rough metric (although probably not that meaningful with extistential risks) that could be made from better estimates of philanthropic funding in the area is just to divide the currently allocated funding by the total cost of a harm scenario. Using that would mean - throwing all the clear issues with this kind of metric under the bus - lower the number, the more consequential the issue. And so, building a list of high impact issues with these scores would help me get a better feel of neglectedness of the issue versus the other areas.</p><p>But since trying to build metrics might be oversimplifying things, one thing I am looking at is getting a better handle on who's working on what. There's a Substack called <a href=\"app://obsidian.md/GCBR%20Organization%20Updates%20-%20April%202025\">GCBR Organization Updates - April 2025</a>, by Anemone Fraz and Tessa Alexanian, that as of writing, seems to write monthly rundowns on who is doing what. Some organisations I haven't heard of include</p><ul><li><p>Sentinel Bio</p></li><li><p>SecureDNA</p></li><li><p>Brown Pandemic Center</p></li><li><p>and more.</p></li></ul><p>I am not sure if this is a complete list but there are a lot of nuggets that are helpful. It also helps me figure out within the biosecurity space what areas might still be neglected. There are also job postings and progress reports, so I suggest anyone that's interested to check out that page.</p><p>Knowing what's going on is helping me to build a better model of how organisations outside of government can provide meaningful, outsized edge to the field of biosecurity. I am still unsure of the best models of impact as an individual myself. In my earlier post, I surmised that I might be helpful in physics based approaches to preventing pandemics, and I learned from these organisation updates that there already is an organisation working on Far UVC called <a href=\"https://blueprintbiosecurity.org/u/2025/03/Blueprint-for-Far-UVC-PREPRINTv1.0.pdf\">Blueprint</a>.</p><p>One thing I also am particularly curious about is the Chinese and Russian commitments to biosecurity, but obvious problems like language barriers make this hard for me to get into. I really need to learn a bit of introductory Mandarin!</p><p>As part of learning about where the neglected issues are, I'm also trying to figure out how philanthropic organisations can offer value, versus just governments. There is a section from Open Philanthropy's website on possible cause areas, but so far, I am still pretty uncertain about whether I should try dig deeper into this.</p><p>From <a href=\"app://obsidian.md/Biosecurity,%20Open%20Philanthropy\">Biosecurity, Open Philanthropy</a>:</p><ul><li><p><em>Supporting general research on the magnitude of biosecurity risks and opportunities to reduce them</em></p></li><li><p><em>Improving and connecting disease surveillance systems so that novel threats can be detected and responded to more quickly <a href=\"https://www.openphilanthropy.org/research/cause-reports/biosecurity#footnote22_nzd75zq\">22</a></em></p></li><li><p><em>Reducing the risks of dual use research by promoting stronger oversight mechanisms and cultural norms of caution amongst researchers <a href=\"https://www.openphilanthropy.org/research/cause-reports/biosecurity#footnote23_5tllw2j\">23</a></em></p></li><li><p><em>Developing novel therapies, such as broad-spectrum flu vaccines <a href=\"https://www.openphilanthropy.org/research/cause-reports/biosecurity#footnote24_2pm9o6c\">24</a></em></p></li><li><p><em>Improving the capacity for rapid production of vaccines in response to emerging threats <a href=\"https://www.openphilanthropy.org/research/cause-reports/biosecurity#footnote25_npmulr3\">25</a></em></p></li><li><p><em>Creating or growing stockpiles of important medical countermeasures <a href=\"https://www.openphilanthropy.org/research/cause-reports/biosecurity#footnote26_pkh5al1\">26</a></em></p></li><li><p><em>Improving preparedness of public health and law enforcement institutions <a href=\"https://www.openphilanthropy.org/research/cause-reports/biosecurity#footnote27_5agzurb\">27</a></em></p></li></ul>",
+  "truncated_body_text": "The \u2018Throwing Eggs at a Wall\u2019 Approach",
+  "wordcount": 3096,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "230b757e-0916-404c-994b-98e4876d0d44",
+      "publication_id": 1692033,
+      "name": "Biosecurity",
+      "slug": "biosecurity",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        127.5,
+        127.5,
+        127.5
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        66.3,
+        66.3,
+        66.3
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        188.7,
+        188.7,
+        188.7
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        129,
+        129,
+        129
+      ],
+      "population": 126
+    },
+    "DarkMuted": {
+      "rgb": [
+        68,
+        68,
+        68
+      ],
+      "population": 24
+    },
+    "LightMuted": {
+      "rgb": [
+        188,
+        188,
+        188
+      ],
+      "population": 88
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 162166909,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/162166909/tts/d0b42f43-c01f-4be2-b704-168d5ae1b736/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

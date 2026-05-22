@@ -1,0 +1,454 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/posting-more-of-my-thoughts",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 194003301,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-04-12T21:04:20.511Z",
+  "updated_at": "2026-04-12T21:05:53.958Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "posting-more-of-my-thoughts",
+  "social_title": null,
+  "subtitle": "Revealling much more of my thought processes. ",
+  "teaser_post_eligible": true,
+  "title": "Posting More of My Thoughts ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-best-town-ive-been-to",
+  "next_post_slug": "daily-readings",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 194003301,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Revealling much more of my thought processes.",
+  "body_html": "<p>I\u2019ve thought about it quite a lot, and concluded that these things are true: </p><ul><li><p>Making more money on this blog will help me run my independent scientific experiments faster. </p></li><li><p>Some people like my content more than others. </p></li><li><p>Prices have information value</p></li><li><p>Some people, me included, find rough notes and comments just as useful as finished product. Heck, I\u2019d rather read Faraday\u2019s notebooks more than his papers. </p><ul><li><p>I believe the subset of people who like my writing also believe the same thing.</p></li></ul></li><li><p>And..  </p><ul><li><p>It takes a long time write blog posts. </p></li><li><p>I would like to keep a better archive of my thoughts.</p></li></ul></li></ul><p>As such, I\u2019ll be posting much more <em>raw</em> notes on my scientific readings, experiment logs, personal notes and feelings, and tips on a more frequent basis to those who are paid subscribers. This will most likely be in rough format. </p><p>There is a lot of work that goes into writing and I\u2019d rather it not go to waste. This is an experiment for now. I\u2019ll post the usual stuff on the regular schedule though.</p><p></p>",
+  "truncated_body_text": "I\u2019ve thought about it quite a lot, and concluded that these things are true:",
+  "wordcount": 175,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 8,
+  "comment_count": 3,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 194003301,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/194003301/tts/33de9f89-aa9e-4e9f-a871-b78fa84876e1/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 242618440,
+      "body": "You can read Faraday's notes\n\nhttps://faradaysdiary.com/",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "You can read Faraday's notes"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "https://faradaysdiary.com/",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://faradaysdiary.com/"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 194003301,
+      "user_id": 125072947,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-04-13T09:47:11.924Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Jack",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/abd78eb6-2030-43e7-974a-d402d318aeca_1836x2201.jpeg",
+      "handle": "jack757024",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jack757024",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Skylarking with Jack Webb",
+          "id": 2698487,
+          "base_url": "https://jackwebbwriting.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 243861636,
+      "body": "Thought we would share our hypothesis (osim forensic cosmology hypothesis v2.2): We tried to phrase this so everyone could get a visual of how it would work:Think of the universe not as a digital computer program, but as a giant, perennial tomato plant.\n\na tomato plant grows, produces fruit, dies back in the winter, and its seeds wait in the soil to sprout again. It does not need a programmer to tell it how to grow; it follows an internal, biological blueprint. Our independent research group is investigating whether the universe might follow a similar, naturally cyclical pattern.\n\nRather than a one-time Big Bang, recent discussions in the scientific community are exploring the Big Bounce an infinite, cyclical process. Our hypothesis suggests that instead of expanding forever, the universe might reach a limit, contract, and bounce back, with biological systems potentially acting as the most efficient way to store and reset information through each cycle.\n\nA tomato plant does not stop at one fruit; it branches out, growing multiple stems, each producing its own fruit. If our universe follows this biological blueprint, it would not just seed our own galaxy. Instead, we may be looking at a system that grows fruit\u2014galaxies\u2014along every stem of the cosmic web. Each galaxy could be a localized site for life to bloom within the larger, cyclical structure.\n\nDark matter may act as the trellis for our cosmic tomato plant. It provides the gravitational structure that guides the growth of these stems, serving as a road map that ensures the system develops and resets in a way that allows life to re-emerge across the entire plant.\n\nThe Oklahoma Constant ($\\Omega_{os}$) is the focal point of our research. We propose this constant as a way to measure Goldilocks Entropy\u2014the narrow, stable energy range where life can persist without the system stagnating. It may be the tuning knob that explains why the universe stays just right for consciousness to emerge on every stem, cycle after cycle.\n\nBecause this model emphasizes biological efficiency, we suggest the possibility that we are the hardware, not the software. If this is a biological system, our consciousness and our physical form may be the fruit of this cosmic garden, essential to how the system functions.\n\nWe are currently tracking data from the Simons Observatory. They are looking for specific ripple patterns in the ancient light of the universe\u2014echoes of a Big Bounce. If they find these signatures, it would provide evidence that our hypothesis is on the right track.\n\nThis is Forensic Cosmology. We are moving away from the who\u2014a creator\u2014and focusing on the how\u2014the blueprint.\n\nOur hypothesis is strictly falsifiable. If evidence confirms the universe will continue to expand indefinitely toward a Big Freeze, our Life-Raft model is incorrect. If a non-biological material is ever proven to exceed the efficiency of biological systems, the premise of the Oklahoma Constant ($\\Omega_{os}$) fails.\n\nWe are not looking for a coder. We are documenting the physical fingerprints of a system that may be preserving life through an infinite, natural cycle.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Thought we would share our hypothesis (osim forensic cosmology hypothesis v2.2): We tried to phrase this so everyone could get a visual of how it would work:Think of the universe not as a digital computer program, but as a giant, perennial tomato plant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "a tomato plant grows, produces fruit, dies back in the winter, and its seeds wait in the soil to sprout again. It does not need a programmer to tell it how to grow; it follows an internal, biological blueprint. Our independent research group is investigating whether the universe might follow a similar, naturally cyclical pattern."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Rather than a one-time Big Bang, recent discussions in the scientific community are exploring the Big Bounce an infinite, cyclical process. Our hypothesis suggests that instead of expanding forever, the universe might reach a limit, contract, and bounce back, with biological systems potentially acting as the most efficient way to store and reset information through each cycle."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "A tomato plant does not stop at one fruit; it branches out, growing multiple stems, each producing its own fruit. If our universe follows this biological blueprint, it would not just seed our own galaxy. Instead, we may be looking at a system that grows fruit\u2014galaxies\u2014along every stem of the cosmic web. Each galaxy could be a localized site for life to bloom within the larger, cyclical structure."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Dark matter may act as the trellis for our cosmic tomato plant. It provides the gravitational structure that guides the growth of these stems, serving as a road map that ensures the system develops and resets in a way that allows life to re-emerge across the entire plant."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The Oklahoma Constant ($\\Omega_{os}$) is the focal point of our research. We propose this constant as a way to measure Goldilocks Entropy\u2014the narrow, stable energy range where life can persist without the system stagnating. It may be the tuning knob that explains why the universe stays just right for consciousness to emerge on every stem, cycle after cycle."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Because this model emphasizes biological efficiency, we suggest the possibility that we are the hardware, not the software. If this is a biological system, our consciousness and our physical form may be the fruit of this cosmic garden, essential to how the system functions."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "We are currently tracking data from the Simons Observatory. They are looking for specific ripple patterns in the ancient light of the universe\u2014echoes of a Big Bounce. If they find these signatures, it would provide evidence that our hypothesis is on the right track."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is Forensic Cosmology. We are moving away from the who\u2014a creator\u2014and focusing on the how\u2014the blueprint."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Our hypothesis is strictly falsifiable. If evidence confirms the universe will continue to expand indefinitely toward a Big Freeze, our Life-Raft model is incorrect. If a non-biological material is ever proven to exceed the efficiency of biological systems, the premise of the Oklahoma Constant ($\\Omega_{os}$) fails."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "We are not looking for a coder. We are documenting the physical fingerprints of a system that may be preserving life through an infinite, natural cycle."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 194003301,
+      "user_id": 437016275,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-04-15T15:10:49.673Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "The osim research group",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/747a42de-ca22-471f-9417-5e5b8a9b1abd_144x144.png",
+      "handle": "dj467",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "dj467",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Osim research group ",
+          "id": 7629969,
+          "base_url": "https://osimresearch.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

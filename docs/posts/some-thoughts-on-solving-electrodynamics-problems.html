@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Electrodynamics Puzzles &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Electrodynamics Puzzles</h2>
+    <p class="post-meta">
+      <span class="post-date">18 April 2022</span>
+      &middot; <span class="post-subtitle">Why do we care about electrodynamics? Electrodynamics is the study of magnetic and electric fields that stem from moving charges. It’s useful for pretty much everything in engineering to scientific instrumentation.</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <h3>The background</h3><p>Why do we care about electrodynamics? Electrodynamics is the study of magnetic and electric fields that stem from moving charges. It’s useful for pretty much everything in engineering to scientific instrumentation. A lot of people think that it is a dry subject of study, especially pure mathematics students that take this class as an elective. However, I think that electrodynamics also has lots of interesting theoretical and academic components. Well, really the main questions in electrodynamics at the beginning is figuring out what electric and magnetic fields look like when we have potentials placed in certain locations. In this post, I wanted to offer some insight into the kinds of things I think about when approaching a problem like this.</p><p>Without further do, how do we begin to picture what an electric field looks like on a spherical shell? To figure this problem out in the classical frame of mind, we need to use Gauss’s law, which is one of the results that come from Maxwell’s equations. Specifically, Gauss’s law states that the divergence of an electric field, at any given point, should be proportional to the charge density at that point. This is shown in the equation below. At this point, the name of the game is to figure out what the electric field E looks like.</p><p>\[ \mathbf \nabla \cdot E \propto \rho \]</p><div><hr/></div><h3>Gauss's Law</h3><p>Now, how is this law useful? Aside from being quite elegant, we can derive useful side results from this expression which allow us to evaluate E in a practical manner. The main useful context in which this becomes useful is when we integrate over some surface which contains the charge. We use Stoke’s theorem to convert the volume integral into a surface integral. When we use Stokes’ theorem to switch to a surface integral, we no longer have to worry about solving a differential equation.</p><p>$$ \int _ V \nabla \cdot \mathbf E \, dV = \int _ { \partial V } d \mathbf{ S } \cdot \mathbf { E } = \int _ V dV \, \rho $$</p><p>Stoke’s theorem in this case is the specific case of the general result in differential geometry, where the exterior derivative of a form integrated over a volume is the same as the form integrated over the boundary.</p><p>$$ \int _ { \partial V } \omega = \int_ { V } d\omega $$</p><p>We need to choose a surface to bound this volume. What’s interesting is that the surface we choose to bound this volume doesn’t rely on the shape of the surface itself — all that matters is that we bound the charge. To solve these problems, the trick is to use the correct set of coordinates that respect the symmetry of the problem. If the problem takes a form that is spherically symmetric, we’d be better off using spherical coordinates since it makes the calculation of the surface integral easier to evaluate. Often times, this makes an ansatz — a guess — easier to come up with. In the case of a spherically symmetric source charge, the guess that the electric field is a function of just the radius is completely reasonable.</p><p>$$ \mathbf{E } = E( r ) \mathbf{\hat r } $$</p><div><hr/></div><h3>Linearity and potentials</h3><p>Once we come up with this ansatz, it is then a straightforward matter of computing the surface integral. So far, this method allows us to come up with answers to the questions such as</p><ul><li><p>What is the electric field that surrounds a spherical shell?</p></li><li><p>What is the electric field around a line?</p></li><li><p>What is the electric field that surrounds a point charge?</p></li></ul><p>There are a few common charge potentials that come up again and again. One of them is the single point charge. This is a potential that looks like the dirac delta function, which looks like this, centred at the origin.</p><p>$$ \rho( \mathbf { r } ) = \delta ( 0) $$</p><p>In my opinion, one of the most useful tools that I used here was using educated guesses that respect the symmetry of the problem. Then after that, it is using the linearity of the problem to find a solution, then using uniqueness. If we have a complicated looking potential, like two point charges, we can simplify the problem by studying each potential individually, and then adding up the solutions.</p>
+  </div>
+
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/some-thoughts-on-solving-electrodynamics-problems">Read on Substack</a>
+     &middot; <a href="small-sample-bias-and-data-ethics.html">&laquo; Previous</a>
+     &middot; <a href="untitled-9.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

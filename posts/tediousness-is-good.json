@@ -1,0 +1,252 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/tediousness-is-good",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 152626781,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2024-12-06T10:02:45.501Z",
+  "updated_at": "2025-05-30T22:22:00.844Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "tediousness-is-good",
+  "social_title": null,
+  "subtitle": "On knowing what's important. ",
+  "teaser_post_eligible": true,
+  "title": "Tediousness is Good. ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 4,
+  "reactions": {
+    "\u2764": 13
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "conquering-the-molecules",
+  "next_post_slug": "scientists-will-become-data-harvesters",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!3UXV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 152626781,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On knowing what's important.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!3UXV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!3UXV!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 424w, https://substackcdn.com/image/fetch/$s_!3UXV!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 848w, https://substackcdn.com/image/fetch/$s_!3UXV!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 1272w, https://substackcdn.com/image/fetch/$s_!3UXV!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!3UXV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png\" width=\"488\" height=\"339\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3119c381-097f-4550-858b-629c53a2ce5c_488x339.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:339,&quot;width&quot;:488,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:255884,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!3UXV!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 424w, https://substackcdn.com/image/fetch/$s_!3UXV!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 848w, https://substackcdn.com/image/fetch/$s_!3UXV!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 1272w, https://substackcdn.com/image/fetch/$s_!3UXV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3119c381-097f-4550-858b-629c53a2ce5c_488x339.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>Over the past year, I\u2019ve slowly begun to accept that <em>good work involves tediousness</em>. But, I\u2019m now convinced that an even stronger version of this statement should be true: </p><p>Not only does good work involve tediousness; good work <strong>should</strong> be tedious<em>. </em></p><p>And this fact can be used to our advantage. The feeling of tediousness is a signal that you\u2019re onto something juicy. It\u2019s a signal that what you\u2019re working on is important and that you should keep going. It\u2019s a signal that you should keep asking more questions and try to get it done. There is a caveat here though - this only works provided you\u2019ve made a best effort to automate everything else. In other words, the feeling of tediousness is only a signal if it\u2019s \u2018<em>good</em>\u2019 tediousness. </p><p>Here\u2019s why.  </p><p>\u2018<em>Good</em>\u2019 tediousness comes from repetitive, hard tasks left over <strong>after</strong> you\u2019ve automated what you can. \u2018Bad\u2019 tediousness comes with repetitive tasks that could be easily automated but are done manually anyway because you\u2019re too lazy to automate them. </p><p>So why is \u2018good\u2019 tediousness a signal that you\u2019re working on something good and worthwhile? Let\u2019s talk about it in the context of research. I think good research by definition is the discovery of new things. If those things were <strong>actually</strong> new, it would mean that the tools to discover those things haven\u2019t been built yet. So if you\u2019ve already built tools to automate what you can, and haven\u2019t been able to find the tools to do it online, and still find yourself doing tedious tasks, it means you\u2019re in unexplored territory. It means that you\u2019ve come across special cases that are not easily understood.</p><p>Here\u2019s an example. Part of my research with molecules involves trying to compute the light they might absorb. There is definitely a part of this which I find extremely tedious. To test new molecules, I need to create a vast amount of them digitally by hand, with a mouse and keyboard, in an editor on my computer. I then have to drag and drop the atoms and bonds in the right place, to make the shape that I want.</p><p>There is literally no skill required for this, other than some chemistry awareness. It\u2019s boring as hell. Some parts, but only some, can be automated with effort. If I can create one manually, I can use a script to create several different variants. But for the most part, its manual, because if I want to make one with a really different shape, I\u2019m going to have to draw it like how a kid draws a picture on MS paint. </p><p>The awareness of this tediousness made me think. Is there a better way to do this? And there genuinely wasn\u2019t. I\u2019ve tried, and failed, to find datasets online trying to accomplish what I\u2019m doing, and to automate it. And so this has acted as a strong signal that I\u2019m working on a research gap, because no one else has bothered to see this through to completion. I\u2019ve learned that this subset of molecules that I\u2019m building is relatively new ground, since if it existed it would\u2019ve been easily found on google. I\u2019ve learned that making this dataset is likely to be something new, all because I\u2019ve noticed the tediousness involved that is not easily automated away. People can use this, because I need to use it. </p><p>Often, the tediousness main meat of a spectacular result. Modern AI wouldn\u2019t be what it is today if not for the tedious efforts of Fei-Fei Li to collect image labelling data. Modern biochemistry wouldn\u2019t be what it is today if not for the tedious experiments of Venki Ramakrishnan to characterise the ribosome. The tediousness is the work. And sometimes, it can be enjoyed, like a child painstakingly building a city out of lego. </p><p>And so often, the tediousness is actually a source for research questions. This is because trying to automate a currently unautomatable process is a challenging and interesting problem. And this can spark other questions. For example, another tedious part of my research in chemistry is manually labelling \u2018orbitals\u2019, which are distributions of electrons that a computer spits out around a molecule. But then I asked - why can\u2019t I use machine learning or image recognition to automate the labelling of orbitals? It turns out that other people were thinking about that too, and so I realised I stumbled across a good research problem by embracing tediousness. </p><p>So next time I feel this way doing a tedious task, I won\u2019t feel anxious about it. Rather, I\u2019ll use it as an advantage. Usually, I am really careful about \u2018working too hard\u2019, and being inefficient. But this is an exception. This is why tedious is good. </p><p>Something about this does make me sad though. Maybe in the future, with all of our advances in machine learning, our sole job as human scientists will be tediously creating datasets for the algorithms to learn from. We won\u2019t have to think about theories or mechanics. We might just end up as organic curators tediously gathering examples from the natural world. </p><p></p>",
+  "truncated_body_text": "Over the past year, I\u2019ve slowly begun to accept that good work involves tediousness. But, I\u2019m now convinced that an even stronger version of this statement should be true:",
+  "wordcount": 845,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        228,
+        136,
+        91
+      ],
+      "population": 10
+    },
+    "DarkVibrant": {
+      "rgb": [
+        122,
+        60,
+        56
+      ],
+      "population": 85
+    },
+    "LightVibrant": {
+      "rgb": [
+        242,
+        138,
+        116
+      ],
+      "population": 545
+    },
+    "Muted": {
+      "rgb": [
+        141,
+        141,
+        116
+      ],
+      "population": 326
+    },
+    "DarkMuted": {
+      "rgb": [
+        54,
+        83,
+        63
+      ],
+      "population": 64
+    },
+    "LightMuted": {
+      "rgb": [
+        176,
+        204,
+        208
+      ],
+      "population": 82
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 13,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 152626781,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/152626781/tts/6764a9ef-b67b-4b35-a184-fc658a1e3dce/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

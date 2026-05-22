@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/what-is-the-dollar-cost-of-malaysias-racial-discrimination",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391412,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2022-04-25T18:55:09.000Z",
+  "updated_at": "2023-05-28T15:50:17.405Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "what-is-the-dollar-cost-of-malaysias-racial-discrimination",
+  "social_title": null,
+  "subtitle": "There doesn\u2019t seem to be much literature out there that quantifies this cost of racism to the Malaysian economy. In this article, I will try to propose a model for a lower bound for the Ringgit cost of racial discrimination",
+  "teaser_post_eligible": true,
+  "title": "What is the Dollar Cost of Malaysia\u2019s Racial Discrimination?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-viability-of-space-solar-energy",
+  "next_post_slug": "noethers-theorem-and-the-principle-of-least-action",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/cd14f3f9-af95-4b38-9a6d-84dd6c5eec05_2000x2499.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "There doesn\u2019t seem to be much literature out there that quantifies this cost of racism to the Malaysian economy. In this article, I will try to propose a model for a lower bound for the Ringgit cost of racial discrimination",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!jKSb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!jKSb!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 424w, https://substackcdn.com/image/fetch/$s_!jKSb!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 848w, https://substackcdn.com/image/fetch/$s_!jKSb!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!jKSb!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!jKSb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/db46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;What is the Dollar Cost of Malaysia\u2019s Racial Discrimination?&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"What is the Dollar Cost of Malaysia\u2019s Racial Discrimination?\" title=\"What is the Dollar Cost of Malaysia\u2019s Racial Discrimination?\" srcset=\"https://substackcdn.com/image/fetch/$s_!jKSb!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 424w, https://substackcdn.com/image/fetch/$s_!jKSb!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 848w, https://substackcdn.com/image/fetch/$s_!jKSb!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!jKSb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdb46ad58-9d46-4a22-860c-8c81359a6b8f_2000x2499.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><p>Racism in job and housing markets are the topic of ferocious debate in Malaysia. From my experience, debate on this topic is primarily fuelled by anecdotes and screenshots of messages on social media (please feel free to email me if I\u2019ve missed out any substantial quantitative attempts that have been done already. These attempts should be openly posted on the internet, and not in paid-for academic journals).</p><p>There doesn\u2019t seem to be much literature out there that actually <em>quantifies</em> this cost to the Malaysian economy. In this article, I will try to propose a model for a lower bound for the Ringgit cost of racial discrimination, at the job interview selection level. From this model, I hope to propose a break-even value that should be invested in polices that implement blind CV selection, or education to combat bias at the interview selection level.</p><p>Ideally, my hope is that this cost should be subject to further review and then submitted to the Malaysian government to put it in next year\u2019s budget. Broadly, I would like to see more quantitative analysis by the Malaysian government in their policy making with regards to racial bias. I hope that this is a decent step in that direction. &nbsp;</p><p>How should we define the economic cost of racial discrimination? I think a reasonable measure is to look at the productivity forgone from choosing <strong>poor candidates, at the expense of more productive ones, </strong>from racial bias at interview stage. Suppose we have a company, and they are chose a poor candidate since they are from preferred ethnic group A. They are likely to have also missed out on a good candidate from group B because they didn\u2019t select them at the interview stage due to bias. If the candidate B was say MYR 1k more productive annually, then this would be the cost.</p><p>In this post, I put forward a first estimate that this sort of bias costs us around <strong>MYR 18 million annually. </strong>This is compared to an 'ideal scenario case' where employers correctly call superior candidates 60% of the time to interview, regardless of race. This does seem like a very large number and it shows the potential magnitude that the problem of discrimination is causing the country. I hope to find refinements to the model that will allows us to come closer to a more sensible definition.</p><div><hr></div><h3>Data</h3><p>I will be working off of empirical data on a study by [1], as proxy inputs for this model. The inputs are call back rates as a function of race, and the quality of fake CVs generated by the authors of the paper. The table below shows the call back rate of resumes based on race and quality of their CV. A different resume was sent to a different company in this case.Note that the size of this sample is incredibly small, and the classification of above and below average resumes in the literature is muddy.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!L3Pj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!L3Pj!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 424w, https://substackcdn.com/image/fetch/$s_!L3Pj!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 848w, https://substackcdn.com/image/fetch/$s_!L3Pj!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 1272w, https://substackcdn.com/image/fetch/$s_!L3Pj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!L3Pj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png\" width=\"1050\" height=\"916\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/eb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:916,&quot;width&quot;:1050,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!L3Pj!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 424w, https://substackcdn.com/image/fetch/$s_!L3Pj!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 848w, https://substackcdn.com/image/fetch/$s_!L3Pj!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 1272w, https://substackcdn.com/image/fetch/$s_!L3Pj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb259447-0826-40bf-acb5-fad2121f5e64_1050x916.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div><hr></div><h3>The Model</h3><p>With this data, we will start to model the likelihood of selection based on race and its effect on productivity. Let\u2019s start by assuming that each company in Malaysia receives 100 applications for each job posting. Due to constraints on interviewing, it is likely that each company brings 10 applicants to interview, and then chooses one applicant for the job. To model the success of an applicant, we will take the selection probability as</p><p>$$ P ( \\text{Person from group j selected}) = \\theta \\times p_j $$</p><p>Where p_j is some preference probability, and theta is a filtering parameter that represents the probability of selection given that they get to interview. We will treat it as fixed.</p><p>Since we are studying the effect of racial prejudice between Malay and Chinese people, with two categories of skill at the screening level, we will model these 10 applicants as being chosen from a discrete distribution of people of 4 categories. I really want to emphasise that I am not taking a position here on what fields X in Malaysia bias ethnic groups Y. There is evidence of systemic racism in favour of ethnic Malays in many areas, and in favour of ethic Chinese in many other areas. For this reason I will label the groups A and B.</p><ul><li><p>Person from category A with an above average resume</p></li><li><p>Person from category A with a below average resume</p></li><li><p>Person from category B with an above average resume</p></li><li><p>Person from category B. with a below average resume</p></li></ul><p>We want to come up with an estimator for the number of skilled people from category A that were not selected at interview, and lost a job to a less skilled applicant who was. I am crap at probability and statistics, so it was easier to build a simulation. To do this, for each company, we will generate a sample of 100 applicants from a discrete distribution with parameters estimated from the table above, to represent the bias in selection. After this, we will then randomly select a set of 10 people from this sample of 100. The person who gets the job will be selected uniformly from this set of 10. If there is a person from group A, above average, that is not called in the set of interviewees, and it so happens that a person from group B, below average, is selected for a job, then we will tally this as one sample where there is a productivity loss. We will repeat this procedure several times. Ultimately we want to find</p><p>$$ \\gamma = P(\\text{not getting interviewed} | \\text{Less skilled person from other group got the job} ) $$</p><p>How do we get the preference probabilities from the data above? Well, we aim to construct an estimator and then show that it is equal to the call-back statistics given in the data above. To break this problem down, let\u2019s consider two people from A and B, each submitting a resume, and ignore the quality of the resume for now. For each potential candidate for interview, we model that the company will randomly select from A over B with some preference p, and then the probability that it selects a resume that the application was successful is given by some success rate theta, which is unknown. Let A be the event that a resume from person A was chosen, and similarly for B. In this case, we have that</p><p>$$ P( A = 1 )= \\theta \\times p, \\quad P ( B = 1 ) = \\theta \\times ( 1 - p ) $$</p><p>Now, an unbiased estimator for p would be the following. Take the sums of the indicator function of A, then divide it by B. We find that rearranging, we get that an unbiased estimator is</p><p>$$ \\hat{ p } = \\frac{ \\hat{A}}{ \\hat{A} + \\hat{B} }, \\text{ where } \\hat { A } &nbsp;= \\sum _ i 1_ { A_ i } $$</p><p>Generalising further, if we have several groups A, B, C, D, then the preference probability would just be the following. I leave it as an exercise to show that this is unbiased. Hint: make sure you sum up independent variables when doing any division!</p><p>$$ \\hat { p }_ A = \\frac {\\hat { A } } { \\hat{ A } + \\hat { B } + \\hat { C } + \\hat { D } } $$</p><p>So, the preference rate for a Malay person with an above average CV in this case, would be</p><p>$$ \\frac{39}{39 + 24 + 156 + 177} $$</p><p>We the compare the difference of wrongly selected candidates to a baseline, where companies select above average candidates for interview regardless of race. This selection will be based on looking at the selection data for Malays. Our baseline is a preference for a higher than average CV of 60%, versus 40% for a below average CV.</p><div><hr></div><h3>The Simulation and Proposed Cost</h3><p>We run a simulation of the model specified above, and then look at the probability of companies selecting a below average candidate from group B over an above average candidate from group A. We look at the difference between the baseline case, and the discriminatory case. Repeating this experiment 10 times over, we find that the mean difference of \u2018poorly selected candidates\u2019 between a discriminatory environment and a non-discriminatory one is around 60 hires per 10,000 companies.</p><p>To model this, we will assert that a high output person can produce an output of MYR 1000 higher than their counterpart with a \u2018below average CV\u2019. Now, why do I think that a reasonable estimate? , the standard deviation of income in 2021 across all of Malaysia was MYR 1800, which implies a similar deviation in productivity annually. In addition, the average productivity for a worker was MYR 22k annually.</p><p><strong>Assuming we have around 800000 job postings per quarter (the most recent estimate by the Malaysian Central Bank), this puts the total cost of racial discrimination at MYR 18 million annually.</strong></p><div><hr></div><h3>Code used for the simulation</h3><pre><code>companies = 10000\ncandidates = 10 \ntotal = 39 + 24 + 177 + 156\nfair_selection  = .5 * (39 + 177) / total \nfair_selection_null  = .5 * (24 + 156) / total \n\nclasses = {\n    'A_above' : 0, \n    'B_above' : 1, \n    'A_below' : 2, \n    'B_below' : 3, \n}\n\nprobabilities = {\n    0 : 39 / total, \n    1 : 177 / total,\n    2 : 24 / total,\n    3 : 156 / total,\n}\n\nelements = probabilities.keys()\n\np = probabilities.values()\np_fair = fair_probabilities.values()\n\nbiased_selection = np.zeros(companies)\ngood_selection = np.zeros(companies)\nA_in_interview = np.zeros(companies)\nB_below_average_selected = np.zeros(companies)\n\nselected_biased = np.zeros(100)\nselected_non_biased = np.zeros(100)\n\nfor j in range(10):\n    \n    print(j)\n    \n    for i in range(companies): \n\n        applicants = np.random.choice(list(elements), 10000, p=list(p))\n        interviewees = np.random.choice(applicants, 10)  # get a list of prefferential \n        A_in_interview[i] = np.sign(np.isin(interviewees, [2]).sum())\n\n        biased_selection[i] = np.random.choice(applicants, 1)[0]\n        B_below_average_selected[i] = int(biased_selection[i] == 3)\n\n    df = pd.DataFrame([A_in_interview, B_below_average_selected]).T\n    output = df.loc[( df[0] ==1 ) &amp; ( df[1] ==1 )].sum()[0]\n    selected_biased[j] = output \n    \n    for i in range(companies): \n\n        applicants = np.random.choice(list(elements), 10000, p=[.5 * 0.6, .5 * 0.6, 0.5 * .4, .5 * .4])\n        interviewees = np.random.choice(applicants, 10)  # get a list of prefferential \n        A_in_interview[i] = np.sign(np.isin(interviewees, [2]).sum())\n\n        biased_selection[i] = np.random.choice(applicants, 1)[0]\n        B_below_average_selected[i] = int(biased_selection[i] == 3)\n\n    df = pd.DataFrame([A_in_interview, B_below_average_selected]).T\n    output = df.loc[( df[0] ==1 ) &amp; ( df[1] ==1 )].sum()[0]\n    selected_non_biased[j] = output\n\n    \n## calculate produce \noutput\n</code></pre><h3>References</h3><p>[1] Lee, Hwok-Aun, and Muhammed Abdul Khalid. \"Discrimination of high degrees: race and graduate hiring in Malaysia.\" <em>Journal of the Asia Pacific Economy</em> 21.1 (2016): 53-76.</p>",
+  "truncated_body_text": "Racism in job and housing markets are the topic of ferocious debate in Malaysia. From my experience, debate on this topic is primarily fuelled by anecdotes and screenshots of messages on social media (please feel free to email me if I\u2019ve missed out any substantial quantitative attempts that have been done already. These attempts should be openly posted \u2026",
+  "wordcount": 1750,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        6,
+        97,
+        237
+      ],
+      "population": 80
+    },
+    "DarkVibrant": {
+      "rgb": [
+        8,
+        126,
+        143
+      ],
+      "population": 126
+    },
+    "LightVibrant": {
+      "rgb": [
+        125.67407407407406,
+        175.33086419753084,
+        251.72592592592594
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        174,
+        100,
+        83
+      ],
+      "population": 83
+    },
+    "DarkMuted": {
+      "rgb": [
+        70,
+        59,
+        42
+      ],
+      "population": 306
+    },
+    "LightMuted": {
+      "rgb": [
+        191,
+        164,
+        198
+      ],
+      "population": 85
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

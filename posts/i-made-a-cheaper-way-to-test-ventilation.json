@@ -1,0 +1,437 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/i-made-a-cheaper-way-to-test-ventilation",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 173880050,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-09-17T21:07:16.760Z",
+  "updated_at": "2025-09-17T21:08:39.003Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "i-made-a-cheaper-way-to-test-ventilation",
+  "social_title": null,
+  "subtitle": "Using a baking soda volcano to see if I'm suffering from poor ventilation. ",
+  "teaser_post_eligible": true,
+  "title": "A Cheaper Way to Test Ventilation Rates?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "frying-eggs-and-air-quality-tests",
+  "next_post_slug": "you-like-too-many-things-now-what",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/15281ca0-8d58-447f-b1bd-f236c1583776_1050x692.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 173880050,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Using a baking soda volcano to see if I'm suffering from poor ventilation.",
+  "body_html": "<p><em>Disclaimer: Please be safe guys.</em> <em>High concentrations of CO2 can be dangerous, so I didn\u2019t work with anything more than 2000ppm in this post. This is also work in progress, and I am trying to improve it. Views subject to change. </em></p><p>Naturally ventilated London flats might have bad air quality, which could damage our productivity. But to know if we have enough ventilation, we need to <strong>measure</strong>. So, I\u2019m trying to make a cheaper and easier way to measure natural ventilation rates at home. In this post, I use baking soda and vinegar to make CO2 as a cheap tracer gas. Whilst it\u2019s not professional standard, I think it does the job for basic measurements that I want. Let me explain.</p><p>Ventilation is measured with Air changes per hour (ACH). This is how often the air volume in a space is replaced with fresh air. ACH is one metric for air quality, alongside CO2, PM2.5 and PM10 concentrations. We like fresh air replacement because it flushes out bad stuff like viruses and CO2. <a href=\"https://www.cdc.gov/niosh/ventilation/prevention/Aim-for-5.html\">One guideline for ACH is the CDC\u2019s recommendation of 5 air changes per hour.</a></p><p>The usual way to calculate ACH is by knowing the airflow rate into a space. This is easy with mechanical ventilation because you <strong>set</strong> the airflow. However, a lot of flats in London are naturally ventilated, so calculating ACH is <strong>hard</strong>. My own flat is naturally ventilated, and I wanted to figure out a way to test its ACH. </p><p>One rough idea is to use a \u2018<em>tracer gas</em>\u2019. A tracer gas is a non toxic gas that you can measure the dispersion of, to test how fast air moves out.</p><p>The experiment goes like this. First, seal the room. Then, put a (non-dangerous) increased concentration of the tracer gas in it. Then, open the windows like how you would naturally. The tracer will then decay as the fresh air mixes in. Start measuring the concentration in real time, and you can estimate how much fresh air is coming inside and mixing with a time regression plot. </p><p>One widely available, potential tracer gas is CO2. Ideal levels of CO2 concentration in a space are less than 700ppm. So for this experiment, I decided to try and increase the concentration of CO2 in my living room to 1800ppm somehow, and then measure the decay. </p><p>But how can I get my room\u2019s concentration to 1800ppm? This was the challenge. Dry ice is solid CO2, but ordering this is annoying and expensive. With delivery costs, I found dry ice to be around 50GBP for most suppliers for 5kg worth of pellets, which is usually the minimal ordering amount. 5kg is also way too much for what you need. You could also invite friends over and get some CO2 via respiration, but that\u2019s not repeatable and pretty tedious as well. </p><p>But then I thought, why not use the oldest science fair experiment of all time? </p><p><strong>The baking soda volcano.</strong> </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!nf3b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!nf3b!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 424w, https://substackcdn.com/image/fetch/$s_!nf3b!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 848w, https://substackcdn.com/image/fetch/$s_!nf3b!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 1272w, https://substackcdn.com/image/fetch/$s_!nf3b!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!nf3b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png\" width=\"358\" height=\"30\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:30,&quot;width&quot;:358,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6840,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!nf3b!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 424w, https://substackcdn.com/image/fetch/$s_!nf3b!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 848w, https://substackcdn.com/image/fetch/$s_!nf3b!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 1272w, https://substackcdn.com/image/fetch/$s_!nf3b!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F620b5f87-78bd-4b4e-9d2f-c060da482341_358x30.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>Baking soda and vinegar react to make CO2 as a by-product. After some chemistry and math, I estimated the amount of baking soda and vinegar needed to produce an extra 1000ppm for my living room (8.5m x 3.5 x 2.5m). </p><p>I realised that I needed: </p><ul><li><p>5L of vinegar - you can get this as a big tub from home stores and, </p></li><li><p>400g baking soda - just go to the baking section at Tesco</p></li></ul><p><strong>This costs 17 GBP in total and is much easier to get. I went to the shops and within 15 minutes I got what I needed.</strong></p><p>So, I closed the door, closed my window, put the baking soda and vinegar in my recycling bin, let it fizzle, and then measured the CO2 concentration. I used my Temtop m2000 that I got a couple of days ago.  </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!sRXo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!sRXo!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 424w, https://substackcdn.com/image/fetch/$s_!sRXo!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 848w, https://substackcdn.com/image/fetch/$s_!sRXo!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!sRXo!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!sRXo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg\" width=\"3024\" height=\"1856\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1856,&quot;width&quot;:3024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1050374,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F436404fe-206f-4be2-a10f-48386da56e94_3024x4032.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!sRXo!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 424w, https://substackcdn.com/image/fetch/$s_!sRXo!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 848w, https://substackcdn.com/image/fetch/$s_!sRXo!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!sRXo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8aaa4bd-5932-4ff8-8a58-86a32f28e045_3024x1856.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Yb5u!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Yb5u!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Yb5u!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Yb5u!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Yb5u!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Yb5u!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg\" width=\"828\" height=\"783\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:783,&quot;width&quot;:828,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:122490,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48f4c7d5-bbd4-484e-91f7-e48a6e44e567_828x1093.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Yb5u!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Yb5u!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Yb5u!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Yb5u!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd059c9f0-65a0-4221-9622-e2b9bdd6e9fc_828x783.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>After a few minutes, I managed to get the concentration up to 1700ppm before it flatlined! You can see how it rises in the beginning as the baking soda and vinegar reaction add CO2 to the space. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ol1C!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ol1C!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ol1C!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ol1C!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ol1C!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ol1C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg\" width=\"3024\" height=\"3415\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:3415,&quot;width&quot;:3024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1842515,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40090d35-e56b-49ab-b63e-27ebaee276aa_4032x3024.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ol1C!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ol1C!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ol1C!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ol1C!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4f7fc92f-3fb4-4e23-abdd-5d5e28406f69_3024x3415.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Next, I opened the windows and then observed the decay pattern as the CO2 dispersed from the fresh air intake. This was around the 12min mark, and you can see it reduce in an exponential decay type pattern. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!E_eK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!E_eK!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!E_eK!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!E_eK!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!E_eK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!E_eK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg\" width=\"1456\" height=\"1941\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/dcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1941,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2194389,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!E_eK!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!E_eK!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!E_eK!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!E_eK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcf97e04-4899-4b08-8aff-d19646bfebaa_4032x3024.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!TIwZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!TIwZ!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 424w, https://substackcdn.com/image/fetch/$s_!TIwZ!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 848w, https://substackcdn.com/image/fetch/$s_!TIwZ!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!TIwZ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!TIwZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg\" width=\"828\" height=\"1159\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1159,&quot;width&quot;:828,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:867305,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!TIwZ!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 424w, https://substackcdn.com/image/fetch/$s_!TIwZ!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 848w, https://substackcdn.com/image/fetch/$s_!TIwZ!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!TIwZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F175d4027-e3d3-4922-9504-75f75a57d40c_828x1159.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>In theory, we would expect CO2 to disperse in a pattern that looks like this, where C_bg is the background CO2 concentration (around 400ppm) you would find outside. C_0 is the initial CO2 concentration (in our case 1800ppm), C(t) is the current concentration, and n is the air changes per hour</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Yd4M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Yd4M!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 424w, https://substackcdn.com/image/fetch/$s_!Yd4M!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 848w, https://substackcdn.com/image/fetch/$s_!Yd4M!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 1272w, https://substackcdn.com/image/fetch/$s_!Yd4M!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Yd4M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png\" width=\"844\" height=\"64\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/eb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:64,&quot;width&quot;:844,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:10418,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Yd4M!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 424w, https://substackcdn.com/image/fetch/$s_!Yd4M!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 848w, https://substackcdn.com/image/fetch/$s_!Yd4M!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 1272w, https://substackcdn.com/image/fetch/$s_!Yd4M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feb6cdadd-8fc9-4c3b-8174-fc2fea04898b_844x64.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>The m2000 records by the minute, and also allows export the data to csv via a usb connection. So I took the data, log transformed it, <a href=\"https://www.aivc.org/sites/default/files/airbase_10530.pdf\">and used a regression in python to get the coefficient ACH</a>. With a background value set at 400, I got an ACH coefficient of 3.9 changes per hour. Not bad!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!OMmT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!OMmT!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 424w, https://substackcdn.com/image/fetch/$s_!OMmT!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 848w, https://substackcdn.com/image/fetch/$s_!OMmT!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 1272w, https://substackcdn.com/image/fetch/$s_!OMmT!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!OMmT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png\" width=\"733\" height=\"979\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e66bc386-8b0d-47a7-a385-c794857eea85_733x979.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:979,&quot;width&quot;:733,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:94503,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/173880050?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!OMmT!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 424w, https://substackcdn.com/image/fetch/$s_!OMmT!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 848w, https://substackcdn.com/image/fetch/$s_!OMmT!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 1272w, https://substackcdn.com/image/fetch/$s_!OMmT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe66bc386-8b0d-47a7-a385-c794857eea85_733x979.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>An important point: the calculation is sensitive to the choice of ambient CO2 levels, and this varies between 400 and 500ppm when I have measured it outdoors. So, I am not taking this value of 3.9 ACH too seriously on its <strong>absolute level.</strong> Rather, I want to use this value as the <strong>control value</strong> for other experiments in which I try to increase my ACH. </p><p>For my next experiment, I want to see how much my fan is increases my ACH, and resolve a burning question that I had - should I point my fan inwards or outwards on my window for maximum airflow?!<br></p><p><strong>Code: </strong></p><p><code>def calculate_ach_ln_method(time_hours, co2_ppm, co2_baseline=400):</code></p><p><code>\"\"\"</code></p><p><code> Calculate ACH using the ln method from CO2 decay.</code></p><p><code> ACH = -ln((C(t) - C_baseline) / (C(0) - C_baseline)) / t</code></p><p><code> Where:</code></p><p><code> - C(t) is CO2 concentration at time t</code></p><p><code> - C_outdoor is outdoor CO2 concentration (typically 400 ppm)</code></p><p><code> - t is time in hours</code></p><p><code> \"\"\"</code></p><p><code># Calculate normalized CO2 concentration</code></p><p><code>co2_normalized = (co2_ppm - co2_baseline) / (co2_ppm.iloc[0] - co2_baseline)</code></p><p><code># Remove any negative or zero values (can't take ln)</code></p><p><code>valid_mask = co2_normalized &gt; 0</code></p><p><code>time_valid = time_hours[valid_mask]</code></p><p><code>co2_norm_valid = co2_normalized[valid_mask]</code></p><p><code>if len(time_valid) &lt; 2:</code></p><p><code>print(\"Warning: Not enough valid data points for ACH calculation\")</code></p><p><code>return None, None</code></p><p><code># Calculate ln of normalized concentration</code></p><p><code>ln_co2 = np.log(co2_norm_valid)</code></p><p><code># Fit linear regression to ln(CO2) vs time</code></p><p><code># ln(C(t)) = ln(C(0)) - ACH * t</code></p><p><code># So ACH = -slope of ln(C(t)) vs t</code></p><p><code>coeffs = np.polyfit(time_valid, ln_co2, 1)</code></p><p><code>ach = -coeffs[0] # Negative of slope</code></p><p><code># Calculate R-squared for goodness of fit</code></p><p><code>ln_co2_pred = np.polyval(coeffs, time_valid)</code></p><p><code>ss_res = np.sum((ln_co2 - ln_co2_pred) ** 2)</code></p><p><code>ss_tot = np.sum((ln_co2 - np.mean(ln_co2)) ** 2)</code></p><p><code>r_squared = 1 - (ss_res / ss_tot) if ss_tot != 0 else 0</code></p><p><code>return ach, r_squared, time_valid, ln_co2, ln_co2_pred</code></p><p></p>",
+  "truncated_body_text": "Disclaimer: Please be safe guys. High concentrations of CO2 can be dangerous, so I didn\u2019t work with anything more than 2000ppm in this post. This is also work in progress, and I am trying to improve it. Views subject to change.",
+  "wordcount": 1108,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "22d6c0df-14f9-4739-a401-2b3b2eb0118b",
+      "publication_id": 1692033,
+      "name": "Metascience",
+      "slug": "metascience",
+      "hidden": false
+    },
+    {
+      "id": "230b757e-0916-404c-994b-98e4876d0d44",
+      "publication_id": 1692033,
+      "name": "Biosecurity",
+      "slug": "biosecurity",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        204,
+        140,
+        52
+      ],
+      "population": 3
+    },
+    "DarkVibrant": {
+      "rgb": [
+        97,
+        63,
+        15
+      ],
+      "population": 79
+    },
+    "LightVibrant": {
+      "rgb": [
+        240,
+        198,
+        128
+      ],
+      "population": 99
+    },
+    "Muted": {
+      "rgb": [
+        160,
+        132,
+        103
+      ],
+      "population": 305
+    },
+    "DarkMuted": {
+      "rgb": [
+        87,
+        66,
+        44
+      ],
+      "population": 32
+    },
+    "LightMuted": {
+      "rgb": [
+        212,
+        187,
+        164
+      ],
+      "population": 254
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 8,
+  "comment_count": 6,
+  "child_comment_count": 4,
+  "audio_items": [
+    {
+      "post_id": 173880050,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/173880050/tts/80e25924-e2cf-472a-913b-dbd015d49d5a/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 158555230,
+      "body": "This is awesome work. Really excited to see you take this further. \n\nI\u2019d be interested to do this kind of analysis at my office. It definitely feels like fresher air (and natural lighting) would help me stay more focused throughout the day. ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is awesome work. Really excited to see you take this further."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I\u2019d be interested to do this kind of analysis at my office. It definitely feels like fresher air (and natural lighting) would help me stay more focused throughout the day."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 173880050,
+      "user_id": 321116091,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-22T03:37:57.813Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Joe Gaffney",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a1f0eae6-b9d8-46d3-bd22-2cea9d255623_828x828.jpeg",
+      "handle": "joegaff",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "joegaff",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Joe Gaffney",
+          "id": 4215187,
+          "base_url": "https://joegaff.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    },
+    {
+      "id": 157121217,
+      "body": " Nice work. \n\nNovum Organum by Francis Bacon might help. Not with ventilation but with assumptions and conclusions. ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nice work."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Novum Organum by Francis Bacon might help. Not with ventilation but with assumptions and conclusions."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 173880050,
+      "user_id": 9586033,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-17T23:34:37.981Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Foster Lyons",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/796a8aa3-d16c-4521-aa8c-501099920341_144x144.png",
+      "handle": "fosterlyons2",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "fosterlyons2",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Building Science, & etc.",
+          "id": 1040750,
+          "base_url": "https://fosterlyons.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": false,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 10,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 10,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    }
+  ]
+}

@@ -1,0 +1,412 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/what-is-the-most-effective-day",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 166897900,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-06-26T15:21:34.639Z",
+  "updated_at": "2025-06-26T15:23:51.359Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "what-is-the-most-effective-day",
+  "social_title": null,
+  "subtitle": "Deep work, prioritisation, and feedback.",
+  "teaser_post_eligible": true,
+  "title": "What is the Most Effective Day?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 23
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "can-i-use-air-pressure-to-protect",
+  "next_post_slug": "diy-positive-pressure-build-log",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!1zup!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 166897900,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Deep work, prioritisation, and feedback.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!1zup!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!1zup!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 424w, https://substackcdn.com/image/fetch/$s_!1zup!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 848w, https://substackcdn.com/image/fetch/$s_!1zup!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 1272w, https://substackcdn.com/image/fetch/$s_!1zup!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!1zup!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png\" width=\"766\" height=\"592\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:592,&quot;width&quot;:766,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:927720,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/166897900?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0e5d3b8-a32c-4cd5-a6da-4723901a8bfc_766x592.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!1zup!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 424w, https://substackcdn.com/image/fetch/$s_!1zup!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 848w, https://substackcdn.com/image/fetch/$s_!1zup!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 1272w, https://substackcdn.com/image/fetch/$s_!1zup!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff31a406a-91a4-4528-a1fd-5c98aaf484d3_766x592.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I would like to be more effective, which means I need to do more with my time. If I do that, I can spend more time eating apple crumble and watching TV. </p><p>So I asked myself: what is the <em><strong>best schedule</strong></em> that maximises my output on a given day? <em>What is the perfect day? Trying to strive for an ideal can\u2019t hurt, right? </em></p><blockquote><p><em><a href=\"https://en.wikipedia.org/wiki/Robert_M._Pirsig\">Robert M. Pirsig</a> \u2014 'You want to know how to paint a <strong>perfect painting</strong>? It's easy. Make yourself perfect and then just paint naturally.'</em></p></blockquote><p>Well, effectiveness is just doing high impact tasks. I think I\u2019m confident to muster up the willpower to do pretty much any task (stupidly cycling on a truck highway for three hours is evidence of this). But what makes a task <em><strong>actually effective</strong></em>? I guess it\u2019s three ingredients - strong emphasis on <em>guess</em>: </p><ul><li><p>prioritising what the best task to do is, </p></li><li><p>doing the task, and then </p></li><li><p><a href=\"https://chillphysicsenjoyer.substack.com/p/why-your-technical-expertise-might\">getting feedback</a>. </p></li></ul><p>But prioritising things take time. Actually doing things takes time. And\u2026 getting feedback on those things takes time. So much time!</p><p>I hate planning large projects that span days. So I thought, why not try to fit those three things into a perfect day? If I can do that, then the main thing to <strong>solve for was the right mix of time spent doing each. </strong></p><p>But then I realised I couldn\u2019t accurately measure how <em>changing the mix affects my output or effectiveness</em>. So in the absence of experiment, I did the lazy thing and just ended up uniformly splitting my day into thirds: prioritisation, doing stuff and feedback. I also ordered them to match the <strong>best time of day to do those things,</strong> based on heuristic essays and studies below.</p><p>I\u2019m still thinking about how to measure and optimise the mix, but the strongest thing I can say is that all the <em><strong>essential components</strong></em> are here. It's not complete, but it's a mental scaffold to work with. I usually fail to stick to it, but a <a href=\"https://terrytao.wordpress.com/2008/08/07/on-time-management/\">bad system is better than no system</a>. I also don't expect this to work for anyone but me, but I still wanted to share it (if only to get people thinking about how they might get some leverage out of their day).</p><p>Without further ado, here's my <strong>current best schedule. </strong>It\u2019s kinda boring eh? </p><div><hr></div><h3>My Best-Guess, Best Schedule</h3><ul><li><p><em>7:30am: First order of the day</em>: I do a small task from my task list, no matter how small.</p><ul><li><p>Doing a task in the morning gives me initial momentum to get the ball rolling. The point isn't to do anything big, or spend too long deciding what to do. Rather, I just want some <a href=\"https://www.paulgraham.com/greatwork.html\">activation energy</a> to get on with the rest of my day.</p></li><li><p>The task <strong>needs to be a 'create' action</strong>. Usually, it's editing a draft of a blog post, or fixing some code. I do this first thing to benefit from the <a href=\"https://gwern.net/morning-writing#:~:text=Many%20authors%20work%20later%20in,which%20enables%20their%20fiction%2Dwriting.\">morning writing effect</a> - I still think that I write best in the morning.</p></li><li><p>I do not read WhatsApp or do any emails.</p></li></ul></li></ul><p></p><ul><li><p><em>8:30am - 10am:</em> I aggressively prioritise the most important things I need to do.</p><ul><li><p><a href=\"https://blog.samaltman.com/productivity\">Prioritising the best thing to do</a> is the main way I get <a href=\"https://www.benkuhn.net/impact/\">higher impact per hour</a>. Right now, I am looking at <a href=\"https://casualphysicsenjoyer.com/Essays+in+progress/Biosecurity/General/A+hundred+project+ideas+in+Biosecurity\">biosecurity projects</a>.</p><ul><li><p>This involves thinking about neglected-ness, personal fit, and potential upside, and continually sorting a whole lotta lists. Over and over again. Just like, endless sorting.</p></li><li><p>Often I stare at the same tasks lists over and over again. I don't really get into flow state, <a href=\"https://www.cold-takes.com/useful-vices-for-wicked-problems/\">but I think this is fine</a> when dealing with hard-to-measure goals.</p></li><li><p>I try to write down why I think those projects are important, which end up being products themselves.</p></li></ul></li><li><p>I use <a href=\"https://obsidian.md/\">Obsidian</a> and the Tasks plugin to do this.</p></li><li><p>To build a cognitive reward system, I tend to have coffee after doing this. I love coffee.</p></li><li><p>After this, I try to figure out what's the most important thing I could do <strong>today</strong>.</p></li></ul></li></ul><p></p><ul><li><p><em>Rest of the morning</em>: I <strong>do</strong> the most important thing, whatever it is. It should be a 'build' or 'do' action, which means either</p><ul><li><p><strong>This is where I want to be in flow state.</strong></p></li><li><p>I try to do some writing, coding, building, or 'intentional meetings'.</p><ul><li><p>This involves working on my Substack, youtube, or doing the hard science for my chemistry projects. Or building ways to have higher pressure rooms.</p></li></ul></li><li><p>A large chunk of this is also just <em>incorporating feedback</em> from others, which I usually get the evening before.</p></li><li><p>How do I decide when to stop? Well, usually, it's just until one <a href=\"https://news.ycombinator.com/item?id=542768\">quantum of improvement</a> is accomplished when doing the task. Stopping means doing a github commit, finishing a paragraph, or logging a build.</p></li><li><p>Finally, I eat lunch.</p></li></ul></li></ul><p></p><ul><li><p><em>In the afternoon</em>:</p><ul><li><p>My main goal is to try and get feedback on stuff I've built, engage with my communities, and try to speak to people.</p><ul><li><p>I write and respond to emails, following up with people on what I've done.</p></li><li><p>It also involves going on my slack and discord and asking people what they've been up to. I try to be intentional about this, and set reminders to follow up. I try to give feedback to others if they ask for it.</p></li><li><p>I've recently started to use <a href=\"https://superhuman.com/?utm_medium=cpc&amp;utm_campaign=11211278605&amp;agid=110851738300&amp;utm_term=superhuman&amp;utm_term=superhuman&amp;utm_campaign=%5BBrand%5D+Brand&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=3060134131&amp;hsa_cam=11211278605&amp;hsa_grp=110851738300&amp;hsa_ad=746471218314&amp;hsa_src=g&amp;hsa_tgt=aud-1227212209857:kwd-300430030753&amp;hsa_kw=superhuman&amp;hsa_mt=p&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gad_campaignid=11211278605&amp;gbraid=0AAAAACNrZQJzXS2SEevFr8KqkKqc5kiqg&amp;gclid=CjwKCAjw3_PCBhA2EiwAkH_j4moKrZfaSKduHsKu9RaWl2sh_m0sOb6ZceH8K-VK3iZnBdmF8J8g-xoCuoEQAvD_BwE\">Superhuman</a> to do this, so thanks David for the suggestion if you're reading this.</p></li></ul></li><li><p>At some point, I take a break to exercise. I usually go running, do calisthenics, or go on a long cycle.</p></li></ul></li></ul><p></p><ul><li><p><em>In the evening</em></p><ul><li><p>Have dinner.</p></li><li><p>Hang out with my girlfriend, friends and family. Try something new.</p></li></ul></li></ul><p>Thank you to my girlfriend for having to witness this painful process for 3 years.</p>",
+  "truncated_body_text": "I would like to be more effective, which means I need to do more with my time. If I do that, I can spend more time eating apple crumble and watching TV.",
+  "wordcount": 941,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    },
+    {
+      "id": "e9869c76-c81b-4488-8532-b697127439b3",
+      "publication_id": 1692033,
+      "name": "Writing",
+      "slug": "writing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        71,
+        167,
+        186
+      ],
+      "population": 457
+    },
+    "DarkVibrant": {
+      "rgb": [
+        23,
+        122,
+        154
+      ],
+      "population": 37
+    },
+    "LightVibrant": {
+      "rgb": [
+        220,
+        206,
+        180
+      ],
+      "population": 6
+    },
+    "Muted": {
+      "rgb": [
+        146,
+        121,
+        120
+      ],
+      "population": 163
+    },
+    "DarkMuted": {
+      "rgb": [
+        98,
+        107,
+        64
+      ],
+      "population": 8
+    },
+    "LightMuted": {
+      "rgb": [
+        204,
+        204,
+        180
+      ],
+      "population": 345
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 23,
+  "comment_count": 4,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 166897900,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/166897900/tts/fdf04d0b-2f7e-48f1-9306-0e669e11e8f1/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 130716885,
+      "body": "Def taking some inspo to add it to my daily routine",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Def taking some inspo to add it to my daily routine"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 166897900,
+      "user_id": 355678142,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-06-30T13:57:26.333Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Margaret Miao",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/0d5425cc-5dac-473e-83ca-2a6a112c6a96_2700x2700.jpeg",
+      "handle": "margaretmiao",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "margaretmiao",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Margaret Miao",
+          "id": 5426366,
+          "base_url": "https://margaretmiao.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "2 replies by CasualPhysicsEnjoyer and others"
+    },
+    {
+      "id": 157789518,
+      "body": "I think it's really cool how you're going about building your ideal day. One of my favorite strategies, which you're doing, is to get a starting point by whatever means necessary. Splitting everything up uniformly might seem lazy but I think it's more lazy to stress about optimizations and never even try. Now you get to react to your experience and make tweaks that only someone who's attempted the day can make! I loved this one, looking forward to more.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I think it's really cool how you're going about building your ideal day. One of my favorite strategies, which you're doing, is to get a starting point by whatever means necessary. Splitting everything up uniformly might seem lazy but I think it's more lazy to stress about optimizations and never even try. Now you get to react to your experience and make tweaks that only someone who's attempted the day can make! I loved this one, looking forward to more."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 166897900,
+      "user_id": 170310045,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-19T19:05:44.046Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Noah Warren",
+      "photo_url": "https://substackcdn.com/image/fetch/$s_!a0Sy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffeaac174-8a7a-4a02-a99b-63a5776b0bc4_768x1024.jpeg",
+      "handle": "noahwarren",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "noahwarren",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Becoming Deliberate",
+          "id": 1967303,
+          "base_url": "https://noahwarren.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

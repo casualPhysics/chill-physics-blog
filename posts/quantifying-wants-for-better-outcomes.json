@@ -1,0 +1,303 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/quantifying-wants-for-better-outcomes",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 135407294,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2023-07-25T17:59:38.171Z",
+  "updated_at": "2023-07-25T17:59:38.236Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "quantifying-wants-for-better-outcomes",
+  "social_title": null,
+  "subtitle": "Basic economics for slightly better decisions - know your utility function. ",
+  "teaser_post_eligible": true,
+  "title": "Quantifying Wants, For Better Outcomes",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 1
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "essential-physics-for-the-solar-entrepreneur",
+  "next_post_slug": "preliminary-thoughts-on-solar-cell",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!6nqH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Basic economics for slightly better decisions - know your utility function.",
+  "body_html": "<p><em>Tl; DR: I find decision-making hard, but it got slightly easier when I thought more deeply about my utility function. </em></p><p>I find decision-making messy and hard. When one is lucky enough to be blessed with good options at life- or career-level turning points, I tend to feel a significant and highly distractive amount of stress when optimising for the best outcome. I also think that a similar, maybe even more intense, kind of stress happens even <strong>after</strong> I make decisions. In my life, I think that the peaks of this kind of mental stress tend to manifest a few months after big decisions when I need to stick by them, even when every <em>other </em>choice feels like it would have been better. </p><p>I can\u2019t find a better example of this choice anxiety than when it comes to career choices. In 2022, I had a fairly binary career choice: </p><ul><li><p>I received an offer to join the Entrepreneur First programme, an accelerator where you can find a co-founder to start a startup. </p></li><li><p>I also had an opportunity to continue down my current route of systematic trading. </p></li></ul><p>Which was the better choice? This decision caused quite a lot of anxiety. For me, this was an exercise in decision-making under uncertainty. (Spoiler: in the end, I chose to continue trading). In this post, I aim to highlight what I learned about my own decisions, along with some basic theory. </p><div><hr></div><h3>Good career decisions depend on what your Utility function looks like</h3><p>I attempted to model this choice using some basic utility theory to ease my anxiety. I currently hold the view that, in general, economics models are usually bad but do still provide a basic framework for thinking. The utility function, a fundamental technique in economics, is a way to map different inputs to a real number - this real number represents the welfare that you get from a given situation. A well-defined utility function allows people to systematically order choices, from good to bad, based on which choice offers higher \u2018utility\u2019. The utility function can have many different types of things to input, but it should output a real number of which we can compare several choices. Choices with the highest utility are more optimal. If you were a completely money-minded, your utility function would look something like </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;U = money  ^ 2 &quot;,&quot;id&quot;:&quot;ONYMSRXTVM&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>When trying to decide the best course of action, I realised<strong> that I didn\u2019t have my exact utility function clear in my head</strong>. This, in hindsight, seems like the most obvious thing to do - after all, how can we decide the best thing for ourselves without having a clear idea of what we want? I also discovered that writing down your utility function is far from trivial. It\u2019s not straightforward because it\u2019s hard to value someone\u2019s preferences quantitatively. This post is partly my attempt to clarify to myself what my utility function looks like, especially from an income point of view, and share some thoughts about stuff I didn\u2019t know about myself along the way.</p><p>While I think the utility function between people will vary wildly, I think there are bound to be common points that unite the population. With decisions that concern my career, I think that to first order my utility function looks like this:</p><p>Utility = function of (income distribution, passion, hours of work).</p><p>For this post, I\u2019ll focus on the form of the utility function restricted to my income distribution. What might surprise you is that my utility function depends not on income alone but income <em>distributions</em>. Income distribution is meant to capture the shape of probable income values across their possibilities. For example, does one have a distribution where my income is like a biased coin flip, between 0 and 1 million (sounds like a lottery user), or a steady distribution with little variance and high conviction - NHS workers\u2019 pay is essentially deterministic and grid-based? </p><p>I use the word distribution because it is more general than a term for fixed, predictable income. For many jobs, income tends not to be completely deterministic but has aspects of randomness, especially in entrepreneurial or performance-based  roles. For example, a portfolio manager\u2019s compensation is a function of their trading profits at the end of the year, which is inevitably a combination of skill and luck. Someone\u2019s income post-promotion depends on negotiation skills and random elements like their likeability with colleagues. A distribution function shows my income and probability density, where the most likely outcomes are associated with a higher value. </p><p>With this distribution function, we can pick out certain traits we can value for our utility function. For example, one obvious property that one could care about is the mean or average of the distribution. However, there are other characteristics that we might find appealing. </p><ul><li><p>How \u2018spread out\u2019 is the distribution? This quantity is the standard deviation and is the expected value of the absolute income distance from the mean.</p></li><li><p>How fat is the right tail on the extreme? A distribution with a fatter right tail means that proportionally, very large values are comparatively more likely than a distribution with a thin right tail. This quantity is also called skewness and measures how much the average of the distribution differed from the median.</p></li><li><p>How fat is the left tail?</p></li></ul><p>In fact, with the same mean, you can have different skews and variances. I think that this kind of difference characterises what is going on with people who sacrifice steady incomes for riskier endeavours. The diagram below shows distributions with the same average but different degrees of skewness. In the blue distribution, the most likely scenario is that you end up with less, but have a potentially bigger upside where the benefiting from the right tail is more probable. I would fuzzily equate this kind of distribution to the kind of reward a startup-founder, or prop trader with might expect. This is the kind of distribution where you are sacrificing a higher median income for a chance to win really big.  </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!6nqH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!6nqH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 424w, https://substackcdn.com/image/fetch/$s_!6nqH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 848w, https://substackcdn.com/image/fetch/$s_!6nqH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 1272w, https://substackcdn.com/image/fetch/$s_!6nqH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!6nqH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png\" width=\"1198\" height=\"900\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:900,&quot;width&quot;:1198,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:289248,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!6nqH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 424w, https://substackcdn.com/image/fetch/$s_!6nqH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 848w, https://substackcdn.com/image/fetch/$s_!6nqH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 1272w, https://substackcdn.com/image/fetch/$s_!6nqH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F288f516a-1453-4e47-a8f8-57930c1cf738_1198x900.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>On the other hand, you also might prefer the green distribution, where the most probable scenario is higher, but you sacrifice a potential larger upside. </p><p>The right tail discussion, I think, is quite interesting - often in finance, portfolio managers will aim to maximise a utility function that balances risk and reward. In this case, the risk is usually some function of variance and mean, and we can maximise the following quantity.</p><p><strong>Utility = expected return - risk aversion * standard deviation</strong></p><p>However, this utility function doesn\u2019t consider the right skewness of the distribution. I think that the skewness level in distribution is a pertinent enough feature to take seriously in your utility function. People hungrier for the more extreme end of the right tail distribution would prefer to take their chances and settle for more heavily skewed distributions to the right. I think entrepreneurs or proprietary traders who are prepared to accept a relatively lower median scenario for the potential large upside (more than you can get from being a highly paid dentist, for example) prefer these types of skewed distributions. </p><p>In summary, when it comes to income, I guess my utility function looks like something of the form:</p><p>F(income distribution) = mean income + lambda_1 * standard deviation + lambda_2 * positive skewness</p><p>I think for now, lambda_2 is quite large for me, but not large enough yet to really get into the startup life (even assuming that the mean expectation of income is the same). </p>",
+  "truncated_body_text": "Tl; DR: I find decision-making hard, but it got slightly easier when I thought more deeply about my utility function.",
+  "wordcount": 1245,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bb0ad0ef-91e4-4868-bd0d-5ca3ad253957",
+      "publication_id": 1692033,
+      "name": "Economics ",
+      "slug": "economics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        202,
+        174,
+        136
+      ],
+      "population": 4
+    },
+    "DarkVibrant": {
+      "rgb": [
+        91.74069767441858,
+        70.1546511627907,
+        40.85930232558142
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        244,
+        196,
+        152
+      ],
+      "population": 18
+    },
+    "Muted": {
+      "rgb": [
+        150,
+        154,
+        144
+      ],
+      "population": 42
+    },
+    "DarkMuted": {
+      "rgb": [
+        105.85465116279069,
+        80.94767441860465,
+        47.14534883720931
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        166,
+        204,
+        156
+      ],
+      "population": 3
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 215447672,
+      "body": "I'm curious about how you can work with lamda2, how much value you place on the slightly higher chance of finding yourself in the fat tail. Surely this is one of the hardest things to reason about, and is likely very dependant on your personal psychology. Is there some objective way to measure or select a better utility function to balance the mean income vs fat tail potential? \n\n\n",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I'm curious about how you can work with lamda2, how much value you place on the slightly higher chance of finding yourself in the fat tail. Surely this is one of the hardest things to reason about, and is likely very dependant on your personal psychology. Is there some objective way to measure or select a better utility function to balance the mean income vs fat tail potential?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 135407294,
+      "user_id": 240675533,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-02-16T20:40:40.247Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Lucas  Lazar",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7c444bd-5be7-49c8-a768-ea9998f76277_798x796.jpeg",
+      "handle": "lucaslazar",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "lucaslazar",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Infinite Zest",
+          "id": 2666342,
+          "base_url": "https://lucaslazar.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

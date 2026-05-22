@@ -1,0 +1,329 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/its-hard-to-know-if-i-suck-at-writing",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 163910364,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-05-19T10:40:36.971Z",
+  "updated_at": "2025-05-19T10:41:22.805Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "its-hard-to-know-if-i-suck-at-writing",
+  "social_title": null,
+  "subtitle": "Reflecting on the impact of what I've written ",
+  "teaser_post_eligible": true,
+  "title": "It's hard to know if I suck at writing",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 9
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "how-to-start-modelling-airflow-ventilation",
+  "next_post_slug": "macos-ssh-file-system-sshfs",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!JAhO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 163910364,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Reflecting on the impact of what I've written",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!JAhO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!JAhO!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 424w, https://substackcdn.com/image/fetch/$s_!JAhO!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 848w, https://substackcdn.com/image/fetch/$s_!JAhO!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 1272w, https://substackcdn.com/image/fetch/$s_!JAhO!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!JAhO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png\" width=\"1024\" height=\"608\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:608,&quot;width&quot;:1024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!JAhO!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 424w, https://substackcdn.com/image/fetch/$s_!JAhO!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 848w, https://substackcdn.com/image/fetch/$s_!JAhO!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 1272w, https://substackcdn.com/image/fetch/$s_!JAhO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd5685dda-6642-4a91-80ac-e63cd24361db_1024x608.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\"></figcaption></figure></div><p>It's been a few years since I started this blog, and I spent this morning trying to reflect on why I started it, what am I trying to do with it, and where I think it's going. I like writing, yes, but I also want my writing to be the best possible version of writing that I can do. This is aligned with how I feel in my last post <a href=\"https://substack.com/home/post/p-162918993\">How do I acheive what I want</a>.</p><p>I think the main conclusion that I've come to so far is that</p><ol><li><p>I shouldn't be discouraged (yet) by a relatively small view-count. It's <strong>really really</strong> hard to estimate the all-in impact of one's writing; views and subscribers are a pretty noisy signal, and there are many paths to success from the written word.</p></li><li><p>I should just keep writing anyway, but pay particular attention to the things that happen that offer precise feedback into how my writing might be impactful.</p></li></ol><div><hr></div><h2>The Struggle of Writing a Blog</h2><p>I love writing, thinking, math and building things - and I do it for free. But something that can be upsetting, perhaps irrationally so, is doing all of these things and then being met with limited responses when you put it out there. Like for example, some of my posts on science, and more technical things like my posts on theoretical physics. </p><p>This can feel at times, demotivating, especially when my mind often just ties my 'general life vibes' to the success of my blog. In the moment, I forget about other things like my career, relationships and cycling. This is especially true when the slow feedback mechanics of writing pale in comparison to the insane feedback loops one gets as a hedge fund trader.</p><p>After all, it can be viscerally upsetting to have not people care about the same stuff that you care about, no matter how you frame it! And so sometimes your mind strays and asks - is blogging and writing really the best thing I could be doing right now?</p><p>On the other hand, it can feel like the best thing in the world when someone messages you and says 'wow man that was a really cool thing you wrote'! And so, the rollercoaster of emotions of writing and putting yourself out there continues!</p><p>After pondering this for a while, and asking myself 'well - is my writing the best version of itself it could be?', I figured that what I was looking for is;</p><p><em>writing that is '<strong>impactful</strong>' in some way.</em></p><p>But then I realised something really annoying about trying to do that: it's actually just really hard to know the impact of one's writing.</p><div><hr></div><h2>It's hard to know the impact of your writing</h2><p>Even though it's muddy, I would define the impact of writing as 'good, net positive expected values externalities that come if such a piece of writing did not exist'. Rather - <em>did it motivate my future self or someone else to do anything other than just couch potato-ing out and watching tik tok more they had to?</em></p><p>Bottom line, even defining impactful writing itself is hard, because there are knock-on and momentum effects that are too many to count.</p><p>You could have a thousand people read it, kinda go 'cool man, nice', as opposed to <strong>one person reading it</strong> and really building something meaningful off of it, which then others use, starting a cascade and so one.</p><p>Either way has a different model of impact. Either way could be somewhat quantified to be equally impactful. But even barring the complexities of models of impact - there is a problem pretty specific to writing.</p><p><strong>Often times - you'll never know what the impact mode of your own writing is.</strong></p><p>My evidence here is how <em>I myself behave</em>. Even if I'd found something really really useful to me, the author of that post would never now. The authors of the most impactful essays I've read, for my own life, will never know. This is because I don't tend to leave likes, comments or any other indication that it was useful - I'd usually just crack on with trying to implement there advice. Hell, I could've taken that advice, written some code, written follow up posts, have people read those follow up posts, and the original author would likely never know.</p><p>And so to me, the main thing I've learnt is that immediate, voluminous feedback through views, virality or likes isn't necessarily an indicator of success.</p><div><hr></div><h2>So in that case, what kind of feedback do I want?</h2><p>From my own perspective, I think the only thing I can do is take advantage of feedback when it comes to make my writing more aligned with being impactful. From a purely visceral 'I am winning' perspective, I've realised that there are some types of feedback that I find particularly useful in figuring out if my writing is impactful. f which have differing levels of impact on me.</p><p>The best kind of directly <em>strong feedback is when someone takes the effort to reach out.</em> Usually to discuss some of the ideas or puts me in touch with other people. This has led to at least two career defining moments for me - writing my first book, which then gave me some ammo to start doing science with a university part time.</p><p>Also, sometimes, friends or acquaintances would mention that they like a certain post, of which I am surprised - since there are posts that sometimes might not even have feedback on substack or the like. I really love this kind of feedback as well.</p><p>Beyond writing, I can then do things outside of writing which have stronger feedback loops, but still are aligned with my goals.</p><div><hr></div><h2>So, how can I gear my writing towards better feedback mechanisms?</h2><p>And so, a preferred audience would be the set of people that find the writing useful enough such that I am getting lots of strong feedback. And part of this comes down to gearing writing for particular audiences. Here are some really rough thoughts about how I might do that.</p><ul><li><p>I think that my posts have fallen under two different categories, both with different models of impact.</p><ul><li><p>The first type of post is the technical kind where I am writing to clarify something to myself</p><ul><li><p>I have the most fun writing these posts because they centre around content and 'tangible' things, of which the writing itself is not really the focus, but rather the content.</p></li><li><p>I take pride in the fact that I am actually doing physics, and not writing about the meme of doing physics.</p><ul><li><p>A lot of popular content out there is focused on 'meta doing x' instead of actually 'doing x', like all of those videos on 'a day in the life of a runner etc'</p><ul><li><p>On the flip side, I also believe that meta cognition is super important</p></li></ul></li><li><p><strong>These kinds of posts have been more successful with people / organisations that have a certain need, and overall have been better with my sense that they are more likely to invite feedback.</strong></p></li></ul></li></ul></li><li><p>The second kind of post is the more meta kind of post where I talk about my thinking, meta strategies, and also some cottage core vibes type of casual writing</p><ul><li><p>This seems more popular, just from the number of people who have been sharing and liking these posts.</p></li><li><p>They seem to be more amenable to family and friends</p></li></ul></li></ul></li></ul>",
+  "truncated_body_text": "It's been a few years since I started this blog, and I spent this morning trying to reflect on why I started it, what am I trying to do with it, and where I think it's going. I like writing, yes, but I also want my writing to be the best possible version of writing that I can do. This is aligned with how I feel in my last post",
+  "wordcount": 1237,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "e9869c76-c81b-4488-8532-b697127439b3",
+      "publication_id": 1692033,
+      "name": "Writing",
+      "slug": "writing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        252,
+        156,
+        68
+      ],
+      "population": 669
+    },
+    "DarkVibrant": {
+      "rgb": [
+        35,
+        21,
+        90
+      ],
+      "population": 173
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        172,
+        84
+      ],
+      "population": 1
+    },
+    "Muted": {
+      "rgb": [
+        119,
+        116,
+        165
+      ],
+      "population": 612
+    },
+    "DarkMuted": {
+      "rgb": [
+        79,
+        40,
+        68
+      ],
+      "population": 217
+    },
+    "LightMuted": {
+      "rgb": [
+        216,
+        175,
+        188
+      ],
+      "population": 19
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 9,
+  "comment_count": 3,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 163910364,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/163910364/tts/c2f497ad-bc71-4de9-aea4-b77b74585f26/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 118852158,
+      "body": "Hi \u2014 you want to write, so write. It is refreshing that you are not pitching anything to a \"market\" or expecting at all to make the big bucks. That doesn't guarantee, though, that what you write will be of any interest to anyone. No problem! I think that sincere and authentic thinking out loud will eventually find you a like minded audience and start finding a path. If you start caring about \"impact\", you are likely to get lost in the general garbage. Keep on trucking, and maybe work on being more concise.... Best regards.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Hi \u2014 you want to write, so write. It is refreshing that you are not pitching anything to a \"market\" or expecting at all to make the big bucks. That doesn't guarantee, though, that what you write will be of any interest to anyone. No problem! I think that sincere and authentic thinking out loud will eventually find you a like minded audience and start finding a path. If you start caring about \"impact\", you are likely to get lost in the general garbage. Keep on trucking, and maybe work on being more concise.... Best regards."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 163910364,
+      "user_id": 84532545,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-05-21T02:01:14.466Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "JJD",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bb6cce71-83fa-44d8-9aa4-71ad04466e41_500x305.jpeg",
+      "handle": "jjd12",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jjd12",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    }
+  ]
+}

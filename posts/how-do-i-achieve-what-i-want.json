@@ -1,0 +1,330 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-do-i-achieve-what-i-want",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 162918993,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-05-05T20:23:38.737Z",
+  "updated_at": "2025-05-09T12:12:04.211Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-do-i-achieve-what-i-want",
+  "social_title": null,
+  "subtitle": "Moving away from to-do lists",
+  "teaser_post_eligible": true,
+  "title": "How do I achieve what I want?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "\u2764": 12
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "problems-trying-to-model-far-uvc",
+  "next_post_slug": "calculations-for-practical-heuristics",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!YY6y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 162918993,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Moving away from to-do lists",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!YY6y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!YY6y!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 424w, https://substackcdn.com/image/fetch/$s_!YY6y!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 848w, https://substackcdn.com/image/fetch/$s_!YY6y!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 1272w, https://substackcdn.com/image/fetch/$s_!YY6y!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!YY6y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png\" width=\"1024\" height=\"608\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:608,&quot;width&quot;:1024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!YY6y!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 424w, https://substackcdn.com/image/fetch/$s_!YY6y!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 848w, https://substackcdn.com/image/fetch/$s_!YY6y!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 1272w, https://substackcdn.com/image/fetch/$s_!YY6y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e7a3d4-f73a-4eae-be81-1a136c433230_1024x608.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Each brick = one uncertainty</figcaption></figure></div><h2>TL;DR</h2><p>Maybe instead of writing task lists, reframe macro objectives in terms of nested questions until you reach 'root' testable experiments.</p><h3>Put this into practice!</h3><p>You can use the tool that I built, <a href=\"https://github.com/casualPhysics/thought-tree/\">\u2018Thought-Tree\u2019 here</a> for free!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!IWIN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!IWIN!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 424w, https://substackcdn.com/image/fetch/$s_!IWIN!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 848w, https://substackcdn.com/image/fetch/$s_!IWIN!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 1272w, https://substackcdn.com/image/fetch/$s_!IWIN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!IWIN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png\" width=\"1456\" height=\"788\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:788,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:305964,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/162918993?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!IWIN!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 424w, https://substackcdn.com/image/fetch/$s_!IWIN!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 848w, https://substackcdn.com/image/fetch/$s_!IWIN!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 1272w, https://substackcdn.com/image/fetch/$s_!IWIN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6e4411b2-9f3c-43fb-9b6a-cdcbe9154757_2826x1530.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h2>Essays I am Thinking About, and that Inspired this Post</h2><ul><li><p><a href=\"https://www.paulgraham.com/hamming.html\">Richard Hamming, You and Your Research</a></p></li><li><p><a href=\"https://80000hours.org/career-planning/process/feedback-and-investigation/\">80000 hours, How to investigate your career uncertainties and make a judgement call</a></p></li><li><p><a href=\"https://www.benkuhn.net/impact/\">Ben Kuhn, Impact, agency, and taste</a></p></li><li><p><a href=\"https://gwern.net/about#information-organizing\">Gwern, Information Organising</a></p></li><li><p><a href=\"https://www.paulgraham.com/greatwork.html\">Paul Graham, How to Do Great Work</a></p></li><li><p><a href=\"https://www.paulgraham.com/do.html\">Paul Graham, What to Do</a></p></li></ul><h3>Related essays by me</h3><ul><li><p><a href=\"https://substack.com/home/post/p-160150209\">Casual Physics Enjoyer, The Pain of Finding the Truth</a></p></li><li><p><a href=\"https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what\">Casual Physics Enjoyer, You're A Slow Thinker - Now What?</a></p></li><li><p><a href=\"https://chillphysicsenjoyer.substack.com/p/on-good-writing?utm_source=publication-search\">Casual Physics Enjoyer, On Good Writing</a></p></li></ul><h3>What I am planning to read</h3><ul><li><p><a href=\"https://www.amazon.com/Tiny-Experiments-Freely-Goal-Obsessed-World/dp/0593715136\">Le Cunff, Anne-Laure, Tiny Experiments - How to Live Freely in a Goal-Obsessed World</a></p><p></p></li></ul><h2>Setting 'questions' instead of goals?</h2><p>I want to contribute to the world in the best way I can.</p><p>I really think that this is super hard. And in general, I think phrases like 'I want to do X' or 'I want to be Y' actually might be pretty ineffective ways of phrasing targets because it doesn't give you any hints on how to do it. My evidence for 'not knowing how to reach really ambitious targets' is a weak <a href=\"https://en.wikipedia.org/wiki/Reductio_ad_absurdum\">reductio ad absurdum</a> one - implicitly, if I knew how to do it, I probably would've already got there (or busy working away at what needs to be done, and not writing an essay on what I don't know on Casual Physics Enjoyer ;)).</p><p>But since I am writing this, I (and maybe you) are not in that position, which implies that there's stuff that we don't know. And in my case of 'contributing to the world in the best way I can), there is a shit ton of stuff I don't know about</p><ul><li><p>The state space of possible actions is huge.</p></li><li><p>I don't know what the best thing to do is.</p></li><li><p>I don't know what the 'best' thing even means, and I'm also uncertain about the 'right moral framework'</p></li><li><p>I don't want to cause harm, but even that is not obvious - what if my essays somehow make people sad?</p></li><li><p>If I knew what the best thing was, I don't think I would know how to do it.</p></li><li><p>Even if I knew, how do I know I am capable of achieving it without making myself go through suffering?</p></li><li><p>And even if I WAS doing the best thing I could be doing, how would I even KNOW it at the time?</p></li><li><p>I don't know how to measure positive contribution, in the sense that I don't know how I would set up reasonable feedback loops which would signal somehow that I am actually doing a good job, kind of like the OODA framework in <a href=\"https://www.benkuhn.net/impact/\">Ben Kuhn, Impact, agency, and taste</a>.</p><p></p></li></ul><h3>Maybe this is why to-do lists for big actions have pretty ineffective for me</h3><p>The more I think about it, the more I realise this is why task lists and goal setting have primarily been useless exercises for me, and why I never have been able to stick to any structured task plan phrased in terms of 'do X'. It's because most of the time, if you're trying to do anything new, then by definition you don't know how to do it. This seems to be because novelty seems to be a big part of building new stuff that is important. <a href=\"https://www.paulgraham.com/do.html\">Paul Graham, What to Do</a> <a href=\"https://chillphysicsenjoyer.substack.com/p/on-good-writing?utm_source=publication-search\">Casual Physics Enjoyer, On Good Writing</a></p><p>So prematurely setting a 'goal' like 'contribute to the world positively' isn't a very helpful exercise. I've tried adding more 'detail' to goals, in an effort to make them clearer and try to make it more well defined, but I tend to run into the same problem - I just don't know enough stuff to accomplish them.</p><p>This can feel overwhelming and pushes me to give up - so I wanted to try and find a better way to make 'planning' more useful to me. (Check out some more planning and prioritisation thoughts from <a href=\"https://www.benkuhn.net/impact/\">Ben Kuhn, Impact, agency, and taste</a>). I've also tried doing it the other way and go into just random 'do mode', but that doesn't feel right either.</p><p>But then I thought - even though we don't know how to do things, we DO know what we don't know, and that, for me, gives me a better place to start than just 'do X'. And so, recently for a given 'macro statement' like 'contribute to the world positively', I've been trying to write down 'questions / uncertainties' instead of goals instead.</p><p>Here are some of my macro statements rephrased as questions.</p><ul><li><p>How can I be maximally useful to people?</p></li><li><p>What's the best career path that fits me?</p></li><li><p>How can I make more money / do I need make more money?</p></li><li><p>What's the best start up idea out there?</p></li><li><p>How can I make more friends?</p></li><li><p>How can I design an optimal relationship with my partner?</p></li><li><p>How can I set up the best environment for my future children?</p></li></ul><p>And then for each question / uncertainty, I nest more questions until I can find an 'experiment' to test what the answer to that question is. It works doubly well if that question has a fairly binary answer, and usually that is a sign that the nesting can stop and I can try to come up with a list of experiments. The 'answer' is then a probability that the statement is a 'yes'.</p><p>I found this approach lends itself reasonably well to time boxing, where you can just set a time limit for one of your questions, or parent questions once you get a better idea of what's involved.</p><h2>An example of my current tree</h2><p>Here is an example of the tree that I'm currently working on. I haven't put all the stuff here for brevity but I plan to have a website that has my tree, and hopefully helps other people make trees.</p><ul><li><p><strong>How can I be maximally impactful as a person?</strong></p><ul><li><p>What causes are pressing, and which of those am I best suited to do? (2 years)</p><ul><li><p>Can I work on nanotech / solar energy in any meaningful way? (Done)</p><ul><li><p>TO RESOLVE:</p><ul><li><p>Talk to space solar people [x]</p></li><li><p>Try to work in a graphene lab [x]</p></li></ul></li><li><p>CURRENT ANSWER</p><ul><li><p>Nah bro</p></li></ul></li></ul></li></ul></li><li><p>Is biosecurity existentially risky? (1 month remaining)</p><ul><li><p>TO RESOLVE:</p><ul><li><p>Speak to Open Philanthropy [x]</p></li><li><p>Speak to NAO [x]</p></li><li><p>Speak to Blueprint biosecurity []</p></li><li><p>Absorb the <a href=\"https://stacks.stanford.edu/file/cv716pj4036/Technical%20Report%20on%20Mirror%20Bacteria%20Feasibility%20and%20Risks.pdf\">Technical report on mirror life</a> [x]</p></li><li><p>Read <a href=\"https://www.amazon.com/The-Dead-Hand-David-E-Hoffman-audiobook/dp/B002SVBUD0/ref=sr_1_1?crid=3FG93O4RNOWW4&amp;dib=eyJ2IjoiMSJ9.0Np4EljM8Jt_ALx6ajhMdmnn_BSVGFz5t6ZHeuQYW7GUo9ejACjSmpKYbanESDP9eACJPrk_fI4blTA_0SsrZ0vPyuZG2cMKLYiZKBOuruBCpHGHWC-T9WDqaX9x5IkGU37gutiQQ-DkPzUJAjYs5QfBealDvE2rW93e3HJAqIdoyRaec0YkwRZjUezvl0dm8askxXuTzw86JLFCJ2cqWYCCvy4WtDl60rq8zg3dZOM.2gBb0ltyfElZH5WPJ37bTUwmiy8gqUejUaX0ggUBnhQ&amp;dib_tag=se&amp;keywords=the+dead+hand&amp;qid=1746475516&amp;s=books&amp;sprefix=the+dead+hand%2Cstripbooks-intl-ship%2C185&amp;sr=1-1\">David E. Hoffman, Bob Walter, The Dead Hand The Untold Story of the Cold War Arms Race and its Dangerous Legacy</a></p></li><li><p>Read <a href=\"https://read.amazon.com/notebook\">The Genetic Age, Matthew Cobb</a> [x]</p></li><li><p>Read <a href=\"https://www.amazon.com/Deadliest-Enemy-Against-Killer-Germs/dp/0316343692\">Osterholm, Olshaker, Deadliest Enemy - Our War Against Killer Germs</a> [x]</p></li><li><p>Write an exploratory blog post on biosecurity [x]</p></li><li><p>...</p></li></ul></li><li><p>CURRENT ANSWER</p><ul><li><p>Probably, with main risks coming from engineered pathogens</p></li><li><p>Given that I'm still highly uncertain about whether the question of AGI risk is still neglected, the biorisk question feels top of mind.</p></li></ul></li><li><p>Is biosecurity a neglected area? (1 month remaining)</p><ul><li><p>TO RESOLVE:</p><ul><li><p>Try do a broad analysis of the spending in the biosecurity area from philanthropic actors [x]</p></li><li><p>....</p></li></ul></li><li><p>CURRENT ANSWER</p><ul><li><p>Yeah it probably it is</p></li><li><p><a href=\"app://obsidian.md/Let's%20Not%20Rawdog%20the%20Next%20Plague\">Let's Not Rawdog the Next Plague</a></p></li><li><p><a href=\"app://obsidian.md/Thought%20Blobbing%20Against%20The%20Bubonic%20Blobs\">Thought Blobbing Against The Bubonic Blobs</a></p></li></ul></li></ul></li></ul></li><li><p>What can I do that is useful to help, given that biosecurity is neglected and existential?</p><ul><li><p>What do I need to make me feel 'satisfied' from a feedback point of view?</p><ul><li><p>Is funding / money enough of a feedback mechanism?</p><ul><li><p>Do I need to build something, like a tool, and have people actually use it?</p></li></ul></li></ul></li><li><p>Can I work on protein folding in a way with outsized impact? (1 month remaining)</p><ul><li><p>TO RESOLVE:</p><ul><li><p>Continue project on protein spectroscopy - try to improve the prediction of protein spectra from circular dichroism. []</p></li><li><p>Attempt a submission for publication / research hand off and see if anything sticks []</p></li><li><p>Try and fix the automated selection of orbitals selection problem for RASCCF. []</p></li></ul></li><li><p>ANSWER:</p><ul><li><p>So far I am not sure that this is the most impactful thing that I could work on.</p></li><li><p>Field is very crowded, not very neglected</p></li></ul></li></ul></li></ul></li><li><p>Can I work on Far UVC in a way that helps? (1 month)</p><ul><li><p>Is there any other better method that is more cost effective?</p><ul><li><p>TO RESOLVE</p><ul><li><p>Explore other ways</p></li></ul></li></ul></li><li><p>What are ways that I could get better feedback mechanisms?</p><ul><li><p>TO RESOLVE</p><ul><li><p>Try and see if a non-profit saying 'nice work' to me makes me feel satisfied enough regarding feedback loops.</p></li><li><p>Explore the economics of if starting a business would be an effective way to have positive externalities</p></li></ul></li></ul></li><li><p>TO RESOLVE</p><ul><li><p>Create a document outlining some problem gaps</p></li><li><p>Speak to Blueprint Biosecurity about research gaps</p></li><li><p>Speak to hospitals about whether they would be interested</p></li><li><p>Some of my friends and family are in the hospital space, what would they have to say about it?</p></li><li><p>See if <a href=\"app://obsidian.md/A%20Modelling%20System%20for%20Far%20UVC\">A Modelling System for Far UVC</a> was useful for anyone.</p></li><li><p>See if I can get funding to work on this issue.</p></li></ul></li><li><p>ANSWER</p><ul><li><p>Haven't got any meaningful responses from hospitals</p></li><li><p>I have more chats still left to go </p></li></ul></li></ul></li></ul></li><li><p>How can I improve my meta-cognition and my leverage from thinking?</p><ul><li><p>TO RESOLVE</p><ul><li><p>Try a question and answer based framework instead of tasks lists.</p></li><li><p>Try intend.do</p></li><li><p>Create a quick web app that allows people to use this question and answer based framework and see what happens.</p></li><li><p>How can I have better holidays / rest breaks that feel more meaningful, and yet are cheaper?</p></li></ul></li></ul></li></ul><p>And then after that, actually try and do the things in the allotted time.</p><p>Again, this is something I've only recently been doing for maybe half a year, but I've been trying to better stick to task lists for since I was in primary school. So it's probably time for a new approach!</p><h3>Positive side effects</h3><p>One possible criticism of this approach is that it could be seen as 'procrastination' towards 'actually doing things'. This is similar to the trope of 'analysis paralysis', where over analysing might bias one towards this action. But I argue that doing this correctly is 'just doing things'!</p><p>Because</p><ul><li><p>The hardest problems are, almost by definition, highly ill defined and require extra attention in terms of epistemics, and so the 'question asking' IS helpful.</p></li><li><p>Because of the size of the state space, just 'guessing' stuff to do is likely to miss the mak</p></li><li><p>I think I can safely count this as 'work', because some of humanities best work has come from conjecture and not solution. See Hilbert's problems.</p></li><li><p>a lot of problems are ill defined, and so making them well defined by answering questions is completely necessary.</p></li><li><p>a lot of impact and leverage comes from problem selection. Best essay on this is a must read <a href=\"https://www.paulgraham.com/hamming.html\">Richard Hamming, You and Your Research</a></p></li><li><p>a lot of impact and leverage is a function of the marginal contribution, not just absolute contribution, and so its worth spending time to figure this out</p></li><li><p>I think from an impact point of view, most things are probably a waste of time, so the recent 'just do things' meme feels quite off</p></li></ul><p>On the first point: I think this approach also has some positive side effects, in that, if you have those questions, other people likely have those problems as well. And so exposing the experiments online on a blog or publication is a free 'DO' action. I also think, if the question is somewhat meaningful at all, then resolving it is a creative process in itself. And I think doing things that are biased towards creation feels good.</p><h3>Am I just lazy?</h3><p>I have asked myself this question many times. Am I just finding ways to cope / rationalise a way to avoid 'schlep'? Schlep being the necessary boring, hard work to actually do things? Well, here is my TREE that helps me answer that question</p><ul><li><p>Am I capable of schlep?</p><ul><li><p>TO RESOLVE</p><ul><li><p>Do something really schleppy like data cleaning in quant trading or writing a book</p></li></ul></li><li><p>ANSWER</p><ul><li><p></p><p>I think so</p></li></ul></li></ul></li><li><p>Am I avoidant of hard work?</p><ul><li><p>Have I done really hard stuff before?</p><ul><li><p>TO RESOLVE</p><ul><li><p>Do an Ironman?</p></li></ul></li><li><p>ANSWER</p><ul><li><p>I don't think so...</p></li></ul></li></ul></li></ul></li></ul><h2>Time boxing detail</h2><ul><li><p>What overall time period can you <strong>afford</strong> to solve this question for? This is something I struggle with a lot, but writing down the experiments and the question tree helps. I think it's fine to differentiate Think about how much free time you have, how important the question is</p></li><li><p>1 day</p></li><li><p>1 week</p></li><li><p>1 months</p></li><li><p>3 months</p></li><li><p>6 months</p></li></ul><h2>Super rough notes On Designing Experiments</h2><ul><li><p>What are the minimal ways you can do that work to test this goal right now? These are the things that you should be working on today, since you can't control much else, and your goals are likely to continually change. Include as many things as you want that will fill the space</p></li><li><p>For the end-state, you probably have several questions. What is it about <strong>reality</strong> are you uncertain about that's stopping you from being in that state?</p></li></ul>",
+  "truncated_body_text": "TL;DR Maybe instead of writing task lists, reframe macro objectives in terms of nested questions until you reach 'root' testable experiments.",
+  "wordcount": 2172,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "e9869c76-c81b-4488-8532-b697127439b3",
+      "publication_id": 1692033,
+      "name": "Writing",
+      "slug": "writing",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        246,
+        180,
+        18
+      ],
+      "population": 9
+    },
+    "DarkVibrant": {
+      "rgb": [
+        44,
+        37,
+        96
+      ],
+      "population": 157
+    },
+    "LightVibrant": {
+      "rgb": [
+        186,
+        129,
+        96
+      ],
+      "population": 17
+    },
+    "Muted": {
+      "rgb": [
+        84,
+        92,
+        156
+      ],
+      "population": 4568
+    },
+    "DarkMuted": {
+      "rgb": [
+        54,
+        81,
+        100
+      ],
+      "population": 3
+    },
+    "LightMuted": {
+      "rgb": [
+        210,
+        191,
+        183
+      ],
+      "population": 11
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 12,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 162918993,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/162918993/tts/3be64305-e00e-4fdf-b95a-64972adf2847/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 126723553,
+      "body": "This is incredible, i've saved this and i am going to try and implement it or something similar. ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is incredible, i've saved this and i am going to try and implement it or something similar."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 162918993,
+      "user_id": 240675533,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-06-17T13:58:45.300Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Lucas  Lazar",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b7c444bd-5be7-49c8-a768-ea9998f76277_798x796.jpeg",
+      "handle": "lucaslazar",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "lucaslazar",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Infinite Zest",
+          "id": 2666342,
+          "base_url": "https://lucaslazar.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

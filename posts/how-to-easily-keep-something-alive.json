@@ -1,0 +1,413 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-to-easily-keep-something-alive",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 171220915,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-08-17T21:50:24.509Z",
+  "updated_at": "2025-08-17T22:50:25.097Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-to-easily-keep-something-alive",
+  "social_title": "How to Easily Keep Something Alive ",
+  "subtitle": "On trying to stop quitting.",
+  "teaser_post_eligible": true,
+  "title": "How to Easily Keep Something Alive ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 24
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "a-big-board-of-open-sourceable-science",
+  "next_post_slug": "if-its-not-obvious-it-probably-isnt",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!iDDL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 171220915,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On trying to stop quitting.",
+  "body_html": "<p>When I start a new project, I feel a rush of motivation and excitement. This however, slowly dies after one month. I get tempted by another project, convince myself that its more important, and end up not finishing what I start.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!iDDL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!iDDL!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 424w, https://substackcdn.com/image/fetch/$s_!iDDL!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 848w, https://substackcdn.com/image/fetch/$s_!iDDL!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 1272w, https://substackcdn.com/image/fetch/$s_!iDDL!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!iDDL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png\" width=\"450\" height=\"500\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/66770dab-707f-4a66-96a3-67be1c597796_450x500.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:500,&quot;width&quot;:450,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:423319,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/171220915?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!iDDL!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 424w, https://substackcdn.com/image/fetch/$s_!iDDL!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 848w, https://substackcdn.com/image/fetch/$s_!iDDL!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 1272w, https://substackcdn.com/image/fetch/$s_!iDDL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66770dab-707f-4a66-96a3-67be1c597796_450x500.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I hated this about myself. I think quitting is ok, <em>even good</em>, but only when its intentional. </p><p>Forcing myself to stick to to-do lists, manifestation boards, or other hacks, never worked for me. I needed to find a real solution that didn\u2019t rely on effort. </p><p>I realised that my eagerness to <em>disappoint</em> my past-self is only matched by my <em>fear</em> of disappointing others. </p><p>Could I use this to my advantage? </p><p>Well, about three months ago, I made a system. As soon as I started a project,  I would find someone also interested in what I was doing. <a href=\"https://www.youtube.com/watch?v=W10_hGQEBlA&amp;t=7s\">I made a video on how I do this. </a></p><p>I would then ask them to have a weekly calls to discuss ideas, their thoughts, and just have a chat about the area. Calendly works well. Then, I would set up the weekly google meet for 10 minutes, nothing to long. There is literally no way to back-out, of this chat, unless I give them a strong reason about why I\u2019m giving up. </p><p>It\u2019s been three months now, and I\u2019ve yet to quit anything that I\u2019ve started since then, which is two months of improvement to my old system. </p><p>We\u2019re getting there.</p>",
+  "truncated_body_text": "When I start a new project, I feel a rush of motivation and excitement. This however, slowly dies after one month. I get tempted by another project, convince myself that its more important, and end up not finishing what I start.",
+  "wordcount": 239,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "22d6c0df-14f9-4739-a401-2b3b2eb0118b",
+      "publication_id": 1692033,
+      "name": "Metascience",
+      "slug": "metascience",
+      "hidden": false
+    },
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": {
+    "post_id": 171220915,
+    "starts_at": "2025-08-17T21:50:24.815Z",
+    "ended_at": "2025-08-17T22:50:25.037Z",
+    "planned_duration_ms": 3600000,
+    "test_cohort_percent": 50,
+    "test_cohort_emailed": true,
+    "main_cohort_emailed": true,
+    "created_at": "2025-08-17T21:49:05.190Z",
+    "updated_at": "2025-08-17T22:50:27.815Z",
+    "creator_id": 49747279,
+    "ended_early": false,
+    "winner_overridden": false
+  },
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        186,
+        130,
+        90
+      ],
+      "population": 439
+    },
+    "DarkVibrant": {
+      "rgb": [
+        116,
+        68,
+        28
+      ],
+      "population": 1
+    },
+    "LightVibrant": {
+      "rgb": [
+        224,
+        172,
+        122
+      ],
+      "population": 17
+    },
+    "Muted": {
+      "rgb": [
+        149,
+        134,
+        103
+      ],
+      "population": 17
+    },
+    "DarkMuted": {
+      "rgb": [
+        95,
+        64,
+        41
+      ],
+      "population": 449
+    },
+    "LightMuted": {
+      "rgb": [
+        124.07926829268293,
+        75.56707317073172,
+        28.92073170731707
+      ],
+      "population": 0
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 24,
+  "comment_count": 3,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 171220915,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/171220915/tts/7a713c18-f797-4095-8ba2-483e393a4641/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 146753410,
+      "body": "If you keep starting new projects and try to keep everything alive, after all you could be buried with a lot of work. I think it\u2019s important to also focus on what you are doing at the moment, and save the new ideas for future. What do you think?",
+      "body_json": {
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "type": "doc",
+        "content": [
+          {
+            "content": [
+              {
+                "text": "If you keep starting new projects and try to keep everything alive, after all you could be buried with a lot of work. I think it\u2019s important to also focus on what you are doing at the moment, and save the new ideas for future. What do you think?",
+                "type": "text"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 171220915,
+      "user_id": 367664932,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-08-18T20:44:24.033Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Dante Lok",
+      "photo_url": null,
+      "handle": "dantelok",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "dantelok",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 146464341,
+      "body": "i\u2019ve also thought about doing this, but i wonder how to become independent in that where i don\u2019t have to rely on not wanting to let other people down to motivate me and i can just \u201ctrick/manipulate\u201d myself by using my own characteristics that involve just me",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "i\u2019ve also thought about doing this, but i wonder how to become independent in that where i don\u2019t have to rely on not wanting to let other people down to motivate me and i can just \u201ctrick/manipulate\u201d myself by using my own characteristics that involve just me"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 171220915,
+      "user_id": 367613853,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-08-17T23:11:22.399Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Monsieur LC",
+      "photo_url": null,
+      "handle": "monsieurlc",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "monsieurlc",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Monsieur LC",
+          "id": 7465381,
+          "base_url": "https://monsieurlc.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

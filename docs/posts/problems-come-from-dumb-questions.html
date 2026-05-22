@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Problems come from Dumb Questions &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Problems come from Dumb Questions</h2>
+    <p class="post-meta">
+      <span class="post-date">24 July 2024</span>
+      &middot; <span class="post-subtitle">A New Comer&#39;s Difficulties in Biophysics - should it be this hard?</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>Being a useful (semi-amateur) physicist means trying to find out where important problems are<a class="footnote-anchor" data-component-name="FootnoteAnchorToDOM" href="#footnote-1" id="footnote-anchor-1" target="_self">1</a>. There are two ways to do this - finding a supervisor<a class="footnote-anchor" data-component-name="FootnoteAnchorToDOM" href="#footnote-2" id="footnote-anchor-2" target="_self">2</a> to tell you what they are, versus figuring it out yourself. And whilst I think the former is a lot more effective, this post is about the latter. </p><p>Right now, I’m figuring out where the problems are in the fields where biology and physics mix - like quantum biology. And my first thoughts are to find tractable problems that other professional academics might not have time to look at, like low-hanging fruit. </p><p>And I think one way to do this is just to pretend you’re dumb and notice when things get hard.</p><p>By this, I mean one way to find knowledge gaps is just to try something noncommittally until you stumble. It could be something like trying to run a piece of code. Or solving a differential equation. And then, at that point, ask, ‘Should doing this be this HARD to do?’. If yes, why is the complexity there and is it necessary? If not, what is stopping me from contributing to fixing the problem? Either way - you’ve learned something or contributed! I tried to replicate some simple computational experiments like this <a href="http://www.ks.uiuc.edu/Research/qmmm/Tutorial/Tutorial.pdf">one</a> on simulating a protein. And another one on graphene. Both didn’t go well<a class="footnote-anchor" data-component-name="FootnoteAnchorToDOM" href="#footnote-3" id="footnote-anchor-3" target="_self">3</a> - and asked myself this exact question - should this be hard to do?  Funnily enough, asking this question actually gave me a decent start to find some ideas on where the gaps were.<a class="footnote-anchor" data-component-name="FootnoteAnchorToDOM" href="#footnote-4" id="footnote-anchor-4" target="_self">4</a> </p><p>After I posted these on <a href="https://www.reddit.com/r/Biophysics/comments/1dkzo2u/some_thoughts_on_quantum_bio_simulations_from_a/">Reddit</a> and via email, a couple of academics agreed with my assessments. And suggested ideas for fixing these issues<a class="footnote-anchor" data-component-name="FootnoteAnchorToDOM" href="#footnote-5" id="footnote-anchor-5" target="_self">5</a>. So now I’ve got some leads - on to research!</p><h2>Appendix</h2><div class="footnote" data-component-name="FootnoteToDOM"><a class="footnote-number" contenteditable="false" href="#footnote-anchor-1" id="footnote-1" target="_self">1</a><div class="footnote-content"><p>For those who are new here, I did my undergraduate degree in math and master’s in theoretical physics at a good school. I now work in trading, but I’m still trying to find ways to be helpful in the sciences as an amateur. </p></div></div><div class="footnote" data-component-name="FootnoteToDOM"><a class="footnote-number" contenteditable="false" href="#footnote-anchor-2" id="footnote-2" target="_self">2</a><div class="footnote-content"><p>I actually do have a supervisor - which I will elaborate on in a different post. </p></div></div><div class="footnote" data-component-name="FootnoteToDOM"><a class="footnote-number" contenteditable="false" href="#footnote-anchor-3" id="footnote-3" target="_self">3</a><div class="footnote-content"><p>So the thing first thing that is obviously hard to do is just replicating computational biophysics experiments in literature. When I started to go deeper and read papers on quantum biology, I found that most of the experiments were computational. And most relied on a cocktail of different pieces of code and other bits of computational biology software to get a result. And I’ve been struggling to replicate them. With so many independent parts that researchers do separately, I think that it is amazing that these computational experiments are replicable among different groups with all those pesky parameters. Even more so because everyone is using different computers. Even more so that people are unresponsive about sharing parameters.</p><p>The next thing are the tools. I tried to have a stab at running simple toy quantum mechanics / molecular mechanics (QM / MM) simulation on a laptop to start with a program called VMD.</p><p>I realised trying to start a basic QM / MM simulation is just really hard, because they are complicated to compile, and lack documentation. And I think quite a few people agree. I posted on reddit about it, and emailing particular academics in the field asking ‘hey don’t you think this is just really hard to setup?’. And everyone I’ve emailed thinks compilation and simulation set up is just a pain in the ass. Cloud hosted solutions didn’t seem that easy to use either. </p><p>The first thing that makes it hard is that a lot of computational chemistry software is just old-style and not that aesthetic, so its already intimidating to begin with - like VMD, CP2K and Gromacs. It doesn’t allow for the easy entrance of hobbyists. And as we know from the computing revolution, hobbyists play a huge role in developing the ecosystem. </p><p>And if something breaks, its hard to know where to go for help (since its a niche field). The use of different softwares make it hard to share simulation configuration, so you can’t easily get other people to replicate your problem, let alone run your simulation. Given the replicability crisis  there are no easy ways, that I know of, to share simulation config amongst researchers. </p><p>What doesn’t make it easier is that there are no good guides to at least getting a decent home lab setup so that simulations run on the order of hours, and not days. And I think academics are confused about this too, they are surprised when I tell them that other labs use high powered desktop setups instead of national supercomputers. Perhaps no one really thinks about which simulations can actually be done without supercompute - and this is not clear at all. </p><p>It’s expensive to get started. Some tools in the landscape (Gaussian) are expensive. I don’t think it should be this way, and this just feels like a symptom that the field of computational chemistry is not mature enough. A lot of things are becoming free though, like PySCF, but these don’t seem geared to QBio. Everything is completely free if we look at other fields like machine learning and deep learning.</p></div></div><div class="footnote" data-component-name="FootnoteToDOM"><a class="footnote-number" contenteditable="false" href="#footnote-anchor-4" id="footnote-4" target="_self">4</a><div class="footnote-content"><p>A good thing about this approach is that you don’t have the influence of other people telling you something should be easy. I am trying to train myself to notice interesting problems by just asking dumb questions, and I think this is one way to do that. </p></div></div><div class="footnote" data-component-name="FootnoteToDOM"><a class="footnote-number" contenteditable="false" href="#footnote-anchor-5" id="footnote-5" target="_self">5</a><div class="footnote-content"><p>Something that might ease these issues is making a very, very simple and clear tutorial on how to get started. And this is something that I want to build. I am trying to think of a way to make a tutorial that I would actually use if I was starting out. I would like a tutorial to actually learn how QM/MM works bare bones, and what it gives that classical simulations don't. I would also like a tutorial with real bare bones cases. And also, include a section on getting a decent homelab with a budget. </p><p>For example (starting from the beginning), in a good tutorial I would expect that:</p><p>- What quantities do classical molecular dynamics simulations give us  - I think I need to review how this works</p><p>- Where do classical simulations fail </p><p>- How do basic quantum simulations work </p><p>- Where do the basic quantum simulations fail</p><p>- How does QM/MM fix the failure </p><p>- What quantities does QM/MM give us </p><p>- What differences in magnitude can we expect from QM / MM vs classical simulations </p></div></div>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/problems-come-from-dumb-questions">Read on Substack</a>
+     &middot; <a href="do-physics-but-learn-history.html">&laquo; Previous</a>
+     &middot; <a href="pursuing-physics-research-part-time.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

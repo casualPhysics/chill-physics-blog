@@ -1,0 +1,266 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/being-political-in-the-right-way",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 198105028,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-05-18T16:41:10.457Z",
+  "updated_at": "2026-05-18T16:41:45.569Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "being-political-in-the-right-way",
+  "social_title": null,
+  "subtitle": "On reasoning about society. ",
+  "teaser_post_eligible": true,
+  "title": "Being Political in the Right Way ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 10
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "do-not-plan",
+  "next_post_slug": null,
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!l4oG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 198105028,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On reasoning about society.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!l4oG!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!l4oG!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 424w, https://substackcdn.com/image/fetch/$s_!l4oG!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 848w, https://substackcdn.com/image/fetch/$s_!l4oG!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 1272w, https://substackcdn.com/image/fetch/$s_!l4oG!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!l4oG!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png\" width=\"1200\" height=\"705.4945054945055\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:856,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:255925,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/198105028?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-large\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!l4oG!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 424w, https://substackcdn.com/image/fetch/$s_!l4oG!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 848w, https://substackcdn.com/image/fetch/$s_!l4oG!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 1272w, https://substackcdn.com/image/fetch/$s_!l4oG!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F451d1876-302f-4b41-a3df-5ad854346c2a_2380x1400.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">This image is not serious btw</figcaption></figure></div><p>From George Orwell\u2019s \u2018Why I Write\u2019. </p><blockquote><p><em>I cannot say with certainty which of my motives are the strongest, but I know which of them deserve to be followed. And looking back through my work, I see that it is invariably where I lacked political purpose that I wrote lifeless books and was betrayed into purple passages, sentences without meaning, decorative adjectives, and humbug generally.</em></p></blockquote><p>I want to be <em>political</em>, but in the right way. </p><p><strong>What does being political mean? </strong></p><p>Being political means having a role in how one\u2019s local society should be run. <em>Local society </em>refers to a few things: where you live, where you were born, or who you pay taxes to. I am Malaysian, a UK taxpayer, and live in South London. So I would consider South London, the UK and Malaysia as my <em>local society</em>. </p><p><em>Running something</em> means deciding how resources should be allocated to common spaces. These are things like schools and roads. Resources are limited, so we need to make hard decisions to decide where they go. Being political means trying to convince others of what the optimal allocation is. Examples are include deciding how much taxation a society should have, where these funds are allocated, what sources of energy we should use, and what should be taught in schools. </p><p>The goal of this allocation game aims to <em>increase</em> things that aligns with the society\u2019s values. For most of the world, this includes: the collective happiness of the society, the lifespan and population, the economic prosperity of the society, and preserving justness and freedoms. </p><p><strong>Why be political?</strong></p><p>So why am I suddenly interesting doing some writing that is <em>political</em>? After all, this is a science blog! Well, I used to feel icky about politics and politicians. But I\u2019ve realised that I felt icky about <strong>partisanship</strong>, not necessarily the about the game of <strong>politics</strong> above. In fact, the more I\u2019ve dug into housing, council management, and social sciences, the more I\u2019ve realised that there are some interesting optimisation problems to dig into.</p><p>Also, the hard truth is that politics affects science. In <em>Maker Of Patterns</em>, Freeman Dyson not only talks about his emotional state during his divorce, but also about his political dispositions. In particular, the behaviours of scientists between 1940 and 1945 working on the Manhattan Project. And now we have Terence Tao campaigning for private funding since the NSF cut his grant. </p><p>And so I must have an active say in how political debate around science. This blog is my diary. I write to record my mental state, and so I must record my political thoughts. It benefits me in the end after all as a tax payer, to live in a society that is more prosperous and kind.</p><p>There are also other reasons to be more political, that involve defence against people outside of the local society. Because of cross border flows, there are people who are not in my local society that have an effect on how it is run. For example, division from social media and donations from foreign actors. I would like to counter these people with my own voice.  </p><p><strong>Also, I\u2019ve been political all along.</strong></p><p>My blog is about doing science independently. But this implies that the public establishment\u2019s methods of doing science is bad. And so this is a political statement in itself. So I was political all along! I just need to do more. </p><p><strong>So how can I be political in the right way?</strong> </p><p>The standard way to be political is that people pick a side, and try to defend it. In the UK, I can\u2019t do this because I don\u2019t have a clear idea of which side to support. Also, picking a side would endanger me to try to stick to that side, which could cause value drift. I wrote about this earlier in my <a href=\"https://chillphysicsenjoyer.substack.com/p/do-not-plan\">Do Not Plan </a>essay. </p><p>But if I don\u2019t pick a side, how do I prevent my writing from being non-committal and vacuous? I want my writing to be strong, convicted, and engaging. I also want to contribute in a way that others can\u2019t.</p><p>By elimination, there\u2019s no point in me writing about the issues that are <em>cursed</em>. <em>Cursed</em> issues are the issues that have been debated for centuries, that everyone talks about, and that no one will listen to me for. Some of these problems include whether to increase or decrease tax, YIMBYism and immigration.</p><p>So instead, I need to focus on ideas which are less talked about, and solvable. There are a few reasons why important topics are not discussed even through they should be. But that doesn\u2019t mean we should not talk about them. This is where I come in! </p><p>First, I could write about things we can mostly agree on in terms of the end result, but are complicated and have incentive issues. For example, we can all agree that pandemics are bad. And I think we would all agree to allocate more funding to biosecurity, like <a href=\"https://chillphysicsenjoyer.substack.com/p/evidence-that-shrouds-increase-cr\">low cost air purification </a>and PPE stockpile management. But the math, physics and data juggling to do this is hard. And problem is that it happens so rarely that doesn\u2019t get much coverage. Both of these are fixable! This can be fixed by writing with more clarity than the media, and doing the math. Which is why I\u2019m inclined to write more about it. </p><p>I\u2019ve written about <a href=\"https://chillphysicsenjoyer.substack.com/p/how-to-think-about-dynamic-systems\">complexity theory and dynamical systems</a> here on this blog. It is likely that we can use those ideas there to reason more rigorously about issues in government, where statistics are likely to be useless or manipulated. Many local council problems are amenable to modelling as a large set of ordinary differential equations like the techniques I\u2019ve written about in this blog. These sorts of things might help us decide which policy interventions are important from a mechanistic point of view. For example, if the council had 100 dollars to spend, would you spend it on a bike lane, or a hospital? Which one is more effective for a healthier society? </p><p>Most people think centrism is boring. And so if I\u2019m a centrist, want to talk about politics, then how do I\u2019m not be boring? I\u2019m not sure yet but I think I\u2019m improving. I used to think I was cooked, but I was surprised that my <a href=\"https://chillphysicsenjoyer.substack.com/p/fluid-dynamics-for-toddlers\">Navier Stokes post</a> got mildly popular, even amongst non-physicists. So I\u2019m cautiously optimistic that I can make boring <em>politic</em> mildly popular as well. </p><p></p>",
+  "truncated_body_text": "From George Orwell\u2019s \u2018Why I Write\u2019.",
+  "wordcount": 1075,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "9c4e9cdb-3484-4287-8452-b32dab3ec822",
+      "publication_id": 1692033,
+      "name": "Politics",
+      "slug": "politics",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        230,
+        169,
+        86
+      ],
+      "population": 65
+    },
+    "DarkVibrant": {
+      "rgb": [
+        129,
+        73,
+        33
+      ],
+      "population": 74
+    },
+    "LightVibrant": {
+      "rgb": [
+        180,
+        220,
+        244
+      ],
+      "population": 1
+    },
+    "Muted": {
+      "rgb": [
+        156,
+        172,
+        107
+      ],
+      "population": 9
+    },
+    "DarkMuted": {
+      "rgb": [
+        76,
+        124,
+        88
+      ],
+      "population": 2
+    },
+    "LightMuted": {
+      "rgb": [
+        172,
+        212,
+        164
+      ],
+      "population": 1635
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 10,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 198105028,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/198105028/tts/2b7b6dd5-de12-45ac-97ec-1a5204938471/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

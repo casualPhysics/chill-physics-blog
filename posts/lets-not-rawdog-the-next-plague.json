@@ -1,0 +1,335 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/lets-not-rawdog-the-next-plague",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 160816672,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-04-09T21:16:50.532Z",
+  "updated_at": "2025-04-09T21:18:09.391Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "lets-not-rawdog-the-next-plague",
+  "social_title": null,
+  "subtitle": "A broad investigation on ways to help in biosecurity",
+  "teaser_post_eligible": true,
+  "title": "Let's Not Rawdog the Next Plague",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 1
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "a-two-tier-model-of-optimal-career",
+  "next_post_slug": "thought-blobs-on-biosecurity-topics",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!hhEj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 160816672,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A broad investigation on ways to help in biosecurity",
+  "body_html": "<p></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!hhEj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!hhEj!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 424w, https://substackcdn.com/image/fetch/$s_!hhEj!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 848w, https://substackcdn.com/image/fetch/$s_!hhEj!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 1272w, https://substackcdn.com/image/fetch/$s_!hhEj!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!hhEj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png\" width=\"1024\" height=\"608\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/aeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:608,&quot;width&quot;:1024,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!hhEj!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 424w, https://substackcdn.com/image/fetch/$s_!hhEj!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 848w, https://substackcdn.com/image/fetch/$s_!hhEj!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 1272w, https://substackcdn.com/image/fetch/$s_!hhEj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faeb62036-9db5-41e0-ad59-d24fb2d142d1_1024x608.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\"></figcaption></figure></div><p>In line with my previous post on a two-tiered career model, I am trying to find tractable areas where my contribution might have high upside. </p><p>Something that is high-risk / high impact that I am now exploring is <em>existential threats from pandemics</em>. So far, I think I might be a good fit to explore policy around physics based approaches to pandemic prevention, like antimicrobial surfaces. </p><p>This is currently the best book I\u2019ve read on the topic, which I will reference throughout this piece. </p><p><em><strong>Deadliest Enemy: Our War Against Killer Germs by Michael Osterholm and Mark Olshaker</strong></em></p><div><hr></div><h3>An Internal Outline of Strategies in Biosecurity Space. </h3><p>There is ambiguity and redundancy in the definitions below, but here are some strategies that come to mind. Each point has a summary take on what I think so far. And each point is subject to change, since I\u2019m new to the area. </p><ul><li><p>Natural Pandemic prevention. </p><ul><li><p>Natural pandemics are unlikely to be existential, but still well worth investigating. It seems to be true that this is still a neglected area compared to climate change. </p></li><li><p>The bulk of worrying diseases, with tractable solutions, are in emerging markets. Things that come to mind are TB, Chikungunya (which I\u2019ve had), dengue and malaria. </p></li></ul></li><li><p>Engineered Pandemic prevention</p><ul><li><p>Could be at an existential risk to us, and more dangerous than natural pandemics. See dual use research of concern (DURC)</p></li><li><p>There is reason to believe that LLMs are making it easier to engineer dangerous pathogens. So one line of attack is to prevent it from making it too easy for malicious actors to engineer catastrophic viruses. </p></li></ul></li><li><p><strong>Preventing a \u2018post antibiotics\u2019 world</strong></p><ul><li><p>A world in which bacteria become resistant to antibiotics is scary. I am trying to learn about this more. </p></li><li><p>We use a lot of antibiotics in farming, which has been less well flagged compared to antibiotic use in humans. </p></li><li><p>Emerging markets have more relaxed laws around doctors prescribing antibiotics. All of the usual plays like sanitation and hygiene feed into cutting unnecessary antibiotics prescriptions. </p></li><li><p>There seem to be wins that are not based on scientific innovation here, like posters of commitment to not prescribe in clinics\u2019 walls. </p></li><li><p>Research on first principles mutation mechanics - like why E. coli increases its mutation rate in times of stress. Quantum physics based explanations to </p></li></ul></li><li><p>Physics based approaches. I might have some edge here since physics is my background, and I find this stuff really interesting </p><ul><li><p>Antimicrobial surfaces are a double edged sword because we rely on good bacteria to stay healthy as well</p></li><li><p>Far UV sterilisation - I\u2019ve contacted some researchers on this but they seem to have given up </p></li></ul></li><li><p>Preventing the proliferation of bioweapons </p><ul><li><p>So far there are reasons to believe that major governments are already working on this </p></li></ul></li><li><p>Meta </p><ul><li><p>Funding estimation </p></li><li><p>Cause prioritisation </p></li></ul></li><li><p>Genetic engineering </p><ul><li><p>Genetically engineering ourselves to be more resistant to disease</p></li><li><p>Bringing back extinct species like the Dodo and build another jurassic park to stimulate the economy!</p></li></ul></li></ul><div><hr></div><h3>Funding Estimates of Biosecurity and the Life Sciences </h3><p>From a philanthropy standpoint, trying to understand where neglected areas are in the life sciences seems hard. It also seems hard to figure out how much, within that spend includes biosecurity. Also biosecurity isn\u2019t necessarily just a \u2018life science\u2019, since economic and sanitation policy is involved as well. So finding a total cost number is hard. </p><p><strong>Some life science philanthropy estimates</strong></p><p><em>Research funding in life sciences is already huge</em>. Life science funding doesn\u2019t necessarily mean \u2018biosecurity\u2019, but there are bound to be overlaps. Funding in the life sciences is never a bad thing, except when it comes to DURC. </p><p>The private side of life science research is hard to estimate. I guess that\u2019s why they call it private. But on the other hand, we can get an order of magnitude estimate on life science <em>philanthropy</em>. From what I understand, the big players in philanthropic life sciences funding are : </p><ul><li><p>Wellcome Trust - 1.5bn annually </p></li><li><p>Howard Hughes Medical Institute - probably around the same annually </p></li><li><p>Bill and Melinda Gates Foundation - 1.6bn annually </p></li><li><p>American Cancer Society - ? </p></li><li><p>Cancer Research UK - ? </p></li></ul><p>It\u2019s important to note, from an outsider at least, that these efforts have actually worked. Here\u2019s an update for this year from the Wellcome trust. </p><p><em>We celebrated the approval of the first new pharmacological approach for treating schizophrenia in 50 years and the world\u2019s first vaccine for chikungunya. These were realised through strategic partnerships and long-term investments in research.</em></p><p>Here are some graphics to show research distribution </p><p><em>Wellcome Trust </em></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!RqMx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!RqMx!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 424w, https://substackcdn.com/image/fetch/$s_!RqMx!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 848w, https://substackcdn.com/image/fetch/$s_!RqMx!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 1272w, https://substackcdn.com/image/fetch/$s_!RqMx!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!RqMx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png\" width=\"683\" height=\"421\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:421,&quot;width&quot;:683,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:259141,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160816672?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!RqMx!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 424w, https://substackcdn.com/image/fetch/$s_!RqMx!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 848w, https://substackcdn.com/image/fetch/$s_!RqMx!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 1272w, https://substackcdn.com/image/fetch/$s_!RqMx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fca463674-4e97-414a-b5f0-1d9a000a8c44_683x421.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p><em>Bill and Melinda Gates Foundation </em></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!G4HZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!G4HZ!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 424w, https://substackcdn.com/image/fetch/$s_!G4HZ!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 848w, https://substackcdn.com/image/fetch/$s_!G4HZ!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 1272w, https://substackcdn.com/image/fetch/$s_!G4HZ!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!G4HZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png\" width=\"693\" height=\"866\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:866,&quot;width&quot;:693,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:491656,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160816672?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!G4HZ!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 424w, https://substackcdn.com/image/fetch/$s_!G4HZ!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 848w, https://substackcdn.com/image/fetch/$s_!G4HZ!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 1272w, https://substackcdn.com/image/fetch/$s_!G4HZ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3da6d00-93fb-4088-b388-d7b0689401f5_693x866.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>In terms of biosecurity work, one report that I\u2019ve started looking at is by C.K\u2019s report on the EA forum. </p><p><a href=\"https://forum.effectivealtruism.org/posts/pnincG5vW8Far8Ggg/how-well-funded-is-biosecurity-philanthropy\">How Well-Funded is Biosecurity Philanthropy?</a></p><p>I like this report because of its ambition and the fact that I think its an important question. Although, for now, I am skeptical of the quality of the estimates (which the original writer has already made strong disclaimers on). </p><p>And one main takeaway for me is the possibility of underfunding in PPE and other materials science based approaches. I think I might be a good fit for exploring these appraoches. </p><p><strong>C.K claims that the order of magnitude of biosecurity funding is around 130bn a year, which actually seems a little high to me, but its highly uncertain. </strong></p><blockquote><p><em>1. *Given this definition, biosecurity roughly represents **1.3% of the global spend on public health** or about **$130bn** of **$10tn a year**.*</em></p><p><em>2. *Of this **$130bn**, governments likely make up to **$100bn (80%)** as an upper bound, and the actual figure could be much lower. The US government is likely the biggest government spender, spending $24.3bn in 2023. **Private philanthropy is likely about $1bn (1%).** The rest comes from private spending, private philanthropy, and public-private partnerships that aren't independent foundations (e.g., universities).*</em></p></blockquote><p>The essay also gives a nice reference list of areas of interest </p><ul><li><p><em>Technologies of Interest</em></p><ul><li><p><em>Next-Gen PPE</em></p></li></ul><ul><li><p><em>Far-UVC</em></p></li><li><p><em>Rapid Vaccines</em></p></li><li><p><em>Metagenomic Sequencing</em></p></li><li><p><em>AI-Bio</em></p></li></ul></li><li><p><em>Key Areas</em></p><ul><li><p><em>Global Catastrophic Biological Risks (GCBRs)</em></p></li><li><p><em>Bioweapons</em></p></li><li><p><em>Bioterrorism</em></p></li><li><p><em>Dual-Use Research of Concern</em></p></li><li><p><em>Lab Leaks</em></p></li><li><p><em>Novel Pathogens</em></p></li><li><p><em>Pathogenesis Research</em></p></li><li><p><em>Biosecurity Policy</em></p></li><li><p><em>Gain of Function Research</em></p></li><li><p><em>Indoor Air Quality</em></p></li><li><p><em>Lab Biosafety</em></p></li></ul></li></ul><p>In terms of approaches to bioterrorism, I like this quote from Bill Gates, taken from <em>The Deadliest Enemy</em></p><blockquote><p>Bill Gates realizes the enormity of the challenge, even with his resources. \u201cIf you can tell me how to write checks and stop bioterrorism, then sure,\u201d he said to us. \u201cI\u2019m a risk-adjusted kind of guy; I\u2019ll write checks. But who are you writing the check to? What is it you\u2019re doing?\u201d When we\u2019re talking about this kind of event, he rightly concludes, \u201cThis is governmental stuff.\u201d</p></blockquote><p>There is a point estimate from \u2018The Deadliest Enemy\u2019 which references a 2016 Lancet paper on antimicrobial funding requirements: </p><blockquote><p>In an article in the January 12, 2016, issue of the Lancet Infectious Diseases, twenty-four distinguished scientists, led by Dr. Lloyd Czaplewski, pointed out that CERN\u2019s Large Hadron Collider project cost about $9 billion and the International Space Station cost about $144 billion, then concluded, \u201cAntimicrobial research and development to address the problem of antibiotic resistance probably needs an investment that is somewhere between the two.\u201d</p></blockquote><div><hr></div><h3>What actors are dangerous to us? </h3><p>One thing that could potentially be high impact is to have some sort of  monitor on the number of people in the world who potentially might have the expertise to construct a catastrophic virus. I found a podcast on 80000 hours with Kevin Esvelt that has some sort of an estimation - around 30000 people globally, which feels like a lot. </p><p>Maybe this is a sorta low hanging fruit to work on - live estimates of labs with catastrophic virus making capability. Or working to design policy to regulate such labs. </p><p>Find the podcast <a href=\"https://80000hours.org/podcast/episodes/kevin-esvelt-stealth-wildfire-pandemics/#how-many-people-have-the-technical-ability-to-produce-dangerous-viruses-001614\">here</a>. Here\u2019s the excerpt that I am referencing </p><blockquote><p>Kevin Esvelt: *And we\u2019re setting aside students, and master\u2019s degree folks, and even talented undergraduates, and technicians who have been working for a long time. Let\u2019s just focus on PhDs: 1,500 people a year get PhDs in virology or one of these other disciplines worldwide. And you can do that because you get to basically 125 in virology. Another three times that many gives you 500 a year in the US. The US is about a third of the global total. So you\u2019re at 1,500 a year. Assume a 20-year career in which you\u2019re reasonably active, and you\u2019re at 30,000 people with PhDs.*</p><p>***Luisa Rodriguez:** Wow.*</p><p>***Kevin Esvelt:** Now, that\u2019s influenza. With coronaviruses, you\u2019re probably down to the single-digit thousands. And [paramyxoviruses](https://en.wikipedia.org/wiki/Paramyxoviridae) and so forth.*</p></blockquote><div><hr></div><h3>What kind of profile would be most effective? </h3><p>Here\u2019s a quote from The Deadliest Enemy </p><blockquote><p><em>But the fundamental tool of epidemiology has always been, since long before we had a scientific method for identifying microbes or a germ theory of disease\u2014and, I expect, will always be\u2014observation.</em></p></blockquote><p>Well, to have an outsized impact, one of the things I am trying to think about is whether my current background is suited to this kind of work. Ideally, I want my skills to be  in some meaningful, non-crowded set complement of the current existing skillset. By outsized impact, I mean an impact that puts me in the potential top 5% of contributors.  </p><p>So for me, and outsider who has is highly uncertain about what is actually needed to be successful, this is basically reframed to the question: </p><p><em>Is it possible to contribute meaningfully for someone who didn't study medicine, biochemistry or epidemiology? </em></p><p>Studying any of the three above is a lot of work. It would be super-costly for me to do any of those as a full time degree, and its probably not an option. I actually did end up looking at trying to do the LSHTM\u2019s course on public health. But first, I wanted to investigate if it was worth the time-cost to spend time studying those areas, versus trying to contribute with the skills I already have: </p><ul><li><p>my background is in mathematics and physics</p></li><li><p>most of my career has been in data-engineering, software-engineering, and risk decision making </p></li></ul><p>So is there a route to an outsized contribution? </p><p>Well maybe. Something that I think could be true is that the biosecurity field doesn't necessarily need *technical* advances to be effective - a lot of problems can be solved with good policy. </p><p>Nor does it need someone extremely technical. Here are some examples of people with impact without technical backgrounds but had edge else where </p><ul><li><p>Holden Karnofsky - Open Philanthropy </p></li><li><p>Bill Gates </p></li><li><p>Ron Klein - White House Ebola Response Coordinator in 2014-2015, and then COVID coordinator </p></li><li><p>Lord Jim O\u2019Neill </p><p></p></li></ul><p>Similarly, it is not necessary that diseases have to be fully understood before effective measures can be placed against them. Which means more reasons to </p><ul><li><p>Examples are malaria nets, lockdowns, patient histories, investigative epidimiology is a lot more than just understanding the disease. </p></li><li><p>We can always choose conservative policy options if they are not harmful. For example, more testing (provided that it\u2019s cheap) is almost never harmful. </p><p></p></li></ul><p>This is why I'm leaning towards pandemic preparedness, in a route that focuses less on the science side (academia and pharma incentives), and more on neglected strategy.</p><p>Indeed, trying to figure out where to allocate research funding in the basic life science is hard, and seems to be crowded. </p><p>From <a href=\"https://www.openphilanthropy.org/research/exploring-life-sciences-funding/\">Open Philanthropy</a>, here are some notes on difficulties they had trying to get into the field </p><blockquote><p>*One is the sheer level of expertise required. As we\u2019ve written&nbsp;[previously](), we often don\u2019t feel positioned even to understand the&nbsp;meaning&nbsp;\u2013 much less the plausibility \u2013 of many key claims. We\u2019ve sought generalist scientific advisors to help us with this issue. My early intuition is that even with strong scientific advisors, it would take far more time to do a&nbsp;[**shallow investigation**]for a cause in this space than for a cause in another space, which may mean we have to take more shortcuts in order to arrive at priorities.*</p></blockquote><p>But even if technical expertise is required, I can also just try and learn the content.  Even though I don't have a biology / public health / medical degree - i am now trying to change that by doing chemistry and biophysics research. I'm starting off by trying to predict protein spectra.</p><p>This is part of a strategy of 'immersion', like what Holden Karnofsky did when he tried to understand the life science space better at Open Philanthropy. Here are some things that I am doing as part of this immersion </p><ul><li><p>Initially I started to attack this problem by getting into biology from a physics standpoint</p><ul><li><p>reading 'Life on The Edge' by Jim-Al-Khalili - about physics in biology </p></li><li><p>getting into physical chemistry, with the hope that I can transition from </p></li></ul></li><li><p>I am also reading undergraduate level biochemistry from Lehninger's textbook</p></li><li><p>Reaching out to potential project supervisors on biology textbooks </p></li></ul><div><hr></div><h3>Physics based approaches that I like </h3><p><strong>Anti-microbial surfaces</strong></p><p>Anti-microbial surfaces work either by killing microbes on the surface, or making it harder for them to stick onto. </p><p>I am now thinking that, given my experience in physics and materials, that I could be well placed to look into policy on r<strong>egulation and funding allocation of anti-microbial surfaces</strong>. I read this interesting paper on the need for stewardship in the area. From first glance, it also seems relatively neglected. </p><p><a href=\"https://pmc.ncbi.nlm.nih.gov/articles/PMC7561179/\">Cassidy SS, Sanders DJ, Wade J, Parkin IP, Carmalt CJ, Smith AM, Allan E. Antimicrobial surfaces: A need for stewardship? PLoS Pathog. 2020 Oct 15;16(10):e1008880. doi: 10.1371/journal.ppat.1008880. PMID: 33057433; PMCID: PMC7561179.</a></p><p>The paper above also has a handy diagram to show the mechanics of an antimicrobial surface. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!2RGf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!2RGf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 424w, https://substackcdn.com/image/fetch/$s_!2RGf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 848w, https://substackcdn.com/image/fetch/$s_!2RGf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 1272w, https://substackcdn.com/image/fetch/$s_!2RGf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!2RGf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png\" width=\"1456\" height=\"557\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:557,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:609906,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/160816672?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!2RGf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 424w, https://substackcdn.com/image/fetch/$s_!2RGf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 848w, https://substackcdn.com/image/fetch/$s_!2RGf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 1272w, https://substackcdn.com/image/fetch/$s_!2RGf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F027d2a3c-bbb0-41d7-9e38-e17810d5d090_1522x582.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I also have a lot of sympathy with what they are calling for - we should use anti microbial surfaces with caution, especially given risks of adaptation and harm to our current microbiome. </p><blockquote><p>*In conclusion, the authors call upon industry, national and international policy makers, healthcare professionals, and healthcare agencies (including those responsible for commissioning services and estates management) to recognise that (1) early phase research must address the potential impact of antimicrobial surfaces on AMR before they are widely employed; (2) there is a need for stewardship of antimicrobial surfaces intended for the healthcare setting; and (3) the broader exploitation of antimicrobial surfaces in domestic, industrial, commercial, and transport settings must not be undertaken lightly and requires oversight. With strict regulation and sensible governance, antimicrobial surfaces should become an important and long-lasting addition to the public health armamentarium currently available to control the transmission of infection.*</p></blockquote><p>Here is an interesting paper on Far UVC sterilisation.  </p><p><a href=\"https://www.nature.com/articles/d41586-022-03360-w#:~:text=Originally%20aiming%20to%20improve%20disinfection,power%20far%2DUV%20lamp2.\">Sterlizing the air</a> - <em>Nature</em> <strong>610</strong>, S46-S47 (2022)</p><p><em>doi: https://doi.org/10.1038/d41586-022-03360-</em></p><p>Disinfecting the air with far-ultraviolet light</p><blockquote><p>*Many infectious diseases, including COVID-19, are transmitted by airborne pathogens. There is a need for effective environmental control measures which, ideally, are not reliant on human behaviour. One potential solution is Krypton Chloride (KrCl) excimer lamps (often referred to as Far-UVC), which can efficiently inactivate pathogens, such as coronaviruses and influenza, in air. Research demonstrates that when KrCl lamps are filtered to remove longer-wavelength ultraviolet emissions they do not induce acute reactions in the skin or eyes, nor delayed effects such as skin cancer. While there is laboratory evidence for Far-UVC efficacy, there is limited evidence in full-sized rooms. For the first time, we show that Far-UVC deployed in a room-sized chamber effectively inactivates aerosolised Staphylococcus aureus. At a room ventilation rate of 3 air-changes-per-hour (ACH), with 5 filtered-sources the steady-state pathogen load was reduced by 98.4% providing an additional 184 equivalent air changes (eACH). This reduction was achieved using Far-UVC irradiances consistent with current American Conference of Governmental Industrial Hygienists threshold limit values for skin for a continuous 8-h exposure. Our data indicate that Far-UVC is likely to be more effective against common airborne viruses, including SARS-CoV-2, than bacteria and should thus be an effective and \u201chands-off\u201d technology to reduce airborne disease transmission. The findings provide room-scale data to support the design and development of effective Far-UVC systems.*</p></blockquote><div><hr></div><h3>Outside of the US </h3><p>Even more so unclear is the commitment from East Asia and South East Asia on biosecurity funding and research. Spending seems fairly opaque as well. On my end this probably comes from language barriers, and the fact that I\u2019m just not in the scene. </p><p>Here is a paper on biosecurity by researchers in China <a href=\"https://www.sciencedirect.com/science/article/pii/S2588933822000036\">Challenges and recent progress in the governance of biosecurity risks in the era of synthetic biology</a>. </p><div><hr></div><h3>Biodefence spending in the US </h3><p>The US is probably the leader in biosecurity investment right now, and so it probably pays to look at what they are doing. </p><p>Actual Department of Defence Slides go into excrutiating detail on each of the biosecurity project proposals the department wants to fund. </p><p>You can find the slides <a href=\"https://comptroller.defense.gov/Portals/45/Documents/defbudget/FY2025/budget_justification/pdfs/03_RDT_and_E/RDTE_CBDP_PB_2025.pdf\">here</a>. </p><blockquote><p>'The FY 2025 budget request of $1,656.7M enables the CBDP to translate strategic guidance into concrete capabilities tailored to the future threat. This budget request continues the ENBD efforts to modernize the Department\u2019s biodefense capabilities to stay ahead of the threat.'</p></blockquote><p>Heres some of the focus in that document: </p><ul><li><p>Accelerated Antibodies</p></li><li><p>Vaccine Acceleration by Modular Progression</p></li><li><p>Countering Emerging Threats Rapid Acquisition and Investigation of Drugs for Repurposing, </p></li><li><p>Discovery of MCMs Against Novel Entities, and</p></li><li><p>Generative Unconstrained Intelligent Drug Engineering.</p></li></ul><p>Here are some interesting project themes along the lines of material physics for biosecurity </p><blockquote><ul><li><p>Innovative materials focuses on understanding the physics, physical properties, fabrication pathways, and characterization methods related to material classes that would enable novel, advanced capabilities for decontamination, protection and detection of chemical and biological (CB) threats.</p></li><li><p>Novel sensing research to improve the understanding of elementary physics or fundamental materials properties to construct novel platforms and approaches for detection, diagnostics, hazard mitigation and protection. </p></li><li><p> Modeling sciences research to explore the potential of Artificial Intelligence/Machine Learning (AI/ML) computational approaches for hazard mitigation, stand-off physio-monitoring, rational and rapid design of medical countermeasures, and novel materials with enhanced efficacy*</p></li></ul></blockquote><div><hr></div><h3>Other Notes, Papers and Literature </h3><p>Here are some less polished thoughts that I want to work on a bit more. </p><p>The paper below looks at dangers of synthetic biology. It was written in 2009. </p><p>Mukunda G, Oye KA, Mohr SC. <em>What rough beast? Synthetic biology, uncertainty, and the future of biosecurity.</em> Politics and the Life Sciences. 2009;28(2):2-26. doi:10.2990/28_2_2</p><ul><li><p>Focuses on the marginal impact of DNA synthesis and synthetic biology </p></li><li><p>Its currently hard to actually get biological agents, but we might be able to get them with synthesis techbology </p></li><li><p>Viruses easier to synthesise than bacteria </p></li><li><p>Natural agents could be turned into bioweapons </p></li><li><p>Dangerous but non contangious could be modified into contagious </p></li><li><p>Arguing that dangers come mostly from the long term </p></li><li><p>Talks about dual use research funding - when research goes bad </p></li></ul><p>The link below talks about UK biological security strategy. </p><p><a href=\"https://www.longtermresilience.org/wp-content/uploads/2024/09/CLTR-Report-Independent-Progress-Review_-UK-Biological-Security-Strategy-August-2024.pdf\">https://www.longtermresilience.org/wp-content/uploads/2024/09/CLTR-Report-Independent-Progress-Review_-UK-Biological-Security-Strategy-August-2024.pdf</a></p><p></p>",
+  "truncated_body_text": "In line with my previous post on a two-tiered career model, I am trying to find tractable areas where my contribution might have high upside.",
+  "wordcount": 3093,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "230b757e-0916-404c-994b-98e4876d0d44",
+      "publication_id": 1692033,
+      "name": "Biosecurity",
+      "slug": "biosecurity",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        75,
+        155,
+        166
+      ],
+      "population": 496
+    },
+    "DarkVibrant": {
+      "rgb": [
+        7,
+        56,
+        78
+      ],
+      "population": 479
+    },
+    "LightVibrant": {
+      "rgb": [
+        248,
+        170,
+        117
+      ],
+      "population": 82
+    },
+    "Muted": {
+      "rgb": [
+        94,
+        154,
+        162
+      ],
+      "population": 50
+    },
+    "DarkMuted": {
+      "rgb": [
+        49,
+        80,
+        98
+      ],
+      "population": 243
+    },
+    "LightMuted": {
+      "rgb": [
+        209,
+        177,
+        156
+      ],
+      "population": 3
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 160816672,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/160816672/tts/636545b7-4861-40b8-9eb1-85461dcd3049/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 107556549,
+      "body": "At some point in the post you are asking what a physicist/mathematician can do for this kind of issue without starting with extensive knowledge of epidemiology. Have you looked into causal discovery and more generally causality methods from machine learning? I understand they are revolutionizing epidemiology and they are basically math. A good starting point to get a general idea would be \u201cthe book of why\u201d by Judea Pearl.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "At some point in the post you are asking what a physicist/mathematician can do for this kind of issue without starting with extensive knowledge of epidemiology. Have you looked into causal discovery and more generally causality methods from machine learning? I understand they are revolutionizing epidemiology and they are basically math. A good starting point to get a general idea would be \u201cthe book of why\u201d by Judea Pearl."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 160816672,
+      "user_id": 33570925,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-04-10T06:40:09.430Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Mario Pasquato",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2daed885-c0d5-4491-8198-3d31a46d8502_1221x1221.jpeg",
+      "handle": "mariopasquato",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "mariopasquato",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Mario\u2019s Substack",
+          "id": 1344747,
+          "base_url": "https://mariopasquato.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

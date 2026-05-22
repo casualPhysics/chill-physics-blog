@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+{% block title %}{{ post.title }} &mdash; Casual Physics Enjoyer{% endblock %}
+{% block content %}
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">{{ post.title }}</h2>
+    <p class="post-meta">
+      <span class="post-date">{{ post.date_human }}</span>
+      {% if post.subtitle %}&middot; <span class="post-subtitle">{{ post.subtitle }}</span>{% endif %}
+    </p>
+  </header>
+
+  <div class="post-body">
+    {{ post.body_html | safe }}
+  </div>
+
+  {% if post.tags %}
+  <p class="post-tags">Filed under: {% for t in post.tags %}{{ t }}{% if not loop.last %}, {% endif %}{% endfor %}</p>
+  {% endif %}
+
+  <p class="post-perma">
+    <a href="{{ post.canonical_url }}">Read on Substack</a>
+    {% if post.prev %} &middot; <a href="{{ post.prev }}.html">&laquo; Previous</a>{% endif %}
+    {% if post.next %} &middot; <a href="{{ post.next }}.html">Next &raquo;</a>{% endif %}
+  </p>
+</article>
+
+{% endblock %}

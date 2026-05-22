@@ -1,0 +1,401 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/youre-a-slow-thinker-now-what",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 153489913,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-01-03T21:00:32.392Z",
+  "updated_at": "2025-04-30T15:35:51.936Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "youre-a-slow-thinker-now-what",
+  "social_title": null,
+  "subtitle": "Figuring out how to lean in to my thinking style",
+  "teaser_post_eligible": true,
+  "title": "You're a Slow Thinker. Now what? ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 23,
+  "reactions": {
+    "\u2764": 204
+  },
+  "top_exclusions": [],
+  "pins": [
+    1692033
+  ],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "why-casual-conversations-is-so-hard",
+  "next_post_slug": "do-i-want-to-be-excellent",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!SCvu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 153489913,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Figuring out how to lean in to my thinking style",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!SCvu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!SCvu!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 424w, https://substackcdn.com/image/fetch/$s_!SCvu!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 848w, https://substackcdn.com/image/fetch/$s_!SCvu!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 1272w, https://substackcdn.com/image/fetch/$s_!SCvu!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!SCvu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png\" width=\"1200\" height=\"914\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:914,&quot;width&quot;:1200,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2066092,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!SCvu!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 424w, https://substackcdn.com/image/fetch/$s_!SCvu!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 848w, https://substackcdn.com/image/fetch/$s_!SCvu!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 1272w, https://substackcdn.com/image/fetch/$s_!SCvu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ae933c-ede9-4fb4-b80f-a2c11314d30e_1200x914.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I'm not a quick witted person. In fact, I\u2019ve always been worried about my brain\u2019s slow <em>processing time</em>.</p><p>But recently, I've realised that slow processing time is not as much of an issue as I thought it was. And even if I was wrong about that, I still think I\u2019d do better for myself by leaning into it, instead of spending energy trying to fight it. </p><p>In this essay, I want to talk about some ways I've been able to skirt around my lack of quick wittedness!</p><div><hr></div><p>To get what I mean by <em>slow processing time</em>, imagine common tasks that require some mental energy to complete, and how fast you can do them.</p><p>Here are some examples:</p><ul><li><p>In a mathematics context, it would be doing mental math to figure out things like the split of a restaurant bill. </p></li><li><p>In a social context, it would be coming up with witty responses in conversation. </p></li><li><p>In a recall context, it would be quickly remembering facts. </p></li><li><p>In a sports context, it would be like a badminton player\u2019s quick ability to hit the shuttle in a gap. </p></li><li><p>In a job interview context, it would be solving small scale coding problems and quickly designing algorithms.</p></li></ul><p>These flavours of tasks are probably linked in the following way: The tasks are well-defined, like arithmetic. They could, in principle, be done quickly by computer. They don\u2019t require major novel thought. They have a short logical chain of one or two steps, and they emphasise mental quickness and the ability to hold variables in ones head, rather than detailed reasoning. Solving these things require \u2018quick thinking\u2019, rather than \u2018strategy\u2019.</p><p>The need for 'quick calculations' are everywhere, and someone that can do these fast and accurately is what I would call 'quick witted'. <em>Processing time</em> is someone's general speed when doing these tasks, and the quick witted people have processing time on the higher end of the distribution. I came across a similar analogy about authors in 'Welcome to the Hyunam-Dong Bookshop' by Wang Bo-Reum (who is a software engineer). </p><p>But unfortunately, I\u2019ve realised that my own <em>processing time</em> is slow. My yardstick are the people I spend most of my time with. I'm definitely left tail of this local 'distribution' compared to my industry colleagues, the lab members I do research with, and also most of my friends and family. I\u2019ve even been told that my spacial awareness, which I guess is mental quickness in judging 3d space, is particularly bad. And that I often come across in a bit of a \u2018blur\u2019.</p><p>\u2018Zoned out\u2019 is one way people might describe me. Yikes!</p><p>My first real struggle with <em>slow processing time </em>was when I started to play competitive volleyball in high school.</p><p>The tempo of a volleyball match is quite high. There are a lot of quick calculations you need to do with both your brain and your body, starting from when the other team serves. Where do I pass the ball to if it comes to me? What is the current formation? Should I try to receive the ball, or will my team-mate go for it?</p><p>And despite training as much as the other guys, I never really got the hang of it. Nor, with other team sports. Even now, I stick to physical activity that can usually be done solo, like cycling, bike touring, running or calisthenics.</p><p>The next struggle I had with a \u2018slow processing time\u2019 was in university. I studied math back then. I had a classmate who lived in my dorm that was really fast at mental math. Like really fast, with the ability to multiply three digit by three digit numbers with ease. And there were others who were really good at those tricky google style interview questions, like 'how many golf balls can you fit in a bus?'. And then there were the quick thinking math competition types. It was easy to feel bad about myself in that kind of environment!</p><p>And like what I wrote in my other post why casual conversation is hard, I just don\u2019t seem to have the mental speed to carry on a conversation easily or wittily.</p><p>I\u2019ve always thought that my slow processing time would end up putting me at a disadvantage - socially, in academia and in my career. I\u2019ve had one interview where I had to do multiplications really quickly, whilst shouting my name, and doing such-and-such random thing every five minutes. I\u2019ve also been in work social situations where I\u2019ve lacked the wit to respond when a senior guy cracks some jokes. I guess if you take a long time to do something, people kind of forget that you're there. Surely being quick-witted gives you a leg up in the world!</p><p>Because of this, I've spent a lot of time trying to increase my base processing time. My initial approach for a few years was just practicing things that I wanted to do faster, like mental math training, typing competitions, and reading books. But so far, that has just been superficial. I don't think my 'base' level has actually changed in any deep way. Nothing really stuck.</p><p>Sometimes, I can train for a couple weeks to make myself 'temporarily' quick. Like in that job interview, I actually did end up getting the job offer because I made myself quick by doing mental math exercises the week before. But once after test was done, I went back to my slow state, like a tight rubber band becoming loose again.</p><p>So for now, I am convinced that this is something I can\u2019t really change about myself.</p><div><hr></div><p>But, something puzzles me. Even though slow thinking should put one at a disadvantage, some observations of mine have shown that it doesn't actually turn out that way.</p><p>Over time, I\u2019ve noticed that my friends, split between the \u2018quick-witted people\u2019, and the \u2018non quick-witted people\u2019 seem to have similar levels of achievement. This is really a comment about distributions. If you select a skill, like math or career or whatever, and look at distribution quick-witted people vs the slow-witted people, then it appears that those distributions actually overlap. </p><p>So as an <em>average</em> non quick-witted person, my claim is that I think I\u2019ve managed to come on par with the <em>average</em> quick-witted person across the parts of life we focus on. </p><p>I am not claiming this as a rigorous fact, nor do I really know how to measure this properly. It\u2019s just an observation that has been baking in my head.</p><p>If this is true, then it means it\u2019s a case of either</p><ul><li><p>\u2018processing time\u2019 not mattering in any meaningful way or,</p></li><li><p>those with a slower processing time somehow compensating with other qualities.</p></li></ul><p>I don\u2019t know which one of the two it is. But I\u2019ve thought about the latter quite a lot.</p><p>Maybe those of us with slower processing times naturally find ways to compensate for the slow thinking. Kind of like a Darwinist evolution of thinking styles.</p><p>The more I\u2019ve tried to notice the \u2018evolved thinking\u2019, the more I\u2019ve realised that this compensation is actually what I\u2019ve been doing the whole time. This feels powerful to me - because now I can double down on it.</p><p>It means that I should be the kind of guy who works on things where time doesn\u2019t really matter, where I have time to think. Honestly, even if it's just cope, this has been a reassuring idea for me. It literally takes weeks of thinking for me to come up with ideas. </p><p>It\u2019s one of the reasons I was drawn to doing science part time in the first place! To first order, science requires patience and the ability to do tedious things. Whilst it\u2019s not exactly the same concept, I really felt the virtues of slow method thinking whilst reading Katalin Kariko's memoir on her research in developing the mRNA vaccine. The main thing that stood out to me was her slow methodical-ness in cleaning, preparing and thinking about experiments. And her general resistance to time pressure. I really recommend this book - it's called 'Breaking Through'. </p><p>Being slow \u2018forces\u2019 me to think about strategy a lot because I need to make the best use of my time. This works well because science is so vast, and so strategy is important. I am usually very much willing optimise on this front, like figuring out the highest risk-rewards problems based on my current situation as a part-timer. I had a meeting with my supervisor today for two hours where we talked about risk reward</p><p>In a different vein, one of the areas I focused on in university was theoretical physics.  I chose this due to the amount of geometry involved. I found that geometry lent itself better to my thinking style because it\u2019s a picture that I can stare at for a long time.</p><p>Also, my \u2018processing time\u2019 in conversation is slow. So I\u2019ve realised that I\u2019m better off focusing on writing as a way to communicate. Writing to me feels more suited towards slow, patient thinkers. You have to shuffle words around many times before you get what you want to say. This is one of the reasons I\u2019ve started my Substack. Conversely, those who are quick-witted probably are more comfortable memorising ideas and saying them out loud.</p><p>In my career, I\u2019ve tried to leverage writing as my preferred way to illustrate ideas. When I\u2019m trying to make a case for something, I start with a written statement for what I want to argue, in pros and cons form. Whereas others are more the type to gain inspiration form speaking and listening to people. Importantly, when I find myself slow at a task, I always turn to code to automate things. I feel like making solid code is an activity suited to the slow thinkers.</p><div><hr></div><p>The broad thing that I\u2019ve learnt so far is that it's been better for me to lean into my thinking style, rather than fight against it. The funny part is that now, I come across as 'quicker'. But that's no accident - I'm just reciting things that I've worked on for a long time, slowly, behind the scenes!</p>",
+  "truncated_body_text": "I'm not a quick witted person. In fact, I\u2019ve always been worried about my brain\u2019s slow processing time.",
+  "wordcount": 1689,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        9,
+        140,
+        197
+      ],
+      "population": 159
+    },
+    "DarkVibrant": {
+      "rgb": [
+        8,
+        117,
+        178
+      ],
+      "population": 244
+    },
+    "LightVibrant": {
+      "rgb": [
+        211,
+        125,
+        105
+      ],
+      "population": 330
+    },
+    "Muted": {
+      "rgb": [
+        108,
+        136,
+        99
+      ],
+      "population": 361
+    },
+    "DarkMuted": {
+      "rgb": [
+        46,
+        58,
+        38
+      ],
+      "population": 373
+    },
+    "LightMuted": {
+      "rgb": [
+        204,
+        216,
+        176
+      ],
+      "population": 374
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 204,
+  "comment_count": 19,
+  "child_comment_count": 16,
+  "audio_items": [
+    {
+      "post_id": 153489913,
+      "voice_id": "en-US-OnyxTurboMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/153489913/tts/7ced7c52-dbc7-42f1-bfea-2d5e8f516d7d/en-US-OnyxTurboMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 84594035,
+      "body": "It's good that you realized that cognitive ability is multi-faceted and that the capacity to be creative with abstract problems is not dependent on being quick-witted as you describe. I had the good luck to have a very high powered thesis supervisor (math), one of the top people in his field, and initially suffered from \"imposter syndrome,\" feeling that I was unqualified to be his (or anyone's) grad student. I coped with that by adopting the attitude that I would hang in there until they threw me out. Of course, it never came to that, and I worked out my own ways of coping and using the abilities I had, eventually doing very well. One of my private requirements turned out to be working out extremely simple examples of difficult abstractions until I developed an intuitive understanding of them. My boss was annoyed and surprised at  that but allowed me to work that way as long as I kept it to myself.\n\nIt was very amazing one day to see my own boss in the role of dunce when we were visited by the legendary number theorist Paul Erd\u00f6s. Erd\u00f6s was a very humble guy, ready to talk math with anyone. He was discussing some esoterica with my supervisor while simultaneously playing two chess games with math grad students, scribbling on the blackboard and not not looking at the chess boards. His opponents would call out a move, like \"pawn to QB5\u201d, and he would call out his answering move without missing a beat in the technical conversation. He won both games while teaching my boss some number theory. After witnessing all that, I realized that \"genius\" is relative and that I was bloody fortunate to be there as a member of that group, as were my boss and Erd\u00f6s himself.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It's good that you realized that cognitive ability is multi-faceted and that the capacity to be creative with abstract problems is not dependent on being quick-witted as you describe. I had the good luck to have a very high powered thesis supervisor (math), one of the top people in his field, and initially suffered from \"imposter syndrome,\" feeling that I was unqualified to be his (or anyone's) grad student. I coped with that by adopting the attitude that I would hang in there until they threw me out. Of course, it never came to that, and I worked out my own ways of coping and using the abilities I had, eventually doing very well. One of my private requirements turned out to be working out extremely simple examples of difficult abstractions until I developed an intuitive understanding of them. My boss was annoyed and surprised at that but allowed me to work that way as long as I kept it to myself."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It was very amazing one day to see my own boss in the role of dunce when we were visited by the legendary number theorist Paul Erd\u00f6s. Erd\u00f6s was a very humble guy, ready to talk math with anyone. He was discussing some esoterica with my supervisor while simultaneously playing two chess games with math grad students, scribbling on the blackboard and not not looking at the chess boards. His opponents would call out a move, like \"pawn to QB5\u201d, and he would call out his answering move without missing a beat in the technical conversation. He won both games while teaching my boss some number theory. After witnessing all that, I realized that \"genius\" is relative and that I was bloody fortunate to be there as a member of that group, as were my boss and Erd\u00f6s himself."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 153489913,
+      "user_id": 84532545,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-01-05T19:48:28.859Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 1,
+      "name": "JJD",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bb6cce71-83fa-44d8-9aa4-71ad04466e41_500x305.jpeg",
+      "handle": "jjd12",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 13
+      },
+      "reaction_count": 13,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jjd12",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 18,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    },
+    {
+      "id": 156057562,
+      "body": "You described me exactly and this is a topic I think about often.  Thanks for sharing.  As a software engineer I put a lot of time and effort into building a solid reputation.  This got me a job by referral a couple years ago where I work with mostly quicker thinking types.  Overall, I think I end up working harder than a lot of my peers to be able to work at challenging jobs - which sucks - but I'd be miserable working at a company where I'm not being challenged.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "You described me exactly and this is a topic I think about often. Thanks for sharing. As a software engineer I put a lot of time and effort into building a solid reputation. This got me a job by referral a couple years ago where I work with mostly quicker thinking types. Overall, I think I end up working harder than a lot of my peers to be able to work at challenging jobs - which sucks - but I'd be miserable working at a company where I'm not being challenged."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 153489913,
+      "user_id": 392818104,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-15T00:58:04.940Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 1,
+      "name": "SB",
+      "photo_url": null,
+      "handle": "steveatx7600",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 7
+      },
+      "reaction_count": 7,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "steveatx7600",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 12,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-do-physicists-understand-the-different-phases-of-matter",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391336,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2021-09-18T12:32:47.000Z",
+  "updated_at": "2023-05-28T15:49:20.085Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-do-physicists-understand-the-different-phases-of-matter",
+  "social_title": null,
+  "subtitle": "",
+  "teaser_post_eligible": true,
+  "title": "How do Physicists understand the different Phases of Matter?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "using-natural-language-processing-to-visualise-uncertainty-in-news-content",
+  "next_post_slug": "why-we-need-quantum-field-theory",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/bd2ce03f-e6da-41c5-acaa-b3211a0c30a4_2000x3006.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Statistical field theory looks at discontinuous jump behaviour that emerges from smooth particles.",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!gIw0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!gIw0!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 424w, https://substackcdn.com/image/fetch/$s_!gIw0!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 848w, https://substackcdn.com/image/fetch/$s_!gIw0!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!gIw0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!gIw0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;How do Physicists understand the different Phases of Matter?&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"How do Physicists understand the different Phases of Matter?\" title=\"How do Physicists understand the different Phases of Matter?\" srcset=\"https://substackcdn.com/image/fetch/$s_!gIw0!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 424w, https://substackcdn.com/image/fetch/$s_!gIw0!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 848w, https://substackcdn.com/image/fetch/$s_!gIw0!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!gIw0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2274879-0066-4eac-a8de-471fe1403efd_2000x3006.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><h3>Statistical field theory looks at discontinuous jump behaviour that emerges from smooth particles.</h3><div><hr></div><h3>Discrete behaviour emerging from smooth physics</h3><p>The three different <em>phases of matter</em> are something that you\u2019ve probably learnt in primary school - solids, liquids and gases. We have all observed them, their characteristics are apparent to all of us, and they are distinct. However, if you think about it, there is something pretty unusual about how nature has organised itself in this pleasant way. Here is the excellent part. In nature, phases of matter tend to be very clearly divided. Apart from the slushy, which you may have drunk before reading this article, &nbsp;there is no such thing as 'half liquid' or 'half solid'. Even the slushy analogy is a stretch - it that is just a case of a solid and liquid being close together.</p><p>Why is this division into distinct phases of matter of interest to us? Why is it unusual? The answer is far from obvious, so if you're confused about why I am going about this, you are not alone. Phases of matter are fascinating because of the following - nature tends to behave <em>smoothly</em>. By smoothly, I mean that things in nature tend to change gradually - much like the temperature in your room in the morning. So, why is it the case that we have some natural phenomena, like the three distinct phases of matter, that seem to emerge from the seemingly smooth motions of water molecules?</p><p>I find this question fascinating because it is something we can observe all around us and because of its profound, mysterious nature. In mathematics, functions or objects that are smooth are called <em>continuous. </em>There are many formal definitions that mathematicians love using, but for now, let's think of a continuous object as something 'without jumps' at any given point. In contrast, mathematical things which jump around at given points are called <em>discontinuous</em>. So, in mathematical terms, the leap between a liquid and a solid is something that we term as a <em>discontinuous</em> phenomenon emerging from the <em>continuous</em> behaviour of particles. &nbsp;</p><p>Mind you, the transitions between solids, liquids and gases are not the only type of discrete behaviour that physicists find interesting. There are many natural phenomena out there in which collective jumpy behaviour is observed from collectively smooth particles. Here is another example. When exposed to another magnetic field, the spins of electrons inside magnets 'snap' into an orderly state from a disorderly state.</p><div><hr></div><h3>Statistical field theory</h3><p>In an effort for physicists to develop tools to explain the above, they created a relatively recent exciting field of study. <strong>Statistical field theory</strong> [2] studies systems with significant degrees of freedom, their different 'phases' and the transitions between these phases. 'Degrees of freedom' is just a technical term for the moving parts of a physical system. Statistical field theory focuses on how we can see discontinuous phenomena emerge when we have a large number of degrees of freedom. Even more interestingly, what happens right at the 'middle' of two different phases? Is their interesting physical behaviour to observe at the 'intersection' of a solid and a liquid? What happens to its pressure? What happens to its density?</p><p>These are all a sample of the compelling questions that one gets to investigate with statistical field theory. &nbsp; &nbsp;</p><p>Discontinuities appear as a result of taking an N \u2192 \u221e limit for the number of particles, and the natural functions we use to describe, say, pressure, velocity, and temperature (which are smooth, to begin with) get \u2019squashed\u2019 into a discontinuous shape. We\u2019ll talk about this and some of the critical problems in this blog post.</p><p>The key to understanding why and how nature can organise itself into this discontinuous fashion is examining <strong>where the switch flips</strong>. For example, what happens at the point infinitely close to when a liquid becomes a gas? What happens at the sweet spot temperature point where it's too hot for a magnet to work? Critical points are when the physical quantities of a system, like density or pressure, jump from one value to another. Some interesting behaviour associated with critical points is something we will cover in the next section!</p><div><hr></div><h3>Critical points</h3><p>How a system behaves near critical points is mysterious. &nbsp;This section will look at simple models for how some physical quantities are related to one another near a critical point.</p><p>The most straightforward place to start is the workings of a magnet. Much like water can flip between a solid and a liquid state, Pierre Curie (who won the Nobel Prize in 1903) also showed that a <em>magnet</em> could undergo a similar type of phase transition. When a naturally magnetic material is sufficiently hot due to the disordered nature of the atoms, it can only become magnetic with the aid of an applied magnetic field. The spins of the electrons responsible for the magnetic qualities of the material are naturally aligned when the temperature is below the <em>Curie temperature</em>. When we are above this temperature, they only align if a magnetic field is applied. &nbsp;</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ktdY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ktdY!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ktdY!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ktdY!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ktdY!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ktdY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg\" width=\"2880\" height=\"3840\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:3840,&quot;width&quot;:2880,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Close up shot of ferrofluid. Ferrofluids were invented in 1963 by NASA to create liquid rocket fuel that could be drawn toward a fuel pump in a weightless environment by applying a magnetic field.&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Close up shot of ferrofluid. Ferrofluids were invented in 1963 by NASA to create liquid rocket fuel that could be drawn toward a fuel pump in a weightless environment by applying a magnetic field.\" title=\"Close up shot of ferrofluid. Ferrofluids were invented in 1963 by NASA to create liquid rocket fuel that could be drawn toward a fuel pump in a weightless environment by applying a magnetic field.\" srcset=\"https://substackcdn.com/image/fetch/$s_!ktdY!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ktdY!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ktdY!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ktdY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe830bf68-c73e-4e21-86b5-27fc2ab1ca0d_2000x2667.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Photo by <a href=\"https://unsplash.com/@atn?utm_source=ghost&amp;utm_medium=referral&amp;utm_campaign=api-credit\">Etienne Desclides</a> / <a href=\"https://unsplash.com/?utm_source=ghost&amp;utm_medium=referral&amp;utm_campaign=api-credit\">Unsplash</a></figcaption></figure></div><p>So, the question is, what are the dynamics of the material when the temperature is <em>close</em> to the Curie temperature \\( T _c \\)? &nbsp;The natural thing to look at is the magnetisation of the material and how it varies with temperature. The magnetisation is an average measure of how magnetic dipoles in a material line up. Magnetisation is denoted by the symbol \\( m \\). There are several physical models that statistical field theory uses to predict the relationship. Once such model, called the <strong>mean field theory </strong>model [1], predicts that when we are close to the Curie temperature, the relationship between magnetisation and temperature looks like the following:</p><p>\\[ m \\sim (T &nbsp;- T _c ) ^\\beta, \\quad \\beta = \\frac{ 1 } { 2 } &nbsp;\\]</p><p>In this example, the value \\( \\beta \\) is called a critical exponent. The two variables are related by a power law since one variable is the power of another. Experimentally - this holds as well. For the magnet DyAIO3, it was shown by Holmes, Uitert and Hull [3] that its magnetisation and temperature near the critical point also obeys the power law</p><p>\\[ m \\sim (T &nbsp;- T _c ) ^{0.311 \\pm 0.005}\\]</p><p>It turns out that critical exponents appear all the time in various systems involving phase transitions - from liquids and gases through to superfluid helium. So there is a whole basket of different critical exponents that statistical field theory tries to explain. Here are some other examples!</p><ul><li><p>What are the critical exponents relating the <strong>density</strong> of particles in a liquid against its <strong>temperature</strong> when it approaches boiling point? In water, what is the relationship between temperature and density as we come to 100 degrees Celsius?</p></li><li><p>How does the magnetisation change with the changing of an applied magnetic field? &nbsp;There are critical exponents calculated to capture how the magnetisation of material changes with an applied magnetic field.</p></li><li><p>How does the heat capacity of water change as it transforms from a liquid into a solid? &nbsp;</p></li></ul><div><hr></div><h3>Universality</h3><p>Something even more mysterious about critical exponents is that similar exponents occur in vastly different systems. Experimentally and theoretically, it appears that these magic numbers, like the number \\( \\beta \\) above, are <strong>seemingly independent of the actual specifics of the systems themselves</strong>. We believe this is true because there are a few examples in nature where seemingly unrelated systems have the same critical exponents.</p><p>For example, when a liquid transforms into a gas, the Van Der Waals equation models the change of the density as a function of the temperature by the following power law:</p><p>\\[ | \\rho _ + - \\rho _ - | \\propto &nbsp;| T - T _ c | ^ \\beta , \\quad \\beta = \\frac{ 1} { 2 } \\]</p><p>Does this look familiar? The critical exponent \\( \\beta &nbsp;= 0.5 \\) is the same as the critical exponent links magnetisation and temperature! So here, we have two seemingly unrelated systems connected because they share the same critical exponent. &nbsp;</p><p>Density and magnetisation isn't the only link between water and magnets. From the Van der Waals equation, we also can look at limiting behaviour between the compressibility of water and its temperature as it approaches boiling point. It turns out that the critical exponent linking the compressibility of water and its temperature is \\( \\gamma = 1 \\). Amazingly, a quantity is called the magnetic susceptibility of a material, which describes how magnetised an object is in response to an external magnetic field. It turns out, the critical exponent relating susceptibility to temperature also is &nbsp;\\( \\gamma = 1 \\)! &nbsp;We say that in this case, the theory magnetisation and liquid-gas phase transitions are in the same universality class.</p><div><hr></div><h3>Wrap up</h3><p>I hope this post has offered a quick introduction to the kinds of problems that physicists look at when looking at phase transitions! If you'd like to learn more, the references below are handy. &nbsp;</p><div><hr></div><h3>References</h3><p>[1] <a href=\"https://en.wikipedia.org/wiki/Curie_temperature#CITEREFHallHook1994\">Hall &amp; Hook 1994</a>, pp. 227\u201328</p><p>[2] Nigel Goldenfeld, Phase Transitions and the Renormalization Group, 1992</p><p>[3] Holmes, Uitert and Hull, Sol. State Commun. 9, 1371 (1971)</p>",
+  "truncated_body_text": "Statistical field theory looks at discontinuous jump behaviour that emerges from smooth particles.",
+  "wordcount": 1527,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        63,
+        128,
+        149
+      ],
+      "population": 603
+    },
+    "DarkVibrant": {
+      "rgb": [
+        7,
+        92,
+        115
+      ],
+      "population": 596
+    },
+    "LightVibrant": {
+      "rgb": [
+        161.80471698113206,
+        202.46037735849058,
+        215.59528301886792
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        93,
+        154,
+        175
+      ],
+      "population": 331
+    },
+    "DarkMuted": {
+      "rgb": [
+        52,
+        97,
+        115
+      ],
+      "population": 8
+    },
+    "LightMuted": {
+      "rgb": [
+        147,
+        177,
+        191
+      ],
+      "population": 651
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

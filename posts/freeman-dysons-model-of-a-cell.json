@@ -1,0 +1,409 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/freeman-dysons-model-of-a-cell",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 197239999,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-05-11T17:10:09.877Z",
+  "updated_at": "2026-05-11T17:10:57.288Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "freeman-dysons-model-of-a-cell",
+  "social_title": "Freeman Dyson\u2019s Model of a Cell",
+  "subtitle": "Life and Death in Random Processes",
+  "teaser_post_eligible": true,
+  "title": "Freeman Dyson\u2019s Model of a Cell",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "\u2764": 10
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "how-to-write-better",
+  "next_post_slug": "do-not-plan",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/3edb17ba-e6ec-4293-ac93-697f80116c70_1729x999.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 197239999,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Life and Death in Random Processes",
+  "body_html": "<p>In this post I\u2019ll describe Freeman Dyson\u2019s toy model of a cell in his book <em>Origins of Life</em>.<a href=\"#fn-1\"><sup>[1]</sup></a> It\u2019s a probabilistic model that gives us interesting behaviours. It has auto-catalysis, which means that a reaction increases the likelihood of the same reaction occuring. And it has two equilibrium points that can be interpreted as <em>life</em> and <em>death</em>. </p><p>It\u2019s also a good example of how to reason about random systems and how they can tend to stable states. You may need to see this in a web-browser to see the simulations run. </p><p>The model is of a cell evolving in discrete time steps. The cell is a constrained volume of fluid, with a membrane that is meant to be the cell wall. Through diffusion, molecules called <strong>monomers</strong> can go in or out. These monomers are meant to be nutrients. </p><p>Within a cell there are N <em>sites</em>. Each monomer can attach to one of the N sites, or the site can be empty. The model evolves in discrete time steps. At every time step, a site can remain empty. If it has a monomer attached to it, the monomer can stay there, or it can unbind. The sites are meant to represent placeholders for monomers binding into polymers, but I\u2019ll get into the biochem in a different post. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!zR04!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!zR04!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 424w, https://substackcdn.com/image/fetch/$s_!zR04!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 848w, https://substackcdn.com/image/fetch/$s_!zR04!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 1272w, https://substackcdn.com/image/fetch/$s_!zR04!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!zR04!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif\" width=\"819\" height=\"850\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:850,&quot;width&quot;:819,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1233671,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/197239999?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!zR04!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 424w, https://substackcdn.com/image/fetch/$s_!zR04!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 848w, https://substackcdn.com/image/fetch/$s_!zR04!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 1272w, https://substackcdn.com/image/fetch/$s_!zR04!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2f52c6c-568c-49af-9122-ae105d29b29d_819x850.gif 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>There are n+1 species of monomers that can bind to the sites. <em>n</em> of these are considered \u2018inactive\u2019, and one type is \u2018active\u2019. If a site has an <strong>active</strong> monomer, then the likelihood that other sites absorb an <strong>active</strong> monomer increases. A monomer being active is meant to represent a monomer being at the \u2018right place at the right time\u2019 that lets other active monomers bind to a cite. This is meant to capture \u2018auto-catalysis\u2019 \u2014 the binding of an active monomer makes it more likely that other active monomers will bind.</p><p>So each site has three possible states \u2014 empty, inactive monomer, or active monomer. Per unit time, the probabilities are modelled as follows:</p><p>If a site is filled by either an active or inactive monomer, then it has a probability <em>pq</em> of being emptied, or \u2018desorbed\u2019, where q is a constant.</p><p>On the other hand, if a site is empty,</p><ul><li><p>the probability of an inactive monomer being absorbed is <em>np</em>, where n is the number of types of inactive monomers.</p></li><li><p>the probability of an active monomer being absorbed is \u03c8(x) \u00b7 p, where x is the fraction of sites already occupied by active monomers.</p><ul><li><p>\u03c8(x) is a monotonically increasing function of the fraction of sites that are already active.</p></li><li><p>This means that the more active sites there are, the more likely it is that active monomers will be absorbed.</p></li></ul></li></ul><p>This function psi is meant to encode the increased chance that an active monomer will be absorbed if there are active ones present already. This is shown in the video below. </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;e8ec5aa3-a4f1-4f9f-a653-a11e4ff4f267&quot;,&quot;duration&quot;:null}\"></div><p>For each site, the transition between each state at each time step is given by the following chain:</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!OsqI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!OsqI!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 424w, https://substackcdn.com/image/fetch/$s_!OsqI!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 848w, https://substackcdn.com/image/fetch/$s_!OsqI!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 1272w, https://substackcdn.com/image/fetch/$s_!OsqI!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!OsqI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png\" width=\"1456\" height=\"1450\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1450,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:137061,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/197239999?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!OsqI!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 424w, https://substackcdn.com/image/fetch/$s_!OsqI!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 848w, https://substackcdn.com/image/fetch/$s_!OsqI!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 1272w, https://substackcdn.com/image/fetch/$s_!OsqI!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2f0c67b-5800-444b-8ba3-ffb18a90d0a9_1635x1628.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>So if we let a simulation run, let\u2019s see what happens to the fraction of empty, inactive, and active sites. If we start with a large number of inactive sites, the number of active sites doesn\u2019t really seem to take off \u2014 and so the cell remains filled with inactive sites. In this case the cell is just filled with mostly \u2018inactive\u2019 monomers, and remains \u2018dead\u2019. </p><p>This is shown in the video below, where the blue monomers are inactive, and the green monomers are active. </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;12bebf09-0529-4b49-b029-1755e56b2d96&quot;,&quot;duration&quot;:null}\"></div><p>On the other hand, if we initialise the system with a larger amount of active monomers, it seems to stay that way. </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;5133cf7e-58c4-4ca3-a004-2067174f79e4&quot;,&quot;duration&quot;:null}\"></div><p>Now, if we increase the number of monomers and the time of the simulation rapidly, we see that the cell converges to one of two states. The green trajectory shows the convergence to an alive state in which there is a constant fraction of active monomers. And the blue one shows convergence to  a dead state where most states are inactive monomers. This is pretty cool!</p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;d920f42e-655d-4f09-94b1-affef73d3bff&quot;,&quot;duration&quot;:null}\"></div><p>So we have got an apparently random, auto-catalytic system and have found that it has converged to two stable states. How do we know which initial conditions lead to which state, and what fraction there is of active monomers in each state? I will discuss this in my next post. </p><div><hr></div><ol><li><p>Dyson, Freeman J. <em>Origins of Life</em>. 2nd ed. Cambridge: Cambridge University Press, 1999.<a href=\"#fnref-1\">\u21a9\ufe0e</a></p></li></ol>",
+  "truncated_body_text": "In this post I\u2019ll describe Freeman Dyson\u2019s toy model of a cell in his book Origins of Life.[1] It\u2019s a probabilistic model that gives us interesting behaviours. It has auto-catalysis, which means that a reaction increases the likelihood of the same reaction occuring. And it has two equilibrium points that can be interpreted as",
+  "wordcount": 732,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        16,
+        161,
+        84
+      ],
+      "population": 59
+    },
+    "DarkVibrant": {
+      "rgb": [
+        44,
+        140,
+        92
+      ],
+      "population": 1
+    },
+    "LightVibrant": {
+      "rgb": [
+        166,
+        182,
+        217
+      ],
+      "population": 3
+    },
+    "Muted": {
+      "rgb": [
+        92,
+        172,
+        124
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        36.58695652173912,
+        116.41304347826087,
+        76.50000000000001
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        180,
+        200,
+        188
+      ],
+      "population": 2
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 10,
+  "comment_count": 3,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 197239999,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/197239999/tts/35addd34-cd67-493b-90b5-cd48b9bf7a06/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 257395583,
+      "body": "I love it. Well done. How did you create the visuals, out of curiosity?",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I love it. Well done. How did you create the visuals, out of curiosity?"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 197239999,
+      "user_id": 163323606,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-05-11T18:56:05.431Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Make Lying Wrong Again",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d1ecacec-58f2-4cf3-af99-c13c1e42c33b_1206x1637.jpeg",
+      "handle": "makelyingwrongagain1",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "makelyingwrongagain1",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Make Lying Wrong Again",
+          "id": 8800409,
+          "base_url": "https://makelyingwrongagain1.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    },
+    {
+      "id": 260181637,
+      "body": "Important take. Always love F. Dyson.\n\nThis work is adjacent to work by Friston and many others on Markov Blankets and free energy principles.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Important take. Always love F. Dyson."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This work is adjacent to work by Friston and many others on Markov Blankets and free energy principles."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 197239999,
+      "user_id": 9572678,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-05-16T20:26:50.936Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "RDM",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/88c0d54c-b6b0-4df4-910f-108e8efac371_500x500.jpeg",
+      "handle": "rdm1",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "rdm1",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "RDM",
+          "id": 2993575,
+          "base_url": "https://rdm1.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": null,
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

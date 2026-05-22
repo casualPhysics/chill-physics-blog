@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/cheating-nashs-game-theory-with-quantum-mechanics",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391335,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2021-09-12T00:44:28.000Z",
+  "updated_at": "2023-05-28T15:49:20.609Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "cheating-nashs-game-theory-with-quantum-mechanics",
+  "social_title": null,
+  "subtitle": "",
+  "teaser_post_eligible": true,
+  "title": "Cheating Nash\u2019s Game Theory, with Quantum Mechanics",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-baffling-differences-between-classical-and-quantum-mechanics",
+  "next_post_slug": "taming-infinities-why-is-it-possible-to-do-physics-at-all",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/e1ae4364-3cb0-4a16-9946-ad517e5fa361_2000x1333.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "The curious math of \u2018quantum games\u2019.",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ZtSx!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ZtSx!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ZtSx!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ZtSx!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ZtSx!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ZtSx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Cheating Nash\u2019s Game Theory, with Quantum Mechanics&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Cheating Nash\u2019s Game Theory, with Quantum Mechanics\" title=\"Cheating Nash\u2019s Game Theory, with Quantum Mechanics\" srcset=\"https://substackcdn.com/image/fetch/$s_!ZtSx!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 424w, https://substackcdn.com/image/fetch/$s_!ZtSx!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 848w, https://substackcdn.com/image/fetch/$s_!ZtSx!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!ZtSx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c93e5dc-e214-4728-b69d-0e9d2f6d25c3_2000x1333.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><h3>The curious math of \u2018quantum games\u2019.</h3><div><hr></div><p>\u2018Minimal\u2019 examples, toys, and games are my favourite way to understand a complex topic or a problem. For example, when I studied for my quantum mechanics exams, I used to boil down abstract systems to their most reduced parts. Playing with the math in these simple cases helped me understand how quantum mechanics differs from simple classical mechanics in counter-intuitive ways.</p><p>Economists do this as well. The prisoners\u2019 dilemma is a simple thought experiment to show that <em>acting rationally doesn\u2019t always lead to the best outcome for society</em>. However, if the prisoners\u2019 are allowed to make decisions on quantum mechanical objects instead (even though they still can\u2019t communicate with each other), we can turn the conclusion of this game on its head, putting us back in the realm of Adam Smith\u2019s invisible hand.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 424w, https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 848w, https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 1272w, https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 424w, https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 848w, https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 1272w, https://cdn-images-1.medium.com/max/880/0*Q54QWtv-BNE_pcEC.gif 1456w\" sizes=\"100vw\"></picture><div></div></div></a><figcaption class=\"image-caption\">John Von Neumann is attributed as the founder of modern game theory. LANL, Attribution, via Wikimedia Commons</figcaption></figure></div><p>Game theory is the systematic study of finding the best strategies to maximise your benefit when playing a game. In classical game theory, agents can execute the moves they wish to choose, as long as the moves are in line with the game's rules. Quantum game theory is the study of what happens when instead, players try to manipulate quantum systems. Quantum systems behave probabilistically\u200a\u2014\u200athere is chance involved\u200a\u2014\u200aand so agents don\u2019t have complete control over the choices they make. This simple change of assumptions leads to amazing, counter-intuitive results which depart from traditional game theory.</p><p>Instead of assuming that the players have to <em><strong>decide</strong></em> their moves, I will assume that they can manipulate electrons with some simple magnetic mechanism to play their games. This post will explore how traditional game dynamics get shaken up and how one of the well-known results of the Prisoner\u2019s dilemma is changed.</p><p>In the final year of my undergraduate studies, I gave this talk at Universiti Malaya, and I wanted to share a simplified version on Medium.</p><div><hr></div><h4>The Prisoners\u2019 Dilemma</h4><p>The Prisoner's dilemma is a beloved \u2018minimal\u2019 example that economists have used to study competitions between rational actors. It is a simple yet enlightening game to show that two people acting in their rational best interest <em>do not necessarily achieve the outcome that maximises their happiness</em>. Rather it shows that they would\u2019ve achieved a better outcome had they worked cooperatively.</p><p>The game is simple. Suppose we have two prisoners in crime, Bonnie and Clyde. They have been caught, and the police lock them up in separate rooms for interrogation so that they cannot communicate. They are given two options: they can get either rat out their partner or stay silent.</p><ul><li><p>If they both stay silent, they both get a year in prison.</p></li><li><p>If one rats the other, but that other person stays silent, the rat is completely free, and the silent person gets 10 years in prison.</p></li><li><p>If both rat out each other, they both get two years in prison.</p></li></ul><p>What would you do? There are two possibilities. In the first case, suppose the other person rats you out. If this happens, ratting the other person out is a better option than staying silent. In the second case, suppose the other person stayed silent. Again, ratting the other person out is the best option. So, in this case, the best strategy is for both players to rat out the other, and hence the <strong>rational strategy</strong> gets both of them two years in prison.</p><p>Ratting each other out is a \u2018bad\u2019 equilibrium. If both actors had behaved completely rationally, in the classical economic sense of the word. However, if they cooperated, they both would have achieved a better outcome. This kind of equilibrium where both players chose the best or \u2018<strong>dominant\u2019</strong> strategy is called the Nash equilibrium. However, it is not the best outcome they could achieve.</p><p>Economists dub the best outcome as the <strong>Pareto efficient</strong> point. The prisoner\u2019s dilemma is such a beautiful example because it showcases a scenario where the Pareto optimal point is not the Nash equilibrium. This is a stunning and elegant example to refute the idea of Adam Smith\u2019s <em>invisible hand</em>, where rationality is always in line with maximising the utility of a group.</p><p>The question is, is there a way to hack this game so that <strong>behaving rationally is maximally beneficial for both actors</strong>? It may sound convoluted, but if two criminals were to modify the game somehow, they could avoid situations where they reach sub-optimal outcomes.</p><div><hr></div><h4>Mixing in quantum mechanics</h4><p>In an arXiv article posted by <a href=\"https://arxiv.org/pdf/quant-ph/0506219.pdf\">J. Orlin Grabbe</a>\u00b9, a solution is presented for the prisoners\u2019 dilemma to make rational choices correspond to the best outcome for all. The paper models a <em>game exactly like the prisoners\u2019 dilemma</em>. The difference is, instead of having each player choose whether to defect or stay silent, both actors make their decisions by manipulating electrons or \u2018qubits\u2019. The paper concludes that had the actors came up with a clever strategy of manipulating each electron, each prisoner following the rational strategy again corresponds with the socially optimal point.</p><p>To describe the first-order mechanics of an electron, physicists use a theory called quantum mechanics. Quantum mechanics is a probabilistic description of the universe that models \u2018small particles\u2019 like electrons. In line with vast amounts of experiments performed on particles, the model accurately concludes that the position and momentum of particles don\u2019t have a single determined \u2018value\u2019 per se. It doesn't make sense to say, \u2018hey, look, the particle is exactly in this spot\u2019. Particles can only be described with random distributions that only make sense when you repeatedly repeat an experiment.</p><p>A qubit is the simplest \u2018quantum\u2019 system there is. It is an object which has a notion of being <em>two states</em>. In nature, a photon can be polarised up or down, so we could use this as a qubit. Alternatively, an electron can either have an up spin or a down spin. As I said above, we model these objects probabilistically regarding what state they\u2019re in at a given time. These objects are not naturally \u2018set\u2019 in either an up or down state\u200a\u2014\u200athey are, in fact, in a superposition of these states, only collapsing only when observed.</p><p>If I repeat an experiment to measure an electron\u2019s spin 100 times, then even if the state of the electron is primed the same way each time, it is possible that I can observe both up and down spins. Thus, quantum mechanics as a theory is powerful because it allows us to predict the frequency of whether an electron is up or down, and we can test this experimentally by repeating experiments.</p><div><hr></div><h4>The quantum prisoners\u2019 dilemma</h4><p>In the quantum version of the prisoners' dilemma, the players each have a \u2018qubit\u2019 to manipulate. In the theory of quantum computation, qubits are manipulated through gates, which modify their states. Loosely speaking, gates allow a player to change the \u2018proportion\u2019 of up and down spin in an electron before observing it. In Grabbe\u2019s paper, each player has access to three different gates, replacing the choices of <em>rat</em> or <em>stay silent </em>in the traditional prisoners\u2019 dilemma.</p><p>So, each player has three choices of gates to apply to their own electron. After these gates are applied, the \u2018interrogator\u2019 then observes the state of Bonnie\u2019s electron and Clyde\u2019s electron. The up or down spin then decides how much jail time they are assigned.</p><ul><li><p>If they both are \u2018up spin\u2019, they both get a year in prison.</p></li><li><p>If one is \u2018up spin\u2019, but the other person is \u2018down\u2019, then the \u2018down spin\u2019 prisoner is completely free, and the \u2018up\u2019 person gets 10 years in prison.</p></li><li><p>If both are \u2018down\u2019 spin out each other, they both get two years in prison.</p></li></ul><p>The game is the same as the traditional prisoners\u2019 dilemma set up, but the prisoners\u2019 choice is different. To calculate the best strategy, the paper computes the average payout each prisoner will achieve, corresponding to all the possible choices both players combined can make (there are 8 of them).</p><p>Over multiple trials of this experiment, it turns out that the optimal strategy, in this case, is for both players to play what is called the \u2018Pauli Z-gate\u2019. Amazingly, this optimal strategy aligns with the best payout both players can receive\u200a\u2014\u200aso it is a Nash equilibrium and Pareto efficient. Hence, rationality once again is the socially optimal thing to do.</p><div><hr></div><h4>Why do we care?</h4><p>In this case, clever use of quantum mechanical networks could allow two spies caught in the prisoners\u2019 dilemma to have a mutually beneficial set-up if they were both caught and interrogated. In any case, I think this is a really nice example as a toy of how quantum mechanics can leak into other subjects like economics and change the conclusions. John Von Neumann, the founder of modern game theory, was both a physicist and an economist\u200a\u2014\u200aso the connectedness of these subjects is undeniable.</p><h4>References</h4><p>[1] An Introduction to Quantum Game Theory- Grabbe, J. <a href=\"https://arxiv.org/abs/quant-ph/0506219\">arXiv:quant-ph/0506219</a></p>",
+  "truncated_body_text": "The curious math of \u2018quantum games\u2019.",
+  "wordcount": 1482,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        92,
+        124,
+        180
+      ],
+      "population": 1519
+    },
+    "DarkVibrant": {
+      "rgb": [
+        60,
+        92,
+        143
+      ],
+      "population": 8
+    },
+    "LightVibrant": {
+      "rgb": [
+        124,
+        148,
+        204
+      ],
+      "population": 181
+    },
+    "Muted": {
+      "rgb": [
+        88,
+        117,
+        164
+      ],
+      "population": 12
+    },
+    "DarkMuted": {
+      "rgb": [
+        68,
+        92,
+        145
+      ],
+      "population": 3
+    },
+    "LightMuted": {
+      "rgb": [
+        180,
+        188,
+        204
+      ],
+      "population": 13
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

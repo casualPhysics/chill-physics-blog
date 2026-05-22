@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/redshift-from-massive-objects",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391410,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2022-05-02T19:36:18.000Z",
+  "updated_at": "2023-05-28T15:50:17.809Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "redshift-from-massive-objects",
+  "social_title": null,
+  "subtitle": "In this article, I wanted to discuss an intriguing property of black holes - they cause a redshift. This means that for observers far away from a black hole (or any other massive object, for that matter), the wavelength of the colours emitted is enlarged ",
+  "teaser_post_eligible": true,
+  "title": "Redshift from Massive Objects",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 1
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "measuring-disorder-and-complexity",
+  "next_post_slug": "what-makes-an-image-an-image",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/a4304be6-8b29-49ab-ac06-abea0b3bbf33_2000x1575.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "In this article, I wanted to discuss an intriguing property of black holes - they cause a redshift. This means that for observers far away from a black hole (or any other massive object, for that matter), the wavelength of the colours emitted is enlarged",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Ymhy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Ymhy!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Ymhy!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Ymhy!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Ymhy!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Ymhy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Redshift from Massive Objects&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Redshift from Massive Objects\" title=\"Redshift from Massive Objects\" srcset=\"https://substackcdn.com/image/fetch/$s_!Ymhy!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Ymhy!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Ymhy!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Ymhy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba43afc8-726a-495b-8b26-91a33d2c89cb_2000x1575.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><p>Black holes are mysterious objects in the universe with an extremely large gravitational pull. As I'm sure you've read from popular science books; this is a pull so strong that not even light can escape. What is surprising is that black holes were actually one of the <strong>first</strong> objects to be discovered in the framework of general relativity. Contrary to popular belief, black holes were not found by Einstein himself in his original paper. Rather, they were discovered as the first non-trivial solutions to the Einstein equation by Karl <strong>Schwarzschild</strong> in 1915, a little after a month after Albert Einstein published the theory of general relativity. &nbsp;</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!LZ-p!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!LZ-p!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 424w, https://substackcdn.com/image/fetch/$s_!LZ-p!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 848w, https://substackcdn.com/image/fetch/$s_!LZ-p!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 1272w, https://substackcdn.com/image/fetch/$s_!LZ-p!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!LZ-p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png\" width=\"432\" height=\"600\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/a00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:600,&quot;width&quot;:432,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!LZ-p!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 424w, https://substackcdn.com/image/fetch/$s_!LZ-p!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 848w, https://substackcdn.com/image/fetch/$s_!LZ-p!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 1272w, https://substackcdn.com/image/fetch/$s_!LZ-p!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa00cacf8-2085-459e-9dba-8a0643ec757e_432x600.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">By Not mentioned - Here, Public Domain, https://commons.wikimedia.org/w/index.php?curid=2910146</figcaption></figure></div><p>Black holes, as well as other objects in relativity, have pretty much all of their physical information encoded in metrics. Metrics are mathematical objects that describe distances in a combined space and time setting called 'space-time'. Given a vector that describes velocity for example, a metric will tell you the 'size' of a vector. It will also tell you the infinitesimal length of an arc in space time. &nbsp;</p><p>Metrics are solutions to the Einstein field equations in the theory of general relativity. One of the metrics associated with a black hole is called the <strong>Schwarzschild metric. </strong>The Schwarzschild metric doesn't just describe a space-time metric around black holes. In fact, it is the most general solution that is spherically symmetric and looks 'flat' sufficiently far away from the origin. Whilst there is a singularity that appears for all massive objects, A black hole only forms if there is an event horizon that is larger than the object itself.</p><p>In fact, Birkhoff's theorem states that any metric that is flat and spherically symmetric can be written as the Schwarzschild metric. This is an amazing fact about what space-times look like in general case. We expect that anything that bends to some mass that is spherically symmetric (like a planet, or the star, or whatever you please), will at least look like the metric of a black hole. This means that even the metric associated with our star has the properties of the Schwarzschild metric. Hell, if cows were spherical objects then even those would have metrics that take the form of the Schwarzschild metric.</p><p>In this article, I wanted to discuss an intriguing property of black holes - they cause a redshift. This means that for observers far away from a black hole (or any other massive object, for that matter), the wavelength of the colours emitted is enlarged a bit. Someone who is further away from the sun than we are will see objects with a slight red tint. There are quite a few situations where colours change due to relativistic effects. This is similar to Compton scattering in special relativity. &nbsp;Compton scattering is when light reflects off an electron and has a changed wavelength.</p><div><hr></div><h3>Massive Objects cause Redshift</h3><p>We're all familiar with the doppler effect. The doppler effect is that strange sound you get when a siren of a police car is speeding away from you. It appears that the pitch of the siren tunes down as the car moves further and further away. A classical model for this phenomena is wavelengths of &nbsp;sound waves increasing as the object speeds away.</p><p>Curiously, black holes as well as other large, massive objects also cause redshift. Massive objects that generate redshift do not necessarily have to be a black holes, because of Birkhoff's theorem which I explained in the previous section. The physical intuition is as follows. Suppose we have an observer staying still, relative to a large object like a black hole. If this object has a gravitational pull, this set-up is as if the light is being 'squashed' when it's closer to a heavier object.</p><p>I've covered the intuition, but we can go into some details. So, without further ado - what does the Schwarzschild metric even look like? To understand why a metric like this causes red shift, we need to see how time is stretched at different points in our space. The time that is observed by an observer at a particular point in the space time along how that observer is travelling is called proper time. Suppose that you're sitting in your house right now, at a fixed location relative to the sun, and you look at your clock. Proper time is the time that is measured along this clock. The proper time at a particular location in your space time depends on where you are.</p><p>The speed of light is fixed at c, so the wavelength at a given point as observed &nbsp;is just the amount of proper time that elapses, multiplied by the constant c (since distance is equal to speed multiplied by time). In the equation below, tau represents the change in proper time.</p><p>$$ \\lambda_{\\text{light}} = c \\times \\delta \\tau $$</p><p>Assuming two observers are at a fixed distance away from a massive object, the Schwarzschild metric should only contain a term which relates the proper time to the 'coordinate' time. Coordinate time is the time experienced by an observer infinitely far away from the massive object. The relationship between proper time and coordinate time is a function of how far two observers are away from the massive object.</p><p>$$ &nbsp;d\\tau ^2 &nbsp;= \\left ( 1 &nbsp;- \\frac {2 M G } { c^ 2 r }\\right ) dt ^ 2 $$</p><p>Suppose we have two observers at distances r_a &nbsp;and r _ b from the massive object. Then, the ratio of proper times for a fixed change in coordinate time $ d t $ is given by the expression</p><p>$$ \\frac{ d \\tau _ a } { d \\tau _ b } = \\sqrt{ \\frac{( 1 &nbsp;- \\frac {2 M G } { c^ 2 r _ a })}{( 1 &nbsp;- \\frac {2 M G } { c^ 2 r_b &nbsp;})} } $$</p><p>It is often useful to get a sense of the scale of this effect. We can use this relationship to calculate what our sun might look like for objects that are far away from us. What would the colour of the Earth look like for us on the next star? In the code below, I put together some values that reflect the mass of the sun, as well as the fundamental constants required in the calculation. As you can see, the effect from stars comparable to our sun is insanely small.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!hiVf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!hiVf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 424w, https://substackcdn.com/image/fetch/$s_!hiVf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 848w, https://substackcdn.com/image/fetch/$s_!hiVf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 1272w, https://substackcdn.com/image/fetch/$s_!hiVf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!hiVf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png\" width=\"2000\" height=\"648\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/f5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:648,&quot;width&quot;:2000,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!hiVf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 424w, https://substackcdn.com/image/fetch/$s_!hiVf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 848w, https://substackcdn.com/image/fetch/$s_!hiVf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 1272w, https://substackcdn.com/image/fetch/$s_!hiVf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5cf4ee9-bc7d-4130-a4fa-3baa6c866929_2242x726.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div>",
+  "truncated_body_text": "Black holes are mysterious objects in the universe with an extremely large gravitational pull. As I'm sure you've read from popular science books; this is a pull so strong that not even light can escape. What is surprising is that black holes were actually one of the",
+  "wordcount": 1069,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        212,
+        48,
+        28
+      ],
+      "population": 4
+    },
+    "DarkVibrant": {
+      "rgb": [
+        140,
+        37,
+        20
+      ],
+      "population": 9
+    },
+    "LightVibrant": {
+      "rgb": [
+        226,
+        174,
+        144
+      ],
+      "population": 4
+    },
+    "Muted": {
+      "rgb": [
+        172,
+        132,
+        108
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        108,
+        76,
+        60
+      ],
+      "population": 1
+    },
+    "LightMuted": {
+      "rgb": [
+        121.30714285714284,
+        64.47857142857144,
+        31.692857142857154
+      ],
+      "population": 0
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

@@ -1,0 +1,378 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/you-need-to-read-thomas-kuhn",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 173012721,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-09-07T20:18:49.203Z",
+  "updated_at": "2025-09-07T20:20:26.565Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "you-need-to-read-thomas-kuhn",
+  "social_title": null,
+  "subtitle": "Pre-paradigmatic, normal and revolutionary ",
+  "teaser_post_eligible": true,
+  "title": "You Need to Read Thomas Kuhn. ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 5,
+  "reactions": {
+    "\u2764": 23
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "just-get-a-partial-fix-and-move-on",
+  "next_post_slug": "try-to-prove-math-with-computers",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 173012721,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Pre-paradigmatic, normal and revolutionary",
+  "body_html": "<p>I\u2019m trying to learn more about the history of science. My hope is to find patterns that lead scientists to great work. I also want reassurance that doing science outside of modern institutions can be done. </p><p>I\u2019ve started reading Thomas Kuhn\u2019s \u2018The Structure of Scientific Revolutions\u2019. Thomas Kuhn was a physicist, and then worked on the history of science. The book is his crowning achievement, and has helped me build my own classification for the different kinds of science I do.</p><p>Kuhn says that scientific fields start off as <em>pre-paradigmatic</em>. This is when there are lots of scattered ideas about the object of study, with no big agreement. If you read about the history of electricity before the 1800s you realise that no-one agreed on anything!</p><p>Then, a dominant set of ideas called a <em>paradigm</em> emerges. For example, the theory of electrons. </p><p>After that, we have two \u2018phases\u2019 that alternate. The first phase is \u2018<em>normal science\u2019</em>, where scientists seek to articulate, find, and close gaps in this current <em>paradigm</em>. This is what the majority of scientists work on, constantly testing and tweaking the paradigm to make sure it fits experiment. It involves things like puzzle solving and engineering instrumentation. Our current paradigm for how electrons behave is quantum mechanics and quantum field theory, where scientists test agreement with theory in <em>everything</em> from materials to light to chemistry.</p><p>The second phase is \u2018revolutionary science\u2019 in which a new idea challenges the current paradigm, and soon becomes the new paradigm itself. A paradigm shift in quantum physics would look something like the rejection of Schrodinger\u2019s equation in favour of something radically different.</p><p>To be honest, I don\u2019t like these terms because it implies that \u2018revolutionary science\u2019 is cooler, but in my eyes both are crucial! </p><p>A lot of the stuff I do in chemistry feels like what Kuhn would describe as \u2018normal science\u2019. Computational chemistry seems to have a clear paradigm, which is to find approximations to Schrodinger\u2019s equations that allow a computer to solve it quickly. There are different flavours of this (Born-Oppenheimer, excitons, DFT, SCF, \u2026), but this it what it all shakes out to. </p><p>On the other hand, biosecurity as a field feels pre-paradigmatic. We still have huge ongoing debate about how humanity can best defend against pandemics without significant economic damage. We still don\u2019t have very strong frameworks on quality standards for air in buildings, like we do for drugs. It\u2019s all very messy. </p><p>I generally think doing different things is a great way to hedge your bets about what works. Some work should be messy, other work should be more like puzzles with a solid end goal. I like using this classification to help me spread out what I\u2019m working on!  </p><p></p><p></p>",
+  "truncated_body_text": "I\u2019m trying to learn more about the history of science. My hope is to find patterns that lead scientists to great work. I also want reassurance that doing science outside of modern institutions can be done.",
+  "wordcount": 454,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 23,
+  "comment_count": 3,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 173012721,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/173012721/tts/cae26bcd-24f4-4170-a69a-88085a57ea72/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 153550701,
+      "body": "> I\u2019m trying to learn more about the history of science. My hope is to find patterns that lead scientists to great work.\n\nMay I recommend @freaktakes substack by Eric Gilliam",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "> I\u2019m trying to learn more about the history of science. My hope is to find patterns that lead scientists to great work."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "May I recommend @freaktakes substack by Eric Gilliam"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 173012721,
+      "user_id": 122180099,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-08T03:03:30.819Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Kayumars",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/728de714-39c1-4c14-b6ec-4d5ffce47b50_638x638.jpeg",
+      "handle": "kayumars",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "kayumars",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Kayumars",
+          "id": 7214440,
+          "base_url": "https://kayumars.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 154431811,
+      "body": "I'm not quite following along the premise of comparing a natural science like chemistry with biosecurity, which is a set of measures more akin to lab safety and is also deeply rooted in things that don't follow the scientific method, like diplomacy. Maybe it would be more worthwhile to think about specific scientific focuses of biosecurity, like immunology. For example, are you aware of the new ARIA opportunity space \"Sculpting Innate Immunity\" (https://www.aria.org.uk/opportunity-spaces/sculpting-innate-immunity) focused on the innate immune system? As per the info page \"modulating innate immunity with precision and accuracy could unlock a new paradigm in human health\", which seems on point :) ",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I'm not quite following along the premise of comparing a natural science like chemistry with biosecurity, which is a set of measures more akin to lab safety and is also deeply rooted in things that don't follow the scientific method, like diplomacy. Maybe it would be more worthwhile to think about specific scientific focuses of biosecurity, like immunology. For example, are you aware of the new ARIA opportunity space \"Sculpting Innate Immunity\" ("
+              },
+              {
+                "type": "text",
+                "text": "https://www.aria.org.uk/opportunity-spaces/sculpting-innate-immunity",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://www.aria.org.uk/opportunity-spaces/sculpting-innate-immunity"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": ") focused on the innate immune system? As per the info page \"modulating innate immunity with precision and accuracy could unlock a new paradigm in human health\", which seems on point :)"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 173012721,
+      "user_id": 308869142,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-09-10T15:40:40.004Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Elizabeth Holland",
+      "photo_url": "https://substackcdn.com/image/fetch/$s_!F17F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faff11c39-2010-48f1-8766-184ba1c2eeb9_408x408.png",
+      "handle": "elizabethholland2",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "elizabethholland2",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false,
+        "author_on_other_pub": {
+          "name": "Elizabeth\u2019s Substack",
+          "id": 3742730,
+          "base_url": "https://hollande.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 2,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

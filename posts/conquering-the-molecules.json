@@ -1,0 +1,252 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/conquering-the-molecules",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 152352737,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2024-12-02T19:47:33.343Z",
+  "updated_at": "2025-05-30T22:22:34.526Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "conquering-the-molecules",
+  "social_title": null,
+  "subtitle": "Computational quantum chemistry is due for an explosion. ",
+  "teaser_post_eligible": true,
+  "title": "Conquering the Molecules",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "\u2764": 4
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "when-scientific-method-fails",
+  "next_post_slug": "tediousness-is-good",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/cdbb5ed9-099d-40d1-b87b-d92972c19acf_1354x668.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 152352737,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Computational quantum chemistry is due for an explosion.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!mIUb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!mIUb!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 424w, https://substackcdn.com/image/fetch/$s_!mIUb!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 848w, https://substackcdn.com/image/fetch/$s_!mIUb!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 1272w, https://substackcdn.com/image/fetch/$s_!mIUb!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!mIUb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png\" width=\"1456\" height=\"417\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:417,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:871939,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!mIUb!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 424w, https://substackcdn.com/image/fetch/$s_!mIUb!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 848w, https://substackcdn.com/image/fetch/$s_!mIUb!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 1272w, https://substackcdn.com/image/fetch/$s_!mIUb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2267eb98-0005-4328-b8d9-7eb3d0103185_1474x422.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Could computational quantum chemistry soon have a research explosion? I think this is likely. The field, which is <em>the first principles modelling of molecules at the quantum level, </em>could see a surge in importance as its relationship and usefulness to <strong>other</strong> scientific fields develops. Within ten years, I think this level of importance could be comparable to the current artificial intelligence boom. In this post, I\u2019ll be listing several, fairly unobvious reasons why. I\u2019ll be explaining its involvement in the life sciences, deep learning and spectroscopy. I\u2019ll also give my take on engineering problems that could develop the field quicker.</p><p>The first principles modelling of many molecules is hard - we can\u2019t solve the underlying equations by hand because they are complicated non linear differential equations. So we have to resort to using computers, which offers a whole new avenue of complexity. By the end of this article, I hope I can convince you to invest some time into learning about the problems and techniques in the area. If you\u2019re obsessed with niche graph theory, or crazy about theoretical physics, stick with that. But if you\u2019re on the fence - maybe I can persuade you that research here might be worth while. </p><div><hr></div><h3>The Life Sciences </h3><p>Quantum chemistry concerns the modelling of many-body systems at the quantum level.  There are two ingredients for a research explosion in the field. The first is the presence or societally relevant open problems. The second is a catalyst. </p><p>As for the first ingredient, I think that there are plenty of open problems in the life sciences which hinge on a better understanding of the physics of many electron systems. I think that progress will be <strong>catalysed</strong> by better compute power, as our chip manufacturing capabilities grow inline with Moore\u2019s Law. The following sections outline some of the open problems. </p><p>The obvious one is protein folding. If we can predict how proteins fold, we can get an insight into their shape, and therefore, their function. So we can figure out how they\u2019re involved in disease, and build better drugs to bind to them. Even with the invention of Deepmind\u2019s Alphafold, we still don\u2019t understand the how to model protein folding from a first principles, quantum mechanical perspective. Alphafold right now is still just a big linear interpolator with no insight into the mechanics of folding itself. </p><p>We still don\u2019t know how to make enzymes as good as the natural ones that have evolved naturally. There is still a wide research effort, largely due to Judith Klinman, to understand possible quantum tunnelling effects that might be speeding up reaction rates in enzymes. Jim Al-Khalili has written a great exposition on the state of quantum mechanics in biology in his book \u2018Life on the Edge\u2019. </p><p>We also still don\u2019t know how to replicate photosynthesis as efficiently as plants in nature, and the mechanism behind how light catalyses CO2 and water splitting. Imagine if we could genetically engineer ourselves to photosynthesis - that means we wouldn\u2019t need to eat anymore. </p><p>Diseases exist because of the unwanted actions of proteins. For example, the GSK3 protein acts by adding groups of phosphorus to two types of critical amino acids, in a process important to cell signalling - uninhibited GSK3 has been thought to be linked to bipolar disorder. So suppose you wanted to make a medicine. One strategy you could use is to modify the action of a problematic protein in your body. To do this, you could design a better molecule that covalently bonds to the protein in specific place, inhibiting its action. But to design such a molecule, you would need to experiment, or test with a computer, what the properties would be. You would need to know things like its electric charge distribution to understand if it could feasibility stick to the protein, or the energies it can have to measure its reactivity.</p><p>But to do this all of this effectively, we need to work out how to model molecules. But modelling the physical properties of molecules without computational techniques is insanely hard. Sure, you could cook up loads of compounds and test to see what works. But that\u2019s expensive, time consuming, and dangerous. </p><p>So this is where the \u2018computational\u2019 in computational chemistry comes in. Ideally, we\u2019d want to model everything on a computer beforehand. Because molecules are so small, we need to model them with quantum physics. And yet Schrodinger\u2019s equation is extremely hard to solve by hand and on paper alone - it took me three years to learn how to solve for the spectra of hydrogen alone. Later on in this essay, I\u2019ll give an explicit example on why this is the case.</p><p></p><div><hr></div><h3>As a Tool to Train Machine Learning </h3><p>Electronic structure calculations to compute quantum states are slow. This is because the equation that governs quantum systems is the Schr\u00f6dinger equation. But the Schr\u00f6dinger equation is an eigenvalue problem, which involves a procedure called \u2018diagonalisation\u2019 of a very large matrix that contains all of the information that a system has. But this is hard from a numerical algorithms standpoint, because matrix diagonalistion has been shown to be an algorithm that doesn\u2019t scale very well. To do computational chemistry, most university departments have a cluster of high performance computers that go on for days solving a particular problem.</p><p>But what if there was a better way - could we figure out a way to use the developments in deep learning to get to our final states quicker? Take for example, Alphafold, which was trained on protein structures that were already painstakingly solved with physical techniques. In principle, we could train learning algorithms on structures that were  solved with a computer. If this was the case, then we could use machine learning to quickly get results that were first order approximations to the time intensive first-principles calculations. I know for a fact that there is a flurry of researchers already working on this problem for small moleculess</p><p>To do this, we would need to get a comprehensive dataset across an insanely large amount of molecules, along with their electronic structure calculations. Which is why expertise In first principles calculations is going to be valuable in the future. Datasets today, especially in nucleic acids, are sparse. There also isn\u2019t really a centralise, clean database where researchers can share datasets and train models on them. Personally, I\u2019ve found this frustrating. When I contact researchers they don\u2019t tend to share datasets, or don\u2019t reply. I think that in principle, there\u2019s nothing stopping us from doing this - platforms like Kaggle Or HuggingFace have been very successful in the machine learning world. </p><p>This argument is predicated on computer chips getting better, and compute becoming more widely available. I think that this trend will continue. There are already startups whose product is offering cloud based compute to computational chemistry research groups.</p><div><hr></div><h3>Seeing biology </h3><p>There\u2019s also an interesting case to be made for the observation and measurement of biological processes. Imagine if we could \u2018see\u2019 protein shapes interactions. Right now, it\u2019s still extremely hard since we don\u2019t have the right tools to look at stuff that small.. But to make the right tools, we would need to model how proteins interact with light. </p><p>One of the ways to model the interaction, again, is thorough computational chemistry, and electronic structure calculations. Being able to understand the absorption spectra relies on being able to calculate the average dipoles of, and energy gaps between, of the different excitations a molecule can have. There still are open problems in predicting the spectra of proteins. This is something that I am personally invested in as a research topic, being able to model the spectra that you\u2019d see in circular dichroism. </p><p>In theory, if you could compute the spectra of proteins via electronic structure calculations ahead of time, without having to do an experiment, you could then backsolve the shape of a protein after looking at its spectra, by matching it up to similar structures that you have precomputed. But this would be hard, and to the best of my knowledge, we don\u2019t have much ability to compute a circular dichroism spectra for anything larger than 50 molecules. Which is still really small. </p><div><hr></div><h3>Pedagogy and Tooling</h3><p>I think one of the ingredients of a research explosion is \u2018underdevelopedness\u2019. By this, I mean gaps in the field which are seemingly low hanging fruit - since they are pedagogical or \u2018tooling\u2019 based issue. </p><p>In terms of pedagogy, some part of me thinks that the field isn\u2019t developed yet because the learning curve is still too hard. There could be a substantial contribution in simplifying and organising the literature. The most basic concepts already require a decent understanding of numerical methods, quantum physics and chemistry, and so there is a high barrier to entry. But that doesn\u2019t mean we can\u2019t simplify and streamline the literature to create texts that unify the three areas</p><p>I personally spent <em>hours</em> trying to understand probably the most foundational of the techniques, something called Hartree Fock. To the best of my knowledge, there is pretty much only one book that gives an explicit and clear exposition of the numerical methods in the field - a book by Szabo and Ostlund.</p><p>In terms of tooling, as a fairly new researcher, I think that the tools used in computational chemistry feel disjointed and clunky. If you\u2019ve followed my blog, I\u2019ve written about this <a href=\"https://chillphysicsenjoyer.substack.com/p/problems-come-from-dumb-questions\">here</a>. Most researchers still use software written in Fortran, which then outputs a bunch of text files with analysis of the molecules that they are studying. Wouldn\u2019t it be great if there was a culture of putting everything in Python, so that researchers wouldn\u2019t have to spend time parsing the results of outdated software?</p><p>As I mentioned earlier - the organisation of datasets also feels very clunky. The centralised repositories are hard to use and don\u2019t really have api\u2019s. It\u2019s hard to replicate experiments, and even the simplest experiments don\u2019t have much documentation to guide people that are starting out. It\u2019s no wonder why, anecdotally, that most people in the field take five to six years to finish it in the US. To compare it to the progress in AI, why isn\u2019t there a Kaggle or Huggingface type platform where quantum structure calculations can be easily shared?</p><div><hr></div><h3>Conclusion </h3><p>I wrote this piece as a way to get my thoughts clear on why I do research in this area. I by no means think that my arguments are definitive yet, since I\u2019m still learning. But hopefully, I\u2019ve put down some points that are food for thought. </p><div><hr></div><h3>Technical - Modelling Molecules is Really Complex </h3><p>I\u2019m going to start with the simplest molecule you can think of - two hydrogen atoms bonded together to make H2, and illustrate the complexity of even a simple construction. As chemists, we are interested in getting the ground state, or smallest value, of the energy that a system can have. The energy can be split up into two types. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf H = \\\\text{Kinetic Energy} + \\\\text{Potential Energy} &quot;,&quot;id&quot;:&quot;PJASDUPJDZ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>To get what this actually looks like in math terms, remember that atoms are made of nuclei and electrons. In this case, we have two nuclei and two electrons. Modelling all four things is already too hard. For our case, we will make an <strong>approximation</strong> and pretend that the two nuclei are fixed in space, and study the kinetic and potential energy contributed by the two electrons, where we label their position in space by <strong>r_1 and r_2.</strong> You\u2019ve probably heard of the physicist Robert Oppenheimer. This approximation carries his namesake. </p><p>Both electrons have some kinetic energy, which are the first two terms in the equation below. And both electrons interact with the positive charges nucleus through positive charges, which are the next four terms - the first electron r_1 interacts with the nucleus a_1 and a_2, and similarly with the second electron r_2. The last term is interesting, because the two electrons and also interact with each other as well - it\u2019s the potential energy we get from the two of those electrons repelling each other.</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf H( r_1 , r_ 2 )  = - \\\\frac { 1} { 2 } \\\\nabla _ 1 ^ 2 -  \\\\frac{ 1 } { 2 } \\\\nabla _ 2 ^ 2  - \\\\frac { m_1 } { | \\\\mathbf r_ 1 - \\\\mathbf  a_ 1 | }  - \\\\frac { m_1 } { | \\\\mathbf r_ 1 -\\\\mathbf a_ 2 | } - \\\\frac { m_1 } { | \\\\mathbf r_ 2 - \\\\mathbf  a_ 1 | }  - \\\\frac { m_2 } { | \\\\mathbf r_ 2 -\\\\mathbf a_ 2 | }  + \\\\frac { 1 } { | \\\\mathbf r _ 1 - \\\\mathbf r _ 2 | } &quot;,&quot;id&quot;:&quot;RNECONXEKL&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>What we want to do is find the explicit form of the states of each electron that make this expression as small as possible, and get a value for that number. </p><p>The problem though is that the equation you have to solve is <em>really hard</em> to solve just with a pen and paper. It\u2019s because it\u2019s a non linear differential equation, which means that there are some parts in it which have functions that don\u2019t add nicely. And to the best of our knowledge, there are no really general ways to solve these kinds of problems with a formula. This difficulty in solving makes molecular physics a lot more interesting in my opinion. We need to use methods that can be solved with computers. </p><div><hr></div>",
+  "truncated_body_text": "Could computational quantum chemistry soon have a research explosion? I think this is likely. The field, which is the first principles modelling of molecules at the quantum level, could see a surge in importance as its relationship and usefulness to",
+  "wordcount": 2128,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        215,
+        144,
+        44
+      ],
+      "population": 176
+    },
+    "DarkVibrant": {
+      "rgb": [
+        100,
+        88,
+        28
+      ],
+      "population": 2
+    },
+    "LightVibrant": {
+      "rgb": [
+        158,
+        183,
+        234
+      ],
+      "population": 55
+    },
+    "Muted": {
+      "rgb": [
+        162,
+        106,
+        86
+      ],
+      "population": 198
+    },
+    "DarkMuted": {
+      "rgb": [
+        41,
+        59,
+        35
+      ],
+      "population": 451
+    },
+    "LightMuted": {
+      "rgb": [
+        195,
+        171,
+        170
+      ],
+      "population": 624
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 4,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 152352737,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/152352737/tts/33c4ba81-13b1-4fa4-a56f-7e68335055cd/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

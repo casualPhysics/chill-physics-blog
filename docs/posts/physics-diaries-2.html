@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Physics Diaries #2 &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Physics Diaries #2</h2>
+    <p class="post-meta">
+      <span class="post-date">20 June 2022</span>
+      &middot; <span class="post-subtitle">Some ideas I have been playing around with recently. </span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <h3>Moving from Sums to Functional Integration in a Few Easy Steps</h3><p>In physics, we often come across expressions that require us to integrate over a function. More generally, we come across mathematical objects that take a function as an input, and then spit out a number. This type of technology is called a functional, and mathematically it is the map</p><p>$$ F : I \to \mathbf {  F } $$</p><p>In this case, I represents a set of functions. Where do we see this most commonly in physics? Well, the most common application is the 'action'. The action is merely the integral of a function over time. I like to make these problems easier to think about by discretising. In other words, we think of double integrals like a double sum as follows.</p><p>$$ \int dt \, \int d t' \, x( t ) f ( t, t' ) x (t ' )  \mapsto x _ i ^ T f _ { ij } x _ j $$</p><h3>Instanton Solutions</h3><p>What is up with the instanton model? An instanton is a classical solution to a finite action. It's most likely used in doing quantum calculations.</p><p>Consider a double well which looks like a U-shape. In the semi-classical regime, what would be the probability that an electron here transfers itself to the opposite side of the well? In the previous post, this can be answered by looking at the propagator, and then to aid our calculation we do a change of variables. We know that the propagator is the product of a classical contribution, and a quantum contribution.</p><p>To come up with the instanton contribution, let's take a look at what the classical action looks like in a potential.  </p><p>(Details to be added later)</p><h3>Using the path integral to predict alpha decay</h3><p>The problem of a particle escaping a charged nucleus has a few possible framings. The first way we could model this is by looking at quantum tunnelling from a potential well.  The next way could be a path integral type approach.</p><h3>The Path Integral of a String</h3><p>We can build out some intuition about a path integral by looking configurations of a string in the classical regime. This is the same at looking at different paths of a single particle.</p><h3>Quantisation of the Hall Conductance</h3><p>This is when the Hall Resistivity is quantised in a 2 dimensional electron system. How could we begin to model why this might happen? Well, we know one relationship between voltage and resistance from high school - the relationship between voltage and resistance, and its analogue in the Maxwell equations.</p><p>$$ V = I R  \implies \mathbf E = \rho J $$.</p><p>Place a current of electrons though</p><p>What is the simplest model that allows us to predict this?</p><p>Likewise, Ohm's law is the version that is analogous to this. Ohm's law reads that</p><p>This motivates a new definition in the case of an electron passing through a 2 dimensional conductor with a magnetic field going through it - we can come up with an expression for Hall Resistivity which is given by the induced voltage, divided by the current. This is the relationship</p><p>Voltage is a potential difference - or energy. We know that energy is force times distance.</p><p>What do we know about the relationship</p>
+  </div>
+
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/physics-diaries-2">Read on Substack</a>
+     &middot; <a href="cool-physics-stuff-i-attempted-today.html">&laquo; Previous</a>
+     &middot; <a href="thoughts-on-gravitational-fields-around-shells.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

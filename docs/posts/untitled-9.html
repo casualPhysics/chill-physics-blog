@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Hopf-Fibration and a Four-Dimensional Sphere &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">The Hopf-Fibration and a Four-Dimensional Sphere</h2>
+    <p class="post-meta">
+      <span class="post-date">22 April 2022</span>
+      &middot; <span class="post-subtitle">Can a sphere in four-dimensions be constructed globally from lower dimensional objects?</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>I was bored a few days ago and was surfing the internet absent-mindedly, looking for some cool math stuff. Fortunately, I came across something called the Hopf fibration. In geometry, a fibration is a valuable concept that allows us to construct spaces that locally look like a product of two different spaces. So, for example, a cylinder without the top is the fibration of a line and a circle - the circle is the base space, and the fibres are closed intervals. The reasoning is as follows - at every point of the circle, we can ‘grow’ fibres (straight lines) out of it and grow it into a cylinder. Whilst this concept, for now, feels obtuse and a bit contrived, rest assured that these kinds of constructions play a massive role in gauge theory in modern theoretical physics.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!G20d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!G20d!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 424w, https://substackcdn.com/image/fetch/$s_!G20d!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 848w, https://substackcdn.com/image/fetch/$s_!G20d!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 1272w, https://substackcdn.com/image/fetch/$s_!G20d!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":1706,"width":1920,"resizeWidth":null,"bytes":null,"alt":"","title":null,"type":null,"href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' fetchpriority="high" height="1706" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!G20d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png" srcset="https://substackcdn.com/image/fetch/$s_!G20d!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 424w, https://substackcdn.com/image/fetch/$s_!G20d!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 848w, https://substackcdn.com/image/fetch/$s_!G20d!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 1272w, https://substackcdn.com/image/fetch/$s_!G20d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ea6adfe-8dfd-4e65-b882-47381ec522ee_1920x1706.png 1456w" title="" width="1920"/></picture><div class="image-link-expand"></div></div></a><figcaption class="image-caption">A visualisation of the Hopf fibration. By Niles Johnson - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=22485543">https://commons.wikimedia.org/w/index.php?curid=22485543</a></figcaption></figure></div><p>We can extend the concept of a sphere to an arbitrary number of dimensions. As you learned in high school, a circle is a shape you get when we constrain the sum squares of the x and y coordinates to a fixed radius, say 1. A sphere is what you get when you constrain three coordinates. Since it’s a two-dimensional surface, a sphere is often called a two-sphere. We can generalise this to any number of dimensions we want -  a three-sphere is the surface you get when you constrain the sum of squares of four cartesian coordinates, and so on.</p><p>$$ S _ n = \{  \mathbf r \mid | r | ^ 2 = 1, \quad \mathbf r \in \mathbb { R } ^ 3 \} $$</p><p>The Hopf fibration is a fibration of the two-sphere and the one-sphere, and the total space they make up is the three-sphere. What makes this fibration so interesting is that this is a <strong>non-trivial</strong> fibration of the three-sphere. Here’s what I mean by ‘non-trivial’ - we can’t write the three-sphere as a product of the one-sphere and the two-sphere globally. However, it is possible to write out the three-sphere so that <strong>locally</strong> it looks like the product of a two-sphere and a one-sphere.</p><p>In this post, I wanted to take a step back and examine why this kind of question is significant in the first place. To start with, it’s not at all obvious to me why the three-sphere can’t be written as a product of the two-sphere and one-sphere in the first place. This decomposition is an interesting question in its own right. We will dedicate this post to explaining some of the reasons why the three-sphere is not homeomorphic globally to the cross product, and I will try to answer this kind of question.</p><p>$$ S_3 \simeq S_ 2 \times S_ 1 $$</p><p>A homeomorphism is a continuous, invertible map between two spaces with a continuous inverse. It is not immediately apparent if these two things are homeomorphic. What mathematical framework can we use even to begin trying to figure out if such a homeomorphism exists? One of the ways we can differentiate these two objects is with algebraic topology. Algebraic topology is powerful since it converts very tricky geometric problems into algebraic problems. As part of this, algebraic topology has applicable classification schemes called homotopy and homology groups.</p><div><hr/></div><h3>Topological Invariants</h3><p>If we come up with distinct algebraic objects for different shapes, we can tell them apart. We need to develop topological invariants - numbers that stay the same even after a homeomorphism. If two objects have topological invariants which are different from each other, then we are done!</p><p>Some ready-made characteristics are topological invariants and aren’t as complicated to learn as some of the more advanced tools in a topology like homotopy and homology. One of them is compactness - compactness is a word to describe shapes that are not infinitely big and contain their boundaries. The other is simple connectedness. From the get-go, these are already powerful tools to determine if two spaces are homeomorphic or not. Another topological invariant is the homology group of a space. The homology of a space is a way to code the number of holes of different dimensions in the space. Consider a two-sphere. On the 0-th dimension, we have a homology group of Z. On the 2nd dimension, we have a two-dimensional hole. Consider a circle - again in the 0th-dimension, we have the homology group of Z, and in the 1st dimension we have a hole, so a homology group of Z again.</p><p>In the case above, the homology groups of the three sphere and the product of the two-sphere and the one-sphere are distinct. In a future post, I will explain why this is true and then construct the homology groups.</p>
+  </div>
+
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/untitled-9">Read on Substack</a>
+     &middot; <a href="some-thoughts-on-solving-electrodynamics-problems.html">&laquo; Previous</a>
+     &middot; <a href="will-ai-enabled-automation-will-constitute-more-than-half-of-the-gross-world-product-gwp-by-2100.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

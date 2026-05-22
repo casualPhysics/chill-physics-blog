@@ -1,0 +1,400 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-my-life-changes",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 153313123,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-01-20T21:15:51.239Z",
+  "updated_at": "2025-04-30T15:43:08.727Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-my-life-changes",
+  "social_title": null,
+  "subtitle": "On mentorship. ",
+  "teaser_post_eligible": true,
+  "title": "How my Life Changes ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 19
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "slow-down",
+  "next_post_slug": "chicken-curry-piece-by-piece",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!PXZ8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 153313123,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On mentorship.",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!PXZ8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!PXZ8!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 424w, https://substackcdn.com/image/fetch/$s_!PXZ8!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 848w, https://substackcdn.com/image/fetch/$s_!PXZ8!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 1272w, https://substackcdn.com/image/fetch/$s_!PXZ8!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!PXZ8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png\" width=\"419\" height=\"496\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:496,&quot;width&quot;:419,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:354591,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!PXZ8!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 424w, https://substackcdn.com/image/fetch/$s_!PXZ8!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 848w, https://substackcdn.com/image/fetch/$s_!PXZ8!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 1272w, https://substackcdn.com/image/fetch/$s_!PXZ8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b808733-72c1-4f3d-b820-e7e33427689d_419x496.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p></p><p>I remember the six months before my studies at Cambridge were meant to end. </p><p>I didn\u2019t have a lot of options. </p><p>In school, I did internships at two large companies. But no one gave me a return offer. </p><p>Some of my friends got full time jobs in London. </p><p>As for me, I had to fly home to work for my country\u2019s government. They sponsored my studies, and in return, I had to serve them for six years. </p><p>At the time, what I wanted to do was physics research. I wanted to look at the links between string theory and black holes. I got really into theoretical physics that year as a math student. I was pretty average in my cohort, but at least I liked it. </p><p>Even now, I can spend hours doing textbook problems on gravitation. I have a shelf filled with notebooks that have math that I do for fun. </p><p>But doing a physics theory PhD was extremely competitive from a funding point of view. This was when the UK had left the EU, so international student funding was scarce.</p><p>Someone at King\u2019s College was kind of willing to supervise me. But I would have to foot the bill myself. I can still remember the email from the head of department telling me that I would need to self-pay. They even spelt my name wrong.   </p><p>I was ok with going back to South East Asia. I wasn\u2019t sure whether I would enjoy the job that lay ahead of me back home. It was in economics and I hadn\u2019t really experienced that before. I wasn\u2019t dreading it though. It could\u2019ve turned out great. </p><p>But then, I went to this random conference on statistics. Halfway through a talk, I asked a dumb question. It must\u2019ve been trivial. I can\u2019t even remember what I said. </p><p>But I do remember that I was the only one who asked anything at that talk, and that someone in the audience was watching. </p><p>And by luck, that person was actually meant to interview me for a job that I applied to a week earlier. So he recognised me when I came into their offices later that week. </p><p>I ended up getting that job. I ended up being able to stay in London. I\u2019m still here. I learned from this guy for six years, even after we split up professionally. I also learned a lot from him on how to solve problems and take risks. He is probably the closest thing that I would call a mentor, outside of my family. </p><p>I still am in the industry that I started with, and I am enjoying it. I like to think that a lot of this is because of his mentorship. And my other mentors in the space.</p><p>And without this, I wouldn\u2019t have had the freedom to pursue my protein research. </p><p>It\u2019s irrelevant who this person was in detail.</p><p>What really shakes me is that somehow, one person was able to alter my life trajectory so easily. And what scares me is that, this might have never happened. What if he was never in that room? Would I have had to live yet another alternate reality? </p><p>That got me thinking - people say that hard work and luck are the main determinants to success. </p><p>But I disagree with that. </p><p>I think the main determinant for me was finding mentors. </p><p>And so, how do you find a good mentor? We aren\u2019t taught about that in school at all. We\u2019re taught how to do things, not how to find the best teachers that suit us. </p><p>Unfortunately, it seems to be a matter of cold luck. The more I think of it, the more I can pin down my life being arbitrarily decided by random people willing to take a bet on me. </p><p>When I was eighteen, I didn\u2019t score good enough grades to get into my college. For some reason, international students had higher requirements than local students. But the head of another college, a famous Japanese mathematician, took in the rejects like us and gave us a chance. </p><p>I didn\u2019t manage to find a mentor in the sciences to help me for three years. Until someone read my blog and helped me to write a book, which then, after cold emailing people, lead me to my current supervisor in protein physics. Another mentor - woo!</p><p>So yes, I think it\u2019s mostly luck. But I think you can increase your odds by doing random things and trying new ideas. </p><p>Invite randomness into your life, and I guess the mentors will follow. </p>",
+  "truncated_body_text": "I remember the six months before my studies at Cambridge were meant to end.",
+  "wordcount": 763,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        198,
+        160,
+        102
+      ],
+      "population": 38
+    },
+    "DarkVibrant": {
+      "rgb": [
+        100,
+        54,
+        28
+      ],
+      "population": 9
+    },
+    "LightVibrant": {
+      "rgb": [
+        211,
+        195,
+        145
+      ],
+      "population": 59
+    },
+    "Muted": {
+      "rgb": [
+        156,
+        126,
+        83
+      ],
+      "population": 541
+    },
+    "DarkMuted": {
+      "rgb": [
+        98,
+        79,
+        50
+      ],
+      "population": 591
+    },
+    "LightMuted": {
+      "rgb": [
+        186,
+        170,
+        132
+      ],
+      "population": 9
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 19,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 153313123,
+      "voice_id": "en-US-OnyxTurboMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/153313123/tts/df3c804d-af8c-4582-aa02-6fa8c37fc0bf/en-US-OnyxTurboMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 94794573,
+      "body": "Very nice post! May I ask, was US PhD under your consideration back then? I believe their funding come as part of the job of teaching",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Very nice post! May I ask, was US PhD under your consideration back then? I believe their funding come as part of the job of teaching"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 153313123,
+      "user_id": 32310542,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-02-20T04:00:20.264Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "CWSan",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/2f9820ed-fdee-4917-8245-1b14b32546a8_144x144.png",
+      "handle": "cwsan",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "cwsan",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 87446309,
+      "body": "Once very junior, now very senior -- it is so important that we pay attention to each other.  It's a bit of luck, yes.  It is more about giving (and receiving) attention openly and honestly.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Once very junior, now very senior -- it is so important that we pay attention to each other. It's a bit of luck, yes. It is more about giving (and receiving) attention openly and honestly."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 153313123,
+      "user_id": 579448,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-01-20T22:44:08.062Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Alan King",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/50f2ffca-f116-4d0c-b076-291eb98c4e33_144x144.png",
+      "handle": "kingaj12",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "kingaj12",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "unsubscribed",
+        "eligibleForGift": false
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 10,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 10,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

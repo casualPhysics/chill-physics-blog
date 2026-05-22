@@ -1,0 +1,465 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/fluid-dynamics-for-toddlers",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 195274975,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-04-23T19:35:41.517Z",
+  "updated_at": "2026-04-23T19:36:12.655Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "fluid-dynamics-for-toddlers",
+  "social_title": "Fluid dynamics for Toddlers",
+  "subtitle": "A much simpler Navier-Stokes derivation. Mathematicians go f*** yourself.",
+  "teaser_post_eligible": true,
+  "title": "Fluid dynamics for Toddlers",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 5,
+  "reactions": {
+    "\u2764": 35
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "making-rayleigh-benard-convection",
+  "next_post_slug": "its-ok-to-be-scared",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/5499dcab-6dcf-428d-b198-c19b9a99b3fd_853x314.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 195274975,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "A much simpler Navier-Stokes derivation. Mathematicians go f*** yourself.",
+  "body_html": "<p>The Navier-Stokes equations are meant to model fluids. I think they are cool. I met one of my best buds on a beach bringing this up as a conversation topic, but he\u2019s now a lawyer. </p><p>Anyways, they look complicated and scary. Like seriously, the hell is this: </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\n\\n\\\\rho\\\\left(\\\\frac{\\\\partial \\\\mathbf{v}}{\\\\partial t} + \\\\mathbf{v} \\\\cdot \\\\nabla \\\\mathbf{v}\\\\right) = -\\\\nabla p + \\\\mu \\\\nabla^2 \\\\mathbf{v} + \\\\mathbf{f}\\n&quot;,&quot;id&quot;:&quot;ULNXMSPCQQ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>In the above, \u03c1 is the density, p is the pressure, <strong>v</strong> is the velocity field, \u03bc is the viscosity coefficient, and <strong>f</strong> is any external body force per unit volume \u2014 gravity, for instance. p is the pressure gradient (how pressure changes from point to point), and \u2207\u00b2 is the second derivative in space. </p><p>The second equation \u2207 \u00b7 <strong>v</strong> = 0 is the incompressibility condition, which just says the fluid isn\u2019t being squeezed or stretched anywhere \u2014 whatever flows into a region flows out.</p><p>Confused? Yep, it\u2019s hard to work with.</p><p>But here\u2019s a more intuitive way to think about it. I will show you how you can derive and think about this formula in a more natural way. For now, I will ignore the incompressibility assumption and the stress tensor, and focus on the main meat. </p><p>Here goes. It all goes back to Newton. </p><p>From your high school days you learnt in Newtonian Mechanics, acceleration is equal to the force divided by the mass</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{a} = \\\\frac{\\\\mathbf{F}}{m}&quot;,&quot;id&quot;:&quot;YEGZCNRODD&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>And acceleration is the derivative of velocity. So Newton\u2019s Laws can be rewritten as</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{d\\\\mathbf{v}}{dt} = \\\\frac{\\\\mathbf{F}}{m}&quot;,&quot;id&quot;:&quot;OXEKJLJEIU&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>So what\u2019s the <em>fluids</em> version of this equation?</p><p>Well, a fluid isn\u2019t a point mass like in Newtonian mechanics; it\u2019s a <em>field</em> where every point in space has a value associated. At different points in the fluid, we have a vector for the direction of the flow, a number for the pressure, a number for the density and so on.</p><p>So the \u2018velocity\u2019 of a fluid is a velocity <em>field</em>, where every point in the fluid has a given velocity associated with the flow. The velocity at this point is the velocity that a particle would travel if you placed it there. This is what the velocity field of a river looks like. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!bWtj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!bWtj!,w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 424w, https://substackcdn.com/image/fetch/$s_!bWtj!,w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 848w, https://substackcdn.com/image/fetch/$s_!bWtj!,w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 1272w, https://substackcdn.com/image/fetch/$s_!bWtj!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!bWtj!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:6635442,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/195274975?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!bWtj!,w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 424w, https://substackcdn.com/image/fetch/$s_!bWtj!,w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 848w, https://substackcdn.com/image/fetch/$s_!bWtj!,w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 1272w, https://substackcdn.com/image/fetch/$s_!bWtj!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2ec1027-2695-4762-a4b5-4be9f11ad4aa_935x765.gif 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>So how do we think about a \u2018<em>derivative</em>\u2018 of a field? If you wanted to measure the derivative of a quantity in a field, the most natural approach is to pretend you put some measuring equipment in the flow, let it travel, and then observe the change in the measuring equipment. Imagine putting a thermometer in a river and then reading the change in temperature as it flows.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!_o8t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!_o8t!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 424w, https://substackcdn.com/image/fetch/$s_!_o8t!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 848w, https://substackcdn.com/image/fetch/$s_!_o8t!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!_o8t!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!_o8t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif\" width=\"1012\" height=\"460\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:460,&quot;width&quot;:1012,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:2871684,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/195274975?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!_o8t!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 424w, https://substackcdn.com/image/fetch/$s_!_o8t!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 848w, https://substackcdn.com/image/fetch/$s_!_o8t!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!_o8t!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30317b5e-552a-4657-937c-fd05d5606ed1_1012x460.gif 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The change in quantity over time as something moves is called the <strong>material derivative</strong>. It measures the change in some quantity <em>F</em>, which is a function of a point in space and time, taking into account that the point at which we are measuring changes as well</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F(\\\\mathbf{x}(t), t)&quot;,&quot;id&quot;:&quot;YPPSIFITYL&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The change, over a small time \u03b4t, is</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F(\\\\mathbf{x}(t + \\\\delta t), t + \\\\delta t) - F(\\\\mathbf{x}(t), t)&quot;,&quot;id&quot;:&quot;TMQAHZGQBB&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Since the point itself is moving with the flow, its displacement over \u03b4t is \u03b4<strong>x</strong> = <strong>v</strong> \u03b4t, where <strong>v</strong> = d<strong>x</strong>/dt is the velocity at that point. Taylor expanding <em>F</em> around (<strong>x</strong>(t), t),</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F(\\\\mathbf{x} + \\\\mathbf{v}\\\\,\\\\delta t,\\\\; t + \\\\delta t) \\\\approx F(\\\\mathbf{x}, t) + \\\\frac{\\\\partial F}{\\\\partial t}\\\\,\\\\delta t + (\\\\nabla F) \\\\cdot \\\\mathbf{v}\\\\,\\\\delta t + O(\\\\delta t^2)&quot;,&quot;id&quot;:&quot;NCIUVHUNTD&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Don\u2019t worry if the upside down triangles confuse you, these are just the derivatives but in three dimensions. Subtracting <em>F</em>(<strong>x</strong>, t), dividing by \u03b4t, and taking \u03b4t \u2192 0, the material derivative is</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{DF}{Dt} = \\\\frac{\\\\partial F}{\\\\partial t} + \\\\mathbf{v} \\\\cdot \\\\nabla F = \\\\frac{\\\\partial F}{\\\\partial t} + v_x \\\\frac{\\\\partial F}{\\\\partial x} + v_y \\\\frac{\\\\partial F}{\\\\partial y} + v_z \\\\frac{\\\\partial F}{\\\\partial z}&quot;,&quot;id&quot;:&quot;KLXHKYBUGN&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The first term is how <em>F</em> changes at a fixed point in space; the remaining three are how <em>F</em> changes because the probe is being carried along by the flow \u2014 one for each spatial direction, weighted by the corresponding component of the velocity.</p><p>So the \u2018acceleration\u2019 in fluids space is just the material derivative of the velocity field,</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\text{acceleration} = \\\\frac{D\\\\mathbf{v}}{Dt} = \\\\frac{\\\\partial \\\\mathbf{v}}{\\\\partial t} + \\\\mathbf{v} \\\\cdot \\\\nabla \\\\mathbf{v}&quot;,&quot;id&quot;:&quot;CWAFWXFEBA&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Now what about the other side of the equation? Well Newton said that</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{d\\\\mathbf{v}}{dt} = \\\\frac{\\\\mathbf{F}}{m}&quot;,&quot;id&quot;:&quot;WVCXBYNPHA&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>But we are dealing with a fluid, so mass doesn\u2019t make sense. Instead we should be using the density \u03c1 (mass per unit volume), and so we have the equation</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{D\\\\mathbf{v}}{Dt} = \\\\frac{\\\\mathbf{f}}{\\\\rho}&quot;,&quot;id&quot;:&quot;UFTJBJPANF&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>But what is the <em>force on a fluid</em>? Well it can be whatever the physical situation calls for. Gravity, friction, whatever you need. But for fluids, one force that always appears is the pressure gradient. Differences in pressure cause particles to move \u2014 fluid gets pushed from high pressure to low pressure, so the force per unit volume is \u2212\u2207p. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!2mdf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!2mdf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 424w, https://substackcdn.com/image/fetch/$s_!2mdf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 848w, https://substackcdn.com/image/fetch/$s_!2mdf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!2mdf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!2mdf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif\" width=\"1012\" height=\"460\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:460,&quot;width&quot;:1012,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4672463,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/gif&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/195274975?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!2mdf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 424w, https://substackcdn.com/image/fetch/$s_!2mdf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 848w, https://substackcdn.com/image/fetch/$s_!2mdf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!2mdf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1896f47a-1f69-4e5c-9559-3e57fc4087c6_1012x460.gif 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Putting that in,</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{D\\\\mathbf{v}}{Dt} = -\\\\frac{\\\\nabla p}{\\\\rho} + \\\\frac{\\\\mathbf{f}}{\\\\rho}&quot;,&quot;id&quot;:&quot;XQOXITDADA&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>And then we also have friction. In fluids, friction is known as viscosity. This is a bit more technical, but David Tong has an excellent explanation <a href=\"https://www.damtp.cam.ac.uk/user/tong/fluids/fluids2.pdf\">here</a> about why viscosity takes the form</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{f}_{\\\\text{visc}} = \\\\mu \\\\nabla^2 \\\\mathbf{v}\\n\\n&quot;,&quot;id&quot;:&quot;ZMHVQUUCPB&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>where \u03bc is the viscosity coefficient and \u2207\u00b2 = \u2202\u00b2/\u2202x\u00b2 + \u2202\u00b2/\u2202y\u00b2 + \u2202\u00b2/\u2202z\u00b2 is the Laplacian. And so we finally have the Navier-Stokes equations,</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{D\\\\mathbf{v}}{Dt} = \\\\frac{\\\\partial \\\\mathbf{v}}{\\\\partial t} + \\\\mathbf{v}\\\\cdot\\\\nabla\\\\mathbf{v} = -\\\\frac{\\\\nabla p}{\\\\rho} + \\\\frac{\\\\mu}{\\\\rho}\\\\nabla^2 \\\\mathbf{v} + \\\\frac{\\\\mathbf{f}}{\\\\rho}&quot;,&quot;id&quot;:&quot;GLYDPYYFTH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Or, multiplying through by \u03c1 to match the form at the top,</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\rho\\\\left(\\\\frac{\\\\partial \\\\mathbf{v}}{\\\\partial t} + \\\\mathbf{v}\\\\cdot\\\\nabla\\\\mathbf{v}\\\\right) = -\\\\nabla p + \\\\mu \\\\nabla^2 \\\\mathbf{v} + \\\\mathbf{f}&quot;,&quot;id&quot;:&quot;JPVSIRZMMR&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Bingo bango. We\u2019re done.</p>",
+  "truncated_body_text": "The Navier-Stokes equations are meant to model fluids. I think they are cool. I met one of my best buds on a beach bringing this up as a conversation topic, but he\u2019s now a lawyer.",
+  "wordcount": 770,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        198,
+        52,
+        59
+      ],
+      "population": 71
+    },
+    "DarkVibrant": {
+      "rgb": [
+        105.01920000000001,
+        27.580799999999993,
+        31.293599999999973
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        236,
+        164
+      ],
+      "population": 1277
+    },
+    "Muted": {
+      "rgb": [
+        151,
+        77,
+        95
+      ],
+      "population": 34
+    },
+    "DarkMuted": {
+      "rgb": [
+        85,
+        50,
+        52
+      ],
+      "population": 38
+    },
+    "LightMuted": {
+      "rgb": [
+        167,
+        200,
+        217
+      ],
+      "population": 14
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 35,
+  "comment_count": 4,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 195274975,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/195274975/tts/f6ac4a2c-543e-450f-856b-7d2fdcaa3b42/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 249004060,
+      "body": "Could use more attention to units -- see my 1-page Physical Units Factor Tables , which gives the mathematical relationships between 50 classes of units, it's based on the physically-typed calculator /programming language Frink, which everyone should use for physics problems. https://substack.com/@enonh/p-148207296\n\nfrinklang.org (requires JRE for install, or use online without install, the units.txt file is worth browsing, also see the sample programs such as the solar system simulator)\n\nFor actual toddlers, a point-source light over the bathtub gives sharp shadows for use as a wave-tank for exploring interference and seeing water flow effects on the surface.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Could use more attention to units -- see my 1-page Physical Units Factor Tables , which gives the mathematical relationships between 50 classes of units, it's based on the physically-typed calculator /programming language Frink, which everyone should use for physics problems. "
+              },
+              {
+                "type": "text",
+                "text": "https://substack.com/@enonh/p-148207296",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://substack.com/@enonh/p-148207296"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "frinklang.org",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "http://frinklang.org"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": " (requires JRE for install, or use online without install, the units.txt file is worth browsing, also see the sample programs such as the solar system simulator)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "For actual toddlers, a point-source light over the bathtub gives sharp shadows for use as a wave-tank for exploring interference and seeing water flow effects on the surface."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 195274975,
+      "user_id": 19268335,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-04-25T15:40:40.345Z",
+      "edited_at": "2026-04-25T15:50:30.529Z",
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Enon",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/5d384283-6ccf-49c0-8f81-fc061fd62dd0_200x200.jpeg",
+      "handle": "enonh",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "enonh",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Enon",
+          "id": 2905261,
+          "base_url": "https://enonh.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 248257393,
+      "body": "Nice explanation and introduction to flow fields. Meat and potatoes for hydrodynamicists.\n\nFun story from undergrad. A friend and I took intro to fluid dynamics before we took E&M. We walked into the E&M class and the prof started with electric fields. I leaned over and said: Hey, Drew! It's inviscid flows! \ud83d\ude09\n\nWound up in radiation hydrodynamics. That uses ALL the terms.\ud83d\ude31",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Nice explanation and introduction to flow fields. Meat and potatoes for hydrodynamicists."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Fun story from undergrad. A friend and I took intro to fluid dynamics before we took E&M. We walked into the E&M class and the prof started with electric fields. I leaned over and said: Hey, Drew! It's inviscid flows! \ud83d\ude09"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Wound up in radiation hydrodynamics. That uses ALL the terms.\ud83d\ude31"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 195274975,
+      "user_id": 35042425,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-04-24T00:54:03.611Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Del Cross v",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/ac62af68-143e-453a-a695-5e66cb5f9252_60x54.png",
+      "handle": "delcrossv",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "delcrossv",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Del Cross v",
+          "id": 5804296,
+          "base_url": "https://delcrossv.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": false,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

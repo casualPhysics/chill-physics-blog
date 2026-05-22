@@ -1,0 +1,410 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/do-i-want-to-be-excellent",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 154355356,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-01-08T19:18:18.017Z",
+  "updated_at": "2025-01-08T19:18:45.168Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "do-i-want-to-be-excellent",
+  "social_title": null,
+  "subtitle": "If so, how?",
+  "teaser_post_eligible": true,
+  "title": "Do I want to be Excellent?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 3,
+  "reactions": {
+    "\u2764": 17
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "youre-a-slow-thinker-now-what",
+  "next_post_slug": "slow-down",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!Tv0r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 154355356,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "If so, how?",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Tv0r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Tv0r!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 424w, https://substackcdn.com/image/fetch/$s_!Tv0r!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 848w, https://substackcdn.com/image/fetch/$s_!Tv0r!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 1272w, https://substackcdn.com/image/fetch/$s_!Tv0r!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Tv0r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png\" width=\"1456\" height=\"579\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:579,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1895960,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Tv0r!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 424w, https://substackcdn.com/image/fetch/$s_!Tv0r!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 848w, https://substackcdn.com/image/fetch/$s_!Tv0r!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 1272w, https://substackcdn.com/image/fetch/$s_!Tv0r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52310ca8-01dd-4a10-967d-ffe797e40f52_1574x626.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>When should I strive to be good at things, and not just enjoy them? </p><div><hr></div><p>My desires are simple. Being able to learn, read and write. A great relationship with my loved ones. Cycling. A cup of coffee on the morning.</p><p>Much like an early monarch, I aim to do be able things all the time, without constraint. (But without the slavery or the disease). </p><p>It\u2019s not obvious that all people want this. Some want to make a huge impact on the world, sacrificing their comfort. Some people might want to be famous, at a detriment to their psychology. </p><p>But for me, the goal of endless, simple enjoyment is the axiom for my own happiness. </p><p>Despite knowing this, there are some philosophical questions about my happiness that I\u2019m trying to work through. </p><p>After a bike ride in the rain to North London, I spoke with a friend whose life and career I really admire. I spoke to him about some of my strategies for living better, but found myself surprised. </p><p>He\u2019s one of the happiest guys I know, but said</p><p>\u2018Don\u2019t think too much about happiness, and just focus on being excellent\u2019.  </p><p>This struck me as odd. </p><p>My goal of continued enjoyment doesn\u2019t really say much about being <em>good</em> at things. I just like to do science, and don\u2019t think much about being good at it. I drink coffee without needing to be the best at drinking coffee. I also think that intense focus on result can be perilous - like what I wrote in \u2018Don\u2019t Chase It\u2019.</p><p>Excellence for its own sake is not part of my formula for happiness. </p><p>But I\u2019ve been thinking - maybe it\u2019s not that simple. Maybe, excellence can be useful in the pursuit of enjoyment.</p><p>So when should I strive to be good at things, and not just enjoy them? </p><div><hr></div><p>The reward of excellence is options. In a meritocratic industry,  skilled people are bid by different companies for in talent wars. Being excellent really gives one a \u2018so what can YOU do for ME\u2019 mentality. </p><p>I used to be \u2018excellence seeking\u2019. As a kid I was obsessed even with the colours on my report card. This attitude got me in a position to go to a good school, have a decent career, and get good at stuff like math. </p><p>This financial and job security has made me less anxious about taking time off. My mind no longer feels the guilt in doing things that don\u2019t make money. </p><p>I am assertive enough to leave the office early and on time. No one\u2019s going to fire me, and if they did, I am confident that I would be fine. Because my excellence-seeking past self has shored up resources for my current self.  </p><p>A caveat is that there the excellence-to-reward ratio differs between different things. But all else equal, producing something of quality is never bad. </p><div><hr></div><p>So then, how does one be \u2018excellent\u2019? I think there are two ways to do this</p><ul><li><p>Be better than everyone else at something, or </p></li><li><p>Do something new </p></li></ul><p>I think the former is easy when you\u2019re in school. But now, I think the most efficient way is the latter. And this means finding an <em>edge</em>, rather than just working harder. </p><p>One way to get edge is to mix different areas of expertise. The obvious proof is in the  success of interdisciplinary science. Physics with math. Biology with physics. Computer science and engineering. </p><p>But there are less obvious examples of this, like scientists who are also artists. I\u2019ve read lots papers on creating better visuals for biological processes and machine learning, which has been successful work. </p><p>The downside of expertise mixing is that it\u2019s hard. You have to educate yourself in different fields. </p><p>Which is why I think there is a different, maybe even <em>stronger</em> ways to get edge. </p><p>The idea is to step outside of just your \u2018expertise\u2019, and into the territory of your \u2018personal situation\u2019. </p><p>\u2018Personal situation\u2019 is everything real about where you are, your life experiences, and your preferences. </p><p>Personal situation is also more likely to be unique that just expertise. And it comes for free, you just have to notice it.In my case, </p><ul><li><p>I make money at my day job and the hours are good. But I also like science. So, I can use my free time and money to pursue wacky science topics unconstrained. This is an edge over scientists who are constrained by funding requirements.</p></li><li><p>Unlike many physicists, I am not hung up on doing pure theory work. So now I\u2019m exploring physics in biology and chemistry, which is an edge over biologists and chemists who don\u2019t know physics. </p></li><li><p>I like to do different things. This gives me paths outside my usual career, which is an edge over my colleagues who tend to be dedicated to just this one thing, in terms of career longevity. </p></li><li><p>Lived in many developing countries, and being frugal, means I don\u2019t care much about living in \u2018nice areas\u2019. So I live in a slightly rougher area of London, with the advantages of cheapness and central-ness, without the cost of being bothered. </p></li></ul><p>You can also use where you live, languages, relationships and nationality to build edge. The bonus is that these kinds of things come organically without active effort. </p><p>One of the most natural sources of edge is your passport or citizenship. Lots of people (myself included) migrate from South East Asia to Europe in their career years. Since South East Asia has a low cost of living with great quality of life, there is edge found by having a job in Europe, earning in foreign currency, and then moving back.</p><p>I used to not think about this strategy much. But now I do - it\u2019s an edge over people who only stay in one place. Given that I\u2019m from South East Asia and that I\u2019ve saved up some money, wouldn\u2019t it be silly of me NOT to take advantage of that?</p><p>The idea of edge is also useful in reframing my constraints and problems. Since constraints are probably unique to me, wouldn\u2019t that mean they are they are also form of edge? Examples: </p><ul><li><p>Do you want to change careers, but struggling? Well, since the stakes are low and you don\u2019t care, you can use that as edge. Since you care less, you can work less hours and explore other things. </p></li><li><p>Are you from a developing country? Well, with less opportunity, you have an edge in having more problems to solve if you\u2019re entrepreneurial. Think of the recent boom in West African small businesses. </p></li><li><p>Can\u2019t drive a car? Maybe you should cycle everywhere and get super fit automatically. </p></li></ul><p>In these examples, I\u2019ve turned a tough problem into a source of edge. In the start-up sphere, Paul Graham has repeatedly written about noticing problems around you as a way to generate ideas. Maybe noticing your constraints is a way to get edge.  </p><p>So, the motto to find ways to get quick excellence, seems to be</p><p> \u2018How I use this fact about <em>me</em>, to my advantage\u2019?</p>",
+  "truncated_body_text": "When should I strive to be good at things, and not just enjoy them?",
+  "wordcount": 1170,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        191,
+        164,
+        120
+      ],
+      "population": 201
+    },
+    "DarkVibrant": {
+      "rgb": [
+        76,
+        36,
+        11
+      ],
+      "population": 33
+    },
+    "LightVibrant": {
+      "rgb": [
+        239,
+        205,
+        169
+      ],
+      "population": 37
+    },
+    "Muted": {
+      "rgb": [
+        158,
+        138,
+        113
+      ],
+      "population": 373
+    },
+    "DarkMuted": {
+      "rgb": [
+        105,
+        80,
+        50
+      ],
+      "population": 426
+    },
+    "LightMuted": {
+      "rgb": [
+        212,
+        204,
+        179
+      ],
+      "population": 371
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 17,
+  "comment_count": 3,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 154355356,
+      "voice_id": "en-US-OnyxTurboMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/154355356/tts/341b4b97-6f1c-4bfb-a1e6-9cc87bb9aa85/en-US-OnyxTurboMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 85363539,
+      "body": "Maybe *doing* excellence (resolving to perform tasks very well; looking for ways to improve on what is in progress or near completion; going the extra mile) is more direct and easier to understand and aim for than *being* excellent. After all, what I *am* is kind of a slippery concept compared with what I *do*. Just a thought.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Maybe *doing* excellence (resolving to perform tasks very well; looking for ways to improve on what is in progress or near completion; going the extra mile) is more direct and easier to understand and aim for than *being* excellent. After all, what I *am* is kind of a slippery concept compared with what I *do*. Just a thought."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 154355356,
+      "user_id": 84532545,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-01-10T02:03:58.254Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "JJD",
+      "photo_url": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/bb6cce71-83fa-44d8-9aa4-71ad04466e41_500x305.jpeg",
+      "handle": "jjd12",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "jjd12",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 85226072,
+      "body": "Being \"better\" than other people as an adult is often about finding intersections where common skills combine in rare ways. \n\nAs for the rest, the older I get, the more I think happiness comes from doing what we do well. That's excellence in a way.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Being \"better\" than other people as an adult is often about finding intersections where common skills combine in rare ways."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "As for the rest, the older I get, the more I think happiness comes from doing what we do well. That's excellence in a way."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 154355356,
+      "user_id": 19467971,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-01-09T10:59:48.354Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Alastair Williams",
+      "photo_url": "https://substackcdn.com/image/fetch/$s_!MSWI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc2d9f327-4d1f-44fd-90ee-3f940e2abfd7_439x418.jpeg",
+      "handle": "alastairwilliams",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "alastairwilliams",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "The Quantum Cat",
+          "id": 910761,
+          "base_url": "https://www.thequantumcat.space"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

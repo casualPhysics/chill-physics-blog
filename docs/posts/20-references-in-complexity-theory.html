@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>20 References In Complexity Theory and Biology &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">20 References In Complexity Theory and Biology</h2>
+    <p class="post-meta">
+      <span class="post-date">8 January 2026</span>
+      &middot; <span class="post-subtitle">Every biological system I&#39;ve studied this winter. </span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>I’m  more confident in <a href="https://chillphysicsenjoyer.substack.com/p/using-linear-algebra-to-predict-a">dynamic mode decomposition</a> as a general tool for modelling biological systems. </p><p>This winter, I tried to learn as much as I can about a range of biological systems which I think are amenable for modelling with DMD. Here are all the systems I’ve read about, as well as other papers that try to dynamic mode decomposition on biological systems. </p><p>Broadly, I’ve split them into ecology, chemical reaction networks, and soil microbiology ideas. I’ll be writing more detailed reviews soon!</p><h3><strong>Ecological &amp; Population Dynamics</strong></h3><h4><strong>1. Generalized Lotka-Volterra </strong></h4><ul><li><p><strong>Description</strong>: Multi-species predator-prey/competition dynamics with antisymmetric interaction matrix ensuring conservation properties. Supports arbitrary (even) number of species.</p></li><li><p><strong>Key Features</strong>: Equilibrium populations explicitly specified, conservation laws, oscillatory dynamics</p></li><li><p><strong>References</strong>:</p><ul><li><p>Volterra, V. (1926). “Variazioni e fluttuazioni del numero d’individui in specie animali conviventi.” <em>Memorie della R. Accademia Nazionale dei Lincei</em>, 6(2), 31-113.</p></li><li><p>May, Robert M. (1972). “Will a large complex system be stable?” <em>Nature</em>, 238(5364), 413-414.</p></li><li><p>Gardner, M. R., &amp; Ashby, W. R. (1970). “Connectivity of large dynamical (cybernetic) systems: Critical values for stability.” <em>Nature</em>, 228(5273), 784.</p></li><li><p>Goh, B. S. (1976). “Global stability in many-species systems.” <em>The American Naturalist</em>, 110(973), 135-143.</p></li><li><p>Goh, B. S. (1979). “Stability in models of mutualism.” <em>The American Naturalist</em>, 113(2), 261-275.</p></li><li><p>Rieger, H., et al. Lotka-Volterra stability analysis.</p></li></ul></li></ul><h4><strong>2. Volterra-Lotka with Equivalence Numbers</strong></h4><ul><li><p><strong>Description</strong>: Extended model with intrinsic growth rates and species-specific equivalence numbers that scale interaction strength</p></li></ul><h4><strong>3. Generalized Lotka-Volterra (No Equilibrium Assumption)</strong></h4><ul><li><p><strong>Description</strong>: Most general form allowing asymmetric interactions, competition, mutualism, and predation without requiring equilibrium</p></li><li><p><strong>Use Case</strong>: General ecological systems without conservation constraints</p></li></ul><h4><strong>4. Two-Species Predator-Prey</strong></h4><ul><li><p><strong>Description</strong>: Classic rabbit-fox style predator-prey oscillations with closed periodic orbits</p></li><li><p><strong>References</strong>:</p><ul><li><p>Volterra, V. (1926). “Variazioni e fluttuazioni del numero d’individui in specie animali conviventi.” <em>Memorie della R. Accademia Nazionale dei Lincei</em>, 6(2), 31-113.</p></li></ul></li></ul><h4><strong>5. Ros et al. Generalized Lotka-Volterra Models</strong></h4><ul><li><p><strong>Description</strong>: Multi-species model with random non-reciprocal interactions and correlation structure</p></li><li><p><strong>References</strong>:</p><ul><li><p>Ros, V., Roy, F., Biroli, G., Bunin, G., &amp; Turner, A. M. (2023). “Generalized Lotka-Volterra equations with random, non-reciprocal interactions: the typical number of equilibria.” arXiv: 2212.01837v2 [cond-mat.dis-nn].</p></li></ul></li></ul><div><hr/></div><h3><strong>Chemical Reaction Networks (4 systems)</strong></h3><h4><strong>7. Complex Stoichiometric Chemistry (8-Species, 10-Reaction Networks)</strong></h4><ul><li><p><strong>Description</strong>: Biochemical pathway with enzyme catalysis, substrate competition, and feedback regulation</p></li><li><p><strong>References</strong>:</p><ul><li><p>Horowitz, Jordan M. &amp; England, Jeremy L. (2017). “Spontaneous fine-tuning to environment in many-species chemical reaction networks.” <em>PNAS</em> (Proceedings of the National Academy of Sciences).</p></li></ul></li></ul><h4><strong>8. Horowitz-England Self-Organization Models</strong></h4><ul><li><p><strong>Description</strong>: 25-species random chemical network demonstrating spontaneous fine-tuning to environmental energy sources</p></li><li><p><strong>References</strong>:</p><ul><li><p>Horowitz, Jordan M. &amp; England, Jeremy L. (2017). “Spontaneous fine-tuning to environment in many-species chemical reaction networks.” <em>PNAS</em> (Proceedings of the National Academy of Sciences).</p></li></ul></li></ul><h4><strong>9. Glycolysis Models</strong></h4><ul><li><p><strong>Description</strong>: Two-variable model of glycolytic oscillations with allosteric feedback</p></li><li><p><strong>References</strong>:</p><ul><li><p>Wüstner, Daniel, Gundestrup, Henrik Helge, &amp; Thaysen, Katja (2025). “Dynamic mode decomposition for analysis and prediction of metabolic oscillations from time-lapse imaging of cellular autofluorescence.” <em>Scientific Reports</em>. DOI: 10.1038/s41598-025-07255-4.</p></li></ul></li></ul><h4><strong>10. General Koopman Operator Theory for Chemical Reaction Networks</strong></h4><ul><li><p><strong>Description</strong>: Framework connecting chemical master equations to Koopman theory</p></li><li><p><strong>References</strong>:</p><ul><li><p>Koopman, B. O. (1931). “Hamiltonian systems and transformation in Hilbert space.” <em>Proc. Natl. Acad. Sci.</em>, 17, 315-318.</p></li><li><p>Mezić, Igor (2005). “Spectral properties of dynamical systems, model reduction and decompositions.” <em>Nonlinear Dyn.</em>, 41, 309-325.</p></li><li><p>Williams, M. O., Kevrekidis, I. G., &amp; Rowley, C. W. (2015). “A Data-Driven Approximation of the Koopman Operator: Extending Dynamic Mode Decomposition.” <em>J. Nonlinear Sci.</em>, 25, 1307-1346.</p></li><li><p>Gupta, Ankit &amp; Khammash, Mustafa (2025). “A Spectral Koopman Approximation Framework for Stochastic Reaction Networks.” arXiv: 2511.23114.</p></li><li><p>Gupta, Ankit &amp; Khammash, Mustafa (2025). “Sparse Spectral Estimation of the Koopman Operator Reveals Key Insights into the Dynamics of Stochastic Reaction Networks.” Joint Meeting of Asian Conference for Mathematical Biology &amp; Japanese Society for Mathematical Biology.</p></li><li><p>Narasingam, Abhinav &amp; Kwon, Joseph Sang-Il (2019). “Koopman Lyapunov-based Model Predictive Control of Nonlinear Chemical Process Systems.” <em>AIChE Journal</em>.</p></li><li><p>Narasingam, Abhinav &amp; Kwon, Joseph Sang-Il (2020). “Application of Koopman Operator for Model-Based Control of Fracture Propagation and Proppant Transport in Hydraulic Fracturing Operation.”</p></li></ul></li></ul><div><hr/></div><h3><strong>Microbial Ecology Models (3 systems)</strong></h3><h4><strong>11. Bacteria-Phage Predator-Prey Systems</strong></h4><ul><li><p><strong>Description</strong>: E. coli K-12 + bacteriophage (T4, lambda) dynamics</p></li><li><p><strong>Applications</strong>: Home laboratory experiments for studying predator-prey oscillations</p></li><li><p><strong>Protocols</strong>: Culture methods, plaque assays, parameter estimation</p></li></ul><h4><strong>12. Soil Bacterial Communities</strong></h4><ul><li><p><strong>Description</strong>: Multi-species bacterial communities from soil samples</p></li><li><p><strong>Common Species</strong>: Bacillus, Pseudomonas, Streptomyces, Arthrobacter</p></li><li><p><strong>Applications</strong>: Study of competition, diversity, resource competition, community assembly</p></li></ul><h4><strong>13. Cyanobacteria Circadian Oscillations</strong></h4><ul><li><p><strong>Description</strong>: Synechococcus elongatus colonies with circadian clock synchronization</p></li><li><p><strong>References</strong>:</p><ul><li><p>Schmitt, Matthew S., Koch-Janusz, Maciej, Fruchart, Michel, Seara, Daniel S., Rust, Michael, &amp; Vitelli, Vincenzo (2025). “Information theory for data-driven model reduction in physics and biology.” arXiv: 2312.06608v3.</p></li></ul></li></ul><p></p><h3></h3>
+  </div>
+
+  
+  <p class="post-tags">Filed under: biology, Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/20-references-in-complexity-theory">Read on Substack</a>
+     &middot; <a href="using-linear-algebra-to-predict-a.html">&laquo; Previous</a>
+     &middot; <a href="how-can-i-make-useful-knowledge.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

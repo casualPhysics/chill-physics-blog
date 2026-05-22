@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MacOS ssh File System (SSHFS)  &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">MacOS ssh File System (SSHFS) </h2>
+    <p class="post-meta">
+      <span class="post-date">20 May 2025</span>
+      &middot; <span class="post-subtitle">The biggest &#39;I wish I knew this earlier&#39; when doing ssh workflows on small projects</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <div class="captioned-image-container"><figure><a class="image-link image2" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!zUqf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!zUqf!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 424w, https://substackcdn.com/image/fetch/$s_!zUqf!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 848w, https://substackcdn.com/image/fetch/$s_!zUqf!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 1272w, https://substackcdn.com/image/fetch/$s_!zUqf!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":178,"width":480,"resizeWidth":null,"bytes":82097,"alt":null,"title":null,"type":"image/png","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://chillphysicsenjoyer.substack.com/i/164022192?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png","isProcessing":false,"align":null,"offset":false}' fetchpriority="high" height="178" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!zUqf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png" srcset="https://substackcdn.com/image/fetch/$s_!zUqf!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 424w, https://substackcdn.com/image/fetch/$s_!zUqf!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 848w, https://substackcdn.com/image/fetch/$s_!zUqf!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 1272w, https://substackcdn.com/image/fetch/$s_!zUqf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56cff3cf-c4c0-489e-9084-e052fb3cb85c_480x178.png 1456w" width="480"/></picture><div></div></div></a></figure></div><p></p><p>Here's probably the most useful thing that I've learnt this year working with computer clusters remotely. If this sounds obvious to you and you’re already good at this stuff feel free to ignore this post!</p><div><hr/></div><p>If you're like me and a beginner on working on remote HPC clusters with Slurm for  computational physics / chemistry, one thing that I naively used to do was</p><ul><li><p>write python scripts, input files and logic on my local computer, <em>using IDEs and tools on my laptop,</em> and then</p></li><li><p>ssh / rsync them to the remote cluster, and then</p></li><li><p>do the computation, and then</p></li><li><p>ssh or rsync them back.</p></li></ul><p>But this is kind of annoying for small projects when you just start out. Especially when you end up writing a bunch of boiler plate code to sync files back and forth - leading to more and more lines of code. And guess what - I spent too much time on that code!</p><p>I don't want this to happen because I generally want to <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">delete as much code as possible</a> if the tradeoff between complexity and speed is worth it.</p><p>So instead, I realised that I can use <a href="https://macfuse.github.io/">macFUSE with sshfs</a> to mount the remote directory via to my local, so that <em><strong>I can just treat it like a directory as any other</strong></em>. There are some fiddly bits like changing your security on permissions on mac M1, but I found the tutorial pretty easy to follow.</p>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/macos-ssh-file-system-sshfs">Read on Substack</a>
+     &middot; <a href="its-hard-to-know-if-i-suck-at-writing.html">&laquo; Previous</a>
+     &middot; <a href="buyin-and-tryin-an-elastomeric-respirator.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

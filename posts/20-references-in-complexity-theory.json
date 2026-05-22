@@ -1,0 +1,397 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/20-references-in-complexity-theory",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 183955263,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-01-08T21:33:19.529Z",
+  "updated_at": "2026-01-08T21:34:05.190Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "20-references-in-complexity-theory",
+  "social_title": null,
+  "subtitle": "Every biological system I've studied this winter. ",
+  "teaser_post_eligible": true,
+  "title": "20 References In Complexity Theory and Biology",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 12
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "using-linear-algebra-to-predict-a",
+  "next_post_slug": "how-can-i-make-useful-knowledge",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 183955263,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Every biological system I've studied this winter.",
+  "body_html": "<p>I\u2019m  more confident in <a href=\"https://chillphysicsenjoyer.substack.com/p/using-linear-algebra-to-predict-a\">dynamic mode decomposition</a> as a general tool for modelling biological systems. </p><p>This winter, I tried to learn as much as I can about a range of biological systems which I think are amenable for modelling with DMD. Here are all the systems I\u2019ve read about, as well as other papers that try to dynamic mode decomposition on biological systems. </p><p>Broadly, I\u2019ve split them into ecology, chemical reaction networks, and soil microbiology ideas. I\u2019ll be writing more detailed reviews soon!</p><h3><strong>Ecological &amp; Population Dynamics</strong></h3><h4><strong>1. Generalized Lotka-Volterra </strong></h4><ul><li><p><strong>Description</strong>: Multi-species predator-prey/competition dynamics with antisymmetric interaction matrix ensuring conservation properties. Supports arbitrary (even) number of species.</p></li><li><p><strong>Key Features</strong>: Equilibrium populations explicitly specified, conservation laws, oscillatory dynamics</p></li><li><p><strong>References</strong>:</p><ul><li><p>Volterra, V. (1926). \u201cVariazioni e fluttuazioni del numero d\u2019individui in specie animali conviventi.\u201d <em>Memorie della R. Accademia Nazionale dei Lincei</em>, 6(2), 31-113.</p></li><li><p>May, Robert M. (1972). \u201cWill a large complex system be stable?\u201d <em>Nature</em>, 238(5364), 413-414.</p></li><li><p>Gardner, M. R., &amp; Ashby, W. R. (1970). \u201cConnectivity of large dynamical (cybernetic) systems: Critical values for stability.\u201d <em>Nature</em>, 228(5273), 784.</p></li><li><p>Goh, B. S. (1976). \u201cGlobal stability in many-species systems.\u201d <em>The American Naturalist</em>, 110(973), 135-143.</p></li><li><p>Goh, B. S. (1979). \u201cStability in models of mutualism.\u201d <em>The American Naturalist</em>, 113(2), 261-275.</p></li><li><p>Rieger, H., et al. Lotka-Volterra stability analysis.</p></li></ul></li></ul><h4><strong>2. Volterra-Lotka with Equivalence Numbers</strong></h4><ul><li><p><strong>Description</strong>: Extended model with intrinsic growth rates and species-specific equivalence numbers that scale interaction strength</p></li></ul><h4><strong>3. Generalized Lotka-Volterra (No Equilibrium Assumption)</strong></h4><ul><li><p><strong>Description</strong>: Most general form allowing asymmetric interactions, competition, mutualism, and predation without requiring equilibrium</p></li><li><p><strong>Use Case</strong>: General ecological systems without conservation constraints</p></li></ul><h4><strong>4. Two-Species Predator-Prey</strong></h4><ul><li><p><strong>Description</strong>: Classic rabbit-fox style predator-prey oscillations with closed periodic orbits</p></li><li><p><strong>References</strong>:</p><ul><li><p>Volterra, V. (1926). \u201cVariazioni e fluttuazioni del numero d\u2019individui in specie animali conviventi.\u201d <em>Memorie della R. Accademia Nazionale dei Lincei</em>, 6(2), 31-113.</p></li></ul></li></ul><h4><strong>5. Ros et al. Generalized Lotka-Volterra Models</strong></h4><ul><li><p><strong>Description</strong>: Multi-species model with random non-reciprocal interactions and correlation structure</p></li><li><p><strong>References</strong>:</p><ul><li><p>Ros, V., Roy, F., Biroli, G., Bunin, G., &amp; Turner, A. M. (2023). \u201cGeneralized Lotka-Volterra equations with random, non-reciprocal interactions: the typical number of equilibria.\u201d arXiv: 2212.01837v2 [cond-mat.dis-nn].</p></li></ul></li></ul><div><hr></div><h3><strong>Chemical Reaction Networks (4 systems)</strong></h3><h4><strong>7. Complex Stoichiometric Chemistry (8-Species, 10-Reaction Networks)</strong></h4><ul><li><p><strong>Description</strong>: Biochemical pathway with enzyme catalysis, substrate competition, and feedback regulation</p></li><li><p><strong>References</strong>:</p><ul><li><p>Horowitz, Jordan M. &amp; England, Jeremy L. (2017). \u201cSpontaneous fine-tuning to environment in many-species chemical reaction networks.\u201d <em>PNAS</em> (Proceedings of the National Academy of Sciences).</p></li></ul></li></ul><h4><strong>8. Horowitz-England Self-Organization Models</strong></h4><ul><li><p><strong>Description</strong>: 25-species random chemical network demonstrating spontaneous fine-tuning to environmental energy sources</p></li><li><p><strong>References</strong>:</p><ul><li><p>Horowitz, Jordan M. &amp; England, Jeremy L. (2017). \u201cSpontaneous fine-tuning to environment in many-species chemical reaction networks.\u201d <em>PNAS</em> (Proceedings of the National Academy of Sciences).</p></li></ul></li></ul><h4><strong>9. Glycolysis Models</strong></h4><ul><li><p><strong>Description</strong>: Two-variable model of glycolytic oscillations with allosteric feedback</p></li><li><p><strong>References</strong>:</p><ul><li><p>W\u00fcstner, Daniel, Gundestrup, Henrik Helge, &amp; Thaysen, Katja (2025). \u201cDynamic mode decomposition for analysis and prediction of metabolic oscillations from time-lapse imaging of cellular autofluorescence.\u201d <em>Scientific Reports</em>. DOI: 10.1038/s41598-025-07255-4.</p></li></ul></li></ul><h4><strong>10. General Koopman Operator Theory for Chemical Reaction Networks</strong></h4><ul><li><p><strong>Description</strong>: Framework connecting chemical master equations to Koopman theory</p></li><li><p><strong>References</strong>:</p><ul><li><p>Koopman, B. O. (1931). \u201cHamiltonian systems and transformation in Hilbert space.\u201d <em>Proc. Natl. Acad. Sci.</em>, 17, 315-318.</p></li><li><p>Mezi\u0107, Igor (2005). \u201cSpectral properties of dynamical systems, model reduction and decompositions.\u201d <em>Nonlinear Dyn.</em>, 41, 309-325.</p></li><li><p>Williams, M. O., Kevrekidis, I. G., &amp; Rowley, C. W. (2015). \u201cA Data-Driven Approximation of the Koopman Operator: Extending Dynamic Mode Decomposition.\u201d <em>J. Nonlinear Sci.</em>, 25, 1307-1346.</p></li><li><p>Gupta, Ankit &amp; Khammash, Mustafa (2025). \u201cA Spectral Koopman Approximation Framework for Stochastic Reaction Networks.\u201d arXiv: 2511.23114.</p></li><li><p>Gupta, Ankit &amp; Khammash, Mustafa (2025). \u201cSparse Spectral Estimation of the Koopman Operator Reveals Key Insights into the Dynamics of Stochastic Reaction Networks.\u201d Joint Meeting of Asian Conference for Mathematical Biology &amp; Japanese Society for Mathematical Biology.</p></li><li><p>Narasingam, Abhinav &amp; Kwon, Joseph Sang-Il (2019). \u201cKoopman Lyapunov-based Model Predictive Control of Nonlinear Chemical Process Systems.\u201d <em>AIChE Journal</em>.</p></li><li><p>Narasingam, Abhinav &amp; Kwon, Joseph Sang-Il (2020). \u201cApplication of Koopman Operator for Model-Based Control of Fracture Propagation and Proppant Transport in Hydraulic Fracturing Operation.\u201d</p></li></ul></li></ul><div><hr></div><h3><strong>Microbial Ecology Models (3 systems)</strong></h3><h4><strong>11. Bacteria-Phage Predator-Prey Systems</strong></h4><ul><li><p><strong>Description</strong>: E. coli K-12 + bacteriophage (T4, lambda) dynamics</p></li><li><p><strong>Applications</strong>: Home laboratory experiments for studying predator-prey oscillations</p></li><li><p><strong>Protocols</strong>: Culture methods, plaque assays, parameter estimation</p></li></ul><h4><strong>12. Soil Bacterial Communities</strong></h4><ul><li><p><strong>Description</strong>: Multi-species bacterial communities from soil samples</p></li><li><p><strong>Common Species</strong>: Bacillus, Pseudomonas, Streptomyces, Arthrobacter</p></li><li><p><strong>Applications</strong>: Study of competition, diversity, resource competition, community assembly</p></li></ul><h4><strong>13. Cyanobacteria Circadian Oscillations</strong></h4><ul><li><p><strong>Description</strong>: Synechococcus elongatus colonies with circadian clock synchronization</p></li><li><p><strong>References</strong>:</p><ul><li><p>Schmitt, Matthew S., Koch-Janusz, Maciej, Fruchart, Michel, Seara, Daniel S., Rust, Michael, &amp; Vitelli, Vincenzo (2025). \u201cInformation theory for data-driven model reduction in physics and biology.\u201d arXiv: 2312.06608v3.</p></li></ul></li></ul><p></p><h3></h3>",
+  "truncated_body_text": "I\u2019m more confident in dynamic mode decomposition as a general tool for modelling biological systems.",
+  "wordcount": 749,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 12,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 183955263,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/183955263/tts/13a9021c-98d9-40be-94e3-77d170e1c09c/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 224374468,
+      "body": "Look at the population dynamics of David Sloan Wilson. He showed how altruism could evolve -- just using random scattering, he proved that groups of altruists would outperform groups of selfish types, even if the altruist would always lose head-to-head.\n\nAltruism will spread across the landscape in a \"slow explosion\". I'm trying to model it again now, to demonstrate the Gaia principle in action.\n\nI see Substack very much as one of these random groups of more altruistic types.\n\nBiologists still sneer at the notion of group selection, but David Sloan Wilson has shown the power of group traits and the reality of multilevel evolution. His later work was on how ideas and religious ideology can affect human evolution. A real public intellectual. I met him in 1979 in Johannesburg, he gave me a pre-print of his first monograph, blew my mind.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Look at the population dynamics of David Sloan Wilson. He showed how altruism could evolve -- just using random scattering, he proved that groups of altruists would outperform groups of selfish types, even if the altruist would always lose head-to-head."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Altruism will spread across the landscape in a \"slow explosion\". I'm trying to model it again now, to demonstrate the Gaia principle in action."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I see Substack very much as one of these random groups of more altruistic types."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Biologists still sneer at the notion of group selection, but David Sloan Wilson has shown the power of group traits and the reality of multilevel evolution. His later work was on how ideas and religious ideology can affect human evolution. A real public intellectual. I met him in 1979 in Johannesburg, he gave me a pre-print of his first monograph, blew my mind."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 183955263,
+      "user_id": 400380963,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-03-07T14:58:14.659Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Fred Malherbe",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/47769f67-0f07-4655-ad5d-a18bc9520589_1200x1200.jpeg",
+      "handle": "systemshaywire",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "systemshaywire",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Systems Haywire",
+          "id": 6497244,
+          "base_url": "https://systemshaywire.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 200082295,
+      "body": "Excellent reading list!\n\nI've read some of the older papers listed (most papers by Volterra, May, Ashby) but will be reading the newer ones now. It seems to be an interesting topic.\n\nIt makes me want to revisit the subject of May's paper in particular with some software experiments. Ashy had an early paper in Nature on stability that was also good.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Excellent reading list!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I've read some of the older papers listed (most papers by Volterra, May, Ashby) but will be reading the newer ones now. It seems to be an interesting topic."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It makes me want to revisit the subject of May's paper in particular with some software experiments. Ashy had an early paper in Nature on stability that was also good."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 183955263,
+      "user_id": 366829595,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-01-15T09:08:20.238Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Horde",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b330dde9-effe-4e52-a9e1-9079dd2c1ba5_295x316.png",
+      "handle": "massivehorde",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "massivehorde",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Horde",
+          "id": 5678255,
+          "base_url": "https://massivehorde.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

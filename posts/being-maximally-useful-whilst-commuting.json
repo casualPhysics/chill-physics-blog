@@ -1,0 +1,400 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/being-maximally-useful-whilst-commuting",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 187273430,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-02-09T17:10:29.992Z",
+  "updated_at": "2026-02-09T17:12:50.164Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "being-maximally-useful-whilst-commuting",
+  "social_title": null,
+  "subtitle": "I hate commuting ",
+  "teaser_post_eligible": true,
+  "title": "Being Maximally Useful Whilst Commuting",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 14
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "trying-to-make-an-automated-ecologist",
+  "next_post_slug": "biology-as-clockwork",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 187273430,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "I hate commuting",
+  "body_html": "<p>If you live in London and commute into the central area, you are probably taking up at least two hours of your day on public transport. This time loss adds insult to injury to the stress of cancelled buses, rain, overcrowdedness and general gloom. I usually encourage people to cycle safely, but rain or snow sometimes makes commuting inevitable. And so, I\u2019ve tried to boil down ways to use that time usefully if I am stuck on the bus. </p><p>The zeroth thing that I\u2019ve made a habit of is keeping some sort of book and then using my phone to write down notes of interesting things that I read. Everyone that I intellectually admire does this. I have a very big library of books that I\u2019ve never read in my house, which I think is a good thing, and I grab-n-go. It could be anything from Austen to Plato to Dawkins, I don\u2019t care. I\u2019m considering buying big storage space in London just to collect second hand books. If not a book, I also carry a kindle and the highlighting function is good for stuff I find noteworthy. To lock in, I\u2019ve noticed that I seem to get very distracted from sounds on the bus, so I usually carry around the cheap 3M foam earplugs or listen to music. You can also get expensive custom earplugs, and they\u2019ll fit better, but the sound dampening is going to be the same. </p><p>Second to that, I also spend time writing down stuff for Substack whilst I\u2019m on the bus, but I do this less often since sometimes I get a headache when I stare at my phone on a moving object. Sometimes I just write freeform ideas just on notes on my phone as well. I\u2019ve played around with the idea of using commute time to systematically rearrange my calendar, organise meetings and all that other admin, but I hate doing that, and I hate commuting, and I rather not do two things that I hate at the same time. </p><p>In line with more recent technology, I think having Claude code and better note taking apps opens a whole new realm of cool possibilities to be useful whilst travelling in London. I use Obsidian sync to sync over my Obsidian notes betweeen my phone and computer. Obsidian for me still feels like the best notetaking app because of the plugins and the backlink feature, and I pay 5GBP a month for Obsidian sync so that I can write notes on my desktop, laptop or phone. So far I\u2019ve never been a fan of dictation, and this is likely to stay that way. </p><p>Second is that I\u2019ve set up a tailscale VPN between my Mac Studio at home.  This allows me to ssh into a my Mac Studio from my phone. This was relatively easy with tailscale and the reddit community at least is fairly confident in Tailscale\u2019s security. I then setup Claude Code on my Mac Studio, and set it up so I could remote in from my iphone with Termius. The logging in is a little clunky but this setup means that I can write and run code remotely from my phone. So if have an idea for an experiment I want to run, or add something to my obsidian to-do list, this is a low friction way to do this. For the Mac Studio, I just went for the lowest spec model that could support five displays.  Initially I wanted to splash out and go for the 512GB RAM M3 Ultra since I wanted to try run a local LLM like Kimi or Deepseek on it, but I couldn\u2019t really justify the 10k price tag to myself, so I went with the lowest spec on. </p><p>I also feel like the tips above are generally applicable to going to the gym as well, for things to do when taking breaks. But yeah, I generally think commuting is soul sucking and I will try to find more ways to avoid it. </p>",
+  "truncated_body_text": "If you live in London and commute into the central area, you are probably taking up at least two hours of your day on public transport. This time loss adds insult to injury to the stress of cancelled buses, rain, overcrowdedness and general gloom. I usually encourage people to cycle safely, but rain or snow sometimes makes commuting inevitable. And so, \u2026",
+  "wordcount": 669,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "a4dd5843-63ee-4677-9d6e-b44fc6edd1aa",
+      "publication_id": 1692033,
+      "name": "Life",
+      "slug": "life",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 14,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 187273430,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/187273430/tts/1e932317-857f-4d8a-9a7c-c8e1ccb53440/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 225934704,
+      "body": "I love the idea of remoting in to use Claude Code.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I love the idea of remoting in to use Claude Code."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 187273430,
+      "user_id": 321116091,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-03-10T20:45:19.438Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Joe Gaffney",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/a1f0eae6-b9d8-46d3-bd22-2cea9d255623_828x828.jpeg",
+      "handle": "joegaff",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "joegaff",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Joe Gaffney",
+          "id": 4215187,
+          "base_url": "https://joegaff.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 213739378,
+      "body": "It's much worse in America where we all have to drive ourselves and the only option is listening to books or videos.  Not the only option, some people I see reading/looking at their phones while driving, and it only scares the daylights out of me.  \n\nIf you get really bored and want to read about a simple and easy way to calculate/model the inherent angular momentum of elementary particles (well, three of them anyway), this here random internet guy will really like you.  \n\nMath: https://docs.google.com/spreadsheets/d/1lzNHSJyRiheoyNN-pPedHdCcgvPaJbpzjTmm_Vm-5EQ/edit?usp=sharing\n\nNarrative: https://docs.google.com/document/d/1Ij6AfqCCN0ZFwMbgTXD34W8O8iFFoG-1LOUWP9IyL_o/edit?usp=sharing\n",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It's much worse in America where we all have to drive ourselves and the only option is listening to books or videos. Not the only option, some people I see reading/looking at their phones while driving, and it only scares the daylights out of me."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "If you get really bored and want to read about a simple and easy way to calculate/model the inherent angular momentum of elementary particles (well, three of them anyway), this here random internet guy will really like you."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Math: "
+              },
+              {
+                "type": "text",
+                "text": "https://docs.google.com/spreadsheets/d/1lzNHSJyRiheoyNN-pPedHdCcgvPaJbpzjTmm_Vm-5EQ/edit?usp=sharing",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://docs.google.com/spreadsheets/d/1lzNHSJyRiheoyNN-pPedHdCcgvPaJbpzjTmm_Vm-5EQ/edit?usp=sharing"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Narrative: "
+              },
+              {
+                "type": "text",
+                "text": "https://docs.google.com/document/d/1Ij6AfqCCN0ZFwMbgTXD34W8O8iFFoG-1LOUWP9IyL_o/edit?usp=sharing",
+                "marks": [
+                  {
+                    "type": "link",
+                    "attrs": {
+                      "href": "https://docs.google.com/document/d/1Ij6AfqCCN0ZFwMbgTXD34W8O8iFFoG-1LOUWP9IyL_o/edit?usp=sharing"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 187273430,
+      "user_id": 5454780,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-02-12T21:24:50.328Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Ryan",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/4424cfbe-c252-47a2-904e-170905b04ed8_144x144.png",
+      "handle": "ryan977663",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "ryan977663",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Ryan's Substack",
+          "id": 7977673,
+          "base_url": "https://subsubatomic.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

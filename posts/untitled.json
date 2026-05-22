@@ -1,0 +1,223 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/untitled",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 124391328,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2021-09-12T02:17:04.000Z",
+  "updated_at": "2023-05-28T15:49:19.243Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "untitled",
+  "social_title": null,
+  "subtitle": "",
+  "teaser_post_eligible": true,
+  "title": "Finding Geometrical Beauty in Simple Physics",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "only_paid",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "taming-infinities-why-is-it-possible-to-do-physics-at-all",
+  "next_post_slug": "the-wonderful-math-that-powers-disneys-animationwhere-physics-computer-science-and-art-come-together",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/7ec5e7ec-3263-4788-9686-f7bec3b40f74_2000x1571.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": null,
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Beautiful math wasn\u2019t exclusive to just my string theory lectures.",
+  "body_html": "<a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!xM5r!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!xM5r!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 424w, https://substackcdn.com/image/fetch/$s_!xM5r!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 848w, https://substackcdn.com/image/fetch/$s_!xM5r!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!xM5r!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!xM5r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;Finding Geometrical Beauty in Simple Physics&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"Finding Geometrical Beauty in Simple Physics\" title=\"Finding Geometrical Beauty in Simple Physics\" srcset=\"https://substackcdn.com/image/fetch/$s_!xM5r!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 424w, https://substackcdn.com/image/fetch/$s_!xM5r!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 848w, https://substackcdn.com/image/fetch/$s_!xM5r!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!xM5r!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a2b20b-5b42-497e-857b-8232617af767_2000x1571.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div></div></div></a><h4>Beautiful math wasn\u2019t exclusive to just my string theory lectures. I found most of it in a spinning top.</h4><div><hr></div><p>It was September 2019, and I had just started Part III of the Mathematical Tripos at Cambridge. Part III is an intense taught master\u2019s course designed to prepare budding students for a research career in mathematics or theoretical physics. The cohort is typically very diverse. In that year, I chose a fairly standard set of lectures designed for those specialising in particle physics. My courses were a mix of general relativity, quantum field theory and string theory.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 424w, https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 848w, https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 1272w, https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 424w, https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 848w, https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 1272w, https://cdn-images-1.medium.com/max/880/1*yp57SFlGW5HrjsQcfL_VoA.jpeg 1456w\" sizes=\"100vw\"></picture><div></div></div></a><figcaption class=\"image-caption\">Symmetry groups play in integral role in organising the different particles we have in our universe.</figcaption></figure></div><p>For anyone who has taken a college, or perhaps even high-school level, physics course, you might\u2019ve realised that mathematics plays a central role in the subject. At lower levels, it has is place as a calculative tool. At higher levels, I learned (through a lot of suffering) that central topics in modern pure mathematics are not merely formal accessories. Often times, complex theorems about geometry, symmetry and algebra form the central picture in our understanding of modern physics.</p><p>However, these subtle and wonderful mathematical concepts are by no means exclusive to the \u2018modern\u2019 physical topics you might have heard on a sci-fi documentary. I learned that these mathematical and geometrical wonders can manifest themselves in simple physical systems like your microwave, or a pendulum. This post is dedicated to offering some examples of beautiful mathematical principles embedding themselves in simple physical topics. In the first part of these series, I will cover</p><ul><li><p>The principle of least action, which governs basic laws of motion you learned in high-school.</p></li><li><p>The surprising role of symmetry and how it relates to the conservation laws you learnt in high-school, like the conservation of energy and momentum.</p></li></ul><div><hr></div><h4>Objects are lazy, and behave like economists</h4><p>In school we learned basic yet non-obvious concepts about the laws of nature. One of these concepts is something we experience everyday, or something you might experience in full force having been in a bar fight\u200a\u2014\u200athe acceleration of an object is proportional to the force applied to it. Another law we learned is that a mysterious quantity called \u2018energy\u2019 is conserved if a system is left alone\u200a\u2014\u200abut it is often thrown under the blanket of what this really means. Let\u2019s dig into the first concept.</p><p>In high school, you may have tried to solve the \u2018force = mass x acceleration\u2019 equation. It is an equation which dictates the acceleration, and hence the subsequent motion, of a given object. This equation holds weight experimentally, but doesn\u2019t reveal that much insight into <em>why</em> objects obey this law. From a practical point of view, as complex systems get larger, solving large systems of equations of the above becomes difficult and not that enlightening.</p><p>There is a simple, elegant concept that reframes the \u2018F=ma\u2019 in an interesting way. Imagine rain water falling down the crevices of a mountain range. Over time, you might find that the water is\u200a\u2014\u200afor lack of a better word, lazy. The water takes the shortest, most economical path down the mountain, and this is the reason why we tend to see only one big river and only one valley. All of the water takes the past of least resistance down to the ocean.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 424w, https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 848w, https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 1272w, https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 424w, https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 848w, https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 1272w, https://cdn-images-1.medium.com/max/1320/1*-fVoOtT4FfYf9T0xwdc6bg.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">Water takes the least resistance path down the mountain.</figcaption></figure></div><p>Particles behave in the same way. There is a \u2018cost\u2019 quantity associated to its movement, which physicists call the \u2018Lagrangian\u2019. Imagine it like this. As your particle moves through a path, imagine that it is costing it some amount. This cost quantity allocates a real number at any given point in your toy universe. Then, if you give your particle a path, the total cost is the sum of the costs incurred at each point in time, throughout the path. In plain English, the Lagrangian often looks like:</p><p><em><strong>Lagrangian</strong></em> = <em><strong>Kinetic Energy</strong></em> minus <em><strong>Potential Energy.</strong></em></p><p>Geometrically, if you specify two points where the particle is meant to start and end, then a mathematical tool called the \u2018<em>Euler-Langrange</em>\u2019 equation finds the optimal path to minimise these costs that the particle has to take throughout time. This is exactly the geometrical principle which governs for example, the natural shape that a chain makes when it is suspended between two points. This formulation was designed such that any given point, the acceleration of the motion of the particle obeying this path is <em>exactly compatible</em> with the Newtonian equations of motion, but is a much more useful presentation.</p><p>The path analogy is not unique to simple mechanics. In the realm of physics, it is also essential to the path integral formulation of quantum mechanics, which Richard Feynman wrote about in 1948. He showed that in quantum mechanics, particles obey the classical notion of following the path of least action to the first-order approximation. In economics, Lagrangians are used all the time in optimisation problems to find a solution which maximises a consumer\u2019s utility.</p><p>There are benefits to using a \u2018cost function\u2019 like this other than just mathematical elegance. In Newton\u2019s formulation of physics, where we solve the force equation, the labels of position and velocity that we attach to objects depend on the frame in which we view the physical system. This makes analysis of physical systems messy. However, since this cost function is a real number, using the Lagrangian method frees us of having to choose a sensible frame of reference\u200a\u2014\u200ait is frame invariant.</p><p>One of the most important reasons is that Lagrangians make it convenient to analyse the inherent \u2018symmetry\u2019 in a given system. Symmetries are transformations that we can apply to a given path of a particle that leave the Lagrangian the same after we apply the transformation. For example, if the particle was free to move on its own, its Lagrangian would consist of <strong>just</strong> <strong>kinetic</strong> energy, which is not a function of where it is\u200a\u2014\u200aso translating the path itself wouldn\u2019t change the Lagrangian, and is therefore a symmetry.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 424w, https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 848w, https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 1272w, https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg\" data-attrs=\"{&quot;src&quot;:&quot;https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:null,&quot;width&quot;:null,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:&quot;&quot;,&quot;title&quot;:null,&quot;type&quot;:null,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" title=\"\" srcset=\"https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 424w, https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 848w, https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 1272w, https://cdn-images-1.medium.com/max/880/1*-tm4XRzj67IEEffD3CEGpg.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a><figcaption class=\"image-caption\">This image exhibits translational symmetry.</figcaption></figure></div><div><hr></div><h4>Symmetries govern conserved quantities</h4><p>Amazingly, it turns out that the existence of symmetries of the physical paths in the Lagrangian correspond to the existence of conserved quantities like momentum and energy. This is shown in <strong>Noether\u2019s theorem, </strong>which<strong> </strong>was proven by the magnificent mathematician <a href=\"https://en.wikipedia.org/wiki/Emmy_Noether\">Emmy Noether</a> in 1915. In the example that I gave in the previous section, it is the translational symmetry of a path which corresponds to the conservation of its <em>momentum.</em></p><p>Even more surprisingly, the conservation of the energy can be shown to be a consequence of the <em>time translational symmetry\u200a\u2014\u200a</em>or when the Lagrangian itself doesn\u2019t depend on time<em>. </em>In other words, if the background \u2018scene\u2019 of which a physical system is placed in remains the same throughout time, then the combined energy of that system will also remain the same. To use the mountain and water analogy, this would be equivalent to constraining the mountains to have the same shape throughout time.</p><p>In the same vein, if a system obeys rotational symmetry, then Noether\u2019s theorem states that angular momentum should be conserved\u200a\u2014\u200aa spinning object will remain spinning for eternity.</p><p>This concept of symmetry is pervasive not only in simple mechanics, but in pretty much every field of classical and modern physics. In quantum physics, the symmetry of quantum mechanical systems correspond to the conservation of quantum angular momentum. In the theory of electricity, the conservation of charge and spin of electrons are a result of symmetries that electrons obeyed as well.</p><h4>Takeaways</h4><p>I hope this article has served as a nice introduction to some interesting geometrical concepts in basic physics. I will write more on this topic, but until then\u200a\u2014\u200astay tuned!</p>",
+  "truncated_body_text": "Beautiful math wasn\u2019t exclusive to just my string theory lectures. I found most of it in a spinning top.",
+  "wordcount": 1267,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        232,
+        28,
+        216
+      ],
+      "population": 556
+    },
+    "DarkVibrant": {
+      "rgb": [
+        126,
+        10,
+        114
+      ],
+      "population": 96
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        33,
+        235
+      ],
+      "population": 208
+    },
+    "Muted": {
+      "rgb": [
+        116,
+        52,
+        108
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        4,
+        4,
+        4
+      ],
+      "population": 1117
+    },
+    "LightMuted": {
+      "rgb": [
+        150.95999999999998,
+        2.040000000000002,
+        139.39999999999995
+      ],
+      "population": 0
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

@@ -1,0 +1,563 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/using-linear-algebra-to-predict-a",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 181500317,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2025-12-13T11:34:08.304Z",
+  "updated_at": "2025-12-13T11:35:25.198Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "using-linear-algebra-to-predict-a",
+  "social_title": null,
+  "subtitle": "An excruciating explainer into Koopman Operator methods for non-linear systems.",
+  "teaser_post_eligible": true,
+  "title": "Using Linear Algebra To Predict A Non-Linear Pendulum",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 16
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "testing-a-cheaper-laminar-flow-hood",
+  "next_post_slug": "20-references-in-complexity-theory",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/55ee4aa1-b9d6-4207-8436-01db8d1adfc9_909x510.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 181500317,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "An excruciating explainer into Koopman Operator methods for non-linear systems.",
+  "body_html": "<p>Biological systems are non-linear. Non-linear systems are hard to reason about. But Koopman operators (Koopman 1931) are a clever method of attack that <strong>converts non-linear systems into linear ones.</strong> </p><p>The benefit is that we can use the familiar tools of linear algebra to predict future behaviour. Linear systems are  much easier to solve with computers than non linear ones, and we have tools like stability analysis to judge their qualitative properties. </p><p>The drawback is that we need to add (potentially infinitely more) variables to the system. But in modern times, this is less of an issue since we have better processors.  </p><p>In this post, I\u2019ll go into excruciating detail about how we can predict the non-linear motion of a simple pendulum using Koopman\u2019s techniques. Given the amount of computing power we have now, we should probably be taking a fresh look at these kinds of methods. </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;92b678b5-1d28-496d-80b2-e5cf15b20937&quot;,&quot;duration&quot;:null}\"></div><p>Here is the result, if you can\u2019t wait: </p><div class=\"native-video-embed\" data-component-name=\"VideoPlaceholder\" data-attrs=\"{&quot;mediaUploadId&quot;:&quot;49e67f39-4e41-4952-8694-12faf1d87150&quot;,&quot;duration&quot;:null}\"></div><p>I hope to renew some optimism that we can look at some of these techniques for non-linear systems in biology, like the Lotka-Volterra equations, or chemical networks. </p><p>This is technical piece, but if you have a basic math background please follow along, its not too hard! The rest of this post is an explainer of the much more obtuse paper <strong>Koopman, B. O. (1931). \u201cHamiltonian systems and transformation in Hilbert space.\u201d</strong> </p><div><hr></div><p>An example of a simple non-linear system is the damped pendulum. This is a mass <em><strong>m</strong></em> attached to a rigid rod of length <em><strong>L</strong></em>, swinging under gravity. The system is fully described by two variables - its angle, and its angular velocity. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\theta(t) &amp;\\\\text{ : angle from vertical (radians) } \\\\\\\\\\n\\\\omega(t) &amp;= \\\\dot{\\\\theta}(t) \\\\text{ :  angular velocity (rad/s) }\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;RZHSXUNPBH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!-rKH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!-rKH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 424w, https://substackcdn.com/image/fetch/$s_!-rKH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 848w, https://substackcdn.com/image/fetch/$s_!-rKH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 1272w, https://substackcdn.com/image/fetch/$s_!-rKH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!-rKH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png\" width=\"596\" height=\"1050\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1050,&quot;width&quot;:596,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:75145,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/181500317?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51687abc-1cff-48f3-a5be-4d7b095722dd_596x1050.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!-rKH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 424w, https://substackcdn.com/image/fetch/$s_!-rKH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 848w, https://substackcdn.com/image/fetch/$s_!-rKH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 1272w, https://substackcdn.com/image/fetch/$s_!-rKH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6a2efda9-a141-47ad-8472-5c4eb080c27a_596x1050.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The gravitational force perpendicular to the rod creates a force of mg sin(\u03b8). This creates a  torque: \u03c4_g = -mgL sin(\u03b8). We also having a damping factor, due to air resistance, that is proportional to the speed of the pendulum. This is a force with strength -\u03b3 \u03c9, and creates damping torque: \u03c4_d = -\u03b3 L \u03c9. </p><p>And so, the damped pendulum is described by the system of equations </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\theta}{dt} &amp;= \\\\omega \\\\\\\\\\n\\\\frac{d\\\\omega}{dt} &amp;= -\\\\frac{g}{L}\\\\sin(\\\\theta) - \\\\gamma \\\\omega\\n\\\\end{align}\\n&quot;,&quot;id&quot;:&quot;NRXGEZMKWF&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>where g is gravitational acceleration and \u03b3 is the damping coefficient.</p><div><hr></div><h3>The Koopman Transformation Trick. </h3><p>sin is a non linear function of the variable \u03b8, and so the sin(\u03b8) term makes this system a non-linear differential equation.</p><p>To get over this, one naive thing we can do is to label the sin(\u03b8) term as its own variable, and see what happens. Let\u2019s set </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;s = \\\\sin(\\\\theta)&quot;,&quot;id&quot;:&quot;MVWNDHICOJ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Now our system is</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\theta}{dt} &amp;= \\\\omega \\\\\\\\\\n\\\\frac{d\\\\omega}{dt} &amp;= -\\\\frac{g}{L}s - \\\\gamma \\\\omega\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;DDLGLOBBKU&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>This makes the first two equations linear in the variables involved. But, we are not allowed to just stop here. Doing this trick is not without a cost. Since s evolves as well, we also need to add s to our system whole sytem of equations. This gives us a system of three equations instead of two. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\theta}{dt} &amp;= \\\\omega \\\\text{,  which is linear. } \\\\\\\\\\n\\\\frac{d\\\\omega}{dt} &amp;= -\\\\frac{g}{L}s - \\\\gamma \\\\omega \\\\text{,  which is linear.  } \\\\\\\\\\n\\\\frac{ds}{dt} &amp;= \\\\frac{d}{dt}\\\\sin(\\\\theta) = \\\\cos(\\\\theta) \\\\cdot \\\\frac{d\\\\theta}{dt} = \\\\cos(\\\\theta) \\\\cdot \\\\omega\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;NNXYAXCXIT&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>We now have three equations, but the equation for s is not linear since it has a cos(\u03b8) term, and is <strong>also</strong> multiplied by a state variable \u03c9. Let\u2019s play dumb and replace this with a variable c as well, and continue the procedure. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\theta}{dt} &amp;= \\\\omega \\\\\\\\\\n\\\\frac{d\\\\omega}{dt} &amp;= -\\\\frac{g}{L}s - \\\\gamma \\\\omega \\\\\\\\\\n\\\\frac{ds}{dt} &amp;= c \\\\cdot \\\\omega\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;OYTXVCMRMY&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>We still need to add the evolution of c, so we differentiate it again.  </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{dc}{dt} = \\\\frac{d}{dt}\\\\cos(\\\\theta) = -\\\\sin(\\\\theta) \\\\cdot \\\\frac{d\\\\theta}{dt} = -s \\\\cdot \\\\omega\\n&quot;,&quot;id&quot;:&quot;CQBITUZTHK&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Now we have a system with 4 variables: (\u03b8, \u03c9, s, c)</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\theta}{dt} &amp;= \\\\omega \\\\\\\\\\n\\\\frac{d\\\\omega}{dt} &amp;= -\\\\frac{g}{L}s - \\\\gamma \\\\omega \\\\\\\\\\n\\\\frac{ds}{dt} &amp;= c \\\\cdot \\\\omega \\\\\\\\\\n\\\\frac{dc}{dt} &amp;= -s \\\\cdot \\\\omega\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;XYOJNTPFNA&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Even though we\u2019ve got rid of the sin and cos terms, the last two equations still have products like c \u00b7 \u03c9 and s \u00b7 \u03c9. This still makes them non-linear, since they are product of two variables. </p><p>We can still push ahead though, and add even more variables. Before that, instead of thinking of s and c as \u201cnew state variables,\u201d let\u2019s think of them as <strong>observables</strong> and give them new names. </p><p>- \u03c8\u2081(\u03b8, \u03c9) = \u03b8 (the angle)</p><p>- \u03c8\u2082(\u03b8, \u03c9) = \u03c9 (the angular velocity)  </p><p>- \u03c8\u2083(\u03b8, \u03c9) = sin(\u03b8) (the sine of the angle)</p><p>- \u03c8\u2084(\u03b8, \u03c9) = cos(\u03b8) (the cosine of the angle)</p><p>When the state (\u03b8, \u03c9) evolves according to the pendulum equations, the other observables evolve as:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\psi_1}{dt} &amp;= \\\\frac{d\\\\theta}{dt} = \\\\omega = \\\\psi_2 \\\\\\\\\\n\\\\frac{d\\\\psi_2}{dt} &amp;= \\\\frac{d\\\\omega}{dt} = -\\\\frac{g}{L}\\\\sin(\\\\theta) - \\\\gamma \\\\omega = -\\\\frac{g}{L}\\\\psi_3 - \\\\gamma \\\\psi_2 \\\\\\\\\\n\\\\frac{d\\\\psi_3}{dt} &amp;= \\\\frac{d}{dt}\\\\sin(\\\\theta) = \\\\cos(\\\\theta) \\\\cdot \\\\omega = \\\\psi_4 \\\\cdot \\\\psi_2 \\\\\\\\\\n\\\\frac{d\\\\psi_4}{dt} &amp;= \\\\frac{d}{dt}\\\\cos(\\\\theta) = -\\\\sin(\\\\theta) \\\\cdot \\\\omega = -\\\\psi_3 \\\\cdot \\\\psi_2\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;JREQDQAMBH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Following the procedure before, since \u03c8\u2084 \u00b7 \u03c8\u2082 and \u03c8\u2083 \u00b7 \u03c8\u2082 aren\u2019t in our observable space yet, we add them:</p><p>- \u03c8\u2085(\u03b8, \u03c9) = sin(\u03b8) \u00b7 \u03c9 = \u03c8\u2083 \u00b7 \u03c8\u2082</p><p>- \u03c8\u2086(\u03b8, \u03c9) = cos(\u03b8) \u00b7 \u03c9 = \u03c8\u2084 \u00b7 \u03c8\u2082</p><p>And so now we have </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\frac{d\\\\psi_3}{dt} &amp;= \\\\psi_6 \\\\\\\\\\n\\\\frac{d\\\\psi_4}{dt} &amp;= -\\\\psi_5\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;ZUNXHILSEZ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>But we need to know how \u03c8\u2085 and \u03c8\u2086 evolve, so we add even more equations </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\n\\\\begin{align}\\n\\\\frac{d\\\\psi_5}{dt} &amp;= \\\\frac{d}{dt}(\\\\sin(\\\\theta) \\\\cdot \\\\omega) = \\\\cos(\\\\theta) \\\\cdot \\\\omega^2 + \\\\sin(\\\\theta) \\\\cdot \\\\frac{d\\\\omega}{dt} \\\\\\\\\\n&amp;= \\\\psi_4 \\\\cdot \\\\omega^2 + \\\\psi_3 \\\\cdot \\\\left(-\\\\frac{g}{L}\\\\psi_3 - \\\\gamma \\\\psi_2\\\\right)\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;VTFDIZRWQY&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>And so we need \u03c9\u00b2 as another observable! But by now, you have got the point. As we keep adding observables to \u201cclose\u201d the system (make all derivatives expressible in terms of a linear combination of existing observables), we\u2019re building up an <strong>infinite-dimensional</strong> space of new variables. Sometimes, the procedure ends. But most of the time, the process goes on forever. </p><p>In the case of the damped pendulum, we end up with an observable space like </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\boldsymbol{\\\\psi} = (\\\\theta, \\\\omega, \\\\sin(\\\\theta), \\\\cos(\\\\theta), \\\\theta^2, \\\\omega^2, \\\\theta\\\\omega, \\\\sin(2\\\\theta), \\\\cos(2\\\\theta), \\\\ldots)&quot;,&quot;id&quot;:&quot;ZRTXOESNRJ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Where we\u2019ve transformed the non linear system into a linear one </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{d}{dt}\\\\boldsymbol{\\\\psi} = \\\\mathbf{K} \\\\boldsymbol{\\\\psi}\\n&quot;,&quot;id&quot;:&quot;KVOFNUGYHB&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>where <strong>K is a linear operator - the Koopman operator</strong>. </p><p>So what does K look like. Based on our evolution equations, let\u2019s see the structure. For the first 4 observables, we have </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{d}{dt}\\\\begin{pmatrix} \\\\psi_1 \\\\\\\\ \\\\psi_2 \\\\\\\\ \\\\psi_3 \\\\\\\\ \\\\psi_4 \\\\end{pmatrix} = \\\\begin{pmatrix} \\n\\\\frac{d\\\\psi_1}{dt} \\\\\\\\ \\n\\\\frac{d\\\\psi_2}{dt} \\\\\\\\ \\n\\\\frac{d\\\\psi_3}{dt} \\\\\\\\ \\n\\\\frac{d\\\\psi_4}{dt}\\n\\\\end{pmatrix} = \\\\begin{pmatrix}\\n\\\\psi_2 \\\\\\\\\\n-\\\\frac{g}{L}\\\\psi_3 - \\\\gamma \\\\psi_2 \\\\\\\\\\n\\\\psi_4 \\\\cdot \\\\psi_2 \\\\\\\\\\n-\\\\psi_3 \\\\cdot \\\\psi_2\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;GWNLMSYXJB&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>But \u03c8\u2084 \u00b7 \u03c8\u2082 and -\u03c8\u2083 \u00b7 \u03c8\u2082 aren\u2019t linear combinations yet! We need to add \u03c8\u2085 = \u03c8\u2084 \u00b7 \u03c8\u2082 and \u03c8\u2086 = \u03c8\u2083 \u00b7 \u03c8\u2082. Then:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{d}{dt}\\\\begin{pmatrix} \\\\psi_1 \\\\\\\\ \\\\psi_2 \\\\\\\\ \\\\psi_3 \\\\\\\\ \\\\psi_4 \\\\\\\\ \\\\psi_5 \\\\\\\\ \\\\psi_6 \\\\end{pmatrix} = \\\\begin{pmatrix}\\n\\\\psi_2 \\\\\\\\\\n-\\\\frac{g}{L}\\\\psi_3 - \\\\gamma \\\\psi_2 \\\\\\\\\\n\\\\psi_6 \\\\\\\\\\n-\\\\psi_5 \\\\\\\\\\n\\\\text{(needs more observables)} \\\\\\\\\\n\\\\text{(needs more observables)}\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;SDFBPQALOJ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>So the **partial** K matrix (for the first 6 observables) looks like:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{K}_{6 \\\\times 6} = \\\\begin{pmatrix}\\n0 &amp; 1 &amp; 0 &amp; 0 &amp; 0 &amp; 0 \\\\\\\\\\n0 &amp; -\\\\gamma &amp; -\\\\frac{g}{L} &amp; 0 &amp; 0 &amp; 0 \\\\\\\\\\n0 &amp; 0 &amp; 0 &amp; 0 &amp; 0 &amp; 1 \\\\\\\\\\n0 &amp; 0 &amp; 0 &amp; 0 &amp; -1 &amp; 0 \\\\\\\\\\n? &amp; ? &amp; ? &amp; ? &amp; ? &amp; ? \\\\\\\\\\n? &amp; ? &amp; ? &amp; ? &amp; ? &amp; ?\\n\\\\end{pmatrix}\\n&quot;,&quot;id&quot;:&quot;OSCSTIUQOI&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The `?` entries show that d\u03c8\u2085/dt and d\u03c8\u2086/dt require more observables (like \u03c9\u00b2, sin\u00b2(\u03b8), etc.) to be expressed as linear combinations.</p><div><hr></div><h3>On To Prediction!</h3><p>Now that we have a basis set of observables, we can do some pretty interesting things. One is \u2018learning\u2019 the motion of the pendulum by using these observables as a basis! The following method is called the \u2018extended dynamic mode decomposition approach\u2019. </p><p>The intuition is to add the observables above, to closely approximate the non-linear system, and find a matrix that gives us the next time step. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\boldsymbol{\\\\psi}(t +\\\\Delta t) = \\\\mathbf{K} \\\\boldsymbol{\\\\psi}(t)&quot;,&quot;id&quot;:&quot;VYMJFCVUYI&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>First, we measure the system to get states x(t\u2081), x(t\u2082), \u2026, x(t_M). For a pendulum, these are [\u03b8(t_i), \u03c9(t_i)] pairs</p><p>Suppose we have collected M=5 time points with states, from recording it wth a camera, or doing a simulation. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\mathbf{x}(t_1) &amp;= [\\\\theta(t_1), \\\\omega(t_1)] = [0.5, 0.2] \\\\\\\\\\n\\\\mathbf{x}(t_2) &amp;= [\\\\theta(t_2), \\\\omega(t_2)] = [0.6, 0.15] \\\\\\\\\\n\\\\mathbf{x}(t_3) &amp;= [\\\\theta(t_3), \\\\omega(t_3)] = [0.65, 0.1] \\\\\\\\\\n\\\\mathbf{x}(t_4) &amp;= [\\\\theta(t_4), \\\\omega(t_4)] = [0.7, 0.05] \\\\\\\\\\n\\\\mathbf{x}(t_5) &amp;= [\\\\theta(t_5), \\\\omega(t_5)] = [0.72, 0.0]\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;JUNSFMIZDF&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>We then choose N=6 observables, from the observable space that we chose in the previous example. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\begin{align}\\n\\\\psi_1(\\\\mathbf{x}) &amp;= \\\\theta \\\\\\\\\\n\\\\psi_2(\\\\mathbf{x}) &amp;= \\\\omega \\\\\\\\\\n\\\\psi_3(\\\\mathbf{x}) &amp;= \\\\sin(\\\\theta) \\\\\\\\\\n\\\\psi_4(\\\\mathbf{x}) &amp;= \\\\cos(\\\\theta) \\\\\\\\\\n\\\\psi_5(\\\\mathbf{x}) &amp;= \\\\theta^2 \\\\\\\\\\n\\\\psi_6(\\\\mathbf{x}) &amp;= \\\\omega^2\\n\\\\end{align}&quot;,&quot;id&quot;:&quot;VYZPRZRGMT&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The idea is to build a matrix that \u2018predicts\u2019 then next time step. So we select the first 4 time steps to build <strong>Matrix X</strong> (observables at times t\u2081 to t\u2084):</p><p>Each column is \u03c8(x(t_i)):</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{X} = \\\\begin{pmatrix}\\n\\\\theta(t_1) &amp; \\\\theta(t_2) &amp; \\\\theta(t_3) &amp; \\\\theta(t_4) \\\\\\\\\\n\\\\omega(t_1) &amp; \\\\omega(t_2) &amp; \\\\omega(t_3) &amp; \\\\omega(t_4) \\\\\\\\\\n\\\\sin(\\\\theta(t_1)) &amp; \\\\sin(\\\\theta(t_2)) &amp; \\\\sin(\\\\theta(t_3)) &amp; \\\\sin(\\\\theta(t_4)) \\\\\\\\\\n\\\\cos(\\\\theta(t_1)) &amp; \\\\cos(\\\\theta(t_2)) &amp; \\\\cos(\\\\theta(t_3)) &amp; \\\\cos(\\\\theta(t_4)) \\\\\\\\\\n\\\\theta(t_1)^2 &amp; \\\\theta(t_2)^2 &amp; \\\\theta(t_3)^2 &amp; \\\\theta(t_4)^2 \\\\\\\\\\n\\\\omega(t_1)^2 &amp; \\\\omega(t_2)^2 &amp; \\\\omega(t_3)^2 &amp; \\\\omega(t_4)^2\\n\\\\end{pmatrix}\\n&quot;,&quot;id&quot;:&quot;BGCOPWFFFM&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Substituting our example values:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{X} = \\\\begin{pmatrix}\\n0.5 &amp; 0.6 &amp; 0.65 &amp; 0.7 \\\\\\\\\\n0.2 &amp; 0.15 &amp; 0.1 &amp; 0.05 \\\\\\\\\\n\\\\sin(0.5) &amp; \\\\sin(0.6) &amp; \\\\sin(0.65) &amp; \\\\sin(0.7) \\\\\\\\\\n\\\\cos(0.5) &amp; \\\\cos(0.6) &amp; \\\\cos(0.65) &amp; \\\\cos(0.7) \\\\\\\\\\n0.5^2 &amp; 0.6^2 &amp; 0.65^2 &amp; 0.7^2 \\\\\\\\\\n0.2^2 &amp; 0.15^2 &amp; 0.1^2 &amp; 0.05^2\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;HCUVZDSBHV&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The we shift time by one unit, to build<strong> Matrix Y</strong> (observables at times t\u2082 to t\u2085). Each column is \u03c8(x(t_{i+1})):</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\n\\\\mathbf{Y} = \\\\begin{pmatrix}\\n\\\\theta(t_2) &amp; \\\\theta(t_3) &amp; \\\\theta(t_4) &amp; \\\\theta(t_5) \\\\\\\\\\n\\\\omega(t_2) &amp; \\\\omega(t_3) &amp; \\\\omega(t_4) &amp; \\\\omega(t_5) \\\\\\\\\\n\\\\sin(\\\\theta(t_2)) &amp; \\\\sin(\\\\theta(t_3)) &amp; \\\\sin(\\\\theta(t_4)) &amp; \\\\sin(\\\\theta(t_5)) \\\\\\\\\\n\\\\cos(\\\\theta(t_2)) &amp; \\\\cos(\\\\theta(t_3)) &amp; \\\\cos(\\\\theta(t_4)) &amp; \\\\cos(\\\\theta(t_5)) \\\\\\\\\\n\\\\theta(t_2)^2 &amp; \\\\theta(t_3)^2 &amp; \\\\theta(t_4)^2 &amp; \\\\theta(t_5)^2 \\\\\\\\\\n\\\\omega(t_2)^2 &amp; \\\\omega(t_3)^2 &amp; \\\\omega(t_4)^2 &amp; \\\\omega(t_5)^2\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;GOKRRSRVWW&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Substituting our example values:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{Y} = \\\\begin{pmatrix}\\n0.6 &amp; 0.65 &amp; 0.7 &amp; 0.72 \\\\\\\\\\n0.15 &amp; 0.1 &amp; 0.05 &amp; 0.0 \\\\\\\\\\n\\\\sin(0.6) &amp; \\\\sin(0.65) &amp; \\\\sin(0.7) &amp; \\\\sin(0.72) \\\\\\\\\\n\\\\cos(0.6) &amp; \\\\cos(0.65) &amp; \\\\cos(0.7) &amp; \\\\cos(0.72) \\\\\\\\\\n0.6^2 &amp; 0.65^2 &amp; 0.7^2 &amp; 0.72^2 \\\\\\\\\\n0.15^2 &amp; 0.1^2 &amp; 0.05^2 &amp; 0.0^2\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;PGGIIZQYFP&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>And now we solve for the matrix that gives us Y from X. From data, we have Y = K X. And we solve for K using least squares: K = Y X\u207a where X\u207a is the pseudoinverse. This gives us the finite-dimensional approximation K_N (an N \u00d7 N matrix)</p><p>The learned Koopman operator K is a 6 \u00d7 6 matrix, and we can use this to predict evolution. </p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\n\\\\mathbf{K} = \\\\begin{pmatrix}\\nK_{11} &amp; K_{12} &amp; K_{13} &amp; K_{14} &amp; K_{15} &amp; K_{16} \\\\\\\\\\nK_{21} &amp; K_{22} &amp; K_{23} &amp; K_{24} &amp; K_{25} &amp; K_{26} \\\\\\\\\\nK_{31} &amp; K_{32} &amp; K_{33} &amp; K_{34} &amp; K_{35} &amp; K_{36} \\\\\\\\\\nK_{41} &amp; K_{42} &amp; K_{43} &amp; K_{44} &amp; K_{45} &amp; K_{46} \\\\\\\\\\nK_{51} &amp; K_{52} &amp; K_{53} &amp; K_{54} &amp; K_{55} &amp; K_{56} \\\\\\\\\\nK_{61} &amp; K_{62} &amp; K_{63} &amp; K_{64} &amp; K_{65} &amp; K_{66}\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;DDMJWXFFRH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>And now, each row i tells us how observable \u03c8_i evolves!</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\frac{d\\\\psi_i}{dt} \\\\approx \\\\sum_{j=1}^{6} K_{ij} \\\\psi_j&quot;,&quot;id&quot;:&quot;XSQXHWBJSO&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p></p><p>To show this explicitly, let\u2019s predict the next time step. Suppose we start with x(0) = [0.5, 0.2]:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\boldsymbol{\\\\psi}(0) = \\\\begin{pmatrix}\\n0.5 \\\\\\\\\\n0.2 \\\\\\\\\\n\\\\sin(0.5) \\\\\\\\\\n\\\\cos(0.5) \\\\\\\\\\n0.5^2 \\\\\\\\\\n0.2^2\\n\\\\end{pmatrix} = \\\\begin{pmatrix}\\n0.5 \\\\\\\\\\n0.2 \\\\\\\\\\n\\\\sin(0.5) \\\\\\\\\\n\\\\cos(0.5) \\\\\\\\\\n0.25 \\\\\\\\\\n0.04\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;LUMQBPKONT&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>After one time step:</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\boldsymbol{\\\\psi}(\\\\Delta t) = \\\\mathbf{K} \\\\boldsymbol{\\\\psi}(0) = \\\\begin{pmatrix}\\nK_{11} \\\\cdot 0.5 + K_{12} \\\\cdot 0.2 + K_{13} \\\\cdot \\\\sin(0.5) + K_{14} \\\\cdot \\\\cos(0.5) + K_{15} \\\\cdot 0.25 + K_{16} \\\\cdot 0.04 \\\\\\\\\\nK_{21} \\\\cdot 0.5 + K_{22} \\\\cdot 0.2 + K_{23} \\\\cdot \\\\sin(0.5) + K_{24} \\\\cdot \\\\cos(0.5) + K_{25} \\\\cdot 0.25 + K_{26} \\\\cdot 0.04 \\\\\\\\\\n\\\\vdots \\\\\\\\\\nK_{61} \\\\cdot 0.5 + K_{62} \\\\cdot 0.2 + K_{63} \\\\cdot \\\\sin(0.5) + K_{64} \\\\cdot \\\\cos(0.5) + K_{65} \\\\cdot 0.25 + K_{66} \\\\cdot 0.04\\n\\\\end{pmatrix}&quot;,&quot;id&quot;:&quot;AKYGUBVERZ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>The predicted state is</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\mathbf{x}(\\\\Delta t) = [\\\\psi_1(\\\\Delta t), \\\\psi_2(\\\\Delta t)]\\n&quot;,&quot;id&quot;:&quot;NQSVTAPSZX&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>and so we\u2019ve successfully transformed a non-linear system into a linear one! </p><div><hr></div><h3>Predicting a Pendulum!  </h3><p>After coding this process up, I tried to predict the behaviour of such a damped pendulum, whilst seeing if adding the number of observables increased the accuracy. It turns out that for the damped pendulum, the method works pretty well!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!pDei!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!pDei!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 424w, https://substackcdn.com/image/fetch/$s_!pDei!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 848w, https://substackcdn.com/image/fetch/$s_!pDei!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 1272w, https://substackcdn.com/image/fetch/$s_!pDei!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!pDei!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png\" width=\"1200\" height=\"292.5824175824176\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/101ab820-c427-4723-aa70-24250cb38965_1698x414.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:355,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:181885,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/181500317?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-large\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!pDei!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 424w, https://substackcdn.com/image/fetch/$s_!pDei!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 848w, https://substackcdn.com/image/fetch/$s_!pDei!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 1272w, https://substackcdn.com/image/fetch/$s_!pDei!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F101ab820-c427-4723-aa70-24250cb38965_1698x414.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>As you can see, the more variables we add, the closer we get to the actual behaviour of the pendulum! You can also see the improvement in phase space, where we plot the angle against the angular velocity. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ycCP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ycCP!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 424w, https://substackcdn.com/image/fetch/$s_!ycCP!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 848w, https://substackcdn.com/image/fetch/$s_!ycCP!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 1272w, https://substackcdn.com/image/fetch/$s_!ycCP!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ycCP!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png\" width=\"1200\" height=\"262.655601659751\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d362d738-cb11-4466-915f-6349eb16ae26_964x211.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:211,&quot;width&quot;:964,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:94997,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/181500317?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-large\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ycCP!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 424w, https://substackcdn.com/image/fetch/$s_!ycCP!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 848w, https://substackcdn.com/image/fetch/$s_!ycCP!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 1272w, https://substackcdn.com/image/fetch/$s_!ycCP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd362d738-cb11-4466-915f-6349eb16ae26_964x211.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>Taking the average of the errors, we can also see that the mean error decreases as we add observables. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Z7rK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Z7rK!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 424w, https://substackcdn.com/image/fetch/$s_!Z7rK!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 848w, https://substackcdn.com/image/fetch/$s_!Z7rK!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 1272w, https://substackcdn.com/image/fetch/$s_!Z7rK!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Z7rK!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png\" width=\"1200\" height=\"279.2140641158221\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/0610aa32-31f5-4758-adfb-002997d698ac_967x225.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:225,&quot;width&quot;:967,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:82490,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/181500317?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-large\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Z7rK!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 424w, https://substackcdn.com/image/fetch/$s_!Z7rK!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 848w, https://substackcdn.com/image/fetch/$s_!Z7rK!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 1272w, https://substackcdn.com/image/fetch/$s_!Z7rK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0610aa32-31f5-4758-adfb-002997d698ac_967x225.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div></div></div></a></figure></div><p>Ok, so how does this work for different levels of damping? Using six observables, we also find pretty decent results!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!wUe0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!wUe0!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 424w, https://substackcdn.com/image/fetch/$s_!wUe0!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 848w, https://substackcdn.com/image/fetch/$s_!wUe0!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 1272w, https://substackcdn.com/image/fetch/$s_!wUe0!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!wUe0!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png\" width=\"1200\" height=\"868.75\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:695,&quot;width&quot;:960,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:291943,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/181500317?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-large\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!wUe0!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 424w, https://substackcdn.com/image/fetch/$s_!wUe0!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 848w, https://substackcdn.com/image/fetch/$s_!wUe0!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 1272w, https://substackcdn.com/image/fetch/$s_!wUe0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F97c6d94a-2f22-4119-8ef2-20b32b25b4f6_960x695.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And so, I hope that you guys are convinced that there are some pretty cool methods to try and predict non-linear systems. </p><p>Thank you to David Jordan at Living Physics for the extensive discussions. </p><div><hr></div><h3>References </h3><p><strong>Koopman, B. O. (1931). \u201cHamiltonian systems and transformation in Hilbert space.\u201d</strong> <em>Proc. Natl. Acad. Sci.</em> <strong>17</strong> 315-318.</p>",
+  "truncated_body_text": "Biological systems are non-linear. Non-linear systems are hard to reason about. But Koopman operators (Koopman 1931) are a clever method of attack that converts non-linear systems into linear ones.",
+  "wordcount": 1377,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        252,
+        56,
+        57
+      ],
+      "population": 6
+    },
+    "DarkVibrant": {
+      "rgb": [
+        55,
+        156,
+        53
+      ],
+      "population": 5
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        106,
+        108
+      ],
+      "population": 4
+    },
+    "Muted": {
+      "rgb": [
+        108,
+        180,
+        108
+      ],
+      "population": 1
+    },
+    "DarkMuted": {
+      "rgb": [
+        108,
+        108,
+        108
+      ],
+      "population": 3
+    },
+    "LightMuted": {
+      "rgb": [
+        164,
+        204,
+        164
+      ],
+      "population": 2
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "paidPublicationIds": [],
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 16,
+  "comment_count": 2,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 181500317,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/181500317/tts/7e53010f-1179-4bde-bc97-2f276dbbff29/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 190701599,
+      "body": "Great post. One key insight:\nNon-linear systems ARE bounded systems.\nLinear systems = unbounded approximation (works for small ranges)\nNon-linearity appears when you hit bounds:\nSaturation effects\nResource limits\nFeedback constraints\nThe pendulum becomes non-linear because:\nVelocity is bounded by energy\nAngle has geometric constraints\nDamping creates dissipation bounds\nKoopman operators work because:\nThey find observables that respect the system's actual bounds, making the bounded dynamics look linear in the right coordinate system.\nBiology is non-linear BECAUSE it's bounded:\nMetabolism saturates\nReceptors max out\nResources deplete\nEvery non-linear system you linearize with Koopman = revealing its bounded structure.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Great post. One key insight:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Non-linear systems ARE bounded systems."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Linear systems = unbounded approximation (works for small ranges)"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Non-linearity appears when you hit bounds:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Saturation effects"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Resource limits"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Feedback constraints"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "The pendulum becomes non-linear because:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Velocity is bounded by energy"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Angle has geometric constraints"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Damping creates dissipation bounds"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Koopman operators work because:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "They find observables that respect the system's actual bounds, making the bounded dynamics look linear in the right coordinate system."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Biology is non-linear BECAUSE it's bounded:"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Metabolism saturates"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Receptors max out"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Resources deplete"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Every non-linear system you linearize with Koopman = revealing its bounded structure."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 181500317,
+      "user_id": 407727775,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-12-22T21:43:01.263Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Daniel John Murray",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c8282a58-b319-4e76-bd46-ac03d05ddc08_1920x1920.webp",
+      "handle": "danieljmurray",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "danieljmurray",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Daniel John Murray",
+          "id": 6697111,
+          "base_url": "https://danieljmurray.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 187620429,
+      "body": "This is a beautiful explanation of the basic idea behind Koopman\u2019s operator! Thanks~",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1"
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "This is a beautiful explanation of the basic idea behind Koopman\u2019s operator! Thanks~"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 181500317,
+      "user_id": 33570925,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2025-12-14T08:20:50.312Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Mario Pasquato",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2daed885-c0d5-4491-8198-3d31a46d8502_1221x1221.jpeg",
+      "handle": "mariopasquato",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "mariopasquato",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Mario\u2019s Substack",
+          "id": 1344747,
+          "base_url": "https://mariopasquato.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

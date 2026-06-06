@@ -1,0 +1,431 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-would-an-intelligent-system-do",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 199662883,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-05-28T21:54:05.628Z",
+  "updated_at": "2026-05-28T22:01:07.178Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-would-an-intelligent-system-do",
+  "social_title": "How Would An Intelligent System Do Physics?",
+  "subtitle": "On objects and regimes. ",
+  "teaser_post_eligible": true,
+  "title": "How Would An Intelligent System Do Physics?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-particle-comes-alive",
+  "next_post_slug": "join-the-independent-science-society",
+  "cover_image": "https://substack-post-media.s3.amazonaws.com/public/images/21d3ed0b-5800-4641-9237-3c8b3c294b7a_667x303.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 199662883,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On objects and regimes.",
+  "body_html": "<p>How would we get an intelligent machine to figure out physics? I'm going to go through what's hard, and why I think there are a lot of philosophical problems to be solved.</p><p>Suppose someone shows you a picture of a ball above the ground and then asks you what is meant to happen next.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!C1gh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!C1gh!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 424w, https://substackcdn.com/image/fetch/$s_!C1gh!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 848w, https://substackcdn.com/image/fetch/$s_!C1gh!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!C1gh!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!C1gh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!C1gh!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 424w, https://substackcdn.com/image/fetch/$s_!C1gh!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 848w, https://substackcdn.com/image/fetch/$s_!C1gh!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!C1gh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd29bd8f4-8e17-49f5-9307-e818429f2c48_900x720.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>To you, it is obvious - the ball will fall. Even if you don't know physics, you know that when it hits the floor, you expect it to bounce. You will then expect it to bounce less and less until it comes to rest.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!BIXe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!BIXe!,w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 424w, https://substackcdn.com/image/fetch/$s_!BIXe!,w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 848w, https://substackcdn.com/image/fetch/$s_!BIXe!,w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 1272w, https://substackcdn.com/image/fetch/$s_!BIXe!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!BIXe!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!BIXe!,w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 424w, https://substackcdn.com/image/fetch/$s_!BIXe!,w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 848w, https://substackcdn.com/image/fetch/$s_!BIXe!,w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 1272w, https://substackcdn.com/image/fetch/$s_!BIXe!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F836383d6-6091-43a9-a81b-e6fb7424554d_640x520.gif 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>You know this because even before you started learning physics, you saw similar objects doing the same thing as a kid. At some point when you were x months old, your brain suddenly pattern recognised that things called 'objects' fell down when you dropped them. It's unclear when people actually learn this though. </p><p>On the other hand, sometimes its not obvious. Humans also get classical physics wrong. Remember, before Galileo, it was thought that bigger masses would fall to the ground first. That was until the anecdote about him dropping two masses of the tower of Pisa!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!axTc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!axTc!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 424w, https://substackcdn.com/image/fetch/$s_!axTc!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 848w, https://substackcdn.com/image/fetch/$s_!axTc!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!axTc!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!axTc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!axTc!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 424w, https://substackcdn.com/image/fetch/$s_!axTc!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 848w, https://substackcdn.com/image/fetch/$s_!axTc!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!axTc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F542f9716-94f7-4a6f-a604-a1be12f7f684_1164x976.jpeg 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p><a href=\"https://en.wikipedia.org/wiki/Galileo%27s_Leaning_Tower_of_Pisa_experiment\">Galileo\u2019s Leaning Tower of Pisa experiment</a>, Wikipedia.*</p><p>OK so suppose an intelligent being with no context looked at a picture of the ball. And then you ask it, what's next? If you didn't hint what objects needed to be modellds, it would need to know what the 'objects' of interest are.</p><p>First, it would have to recognise what the objects in the frame are. There is still work to be done on defining what the boundaries of an object are, but that's for another post. For now, we can say that most machine learning systems can at least identify objects in image of the regular world. So our intelligent system might make the following labels:</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!gsZV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!gsZV!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 424w, https://substackcdn.com/image/fetch/$s_!gsZV!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 848w, https://substackcdn.com/image/fetch/$s_!gsZV!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!gsZV!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!gsZV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!gsZV!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 424w, https://substackcdn.com/image/fetch/$s_!gsZV!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 848w, https://substackcdn.com/image/fetch/$s_!gsZV!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!gsZV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5940f45a-372d-4d83-b18e-52dc97a8de7d_900x720.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>But this is hard, because things are made of smaller things and the intelligent system needs to recognise what level of grouping is important. For example, suppose the intelligent system did identify 'air' as an important component of the physical scene. Does that mean it considers air as 'space', or for what it is, a bunch of molecules. Does it know the atmospheric pressure of the air? Or it's composition between hydrogen, oxygen and nitrogen?</p><p>And even if it did get the groupings right, how does it know what objects are <strong>important</strong>? You, as a human, have an understanding that the ball is separate from the rest of the scene and that it's significantly important to model. You also consider the air as just 'space' that the ball can move in. And you also know to NOT care about the clouds and the trees in the background.</p><p>But how would an intelligent system with no context about the world know this?!</p><p>For the moment, let's assume that it <strong>does</strong> identify that the ball, ground and air are important. And let's assume that it also knows physics up till the 1950s.</p><p>Then, it would need to apply some laws to model the behaviour of the ball. But what regime should it apply? If the ball was normal sized, then we would use Newton's classical regime. But if we did that we would have to choose what we model the ball as. Is it a particle, rigid body, or elastic body?</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!SSmT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!SSmT!,w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 424w, https://substackcdn.com/image/fetch/$s_!SSmT!,w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 848w, https://substackcdn.com/image/fetch/$s_!SSmT!,w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!SSmT!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!SSmT!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!SSmT!,w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 424w, https://substackcdn.com/image/fetch/$s_!SSmT!,w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 848w, https://substackcdn.com/image/fetch/$s_!SSmT!,w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!SSmT!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9eb8718-5d5e-44d9-a990-4e667d64e922_960x460.gif 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And once we decide that we would need to decide how we model the ground. If the ground is part of a bigger Earth, then in theory the ground should move too! But hold on, we haven't even modelled the air resistance yet. If we were to do that, then we have some choices too! If the ball is travelling slowly, we might use Stokes law to model the friction from the air. But if it's fast, the ball will cause turbulence in the air around it which changes the physics.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!yuZy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!yuZy!,w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 424w, https://substackcdn.com/image/fetch/$s_!yuZy!,w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 848w, https://substackcdn.com/image/fetch/$s_!yuZy!,w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!yuZy!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!yuZy!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/d8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!yuZy!,w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 424w, https://substackcdn.com/image/fetch/$s_!yuZy!,w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 848w, https://substackcdn.com/image/fetch/$s_!yuZy!,w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 1272w, https://substackcdn.com/image/fetch/$s_!yuZy!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8964636-2e80-47bc-9535-42b2db5a6cbb_960x460.gif 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And that's just the classical case. If we were working in the quantum case, the ball would need to be modelled as a probability distribution, with the ground acting as a potential well. Then the intelligent system would need to then solve Schrodinger's equations, choosing the correct boundary conditions from the ground.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!AQw6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!AQw6!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 424w, https://substackcdn.com/image/fetch/$s_!AQw6!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 848w, https://substackcdn.com/image/fetch/$s_!AQw6!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!AQw6!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!AQw6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!AQw6!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 424w, https://substackcdn.com/image/fetch/$s_!AQw6!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 848w, https://substackcdn.com/image/fetch/$s_!AQw6!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!AQw6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5939d2ee-0f32-426d-98d7-292865d9e8e5_780x620.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And let's not even get into the general relativity case...</p><p>And so with this, the main barrier for an intelligent system to model physics seems to me the selection of important objects (whatever that means), and the selection of the right physical regime. If we do figure this out, then there's the question of if an intelligent machine could figure out physical laws from training data. More on that in the next post!</p>",
+  "truncated_body_text": "How would we get an intelligent machine to figure out physics? I'm going to go through what's hard, and why I think there are a lot of philosophical problems to be solved.",
+  "wordcount": 775,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        211,
+        79,
+        66
+      ],
+      "population": 49
+    },
+    "DarkVibrant": {
+      "rgb": [
+        107.55965665236052,
+        32.43862660944207,
+        25.040343347639492
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        244,
+        235
+      ],
+      "population": 5046
+    },
+    "Muted": {
+      "rgb": [
+        92,
+        173,
+        91
+      ],
+      "population": 30
+    },
+    "DarkMuted": {
+      "rgb": [
+        65,
+        84,
+        54
+      ],
+      "population": 97
+    },
+    "LightMuted": {
+      "rgb": [
+        197,
+        197,
+        180
+      ],
+      "population": 7
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 8,
+  "comment_count": 5,
+  "child_comment_count": 3,
+  "audio_items": [
+    {
+      "post_id": 199662883,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/199662883/tts/6bc6a107-67f4-4e2a-bd5f-e8c612c7655e/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 267192926,
+      "body": "Regarding how would an intelligence guess which groupings are important: I think we would want it to form guesses based on assuming that \u201cobjects\u201d are tightly bound states of matter such that its bulk properties are conserved, or at least well defined.\n\nPerhaps we also need to add the assumption that the object\u2019s innards are uniform and well mixed.\n\nSudden, nonlinear transitions - like the sharp boundaries in an image formed by an object against its background - would be clues to inform the guesses.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Regarding how would an intelligence guess which groupings are important: I think we would want it to form guesses based on assuming that \u201cobjects\u201d are tightly bound states of matter such that its bulk properties are conserved, or at least well defined."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Perhaps we also need to add the assumption that the object\u2019s innards are uniform and well mixed."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Sudden, nonlinear transitions - like the sharp boundaries in an image formed by an object against its background - would be clues to inform the guesses."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 199662883,
+      "user_id": 163323606,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-05-29T15:46:57.598Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Make Lying Wrong Again",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d1ecacec-58f2-4cf3-af99-c13c1e42c33b_1206x1637.jpeg",
+      "handle": "makelyingwrongagain1",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "makelyingwrongagain1",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Make Lying Wrong Again",
+          "id": 8800409,
+          "base_url": "https://makelyingwrongagain1.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    },
+    {
+      "id": 266839126,
+      "body": "One thing we should tell the intelligent system because it is not understandable from a single picture is the initial velocity of the ball. More to your question: maybe we could empirically find out how an intelligent system learns physics by training it on video (or even on simulation) and then doing mechanistic interpretability on it. The bog question is whether it would have circuits that perform intelligible operations for us",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "One thing we should tell the intelligent system because it is not understandable from a single picture is the initial velocity of the ball. More to your question: maybe we could empirically find out how an intelligent system learns physics by training it on video (or even on simulation) and then doing mechanistic interpretability on it. The bog question is whether it would have circuits that perform intelligible operations for us"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 199662883,
+      "user_id": 33570925,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-05-28T22:50:06.780Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Mario Pasquato",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/2daed885-c0d5-4491-8198-3d31a46d8502_1221x1221.jpeg",
+      "handle": "mariopasquato",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "mariopasquato",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Mario\u2019s Substack",
+          "id": 1344747,
+          "base_url": "https://mariopasquato.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    }
+  ]
+}

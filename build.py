@@ -1,10 +1,29 @@
 """Build the static blog from scraped Substack JSON."""
 import json
+import re
 import shutil
 from datetime import datetime
 from pathlib import Path
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from bs4 import BeautifulSoup
+
+NBSP = " "
+
+# Substack embeds non-breaking spaces (&nbsp; -> U+00A0) inside LaTeX, e.g.
+# "$$ \xa0d\tau ^2 \xa0= \frac {..} {..} $$".  MathJax can't tokenize U+00A0,
+# so the math silently fails to render.  Normalize it to a plain space inside
+# math delimiters only (display $$..$$ and inline $..$), leaving prose untouched.
+_DISPLAY_MATH = re.compile(r"\$\$.+?\$\$", re.S)
+_INLINE_MATH = re.compile(r"(?<!\$)\$(?!\$).+?(?<!\$)\$(?!\$)", re.S)
+
+
+def fix_math(html: str) -> str:
+    if not html or "$" not in html:
+        return html
+    repl = lambda m: m.group(0).replace(NBSP, " ")
+    html = _DISPLAY_MATH.sub(repl, html)
+    html = _INLINE_MATH.sub(repl, html)
+    return html
 
 ROOT = Path(__file__).resolve().parent
 POSTS = ROOT / "posts"
@@ -38,7 +57,7 @@ def clean_body(html: str) -> str:
         for tag in soup.select(sel):
             tag.decompose()
     # Substack image wrappers often have captioned-image-container — keep them
-    return str(soup)
+    return fix_math(str(soup))
 
 
 def load_posts():

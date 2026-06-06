@@ -56,6 +56,22 @@ def clean_body(html: str) -> str:
     for sel in junk_selectors:
         for tag in soup.select(sel):
             tag.decompose()
+    # Newer posts store block math as an empty <div class="latex-rendered">
+    # whose LaTeX lives in data-attrs JSON (persistentExpression); Substack
+    # renders it client-side, so statically it shows nothing.  Convert each
+    # into a MathJax display-math paragraph.
+    for tag in soup.select(".latex-rendered"):
+        expr = ""
+        raw = tag.get("data-attrs")
+        if raw:
+            try:
+                expr = (json.loads(raw).get("persistentExpression") or "").strip()
+            except (ValueError, TypeError):
+                expr = ""
+        new = soup.new_tag("p")
+        new["class"] = "math-block"
+        new.string = f"$$ {expr} $$" if expr else ""
+        tag.replace_with(new)
     # Substack image wrappers often have captioned-image-container — keep them
     return fix_math(str(soup))
 

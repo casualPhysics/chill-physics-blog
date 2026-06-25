@@ -1,0 +1,254 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/lean-for-checking-my-math",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 202998921,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-06-21T20:17:19.336Z",
+  "updated_at": "2026-06-21T20:20:48.472Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "lean-for-checking-my-math",
+  "social_title": null,
+  "subtitle": "Don't fool yo self",
+  "teaser_post_eligible": true,
+  "title": "LEAN For Checking my Math",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 0
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "steady-states-in-dysons-theory-of",
+  "next_post_slug": "preparing-algae-for-experiments-at",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!ng4P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 202998921,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Don't fool yo self",
+  "body_html": "<p><em>This is a talk I prepared for an Independent Science Society session today. Thank you to those who attended!</em></p><p>I've been trying to learn mathematical and chemical theory for biological applications. And despite being trained as a mathematician, the math I come across is pretty hard. So far it's been a mix of Markov chains and statistical field theory, which can be fiddly and counterintuitive. And like all hard math, it very easy to make mistakes without realising it, especially if you are relying at all on AI to guide you.</p><p>Doing math is a dangerous activity. If you are not careful, you might be wasting your time getting things wrong, because it's super easy to fool yourself. Everyone who has taken an analysis course knows that things that appear <em>obvious</em> in math might actually be super subtle. Mistakes in proofs happen to professional mathematicians all the time. And so the difficulty of getting things correct is a very real problem - in fact it's probably <em>the</em> problem.</p><p>And this problem is made a lot worse if you are working as an independent scientist.</p><p>But it's not just independent scientists who need to find ways to ensure correctness. Because most of the cool problems out there are interdisciplinary, it means that we now have incentive to figure out ways for non-math people to do correct math more efficiently. It is likely that undiscovered math in edge fields like statistical field theory for bio is just as hard as the established fields in physics. For example, in my Smith and Morowitz book, on the Origin and Nature of Life on Earth, there's quite a lot of statistical physics that I need to check. It is likely that there are mistakes on my end and also in the book, since math is hard.</p><p>And so I wanted to figure out a way to check my math work as rigorously as I can whilst I'm working, almost like a scratchpad, and I found that using Mathlib and Lean4 was good for this.</p><p>Here's how it works, and I'll also give a little starter pack.</p><p>So in Lean 4, you have types, and types form the core of what the language is about. If you have coded at all, for example, in C++, you know that you have to assign types to variables. We have the same concepts of these standard types in Lean. For example, they could be natural numbers, integers, booleans, or floats.</p><pre><code>-- The type comes after the colon.\ndef n : Nat  := 7        -- a natural number\ndef k : Int  := -3       -- an integer\ndef b : Bool := true     -- a boolean\ndef x : Float := 2.5     -- a floating-point number\n\n-- #check reports the type of an expression.\n#check n        -- n : Nat\n#check b        -- b : Bool\n#check (1 : Int) + 4    -- ... : Int</code></pre><p>So what interesting things can we do with types? Well, one obvious way is to build a composite type out of basic types. So, for example, we could cross two types to make products, to make something like:</p><pre><code>Nat \u00d7 Nat\nNat \u00d7 Bool\nNat \u00d7 Bool \u00d7 Bool</code></pre><p>For example, an element in Nat \u00d7 Nat would be (1, 2), an element in Nat \u00d7 Bool could be (2, true), or Nat \u00d7 Bool \u00d7 Bool could be (1, true, false).</p><pre><code>def p : Nat \u00d7 Nat        := (1, 2)\ndef q : Nat \u00d7 Bool       := (2, true)\ndef r : Nat \u00d7 Bool \u00d7 Bool := (1, true, false)</code></pre><p>Lean is a language that will show the type once you check it.</p><pre><code>#check p        -- p : Nat \u00d7 Nat\n#check q        -- q : Nat \u00d7 Bool\n#check r        -- r : Nat \u00d7 Bool \u00d7 Bool\n\n-- You can also check an anonymous value directly.\n#check (2, true)            -- (2, true) : Nat \u00d7 Bool\n#check (1, true, false)     -- (1, true, false) : Nat \u00d7 Bool \u00d7 Bool</code></pre><p>So there's a lot of things we can do with types, but types are much more flexible than you think as a structure for doing things. For example, we can also define a composite operation between two types, which is a mapping, and call this a type itself. For example, we could define the type Nat \u2192 Nat:</p><pre><code>-- A function from Nat to Nat.\ndef double : Nat \u2192 Nat := fun m =&gt; 2 * m\n\n#check double        -- double : Nat \u2192 Nat\n\n-- The mapping Nat \u2192 Nat is itself a type.\n#check (Nat \u2192 Nat)   -- Nat \u2192 Nat : Type</code></pre><p>Let's pick apart what the definition means. We define the 'double' function, and the colon means that it's of a particular type, which in this case is a mapping from Nat to Nat. And then the colon equals defines the instance of what this thing actually is, which is a member of that type.</p><p>Even multivariable functions can be written as compositions of types. So, for example, take the function that sends x and y to x + y. On the surface, this would look like the function Nat \u00d7 Nat \u2192 Nat, but it could also be interpreted as Nat \u2192 (Nat \u2192 Nat). Because the function takes the first element x and then creates a new function, which is defined as adding x to y.</p><pre><code>-- A two-argument function is really a function that returns a function.\ndef add : Nat \u2192 Nat \u2192 Nat := fun x =&gt; fun y =&gt; x + y\n\n#check add        -- add : Nat \u2192 Nat \u2192 Nat\n\n-- Applying one argument yields a new function.\n#check add 3      -- add 3 : Nat \u2192 Nat\n#check add 3 4    -- add 3 4 : Nat</code></pre><pre><code>-- The same type, with the implied parentheses written out.\ndef add : Nat \u2192 (Nat \u2192 Nat) := fun x =&gt; fun y =&gt; x + y</code></pre><p>The last two brackets are implied in Lean.</p><p>Now here's the kicker. The whole point of LEAN4 is that it's meant to be a language that helps us prove things. In logic, <em>propositions</em> are statements that are true or false, and these are known to be true or false based on proofs.</p><p>And so naturally, propositions are also a type in lean.</p><pre><code>-- `True` is a proposition: its type is Prop.\n#check True            -- True : Prop</code></pre><p>And just as before, we can also define composite types on propositions. For example, we could make an 'and' proposition which looks like the following</p><pre><code>-- Given two propositions p and q, their conjunction p \u2227 q is itself a proposition.\nvariable (p q : Prop)\n\n#check p \u2227 q          -- p \u2227 q : Prop</code></pre><p>Ok, so what are proofs? Well, proofs are a definition of a proposition. This means that just as we can <strong>define 7 as a term of Nat, a proof is a valid term of a Prop</strong>. This means that to find a <strong>proof</strong> of a proposition p, the game is to conjure up a term that has proposition as a <strong>type</strong>.</p><p>Axioms are functions that help us map things to proofs.</p><p>Here is an example using modus ponens. Modus ponens is the axiom that, if we prove p implies q, then if p then q. But we can use this axiom as a function type that looks like</p><pre><code>-- Model \"a proof of P\" and \"P implies Q\" as opaque constructs.\naxiom Proof   : Prop \u2192 Type\naxiom Implies : Prop \u2192 Prop \u2192 Prop\n\n-- Modus ponens, stated as an axiom \u2014 i.e. a function type.\naxiom modus_ponens (p q : Prop) :\n  Proof (Implies p q) \u2192 Proof p \u2192\n  Proof q</code></pre><p>Let's break this down one by one. So modus ponens is a function that maps a proof of 'implies p q' to a function proof p -&gt; proof q.</p><p>So this means that if we had a proof of (implies p q), and had proof of p, we then do and then this spits out proof q, and so we are done, in a type theoretic way.</p><h2>Doing this in practice</h2><p>In practice, we use tactics to actually solve stuff, which I described in <a href=\"https://chillphysicsenjoyer.substack.com/p/try-to-prove-math-with-computers?utm_source=publication-search\">an earlier post</a>. The best way I've found to get a strong intuition for tactics is the <a href=\"https://adam.math.hhu.de/#/g/leanprover-community/nng4\">lean numbers game</a>.</p><p>Setting up Lean4 is a bit tricky, so I made a <a href=\"https://github.com/casualPhysics/mathlib-statphys-demo\">beginner friendly setup script</a> which you can use.</p><p>Then, when I want to do some math, the real efficiencies come with using this with Claude. If I am unsure if a proof of mine, I compile the Mathlib and Physlib libraries (cited below) to get the latest proven math and physics theorem. And the I get Claude code to fill out the proofs in my terminal and have it check that the code compiles. Here's an example of me formally verifying some identities on Hermitian polynomials that I was unsure about with Claude.</p><p>So far, I've only used this for math tidbits in my learning process, but it's been useful!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!ng4P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!ng4P!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 424w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 848w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1272w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!ng4P!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png\" width=\"1200\" height=\"675\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;large&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:1200,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-large\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!ng4P!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 424w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 848w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1272w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The risk here is that you need to check that the statement you want actually matches the formalisation in Lean. This can be tricky, because many things in math can mean different things, like the word 'differentiable'! But so far it's been a decent aid and I plan to post more on how I've been using it.</p><div><hr></div><h2>References</h2><ul><li><p>Smith, Eric, and Harold J. Morowitz. <em>The Origin and Nature of Life on Earth: The Emergence of the Fourth Geosphere</em>. Cambridge: Cambridge University Press, 2016.</p></li><li><p>The mathlib Community. \"The Lean Mathematical Library.\" In <em>Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2020)</em>, 367\u2013381. New York: ACM, 2020. https://doi.org/10.1145/3372885.3373824</p></li><li><p>Tooby-Smith, Joseph. \"HepLean: Digitalising high energy physics.\" <em>Computer Physics Communications</em> 308 (2025): 109457. arXiv:2405.08863. Now developed as PhysLean: https://github.com/HEPLean/PhysLean</p></li></ul>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "This is a talk I prepared for an Independent Science Society session today. Thank you to those who attended!",
+  "wordcount": 1652,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "c4abbdb4-4e5c-4199-be01-99f7bdbce7e5",
+      "publication_id": 1692033,
+      "name": "Math",
+      "slug": "math",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        205.96153846153845,
+        166.73076923076923,
+        49.03846153846153
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        84,
+        68,
+        20
+      ],
+      "population": 1
+    },
+    "LightVibrant": {
+      "rgb": [
+        229.5,
+        209.10000000000002,
+        147.89999999999998
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        69,
+        103,
+        120
+      ],
+      "population": 5
+    },
+    "DarkMuted": {
+      "rgb": [
+        44,
+        64,
+        80
+      ],
+      "population": 5
+    },
+    "LightMuted": {
+      "rgb": [
+        123.57692307692308,
+        100.03846153846155,
+        29.423076923076916
+      ],
+      "population": 0
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 0,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 202998921,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/202998921/tts/685abc6c-0800-4c97-a7ec-3af0c5bc2358/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

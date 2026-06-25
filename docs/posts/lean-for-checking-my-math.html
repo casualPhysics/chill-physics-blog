@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LEAN For Checking my Math &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">LEAN For Checking my Math</h2>
+    <p class="post-meta">
+      <span class="post-date">21 June 2026</span>
+      &middot; <span class="post-subtitle">Don&#39;t fool yo self</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p><em>This is a talk I prepared for an Independent Science Society session today. Thank you to those who attended!</em></p><p>I've been trying to learn mathematical and chemical theory for biological applications. And despite being trained as a mathematician, the math I come across is pretty hard. So far it's been a mix of Markov chains and statistical field theory, which can be fiddly and counterintuitive. And like all hard math, it very easy to make mistakes without realising it, especially if you are relying at all on AI to guide you.</p><p>Doing math is a dangerous activity. If you are not careful, you might be wasting your time getting things wrong, because it's super easy to fool yourself. Everyone who has taken an analysis course knows that things that appear <em>obvious</em> in math might actually be super subtle. Mistakes in proofs happen to professional mathematicians all the time. And so the difficulty of getting things correct is a very real problem - in fact it's probably <em>the</em> problem.</p><p>And this problem is made a lot worse if you are working as an independent scientist.</p><p>But it's not just independent scientists who need to find ways to ensure correctness. Because most of the cool problems out there are interdisciplinary, it means that we now have incentive to figure out ways for non-math people to do correct math more efficiently. It is likely that undiscovered math in edge fields like statistical field theory for bio is just as hard as the established fields in physics. For example, in my Smith and Morowitz book, on the Origin and Nature of Life on Earth, there's quite a lot of statistical physics that I need to check. It is likely that there are mistakes on my end and also in the book, since math is hard.</p><p>And so I wanted to figure out a way to check my math work as rigorously as I can whilst I'm working, almost like a scratchpad, and I found that using Mathlib and Lean4 was good for this.</p><p>Here's how it works, and I'll also give a little starter pack.</p><p>So in Lean 4, you have types, and types form the core of what the language is about. If you have coded at all, for example, in C++, you know that you have to assign types to variables. We have the same concepts of these standard types in Lean. For example, they could be natural numbers, integers, booleans, or floats.</p><pre><code>-- The type comes after the colon.
+def n : Nat  := 7        -- a natural number
+def k : Int  := -3       -- an integer
+def b : Bool := true     -- a boolean
+def x : Float := 2.5     -- a floating-point number
+
+-- #check reports the type of an expression.
+#check n        -- n : Nat
+#check b        -- b : Bool
+#check (1 : Int) + 4    -- ... : Int</code></pre><p>So what interesting things can we do with types? Well, one obvious way is to build a composite type out of basic types. So, for example, we could cross two types to make products, to make something like:</p><pre><code>Nat × Nat
+Nat × Bool
+Nat × Bool × Bool</code></pre><p>For example, an element in Nat × Nat would be (1, 2), an element in Nat × Bool could be (2, true), or Nat × Bool × Bool could be (1, true, false).</p><pre><code>def p : Nat × Nat        := (1, 2)
+def q : Nat × Bool       := (2, true)
+def r : Nat × Bool × Bool := (1, true, false)</code></pre><p>Lean is a language that will show the type once you check it.</p><pre><code>#check p        -- p : Nat × Nat
+#check q        -- q : Nat × Bool
+#check r        -- r : Nat × Bool × Bool
+
+-- You can also check an anonymous value directly.
+#check (2, true)            -- (2, true) : Nat × Bool
+#check (1, true, false)     -- (1, true, false) : Nat × Bool × Bool</code></pre><p>So there's a lot of things we can do with types, but types are much more flexible than you think as a structure for doing things. For example, we can also define a composite operation between two types, which is a mapping, and call this a type itself. For example, we could define the type Nat → Nat:</p><pre><code>-- A function from Nat to Nat.
+def double : Nat → Nat := fun m =&gt; 2 * m
+
+#check double        -- double : Nat → Nat
+
+-- The mapping Nat → Nat is itself a type.
+#check (Nat → Nat)   -- Nat → Nat : Type</code></pre><p>Let's pick apart what the definition means. We define the 'double' function, and the colon means that it's of a particular type, which in this case is a mapping from Nat to Nat. And then the colon equals defines the instance of what this thing actually is, which is a member of that type.</p><p>Even multivariable functions can be written as compositions of types. So, for example, take the function that sends x and y to x + y. On the surface, this would look like the function Nat × Nat → Nat, but it could also be interpreted as Nat → (Nat → Nat). Because the function takes the first element x and then creates a new function, which is defined as adding x to y.</p><pre><code>-- A two-argument function is really a function that returns a function.
+def add : Nat → Nat → Nat := fun x =&gt; fun y =&gt; x + y
+
+#check add        -- add : Nat → Nat → Nat
+
+-- Applying one argument yields a new function.
+#check add 3      -- add 3 : Nat → Nat
+#check add 3 4    -- add 3 4 : Nat</code></pre><pre><code>-- The same type, with the implied parentheses written out.
+def add : Nat → (Nat → Nat) := fun x =&gt; fun y =&gt; x + y</code></pre><p>The last two brackets are implied in Lean.</p><p>Now here's the kicker. The whole point of LEAN4 is that it's meant to be a language that helps us prove things. In logic, <em>propositions</em> are statements that are true or false, and these are known to be true or false based on proofs.</p><p>And so naturally, propositions are also a type in lean.</p><pre><code>-- `True` is a proposition: its type is Prop.
+#check True            -- True : Prop</code></pre><p>And just as before, we can also define composite types on propositions. For example, we could make an 'and' proposition which looks like the following</p><pre><code>-- Given two propositions p and q, their conjunction p ∧ q is itself a proposition.
+variable (p q : Prop)
+
+#check p ∧ q          -- p ∧ q : Prop</code></pre><p>Ok, so what are proofs? Well, proofs are a definition of a proposition. This means that just as we can <strong>define 7 as a term of Nat, a proof is a valid term of a Prop</strong>. This means that to find a <strong>proof</strong> of a proposition p, the game is to conjure up a term that has proposition as a <strong>type</strong>.</p><p>Axioms are functions that help us map things to proofs.</p><p>Here is an example using modus ponens. Modus ponens is the axiom that, if we prove p implies q, then if p then q. But we can use this axiom as a function type that looks like</p><pre><code>-- Model "a proof of P" and "P implies Q" as opaque constructs.
+axiom Proof   : Prop → Type
+axiom Implies : Prop → Prop → Prop
+
+-- Modus ponens, stated as an axiom — i.e. a function type.
+axiom modus_ponens (p q : Prop) :
+  Proof (Implies p q) → Proof p →
+  Proof q</code></pre><p>Let's break this down one by one. So modus ponens is a function that maps a proof of 'implies p q' to a function proof p -&gt; proof q.</p><p>So this means that if we had a proof of (implies p q), and had proof of p, we then do and then this spits out proof q, and so we are done, in a type theoretic way.</p><h2>Doing this in practice</h2><p>In practice, we use tactics to actually solve stuff, which I described in <a href="https://chillphysicsenjoyer.substack.com/p/try-to-prove-math-with-computers?utm_source=publication-search">an earlier post</a>. The best way I've found to get a strong intuition for tactics is the <a href="https://adam.math.hhu.de/#/g/leanprover-community/nng4">lean numbers game</a>.</p><p>Setting up Lean4 is a bit tricky, so I made a <a href="https://github.com/casualPhysics/mathlib-statphys-demo">beginner friendly setup script</a> which you can use.</p><p>Then, when I want to do some math, the real efficiencies come with using this with Claude. If I am unsure if a proof of mine, I compile the Mathlib and Physlib libraries (cited below) to get the latest proven math and physics theorem. And the I get Claude code to fill out the proofs in my terminal and have it check that the code compiles. Here's an example of me formally verifying some identities on Hermitian polynomials that I was unsure about with Claude.</p><p>So far, I've only used this for math tidbits in my learning process, but it's been useful!</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!ng4P!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!ng4P!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 424w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 848w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1272w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1456w" type="image/webp"/><img alt="" class="sizing-large" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/b72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"large","height":819,"width":1456,"resizeWidth":1200,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":"center","offset":false}' height="675" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!ng4P!,w_2400,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png" srcset="https://substackcdn.com/image/fetch/$s_!ng4P!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 424w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 848w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1272w, https://substackcdn.com/image/fetch/$s_!ng4P!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb72f9629-12a6-498f-89b7-029216ac04a6_1720x977.png 1456w" width="1200"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>The risk here is that you need to check that the statement you want actually matches the formalisation in Lean. This can be tricky, because many things in math can mean different things, like the word 'differentiable'! But so far it's been a decent aid and I plan to post more on how I've been using it.</p><div><hr/></div><h2>References</h2><ul><li><p>Smith, Eric, and Harold J. Morowitz. <em>The Origin and Nature of Life on Earth: The Emergence of the Fourth Geosphere</em>. Cambridge: Cambridge University Press, 2016.</p></li><li><p>The mathlib Community. "The Lean Mathematical Library." In <em>Proceedings of the 9th ACM SIGPLAN International Conference on Certified Programs and Proofs (CPP 2020)</em>, 367–381. New York: ACM, 2020. https://doi.org/10.1145/3372885.3373824</p></li><li><p>Tooby-Smith, Joseph. "HepLean: Digitalising high energy physics." <em>Computer Physics Communications</em> 308 (2025): 109457. arXiv:2405.08863. Now developed as PhysLean: https://github.com/HEPLean/PhysLean</p></li></ul>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Math</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/lean-for-checking-my-math">Read on Substack</a>
+     &middot; <a href="steady-states-in-dysons-theory-of.html">&laquo; Previous</a>
+     &middot; <a href="preparing-algae-for-experiments-at.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

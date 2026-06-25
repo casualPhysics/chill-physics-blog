@@ -1,0 +1,330 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/what-is-the-most-intense-way-to-learn",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 202330354,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-06-16T19:09:52.201Z",
+  "updated_at": "2026-06-16T19:15:36.871Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "what-is-the-most-intense-way-to-learn",
+  "social_title": null,
+  "subtitle": "On giving talks",
+  "teaser_post_eligible": true,
+  "title": "What is the most intense way to learn something?",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 10
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "improved-tracking-of-brownian-milk",
+  "next_post_slug": "steady-states-in-dysons-theory-of",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!Wr9O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 202330354,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On giving talks",
+  "body_html": "<div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Wr9O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Wr9O!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Wr9O!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Wr9O!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Wr9O!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Wr9O!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg\" width=\"728\" height=\"832.6280193236715\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:947,&quot;width&quot;:828,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:91082,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Wr9O!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 424w, https://substackcdn.com/image/fetch/$s_!Wr9O!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 848w, https://substackcdn.com/image/fetch/$s_!Wr9O!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!Wr9O!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a081863-4dc2-4616-9237-1b07396c9a0f_828x947.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Thanks to Adoabi Adibe for the picture and always helping me be clear.</figcaption></figure></div><p>Recently I've had the chance to give live talks about my work. By coincidence I had to give four talks on different topics of my work within the span of two months. These ranged from talks in front of my friends, lasting five minutes, to a talk that was much longer and in a more formal setting. One talk was about the philosophy of the Independent Science Society and the act of doing science. Another talk was about the nuts and bolts of my home experiments in air purification. And right now, this week I am preparing a talk on using LEAN4 to check my math on hard statistical physics problems!</p><p>I am new to giving talks. But to my surprise, for each talk, I spent much more time working on it than I expected. I spent around five to six hours on each. But this doesn't seem to change as a function of the length of the talk, whether it's for five minutes or for an hour. And so naturally, with such a high time spend, I was left wondering if this time investment was worth it. After all, I could've spent the time doing more essays or doing more experiments.</p><p>So why do the talks?</p><p>Well, talking about your work feels important to do. But this wasn't obvious to me before I tried to be more serious at giving talks.</p><p>The first reason it's important is a reason I learned in the preparation phase. When preparing for live talks, I learn my subject material much more <em>intensely</em>. There are many different ways to learn stuff, and there are levels to it. In order of intensity, from the least to the most intense it goes like this:</p><ul><li><p>You can read something. I think this is useful for ideation and inspiration.</p></li><li><p>Then you can try to solve problems - when I do math I use a combination of questions and formal verification techniques to quiz myself.</p></li><li><p>And in the more intense end of the spectrum, you can try to write an essay.</p></li></ul><p>But I've recently found that preparing for a live talk is also a really intense learning process. In a few distinct ways, preparing a talk can be more intense than writing an essay.</p><p>Let me explain what I mean by <em>intensely</em>.</p><p>What makes an essay different from a talk? When you write an essay, you give both yourself and the reader <em>time</em>. Your readers have all the time in the world to digest the essay. They can re-read sentences or look up references. They can spend time building counter arguments in their head. They have time to digest the content. They have time to engage with the essay as much or as little as they want. And you as a writer <strong>also</strong> have the benefit of time. You are not performing anything, and if your readers do end up writing criticism, you have the time and option to respond. This fact takes some pressure off both you and the reader.</p><p>But a live talk is different. When you give a talk, both you and your audience are now captive to the time constraints of the talk. The talk unravels in real time, and then ends.</p><p>This has some real consequences.</p><p>This means that every moment of your talk must serve a purpose. If you're speaking and there is a gap because you don't remember your train of thought, it's awkward for both you and the audience. And if you are afraid of awkwardness as I am, there is pressure to make every second go smoothly. And to do a talk smoothly, you need to rehearse or plan what you want to say.</p><p>In practice, this means going over what you want to say, point by point, over and over again. I often just speak out loud in my room with a timer. Sometimes I do dry-runs with friends. But I try to get to the point where all I need are the slides to give me a quick mental prompt. Some people can give talks off the cuff without it being awkward, but this is not me. I need to think about it, and it's hard. It's like thinking that teaching is easy - it's not.</p><p>So why is this effort worth it? Well, it's not just for the audience's benefit. The answer lies in the part where I rehearse something over and over again. In doing this, oftentimes I notice an error in my logic, which causes me to find interesting new directions. For example, I was trying to properly explain a particular graph on particle concentrations, and I realised that I didn't quite know how to explain some data that I got from my air purifier experiment. This was despite the fact that I'd seen this data hundreds of times. This led to a couple of interesting open research problems that I'm thinking about on particle charge decay.</p><p>And then I try to make my talks <em>interesting</em>. Whilst I am still unsure of what makes a talk interesting, my gut feel is as follows. When I listen to a talk, the question that repeats in my mind is 'why should I care about this?'. I don't need a useful reason about why I should care. It doesn't need to be applicable immediately to my work, nor does it need to be important for the world. But I do need a reason. The way I've seen the best speakers do this is by structuring a talk in a recursive tree of questions going deeper and deeper. They start from a seemingly obvious question that gets more botched the more you go down.</p><p>Imagine someone forced you to give a talk on house fans. It might be cool to do a talk structured like this:</p><ul><li><p>Do fans cool you down? Seems weird since technically they're the same temperature as their surroundings.</p><ul><li><p>Ok so why do fans cool you down?</p><ul><li><p>What are the fluid dynamics of fans?</p><ul><li><p>Why are they so noisy?</p><ul><li><p>Could we make a silent fan?</p><ul><li><p>What were NASA's historical attempts at making silent jet engines?</p></li></ul></li></ul></li></ul></li></ul></li></ul></li></ul><p>I've found that trying to structure my thoughts in this way also gives me insights about what I really care about, because it forces me to justify why I'm doing what I'm doing. And as many of my scientist friends say, it's not really the results that matter - but the question.</p><p>So basically these things help me learn and relearn things much more intensely than I usually would. And if I manage to give a good talk, grabbing opportunities to do more work in the fields I love is a pretty good cherry on top!</p><p><em>Thanks to Adaobi Adibe for helping me be clear.</em></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "Recently I've had the chance to give live talks about my work. By coincidence I had to give four talks on different topics of my work within the span of two months. These ranged from talks in front of my friends, lasting five minutes, to a talk that was much longer and in a more forma\u2026",
+  "wordcount": 1124,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        5,
+        107,
+        172
+      ],
+      "population": 9
+    },
+    "DarkVibrant": {
+      "rgb": [
+        10,
+        76,
+        130
+      ],
+      "population": 25
+    },
+    "LightVibrant": {
+      "rgb": [
+        126.14576271186442,
+        202.5593220338983,
+        251.25423728813558
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        169,
+        124,
+        89
+      ],
+      "population": 3
+    },
+    "DarkMuted": {
+      "rgb": [
+        84,
+        64,
+        56
+      ],
+      "population": 130
+    },
+    "LightMuted": {
+      "rgb": [
+        204,
+        188,
+        156
+      ],
+      "population": 1
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 10,
+  "comment_count": 2,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 202330354,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/202330354/tts/fcaacf8f-ce70-4565-8455-7b2d8c21e7f8/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 277592935,
+      "body": "Thanks for this! I hadn't realised it but it's a fact that I can remember very well concepts and topics about which I had oral exams or I gave a talk, while I am not so confident about my essays after time passed... Interesting!",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Thanks for this! I hadn't realised it but it's a fact that I can remember very well concepts and topics about which I had oral exams or I gave a talk, while I am not so confident about my essays after time passed... Interesting!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 202330354,
+      "user_id": 125128783,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-06-16T22:36:12.859Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Victoria Gast\u00f3n",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/96b928f4-14b3-4547-8e2e-995aa3883008_739x940.jpeg",
+      "handle": "victoriagaston",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "victoriagaston",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "That was yesterday",
+          "id": 2831873,
+          "base_url": "https://thatwasyesterday.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply by CasualPhysicsEnjoyer"
+    }
+  ]
+}

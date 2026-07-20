@@ -1,0 +1,261 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/questions-on-early-cell-membranes",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 203941756,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-06-28T09:59:10.806Z",
+  "updated_at": "2026-06-28T10:02:39.804Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "questions-on-early-cell-membranes",
+  "social_title": "Questions On Early Cell Membranes",
+  "subtitle": "Stuff I am confused about on origins of life... and rocks! ",
+  "teaser_post_eligible": true,
+  "title": "Questions On Early Cell Membranes",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 6
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-questions-i-always-think-about",
+  "next_post_slug": "how-to-read-something",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!rKCP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 203941756,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Stuff I am confused about on origins of life... and rocks!",
+  "body_html": "<p>One biological thing that I am drawn to is membranes. Cells are made of membranes, but I'm curious how these membranes were formed in the origins of life.</p><p>What physical process gave them the structure that they need so that the right things can come in and out? Why is this a good design for a living thing? I like these questions about membranes because having a partition between two physical spaces reminds about thermodynamics. In thermodynamics, we try to reason about a system that is surrounded by a thermal bath, which is the same setup that we have with a cell in water!</p><p>I am a complete beginner to biology and biochemistry, and here are some questions I had about cell membranes. I got a lot of these questions from reading <a href=\"#references\">Lane &amp; Martin (2012)</a>.</p><ul><li><p>How does stuff cross cell membranes?</p><ul><li><p>Terms I don't really understand:</p><ul><li><p>What does chemiosmotic mean?</p><ul><li><p>How do ion gradients work?</p></li></ul></li><li><p>What does exergonic mean?</p></li><li><p>What is the physical basis of protons being a through membranes?</p></li><li><p>Presumably its just the acid-alkali gradient but how can I put numbers on this?</p></li><li><p>Suppose there's a membrane with acid on one side and alkaline on the other.</p><ul><li><p>How fast do protons transfer through the membrane?</p></li><li><p>What is the voltage involved?</p></li><li><p>How could I calculate the 'speed' of stuff going through?</p></li><li><p>What is the rate / flux of protons going through?</p></li><li><p>Is there a necessary speed of proton transfer required for life?</p></li><li><p>Since protons are quantum how does this even work?</p><ul><li><p>Don't really understand the chemistry here, pretty blurry to me.</p></li></ul></li></ul></li><li><p>What's all this business with sodium ions being able to pass through membranes as well?</p></li></ul></li></ul></li><li><p>What exactly goes through cell membranes?</p><ul><li><p>I see that that main charge loading thing could either be sodium ions or protons. I get protons, but why sodium ions?</p></li><li><p>Are there any other things that can go through, what are the conditions?</p></li></ul></li><li><p>What was the original membrane?</p><ul><li><p>What geochemical structure is similar to membranes right now?</p></li><li><p>Is this a question with any real world applications? Too theoretical of a question?</p></li></ul></li><li><p>What living things exhibit chemical reactions closest to what we would see in a geochemical acid-alkaline gradient?</p><ul><li><p>What are methanogens?</p><ul><li><p>I see this type of living things</p></li><li><p>How is CO2 reduced by H2 to methane or acetate?</p></li><li><p>Is there a way I could get a methagonen to experiment with?</p></li></ul></li><li><p>How could I do an experiment to illustrate basic principles of cell membranes. I guess a simple acid-alkaline experiment and then look at the potential difference that I get?</p></li><li><p>Everyone talks about serpentinisation, but I actually don't know what it is, why it's significant.</p><ul><li><p>What are the conditions in the Lost City hydrothermal vent area?</p></li><li><p>From mith and Morowitz, The Origin and Nature of Life on Earth:</p><ul><li><p>\"the <strong>black smoker</strong> from the mid-Atlantic ridge \u2014 temperatures around 350 \u00b0C and an acidic pH of 3.\"</p></li><li><p>\"the <strong>white smoker</strong> from the Lost City hydrothermal field on the Atlantis Massif, near the mid-Atlantic ridge \u2014 temperatures of 50\u201390 \u00b0C and an alkaline pH of 9\u201311.\"</p><ul><li><p>These are alkaline vents that meet acidic ocean.</p></li><li><p>What exactly was the pH gradient of the white smoker?</p></li><li><p>Is there a way that I could replicate a toy model of the Lost City hydrothermal vents in my house? Is this something that Nick Lane also did?</p></li></ul></li></ul></li></ul></li></ul></li><li><p>What are modern cell membranes made out of?</p><ul><li><p>What exactly are phospholipids in cell membranes? Like, what are they made out of?</p><ul><li><p>How did these come from these pores in hydrothermal vents?</p></li></ul></li></ul></li><li><p>One reason why we should expect hydrothermal vents to work is because they are also far-from-equilibrium systems, like I've written before on the thermodynamics of life article. <a href=\"https://chillphysicsenjoyer.substack.com/p/a-thermodynamics-for-biology\">A Thermodynamics For Biology</a></p><ul><li><p>What is the analog of a cell in these pores of hydrothermal vents?</p></li><li><p>Are catalysts like early enzymes in a cell membrane?</p></li><li><p>cells 'little battery like the earth, alkaline inside and acidic on the outside from protons'</p></li><li><p>vents wouldn't be contingent to earth - olivine is everywhere</p></li></ul></li></ul><h2>Experimenting with Serpentinisation</h2><p>To try and hook some of these questions to something I can tou</p><ul><li><p>Alkaline vents like those in the lost city are not volcanic but formed by serpentinisation. Here are some minerals involved.</p><ul><li><p>I got some minerals to try to see if it goes alkaline.</p></li><li><p>I got olivine and then peridotite. (<a href=\"https://www.geosupplies.co.uk/cgi-bin/sh000001.pl?WD=olivine&amp;PN=Single%2DSpecimen%2Dof%2DOlivine%2D760%2Ehtml#SID=82\">source: geosupplies.co.uk</a>)</p></li><li><p>One interesting experiment with peridotite is that if you make it a powder and put it in water, it should go alkaline.</p></li><li><p>I bought olivine powder from a plant fertilisation store (<a href=\"https://ecothrive.co.uk/products/olivine-mag-sil\">Ecothrive olivine, milled ~120 \u00b5m, Mg 20% / Fe 2%</a>) to see if I can recreate any alkaline effects in water.</p></li></ul></li></ul><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!fdEB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!fdEB!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 424w, https://substackcdn.com/image/fetch/$s_!fdEB!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 848w, https://substackcdn.com/image/fetch/$s_!fdEB!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 1272w, https://substackcdn.com/image/fetch/$s_!fdEB!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!fdEB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!fdEB!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 424w, https://substackcdn.com/image/fetch/$s_!fdEB!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 848w, https://substackcdn.com/image/fetch/$s_!fdEB!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 1272w, https://substackcdn.com/image/fetch/$s_!fdEB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f365c5a-c421-456d-aa86-29b69b2a57cf_797x454.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Here are some pictures of the stuff I got from the geo store (not an endorsement). Note that the olivine smells quite pleasant actually.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!6L-D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!6L-D!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 424w, https://substackcdn.com/image/fetch/$s_!6L-D!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 848w, https://substackcdn.com/image/fetch/$s_!6L-D!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!6L-D!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!6L-D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!6L-D!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 424w, https://substackcdn.com/image/fetch/$s_!6L-D!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 848w, https://substackcdn.com/image/fetch/$s_!6L-D!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!6L-D!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F581f4165-d6c2-44d7-a62a-251a7ae7ccb9_3840x2160.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Olivine:</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!rKCP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!rKCP!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!rKCP!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!rKCP!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!rKCP!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!rKCP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!rKCP!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!rKCP!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!rKCP!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!rKCP!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F37625afc-a66e-4b44-b41a-552ca4a2c830_4032x3024.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Peridotite:</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!SsK5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!SsK5!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!SsK5!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!SsK5!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!SsK5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!SsK5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!SsK5!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!SsK5!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!SsK5!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!SsK5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9c4989b-85c2-4f9c-a672-067fcc93ff0c_4032x3024.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!krvA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!krvA!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 424w, https://substackcdn.com/image/fetch/$s_!krvA!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 848w, https://substackcdn.com/image/fetch/$s_!krvA!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!krvA!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!krvA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!krvA!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 424w, https://substackcdn.com/image/fetch/$s_!krvA!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 848w, https://substackcdn.com/image/fetch/$s_!krvA!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!krvA!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F20ed4070-e2f3-4f6e-b661-6a1c43fe3e6c_3840x2160.jpeg 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image\"><svg role=\"img\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\"><g><title></title><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h2>References</h2><ul><li><p>Lane, N. &amp; Martin, W.F. (2012), \"The Origin of Membrane Bioenergetics\", <em>Cell</em> 151(7), 1406\u20131416. DOI: <a href=\"https://doi.org/10.1016/j.cell.2012.11.050\">10.1016/j.cell.2012.11.050</a>. <a href=\"https://www.cell.com/cell/fulltext/S0092-8674(12\">Cell</a>01438-9) \u00b7 <a href=\"https://www.cell.com/cell/pdf/S0092-8674(12\">PDF</a>01438-9.pdf) \u2014 chemiosmotic coupling, ion gradients, and Na\u207a/H\u207a transporters traced to a geochemical origin.</p></li><li><p>Russell, M.J. &amp; Hall, A.J. (1997), \"The emergence of life from iron monosulphide bubbles at a submarine hydrothermal redox and pH front\", <em>Journal of the Geological Society</em> 154(3), 377\u2013402. DOI: <a href=\"https://doi.org/10.1144/gsjgs.154.3.0377\">10.1144/gsjgs.154.3.0377</a>. <a href=\"https://pubs.geoscienceworld.org/gsl/jgs/article-abstract/154/3/377/112466/The-emergence-of-life-from-iron-monosulphide\">link</a> \u2014 Russell &amp; Hall at Glasgow; original FeS-membrane theory, life beginning at an iron-sulphide barrier across a redox + pH front.</p><ul><li><p>~4.2 Ga; vent water ~150 \u00b0C; the ocean was Hadean.</p></li></ul></li><li><p>Smith, E. &amp; Morowitz, H.J. (2016), <em>The Origin and Nature of Life on Earth: The Emergence of the Fourth Geosphere</em>, Cambridge University Press. ISBN 9781107121881. DOI: <a href=\"https://doi.org/10.1017/CBO9781316348772\">10.1017/CBO9781316348772</a>. See [[Smith and Morowitz, The Origin and Nature of Life on Earth Ideas]].</p></li></ul>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "One biological thing that I am drawn to is membranes. Cells are made of membranes, but I'm curious how these membranes were formed in the origins of life.",
+  "wordcount": 934,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        173.86363636363637,
+        118.22727272727272,
+        81.13636363636363
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        90.40909090909092,
+        61.47818181818182,
+        42.19090909090908
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        220,
+        196,
+        180
+      ],
+      "population": 52
+    },
+    "Muted": {
+      "rgb": [
+        141,
+        132,
+        112
+      ],
+      "population": 186
+    },
+    "DarkMuted": {
+      "rgb": [
+        82,
+        80,
+        60
+      ],
+      "population": 82
+    },
+    "LightMuted": {
+      "rgb": [
+        204,
+        188,
+        172
+      ],
+      "population": 877
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 6,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 203941756,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/203941756/tts/9441e5a4-71be-4657-852b-2d3c81d5f561/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

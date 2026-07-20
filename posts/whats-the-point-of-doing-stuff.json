@@ -1,0 +1,348 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/whats-the-point-of-doing-stuff",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 206201497,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-07-08T21:10:01.921Z",
+  "updated_at": "2026-07-08T21:12:12.755Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "whats-the-point-of-doing-stuff",
+  "social_title": null,
+  "subtitle": "On reasons to do things",
+  "teaser_post_eligible": true,
+  "title": "What's the point of doing stuff ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 15
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "in-memoriam",
+  "next_post_slug": "measuring-milk-globule-sizes",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 206201497,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On reasons to do things",
+  "body_html": "<p>What is the <strong>end</strong> goal of my work? Whether that\u2019s my trading, science work, or bike-packing, what\u2019s it all for?</p><p>I used to be pretty utilitarian, where I did things because they were useful. But that\u2019s changed now. It seems that artificial intelligence is quickly being able to solve a lot of the things I set out to do. So my marginal contribution feels small.</p><p>Then I used to things because I enjoyed them. When I went about doing something, I just said fuck it, I don\u2019t really know what the end goal is. I\u2019ll do it because I like it. But that\u2019s changed because things started to feel a bit meaningless when I did this to the extreme.</p><p>So now, I\u2019ve done another reframe. By process of elimination, I\u2019ve had to find the final reason to do things. </p><p>I am now doing things so that I can <em>improve</em> myself.</p><p>There are three the things I can get from the act of creation. The first thing is the utility of what I create. The second is the pleasure of creating. But these reasons feel weak now in today\u2019s context.</p><p>So the third reason makes the most sense. When create something, I also <em>enhance</em> my own being. My cognition increases. I can write better. I build better social skills when I collaborate with others. I increase my capacity for symbolic reasoning. I better my motor skills with my hands. I become a better empiricist. I write better.</p><p>I don\u2019t know whether enhancing oneself is the final boss of reasons to do things. But I can\u2019t think of anything else right now!</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "What is the end goal of my work? Whether that\u2019s my trading, science work, or bike-packing, what\u2019s it all for?",
+  "wordcount": 270,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "previous_name": "Afiq Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 15,
+  "comment_count": 4,
+  "child_comment_count": 4,
+  "audio_items": [
+    {
+      "post_id": 206201497,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/206201497/tts/decf6b24-3dc1-4b4b-8b9e-b8f0d4ed2f53/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 290844050,
+      "body": "Improvemaxxing",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Improvemaxxing"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 206201497,
+      "user_id": 53910381,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-07-08T22:24:49.508Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Dave",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/d5469ae9-a97c-4f58-bffc-16faaea994a8_900x900.webp",
+      "handle": "strayvolt",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "strayvolt",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Stray Voltage",
+          "id": 3084381,
+          "base_url": "https://strayvolt.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 2,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    },
+    {
+      "id": 291039443,
+      "body": "Passion.. people do things out of passion and enjoyment. Max out the enjoyment and happiness will follow.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Passion.. people do things out of passion and enjoyment. Max out the enjoyment and happiness will follow."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 206201497,
+      "user_id": 127344067,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-07-09T06:51:53.060Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Hatta",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/45cda292-3ab2-425b-9eb5-5f9db40ff4e4_144x144.png",
+      "handle": "hatta2",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "hatta2",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

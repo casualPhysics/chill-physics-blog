@@ -38,6 +38,15 @@ def parse_date(s):
     return datetime.fromisoformat(s.replace("Z", "+00:00"))
 
 
+def make_excerpt(html: str, words: int = 48) -> str:
+    """Plain-text teaser for the index page."""
+    text = BeautifulSoup(html or "", "html.parser").get_text(" ", strip=True)
+    parts = text.split()
+    if len(parts) <= words:
+        return text
+    return " ".join(parts[:words]) + "…"
+
+
 def clean_body(html: str) -> str:
     """Strip Substack subscribe widgets and other CTAs from post body."""
     if not html:
@@ -88,6 +97,8 @@ def load_posts():
         if not body.strip() and not data.get("title"):
             continue
         d = parse_date(data.get("post_date"))
+        cleaned = clean_body(body)
+        excerpt = (data.get("description") or "").strip() or make_excerpt(cleaned)
         posts.append({
             "slug": data["slug"],
             "title": data.get("title") or data["slug"],
@@ -96,7 +107,8 @@ def load_posts():
             "date_human": d.strftime("%-d %B %Y"),
             "date_short": d.strftime("%-d %b"),
             "year": d.year,
-            "body_html": clean_body(body),
+            "body_html": cleaned,
+            "excerpt": excerpt,
             "canonical_url": data.get("canonical_url")
                 or f"https://chillphysicsenjoyer.substack.com/p/{data['slug']}",
             "tags": [t.get("name") for t in data.get("postTags") or [] if t.get("name")],
@@ -134,11 +146,17 @@ def main():
         by_year.setdefault(p["year"], []).append(p)
     by_year_sorted = sorted(by_year.items(), key=lambda kv: kv[0], reverse=True)
 
-    # index: show 8 most recent in full
+    # index: pin the lab equipment list on top, then 8 most recent as excerpts
+    FEATURED_SLUG = "suggested-experiment-equipment"
+    featured = next((p for p in posts if p["slug"] == FEATURED_SLUG), None)
+    recent = [p for p in posts if p["slug"] != FEATURED_SLUG][:8]
     index_tpl = env.get_template("index.html")
     (SITE / "index.html").write_text(index_tpl.render(
-        recent=posts[:8],
+        featured=featured,
+        recent=recent,
         total=len(posts),
+        nav_years=by_year_sorted,
+        active_slug=None,
         root="",
     ))
 
@@ -147,18 +165,29 @@ def main():
     (SITE / "archive.html").write_text(arch_tpl.render(
         by_year=by_year_sorted,
         total=len(posts),
+        nav_years=by_year_sorted,
+        active_slug=None,
         root="",
     ))
 
     # about
     about_tpl = env.get_template("about.html")
-    (SITE / "about.html").write_text(about_tpl.render(root=""))
+    (SITE / "about.html").write_text(about_tpl.render(
+        nav_years=by_year_sorted,
+        active_slug=None,
+        root="",
+    ))
 
     # individual posts
     post_tpl = env.get_template("post.html")
     for p in posts:
         out = SITE / "posts" / f"{p['slug']}.html"
-        out.write_text(post_tpl.render(post=p, root="../"))
+        out.write_text(post_tpl.render(
+            post=p,
+            nav_years=by_year_sorted,
+            active_slug=p["slug"],
+            root="../",
+        ))
 
     print(f"Wrote {len(posts)} post pages, index, archive, about -> {SITE}")
 

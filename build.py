@@ -1,4 +1,5 @@
 """Build the static blog from scraped Substack JSON."""
+import hashlib
 import json
 import re
 import shutil
@@ -132,6 +133,9 @@ def main():
     for f in STATIC.iterdir():
         shutil.copy2(f, SITE / f.name)
 
+    # cache-busting version for the stylesheet (changes when the CSS changes)
+    css_version = hashlib.md5((STATIC / "style.css").read_bytes()).hexdigest()[:8]
+
     posts = load_posts()
     print(f"Loaded {len(posts)} posts")
 
@@ -156,6 +160,7 @@ def main():
         recent=recent,
         total=len(posts),
         nav_years=by_year_sorted,
+        css_version=css_version,
         active_slug=None,
         root="",
     ))
@@ -166,6 +171,7 @@ def main():
         by_year=by_year_sorted,
         total=len(posts),
         nav_years=by_year_sorted,
+        css_version=css_version,
         active_slug=None,
         root="",
     ))
@@ -174,6 +180,7 @@ def main():
     about_tpl = env.get_template("about.html")
     (SITE / "about.html").write_text(about_tpl.render(
         nav_years=by_year_sorted,
+        css_version=css_version,
         active_slug=None,
         root="",
     ))
@@ -185,6 +192,7 @@ def main():
         out.write_text(post_tpl.render(
             post=p,
             nav_years=by_year_sorted,
+            css_version=css_version,
             active_slug=p["slug"],
             root="../",
         ))

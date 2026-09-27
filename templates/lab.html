@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Lab &mdash; Casual Physics Enjoyer{% endblock %}
+{% block content %}
+
+<h2 class="page-title">Lab</h2>
+
+<div class="post-body">
+<p>Write-ups of experiments and calibrations done at home, with the data and code alongside.</p>
+</div>
+
+{% for page in lab_pages %}
+<article class="post-preview">
+  <header class="post-header">
+    <h2 class="post-title"><a href="lab/{{ page.slug }}.html">{{ page.title }}</a></h2>
+    <p class="post-meta"><span class="post-date">{{ page.date_human }}</span></p>
+  </header>
+  <p class="post-excerpt">{{ page.summary }}</p>
+  <p class="post-perma"><a class="read-more" href="lab/{{ page.slug }}.html">Read more &raquo;</a></p>
+</article>
+{% endfor %}
+
+{% endblock %}

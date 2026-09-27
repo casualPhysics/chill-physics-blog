@@ -1,5 +1,6 @@
 """Build the static blog from scraped Substack JSON."""
 import hashlib
+import html as htmlmod
 import json
 import re
 import shutil
@@ -7,6 +8,7 @@ from datetime import datetime
 from pathlib import Path
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from bs4 import BeautifulSoup
+import markdown
 
 NBSP = " "
 
@@ -31,6 +33,7 @@ POSTS = ROOT / "posts"
 SITE = ROOT / "docs"
 TEMPLATES = ROOT / "templates"
 STATIC = ROOT / "static"
+LAB = ROOT / "lab"
 
 
 def parse_date(s):
@@ -123,6 +126,76 @@ def load_posts():
     return posts
 
 
+def md_to_html(text: str) -> str:
+    return fix_math(markdown.markdown(
+        text, extensions=["tables", "fenced_code", "md_in_html"]))
+
+
+def load_lab_pages():
+    """Each subdir of lab/ is one write-up: meta.json + page.md + files/."""
+    pages = []
+    if not LAB.exists():
+        return pages
+    for d in sorted(LAB.iterdir()):
+        if not d.is_dir() or not (d / "meta.json").exists():
+            continue
+        meta = json.loads((d / "meta.json").read_text())
+        date = datetime.fromisoformat(meta["date"])
+        files = d / "files"
+        page = {
+            "slug": d.name,
+            "title": meta["title"],
+            "summary": meta.get("summary", ""),
+            "date": date,
+            "date_human": date.strftime("%-d %B %Y"),
+            "body_html": md_to_html((d / "page.md").read_text()),
+            "files_dir": files if files.exists() else None,
+            "code_file": meta.get("code_file"),
+            "code_html": None,
+            "code_lines": 0,
+            "extra_pages": meta.get("extra_pages", []),
+            "parent": None,
+        }
+        if page["code_file"] and files.exists():
+            src = (files / page["code_file"]).read_text()
+            page["code_html"] = htmlmod.escape(src)
+            page["code_lines"] = src.count("\n") + 1
+        pages.append(page)
+    pages.sort(key=lambda p: p["date"], reverse=True)
+    return pages
+
+
+def build_lab(env, by_year_sorted, css_version):
+    pages = load_lab_pages()
+    (SITE / "lab").mkdir(exist_ok=True)
+    page_tpl = env.get_template("lab_page.html")
+    for page in pages:
+        if page["files_dir"]:
+            shutil.copytree(page["files_dir"], SITE / "lab" / page["slug"])
+        (SITE / "lab" / f"{page['slug']}.html").write_text(page_tpl.render(
+            page=page, nav_years=by_year_sorted, css_version=css_version,
+            active_slug=None, root="../",
+        ))
+        for extra in page["extra_pages"]:
+            src = page["files_dir"] / extra["src"]
+            sub = {
+                "slug": page["slug"], "title": extra["title"],
+                "date_human": page["date_human"],
+                "body_html": md_to_html(src.read_text()),
+                "code_html": None,
+                "parent": {"title": page["title"], "href": f"../{page['slug']}.html"},
+            }
+            (SITE / "lab" / page["slug"] / extra["out"]).write_text(page_tpl.render(
+                page=sub, nav_years=by_year_sorted, css_version=css_version,
+                active_slug=None, root="../../",
+            ))
+    (SITE / "lab.html").write_text(env.get_template("lab.html").render(
+        lab_pages=pages, nav_years=by_year_sorted, css_version=css_version,
+        active_slug=None, root="",
+    ))
+    return pages
+
+
 def main():
     if SITE.exists():
         shutil.rmtree(SITE)
@@ -184,6 +257,10 @@ def main():
         active_slug=None,
         root="",
     ))
+
+    # lab write-ups
+    lab_pages = build_lab(env, by_year_sorted, css_version)
+    print(f"Built {len(lab_pages)} lab page(s)")
 
     # individual posts
     post_tpl = env.get_template("post.html")

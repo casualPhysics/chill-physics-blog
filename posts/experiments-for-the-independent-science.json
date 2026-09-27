@@ -1,0 +1,406 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/experiments-for-the-independent-science",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 209759145,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-08-04T09:40:53.254Z",
+  "updated_at": "2026-08-04T09:42:54.826Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "experiments-for-the-independent-science",
+  "social_title": null,
+  "subtitle": "Some stuff you could try!",
+  "teaser_post_eligible": true,
+  "title": "Experiments For The Independent Science Society",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 13
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "on-reduction-to-the-table-top",
+  "next_post_slug": "autonomous-buying-of-experiment-equipment",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!fdZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 209759145,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Some stuff you could try!",
+  "body_html": "<p>The <a href=\"https://www.independentscience.org/\">Independent Science Society</a> wants to figure out how to good empiricism independently. One approach to do this has been figuring out how to scale a variety of hard experiments to the home scale and thinking if the phenomena translates well at small size.</p><p>The final result we want is a list of non-trivial, phenomena-rich, and novel experiments that might be possible to do in a home setting with some effort.</p><p>If we do this we hope to find interesting technical barriers to physical experimentation that can be reduced. We also hope that we can train ourselves to become better empiricists in a world that is becoming increasingly uncertain. Another useful side effect is home empiricism being a channel for theorists to start experimenting, so that the theory-experiment gap is bridged, and that problem selection by theorists is more aligned.</p><p>Overall though, it's just fun!</p><p>We hope that the experiments below have at least one of the following properties:</p><ul><li><p>historical significance to humanity, so that they're worth replicating even if they've been done a thousand times</p></li><li><p>interesting phenomena that still aren't fully fleshed out</p></li><li><p>scope for improvement in experimental technique, such that people could do them at home</p></li><li><p>the weird property of being 'table-toppy', as written about in <a href=\"https://chillphysicsenjoyer.substack.com/p/on-reduction-to-the-table-top\">On Reduction to the Table Top</a>, and have a chance of being 'scaled down'</p></li></ul><p>The below is a list of some experiments that I myself I've been thinking about to contribute to the list. So inevitably it is slightly tilted to my interests. Nothing here is original: neither the Society nor I take any credit for the ideas (although I am responsible for what I've written here), and the ideas here are a brainstorm from many ongoing discussions with cool people.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!fdZn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!fdZn!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 424w, https://substackcdn.com/image/fetch/$s_!fdZn!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 848w, https://substackcdn.com/image/fetch/$s_!fdZn!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 1272w, https://substackcdn.com/image/fetch/$s_!fdZn!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!fdZn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!fdZn!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 424w, https://substackcdn.com/image/fetch/$s_!fdZn!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 848w, https://substackcdn.com/image/fetch/$s_!fdZn!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 1272w, https://substackcdn.com/image/fetch/$s_!fdZn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cebb056-3f0d-481e-8621-381c9804ffb6_604x696.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><h2>Physics</h2><ul><li><p>Reconstructing Galileo's classic experiments and seeing if they can be done in any reasonable time in a classroom session</p><ul><li><p>The classic isochronism experiment of a ball moving down a ramp and a spiral</p></li><li><p>Observing the craters on the Moon in the style of the old telescopes made by the Dutch during the 17th century</p></li><li><p>Dropping two things in a vacuum tube and seeing if they fall at the same rate</p><ul><li><p>Corollary \u2014 make a much cheaper vacuum tube than the ones you can buy, and then see when the air resistance approximations become legit</p></li></ul></li></ul></li><li><p>A rehash of the mysteries around the Crookes radiometer</p><ul><li><p>A replication of the Crooke's radiometer in a full vacuum</p></li><li><p>I still think this hasn't been fully resolved \u2014 is there a more cohesive explanation?</p></li></ul></li><li><p>Foucault's pendulum</p><ul><li><p>Currently, a Foucault's pendulum needs to be 67m long for people to see the effect. Is a desktop Foucault's pendulum possible? If not, why not?</p></li></ul></li><li><p>Investigating the boiling point of water under different conditions</p><ul><li><p>Can you consistently boil water at the same temperature? (See Hasok Chang's <em>Inventing Temperature</em>)</p></li><li><p>Recreating Lord Kelvin's early experiments in trying to fix the boiling point of water</p></li></ul></li><li><p>More macro-scale demonstrations of thermal physics</p><ul><li><p>For example, a really easy way to measure the temperature change of a hot and a cold liquid meeting and then coming to equilibrium</p></li><li><p>A gas piston which shows the Carnot cycle more clearly</p></li></ul></li><li><p>Macro-scale demonstrations of emergent organised phenomena</p><ul><li><p>Replicating Rayleigh-B\u00e9nard convection cell experiments and the critical temperature at which they occur \u2014 predicting the number of cells that form under different conditions</p></li><li><p>A replication of the original Couette flow experiment</p><ul><li><p>How do we make a Taylor-Couette flow cell much more cheaply?</p></li></ul></li><li><p>Whirlpools from flux</p></li></ul></li><li><p>A macro-scale demonstration of non-equilibrium statistical mechanics, like the Onsager effect</p><ul><li><p>Welding together a thermocouple to make a current from temperature differences</p></li><li><p>Making an artificially noisy system and then using it to test physics that is impacted by noise / thermal effects</p></li></ul></li><li><p>A stricter replication of Brown's original observations of Brownian motion</p></li><li><p>Electrical conductivity in salt water \u2014 how does it change as we vary the concentration?</p></li></ul><h2>Astronomy</h2><ul><li><p>Observing craters on the Moon like Galileo did</p></li><li><p>Amateur astrophotography is already a huge field, but cameras are expensive - is there a way to collect astronomical data that is a lot cheaper?</p></li></ul><h2>Chemistry</h2><ul><li><p>Can we find safer oscillating chemical reactions to study at home? Some ideas might be</p><ul><li><p>Belousov-Zhabotinsky reactions without the annoying bromine part</p></li><li><p>Briggs-Rauscher with lower concentrations of hydrogen peroxide, since high-concentration hydrogen peroxide is hazardous</p></li></ul></li><li><p>What would be a minimal, non-trivial chemical reaction network to try and measure?</p></li></ul><h2>Biology and Ecology</h2><ul><li><p>Beginner-ish safe genetic engineering tasks, like</p><ul><li><p>Staining tobacco plant leaves using genetic engineering</p></li><li><p>Making yeast fluorescent using genetic engineering</p></li></ul></li><li><p>Measuring photosynthesis rates from CO2 concentrations with a home bioreactor</p></li><li><p>Controlling the environment of algae through light pulses</p></li><li><p>Some experiments on closed communities and ecologies</p></li><li><p>Physical mechanisms of cell splitting (L-form bacteria)</p></li><li><p>Something to demonstrate the Lotka-Volterra equations, but with soil microbiomes / two competing organisms / data found by ecologists</p></li><li><p>A thermophoresis experiment to show the organic clumping that could've happened in an alkaline vent</p></li></ul><h2>Meta</h2><ul><li><p>A big database of experiment videos, so that procedures are much clearer</p></li><li><p>A big database of the things above</p></li><li><p>A way to systematically trawl the web for experiments that fit the scaling criteria in <a href=\"https://chillphysicsenjoyer.substack.com/p/on-reduction-to-the-table-top\">On Reduction to the Table Top</a></p></li></ul><h2>Theory</h2><ul><li><p>Extending Dyson's theory of life models to make them non-equilibrium</p></li><li><p>Making statistical physics much more explainable, since the terminology and concepts still are really really hard</p></li><li><p>A Lean formalisation of the recent, very difficult proofs of Boltzmann's equation by Yu Deng et al.</p></li><li><p>Tools that somehow capture the tacit knowledge required to use simulation</p></li></ul><h2>Experimental methods</h2><ul><li><p>A repeatable and cheap way to control temperature at home in hot environments / heatwave flats</p></li><li><p>Safety guidelines for those doing chemistry at home</p></li><li><p>Safer purification methods for getting species out of soil</p></li></ul><h2>Biosecurity</h2><ul><li><p>I previously made a big list of biosecurity projects in <a href=\"https://casualphysicsenjoyer.com/Essays+in+progress/Biosecurity/A+hundred+project+ideas+in+Biosecurity\">A Hundred Project Ideas in Biosecurity</a>, it would be cool if anyone wanted to pick these up again</p></li></ul><p>If you had a list of experiments you wanted to add, feel free to reach out on the society discord. Also feel free to reach out if there is something here you'd like to dig into! I\u2019m trying to get better at describing experiments, so if you try any of these, I\u2019d love to know what information was missing from my description that would have helped you.</p><h3>Acknowledgements</h3><p><em>I would like to thank David Jordan, David Pfau, Arina Berezovsky, Ben Trettel, and Isabelle Zane for discussions about many things related here. All mistakes are mine, views are my own.</em></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The Independent Science Society wants to figure out how to good empiricism independently. One approach to do this has been figuring out how to scale a variety of hard experiments to the home scale and thinking if the phenomena translates well at small size.",
+  "wordcount": 1080,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "22d6c0df-14f9-4739-a401-2b3b2eb0118b",
+      "publication_id": 1692033,
+      "name": "Metascience",
+      "slug": "metascience",
+      "hidden": false
+    },
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        116.27999999999999,
+        138.72,
+        128.52
+      ],
+      "population": 0
+    },
+    "DarkVibrant": {
+      "rgb": [
+        60.4656,
+        72.1344,
+        66.8304
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        182.8656,
+        194.5344,
+        189.2304
+      ],
+      "population": 0
+    },
+    "Muted": {
+      "rgb": [
+        116,
+        137,
+        124
+      ],
+      "population": 36
+    },
+    "DarkMuted": {
+      "rgb": [
+        60,
+        92,
+        76
+      ],
+      "population": 5146
+    },
+    "LightMuted": {
+      "rgb": [
+        187,
+        198,
+        193
+      ],
+      "population": 329
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 13,
+  "comment_count": 3,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 209759145,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/209759145/tts/1a585bba-befa-4590-8db2-f60bd36b08e3/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 316622531,
+      "body": "I think temperature control is feasible - if not of pertinence given recent events. If anyone is open to brainstorming or just exchanging ideas... Let's \ud83c\udf31",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I think temperature control is feasible - if not of pertinence given recent events. If anyone is open to brainstorming or just exchanging ideas... Let's \ud83c\udf31"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 209759145,
+      "user_id": 533653142,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-08-17T14:38:20.771Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Desert Mechanics\u2122\ufe0f",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/7efc4fe4-8f7a-41bb-8476-b3ed1203cb1c_810x1440.jpeg",
+      "handle": "desertmechanics",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "desertmechanics",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Desert Mechanics\u2122\ufe0f",
+          "id": 10458973,
+          "base_url": "https://desertmechanics.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply"
+    },
+    {
+      "id": 308873408,
+      "body": "Awesome post! I can think of another category of tabletop science that applies to data-driven domains like astronomy. Before, the barriers to entry were that high-fidelity simulations and/or data analysis pipelines required access to data and a lot of compute. This posed a barrier to entry for independent scientists who are not affiliated with a lab or university. Now, one has access to open source data (like GWOSC for gravitational wave strain data) and can rent a GPU cluster for a few dollars per hour to run these experiments.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Awesome post! I can think of another category of tabletop science that applies to data-driven domains like astronomy. Before, the barriers to entry were that high-fidelity simulations and/or data analysis pipelines required access to data and a lot of compute. This posed a barrier to entry for independent scientists who are not affiliated with a lab or university. Now, one has access to open source data (like GWOSC for gravitational wave strain data) and can rent a GPU cluster for a few dollars per hour to run these experiments."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 209759145,
+      "user_id": 332871398,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-08-05T20:21:46.138Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Chaipat Tira",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/1868feb1-f219-4c92-8913-d8bb62152764_1795x1795.jpeg",
+      "handle": "chaipattira",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "chaipattira",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Roughly Right Models",
+          "id": 6396368,
+          "base_url": "https://roughlyrightmodels.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

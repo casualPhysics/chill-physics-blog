@@ -398,3 +398,10 @@ a:hover {
   text-align: center;
 }
 .site-footer a { color: var(--muted); }
+
+/* lab pages */
+.post-body pre.code-listing { max-height: 70vh; overflow: auto; font-size: 0.8rem; line-height: 1.35; }
+.post-body table { border-collapse: collapse; margin: 1rem 0; font-size: 0.92rem; }
+.post-body th, .post-body td { border: 1px solid var(--rule, #ddd); padding: 0.3rem 0.6rem; text-align: left; }
+.post-body details { margin: 0.5rem 0 1rem; }
+.post-body details summary { cursor: pointer; color: var(--muted); font-size: 0.9rem; }

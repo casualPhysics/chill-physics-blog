@@ -1,0 +1,567 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Entropy of A Markov Chain &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css?v=461bb07c">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../lab.html">Lab</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  
+  <aside class="sidebar">
+    <h2 class="sidebar-title">Archive</h2>
+    <nav class="year-nav">
+      
+      
+      
+      <details class="year" open>
+        <summary>2026 <span class="year-count">76</span></summary>
+        <ul>
+          
+          <li><a href="../posts/minimal-assumptions-for-societal.html">Minimal Assumptions for Societal Resilience</a></li>
+          
+          <li><a href="../posts/trying-to-observe-convection-plumes.html">Trying to Observe Convection Plumes</a></li>
+          
+          <li><a href="../posts/the-independent-science-society-review.html">The Independent Science Society Review</a></li>
+          
+          <li><a href="../posts/a-new-experiment-meta-strategy.html">A New Experiment Meta-Strategy </a></li>
+          
+          <li><a href="../posts/ai-is-not-going-to-kill-my-love-of.html">AI Is Not Going To Kill My Love Of Math</a></li>
+          
+          <li><a href="../posts/coulombs-law-remains-tricky-to-test.html">Coulomb’s law remains tricky to test at home</a></li>
+          
+          <li><a href="../posts/writing-what-i-see.html">Writing What I See</a></li>
+          
+          <li><a href="../posts/liesegang-rings-experiment-update.html">Liesegang Rings Experiment Update</a></li>
+          
+          <li><a href="../posts/starting-to-clean-my-shack-of-a-lab.html">Starting to Clean My Shack Of A Lab</a></li>
+          
+          <li><a href="../posts/reforming-ukri-eligibility-rules.html">Reforming UKRI Eligibility Rules</a></li>
+          
+          <li><a href="../posts/characterising-a-cheap-water-bath.html">Characterising A Cheap Water Bath From Amazon</a></li>
+          
+          <li><a href="../posts/liesegang-rings.html">Liesegang Rings</a></li>
+          
+          <li><a href="../posts/oberreiter-seifert-and-baratos-conjecture.html">Oberreiter, Seifert and Barato’s Conjecture on Entropy Production by Biochemical Clocks</a></li>
+          
+          <li><a href="../posts/i-possibly-resolved-a-conjecture.html">Possibly Resolving A Conjecture On Matrix Theory With GPT Sol</a></li>
+          
+          <li><a href="../posts/suggested-experiment-equipment.html">Suggested Experiment Equipment</a></li>
+          
+          <li><a href="../posts/autonomous-buying-of-experiment-equipment.html">Autonomous Buying Of Experiment Equipment</a></li>
+          
+          <li><a href="../posts/johnson-noise-rig-full-chat-transcript.html">Johnson noise rig — full chat transcript</a></li>
+          
+          <li><a href="../posts/experiments-for-the-independent-science.html">Experiments For The Independent Science Society</a></li>
+          
+          <li><a href="../posts/on-reduction-to-the-table-top.html">On Reduction To The Table Top</a></li>
+          
+          <li><a href="../posts/a-diy-temperature-controlled-incubator.html">A DIY Temperature Controlled Incubator</a></li>
+          
+          <li class="active"><a href="../posts/the-entropy-of-a-markov-chain.html">The Entropy of A Markov Chain</a></li>
+          
+          <li><a href="../posts/a-dinner-on-what-it-means-to-write.html">A Dinner on What it Means To Write Science</a></li>
+          
+          <li><a href="../posts/how-do-we-write-science.html">How Do We Write Science?</a></li>
+          
+          <li><a href="../posts/computational-chemistry-locally.html">Computational chemistry, Locally?</a></li>
+          
+          <li><a href="../posts/what-counts-as-a-replication.html">What counts as a replication?</a></li>
+          
+          <li><a href="../posts/equilibrium-points-in-dysons-toy.html">Equilibrium points in Dyson&#39;s Toy Cell Model</a></li>
+          
+          <li><a href="../posts/better-temperature-control-of-algae.html">Better Temperature Control Of Algae?</a></li>
+          
+          <li><a href="../posts/measuring-milk-globule-sizes.html">Measuring Milk Globule Sizes</a></li>
+          
+          <li><a href="../posts/whats-the-point-of-doing-stuff.html">What&#39;s the point of doing stuff </a></li>
+          
+          <li><a href="../posts/in-memoriam.html">In memoriam </a></li>
+          
+          <li><a href="../posts/how-to-read-something.html">How To Read Something </a></li>
+          
+          <li><a href="../posts/questions-on-early-cell-membranes.html">Questions On Early Cell Membranes</a></li>
+          
+          <li><a href="../posts/the-questions-i-always-think-about.html">The Questions I Always Think About</a></li>
+          
+          <li><a href="../posts/preparing-algae-for-experiments-at.html">Preparing Algae for Experiments at Home</a></li>
+          
+          <li><a href="../posts/lean-for-checking-my-math.html">LEAN For Checking my Math</a></li>
+          
+          <li><a href="../posts/steady-states-in-dysons-theory-of.html">Steady States in Dyson&#39;s Theory of the Cell</a></li>
+          
+          <li><a href="../posts/what-is-the-most-intense-way-to-learn.html">What is the most intense way to learn something?</a></li>
+          
+          <li><a href="../posts/improved-tracking-of-brownian-milk.html">Improved Tracking Of Brownian Milk Globules</a></li>
+          
+          <li><a href="../posts/the-world-needs-replicators.html">The World Needs Replicators </a></li>
+          
+          <li><a href="../posts/on-a-tube-of-hot-gas.html">On a Tube Of Hot Gas</a></li>
+          
+          <li><a href="../posts/i-observed-some-brownian-motion-at.html">I Observed Some Brownian Motion At Home</a></li>
+          
+          <li><a href="../posts/join-the-independent-science-society.html">Join The Independent Science Society!</a></li>
+          
+          <li><a href="../posts/how-would-an-intelligent-system-do.html">How Would An Intelligent System Do Physics?</a></li>
+          
+          <li><a href="../posts/the-particle-comes-alive.html">The Particle Comes Alive</a></li>
+          
+          <li><a href="../posts/being-political-in-the-right-way.html">Being Political in the Right Way </a></li>
+          
+          <li><a href="../posts/do-not-plan.html">Do Not Plan</a></li>
+          
+          <li><a href="../posts/freeman-dysons-model-of-a-cell.html">Freeman Dyson’s Model of a Cell</a></li>
+          
+          <li><a href="../posts/how-to-write-better.html">How to Write Better</a></li>
+          
+          <li><a href="../posts/excerpts.html">Excerpts</a></li>
+          
+          <li><a href="../posts/why-read-faradays-diary.html">Why Read Faraday&#39;s Diary?</a></li>
+          
+          <li><a href="../posts/a-thermodynamics-for-biology.html">A Thermodynamics For Biology</a></li>
+          
+          <li><a href="../posts/its-ok-to-be-scared.html">It’s OK To Be Scared</a></li>
+          
+          <li><a href="../posts/fluid-dynamics-for-toddlers.html">Fluid dynamics for Toddlers</a></li>
+          
+          <li><a href="../posts/making-rayleigh-benard-convection.html">Making Rayleigh-Bénard Convection Cells</a></li>
+          
+          <li><a href="../posts/an-agentic-home-bioreactor.html">An Agentic Home Bioreactor </a></li>
+          
+          <li><a href="../posts/kew-gardens-turbulence-statistical.html">Kew Gardens, Turbulence, Statistical Mechanics, Bioreactors and Strength Training </a></li>
+          
+          <li><a href="../posts/how-to-get-cheaper-lab-equipment.html">How To Get Cheaper Lab Equipment </a></li>
+          
+          <li><a href="../posts/daily-readings.html">Daily Readings </a></li>
+          
+          <li><a href="../posts/posting-more-of-my-thoughts.html">Posting More of My Thoughts </a></li>
+          
+          <li><a href="../posts/the-best-town-ive-been-to.html">The Best Town I&#39;ve Been To. </a></li>
+          
+          <li><a href="../posts/so-my-friend-made-me-a-bioreactor.html">So My Friend Made Me A Bioreactor...</a></li>
+          
+          <li><a href="../posts/how-to-think-about-dynamic-systems.html">How To Think About Dynamic Systems</a></li>
+          
+          <li><a href="../posts/the-triumph-of-the-embryo.html">The Triumph Of The Embryo </a></li>
+          
+          <li><a href="../posts/ai-agents-to-organise-my-secret-societys.html">AI Agents to Organise My Secret Society&#39;s Dinners </a></li>
+          
+          <li><a href="../posts/from-reversibility-to-irreversibility.html">From Reversibility to Irreversibility </a></li>
+          
+          <li><a href="../posts/how-i-fixed-my-headaches.html">How I Fixed my Headaches</a></li>
+          
+          <li><a href="../posts/biology-as-clockwork.html">Biology as Clockwork </a></li>
+          
+          <li><a href="../posts/being-maximally-useful-whilst-commuting.html">Being Maximally Useful Whilst Commuting</a></li>
+          
+          <li><a href="../posts/trying-to-make-an-automated-ecologist.html">Trying to make an Automated Ecologist</a></li>
+          
+          <li><a href="../posts/will-future-generations-think-were.html">Will Future Generations Think We&#39;re Gross? </a></li>
+          
+          <li><a href="../posts/ppe-stockpile-degradation.html">PPE Stockpile Degradation </a></li>
+          
+          <li><a href="../posts/safety-and-danger.html">Safety And Danger</a></li>
+          
+          <li><a href="../posts/so-i-got-an-eeg.html">So I got an EEG...</a></li>
+          
+          <li><a href="../posts/bio-theory-lab-notes.html">Bio-theory Lab Notes!</a></li>
+          
+          <li><a href="../posts/how-can-i-make-useful-knowledge.html">How Can I Make Useful Knowledge? </a></li>
+          
+          <li><a href="../posts/20-references-in-complexity-theory.html">20 References In Complexity Theory and Biology</a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2025 <span class="year-count">80</span></summary>
+        <ul>
+          
+          <li><a href="../posts/using-linear-algebra-to-predict-a.html">Using Linear Algebra To Predict A Non-Linear Pendulum</a></li>
+          
+          <li><a href="../posts/testing-a-cheaper-laminar-flow-hood.html">Testing a cheaper laminar flow hood. </a></li>
+          
+          <li><a href="../posts/how-to-find-time-to-do-science.html">How To Find Time To Do Science</a></li>
+          
+          <li><a href="../posts/the-man-i-want-to-meet-the-most.html">The Man I Want To Meet The Most</a></li>
+          
+          <li><a href="../posts/when-is-a-complex-system-stable.html">When Is A Complex System Stable? </a></li>
+          
+          <li><a href="../posts/i-made-a-quieter-air-purifier.html">I Made A Quieter Air Purifier. </a></li>
+          
+          <li><a href="../posts/whats-a-good-theory-of-biology.html">What&#39;s A Good Theory Of Biology?</a></li>
+          
+          <li><a href="../posts/my-uv-experiment-worked.html">My UV Experiment Worked!</a></li>
+          
+          <li><a href="../posts/you-are-fucked-if-you-cant-write.html">Write Clearly </a></li>
+          
+          <li><a href="../posts/results-from-blasting-yeast-with.html">The Effect of UV Light On Yeast</a></li>
+          
+          <li><a href="../posts/sneeze-for-the-camera-baby.html">Sneeze for the Camera Baby! </a></li>
+          
+          <li><a href="../posts/non-equilibrium-statistical-mechanics.html">Non Equilibrium Statistical Mechanics and Biology </a></li>
+          
+          <li><a href="../posts/why-independent-science-now.html">Why Independent Science Now? </a></li>
+          
+          <li><a href="../posts/how-life-works-by-philip-ball.html">&#39;How Life Works&#39; by Philip Ball </a></li>
+          
+          <li><a href="../posts/making-an-automated-uv-sterilisation.html">Making an Automated UV Sterilisation Pump </a></li>
+          
+          <li><a href="../posts/i-managed-to-grow-countable-yeast.html">I Managed To Grow Countable Yeast Colonies </a></li>
+          
+          <li><a href="../posts/culturing-yeast-for-independent-science.html">Culturing Yeast For Independent Science Experiments </a></li>
+          
+          <li><a href="../posts/do-you-actually-hate-it.html">Do You Actually Hate It? </a></li>
+          
+          <li><a href="../posts/evidence-that-shrouds-increase-cr.html">Evidence That Shrouds Increase CR Box Performance </a></li>
+          
+          <li><a href="../posts/a-war-in-the-lake-district.html">A War in The Lake District </a></li>
+          
+          <li><a href="../posts/sealing-my-house-against-pathogens.html">Sealing my House Against Pathogens </a></li>
+          
+          <li><a href="../posts/bad-productivity-frameworks.html">Bad Productivity Frameworks</a></li>
+          
+          <li><a href="../posts/cycling-the-west-country.html">Cycling the West Country</a></li>
+          
+          <li><a href="../posts/measuring-my-diy-air-purifier.html">Measuring my DIY Air Purifier </a></li>
+          
+          <li><a href="../posts/the-ideas-factory.html">The Ideas Factory? </a></li>
+          
+          <li><a href="../posts/dear-friends-and-readers-please-help.html">Dear Friends and Readers, Please Help</a></li>
+          
+          <li><a href="../posts/did-i-just-make-quantum-dots.html">Did I Just Make Quantum Dots?</a></li>
+          
+          <li><a href="../posts/physics-departments-are-shutting.html">Physics Departments At Risk Of Shutting Down </a></li>
+          
+          <li><a href="../posts/trying-to-make-a-cheaper-air-purifier.html">Trying to make a Cheaper Air Purifier </a></li>
+          
+          <li><a href="../posts/you-like-too-many-things-now-what.html">You Like Too Many Things. Now What? </a></li>
+          
+          <li><a href="../posts/i-made-a-cheaper-way-to-test-ventilation.html">A Cheaper Way to Test Ventilation Rates?</a></li>
+          
+          <li><a href="../posts/frying-eggs-and-air-quality-tests.html">Frying Eggs and Air Quality Tests</a></li>
+          
+          <li><a href="../posts/i-want-to-do-experiments-but-its.html">I want to do experiments but its not cheap</a></li>
+          
+          <li><a href="../posts/noise-cancelling-a-fan.html">Noise Cancelling A Fan</a></li>
+          
+          <li><a href="../posts/dirt-cheap-holidays.html">Dirt Cheap Holidays</a></li>
+          
+          <li><a href="../posts/try-to-prove-math-with-computers.html">Try to Prove Math With Computers</a></li>
+          
+          <li><a href="../posts/you-need-to-read-thomas-kuhn.html">You Need to Read Thomas Kuhn. </a></li>
+          
+          <li><a href="../posts/just-get-a-partial-fix-and-move-on.html">Just get a Partial Fix and Move On.</a></li>
+          
+          <li><a href="../posts/computing-properties-of-molecules.html">Computing Properties of Molecules. </a></li>
+          
+          <li><a href="../posts/for-here-too-gods-dwell.html">For Here Too, Gods Dwell</a></li>
+          
+          <li><a href="../posts/tolerating-confusion.html">Tolerating Confusion </a></li>
+          
+          <li><a href="../posts/how-to-make-more-friends.html">How To Make More Friends</a></li>
+          
+          <li><a href="../posts/we-should-formalise-physics.html">We Should Formalise Physics</a></li>
+          
+          <li><a href="../posts/do-anything-in-20-minutes.html">Do Anything in 20 Minutes </a></li>
+          
+          <li><a href="../posts/math-for-cleaning-air.html">Models for Cleaning Air </a></li>
+          
+          <li><a href="../posts/if-its-not-obvious-it-probably-isnt.html">If It&#39;s Not Obvious, It Probably Isn&#39;t </a></li>
+          
+          <li><a href="../posts/how-to-easily-keep-something-alive.html">How to Easily Keep Something Alive </a></li>
+          
+          <li><a href="../posts/a-big-board-of-open-sourceable-science.html">A Big Board of Problems </a></li>
+          
+          <li><a href="../posts/teaching-cambridge-level-math-at.html">Teaching Cambridge-Level Math At Scale (Without Charging $150k)</a></li>
+          
+          <li><a href="../posts/what-i-learned-from-500-independent.html">What I Learned from 500 Independent Scientists</a></li>
+          
+          <li><a href="../posts/try-these-biosecurity-projects-in.html">Try these Biosecurity Projects in your free time!</a></li>
+          
+          <li><a href="../posts/diy-positive-pressure-build-log.html">DIY Positive Pressure Build Log</a></li>
+          
+          <li><a href="../posts/what-is-the-most-effective-day.html">What is the Most Effective Day?</a></li>
+          
+          <li><a href="../posts/can-i-use-air-pressure-to-protect.html">Can I use Air Pressure to Protect my House?</a></li>
+          
+          <li><a href="../posts/why-your-technical-expertise-might.html">Why Your Technical Expertise Might Not Be Your Greatest Asset</a></li>
+          
+          <li><a href="../posts/love-isnt-physics-but-popular-advice.html">Love isn&#39;t Physics, but popular advice acts like it is</a></li>
+          
+          <li><a href="../posts/what-i-use-for-notes-and-publishing.html">What I use for Notes (and Publishing) </a></li>
+          
+          <li><a href="../posts/buyin-and-tryin-an-elastomeric-respirator.html">Buyin&#39; and Tryin&#39; an Elastomeric Respirator</a></li>
+          
+          <li><a href="../posts/macos-ssh-file-system-sshfs.html">MacOS ssh File System (SSHFS) </a></li>
+          
+          <li><a href="../posts/its-hard-to-know-if-i-suck-at-writing.html">It&#39;s hard to know if I suck at writing</a></li>
+          
+          <li><a href="../posts/how-to-start-modelling-airflow-ventilation.html">How to Start Modelling Airflow Ventilation</a></li>
+          
+          <li><a href="../posts/calculations-for-practical-heuristics.html">Calculations for Practical Heuristics in Far UVC Use</a></li>
+          
+          <li><a href="../posts/how-do-i-achieve-what-i-want.html">How do I achieve what I want?</a></li>
+          
+          <li><a href="../posts/problems-trying-to-model-far-uvc.html">Problems Trying to Model Far UVC in a Room </a></li>
+          
+          <li><a href="../posts/thought-blobs-on-biosecurity-topics.html">Thought Blobs On Biosecurity Topics</a></li>
+          
+          <li><a href="../posts/lets-not-rawdog-the-next-plague.html">Let&#39;s Not Rawdog the Next Plague</a></li>
+          
+          <li><a href="../posts/contents.html">Contents</a></li>
+          
+          <li><a href="../posts/a-two-tier-model-of-optimal-career.html">A Two-Tier Model of Optimal Career Design</a></li>
+          
+          <li><a href="../posts/the-pain-of-finding-the-truth.html">The Pain of Finding the Truth </a></li>
+          
+          <li><a href="../posts/three-skills-of-virtue.html">Three Skills of Virtue</a></li>
+          
+          <li><a href="../posts/when-to-trust-someone.html">When To Trust Someone </a></li>
+          
+          <li><a href="../posts/dont-agree-to-things-too-easily.html">Don&#39;t Agree To Things Too Easily </a></li>
+          
+          <li><a href="../posts/what-do-we-do-now.html">What do we do now? </a></li>
+          
+          <li><a href="../posts/the-professor-and-the-plumber.html">The Professor and the Plumber</a></li>
+          
+          <li><a href="../posts/london-and-the-country.html">London and the Country</a></li>
+          
+          <li><a href="../posts/chicken-curry-piece-by-piece.html">Chicken Curry, Piece by Piece </a></li>
+          
+          <li><a href="../posts/how-my-life-changes.html">How my Life Changes </a></li>
+          
+          <li><a href="../posts/slow-down.html">Slow Down. </a></li>
+          
+          <li><a href="../posts/do-i-want-to-be-excellent.html">Do I want to be Excellent?</a></li>
+          
+          <li><a href="../posts/youre-a-slow-thinker-now-what.html">You&#39;re a Slow Thinker. Now what? </a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2024 <span class="year-count">14</span></summary>
+        <ul>
+          
+          <li><a href="../posts/why-casual-conversations-is-so-hard.html">Why Casual Conversation is So Hard </a></li>
+          
+          <li><a href="../posts/dont-chase-it.html">Don&#39;t Chase It</a></li>
+          
+          <li><a href="../posts/compulsion-as-a-tool.html">Compulsion as a Tool</a></li>
+          
+          <li><a href="../posts/on-good-writing.html">On Good Writing</a></li>
+          
+          <li><a href="../posts/scientists-will-become-data-harvesters.html">Scientists will become Data Harvesters </a></li>
+          
+          <li><a href="../posts/tediousness-is-good.html">Tediousness is Good. </a></li>
+          
+          <li><a href="../posts/conquering-the-molecules.html">Conquering the Molecules</a></li>
+          
+          <li><a href="../posts/when-scientific-method-fails.html">When The Scientific Method Fails</a></li>
+          
+          <li><a href="../posts/calibrating-myself-through-science.html">Calibrating Myself through Science Memoirs</a></li>
+          
+          <li><a href="../posts/selecting-good-problems-as-a-part.html">Selecting Good Problems as a Part-Time Physics Researcher</a></li>
+          
+          <li><a href="../posts/pursuing-physics-research-part-time.html">Doing Research Part-Time is Great</a></li>
+          
+          <li><a href="../posts/problems-come-from-dumb-questions.html">Problems come from Dumb Questions</a></li>
+          
+          <li><a href="../posts/do-physics-but-learn-history.html">Do Physics, But Learn History</a></li>
+          
+          <li><a href="../posts/a-quantum-mechanics-problem-on-a.html">A Quantum Mechanics Problem on a Particle in a Line under an Electric Field. </a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2023 <span class="year-count">6</span></summary>
+        <ul>
+          
+          <li><a href="../posts/preliminary-thoughts-on-solar-cell.html">Preliminary Thoughts on Solar Cell Efficiency </a></li>
+          
+          <li><a href="../posts/quantifying-wants-for-better-outcomes.html">Quantifying Wants, For Better Outcomes</a></li>
+          
+          <li><a href="../posts/essential-physics-for-the-solar-entrepreneur.html">Experiences with the Physics and Economics of Solar Cells in Malaysia </a></li>
+          
+          <li><a href="../posts/solar-energy-from-the-sahara.html">Solar Energy from the Sahara. </a></li>
+          
+          <li><a href="../posts/turning-my-passion-into-a-job-was.html">Turning my Passion into a Job was a Bad Idea</a></li>
+          
+          <li><a href="../posts/a-draft-of-some-start-up-ideas.html">A Draft of some Start-up Ideas </a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2022 <span class="year-count">27</span></summary>
+        <ul>
+          
+          <li><a href="../posts/changing-our-frame-to-make-things-easier.html">Changing our Frame to Make Things Easier</a></li>
+          
+          <li><a href="../posts/thoughts-on-gravitational-fields-around-shells.html">Thoughts on Gravitational Fields on Shells</a></li>
+          
+          <li><a href="../posts/physics-diaries-2.html">Physics Diaries #2</a></li>
+          
+          <li><a href="../posts/cool-physics-stuff-i-attempted-today.html">Cool Physics Stuff I Attempted today</a></li>
+          
+          <li><a href="../posts/a-list-of-problems-in-many-electron-systems.html">A List of Problems in Many Electron Systems</a></li>
+          
+          <li><a href="../posts/finding.html">Finding The Ground States of Quantum Systems</a></li>
+          
+          <li><a href="../posts/untitled-2.html">Heisenberg Spin Chains</a></li>
+          
+          <li><a href="../posts/the-energy-of-an-electron-hopping-model.html">The Energy of an Electron Hopping Model</a></li>
+          
+          <li><a href="../posts/how-do-loops-change-physics.html">How do Loops change Physics?</a></li>
+          
+          <li><a href="../posts/an-unfair-model-is-quite-easy-to-make.html">An Example of a &#34;Partially Fair&#34; Model</a></li>
+          
+          <li><a href="../posts/more-thoughts-on-space-solar-energy.html">More Thoughts on Space Solar Energy</a></li>
+          
+          <li><a href="../posts/what-i-wished-i-knew-about-abstract-algebra.html">A TL-DR for Basic Group Theory</a></li>
+          
+          <li><a href="../posts/what-makes-an-image-an-image.html">Thoughts on Words and their Meaning</a></li>
+          
+          <li><a href="../posts/redshift-from-massive-objects.html">Redshift from Massive Objects</a></li>
+          
+          <li><a href="../posts/measuring-disorder-and-complexity.html">Measuring Disorder and Complexity</a></li>
+          
+          <li><a href="../posts/noethers-theorem-and-the-principle-of-least-action.html">Noether’s Theorem and the Principle of Least Action</a></li>
+          
+          <li><a href="../posts/what-is-the-dollar-cost-of-malaysias-racial-discrimination.html">What is the Dollar Cost of Malaysia’s Racial Discrimination?</a></li>
+          
+          <li><a href="../posts/the-viability-of-space-solar-energy.html">The Viability of Space Solar Energy</a></li>
+          
+          <li><a href="../posts/will-ai-enabled-automation-will-constitute-more-than-half-of-the-gross-world-product-gwp-by-2100.html">Will AI-enabled automation constitute more than half of the Gross World Product by 2100?</a></li>
+          
+          <li><a href="../posts/untitled-9.html">The Hopf-Fibration and a Four-Dimensional Sphere</a></li>
+          
+          <li><a href="../posts/some-thoughts-on-solving-electrodynamics-problems.html">Electrodynamics Puzzles</a></li>
+          
+          <li><a href="../posts/small-sample-bias-and-data-ethics.html">Small Sample Bias and Data Ethics</a></li>
+          
+          <li><a href="../posts/what-is-our-natural-rate-of-extinction.html">What is our natural Rate of Extinction?</a></li>
+          
+          <li><a href="../posts/existential-risk-and-the-offence-defence-balance.html">Existential Risk and the Offence-Defence Balance.</a></li>
+          
+          <li><a href="../posts/slippage-in-automated-market-makers.html">Slippage in Automated Market Makers</a></li>
+          
+          <li><a href="../posts/density-functional-theory.html">Density Functional Theory</a></li>
+          
+          <li><a href="../posts/untitled-7.html">Time Crystals, Part II</a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2021 <span class="year-count">18</span></summary>
+        <ul>
+          
+          <li><a href="../posts/time-crystals.html">Time Crystals</a></li>
+          
+          <li><a href="../posts/diffie-hellman-key-exchange.html">Diffie-Hellman Key Exchange</a></li>
+          
+          <li><a href="../posts/untitled-6.html">Computing a Feynman Diagram for the Magnetic g-Factor</a></li>
+          
+          <li><a href="../posts/phase-transitions-in-the-checkerboard-state.html">Phase Transitions in the Checkerboard State</a></li>
+          
+          <li><a href="../posts/explaining-quantum-degeneracy.html">Explaining Quantum Degeneracy</a></li>
+          
+          <li><a href="../posts/hydrogen-and-its-mysterious-energies.html">Hydrogen and its Mysterious Energies</a></li>
+          
+          <li><a href="../posts/the-economics-of-intergalactic-trade-part-i.html">The Economics of Intergalactic Trade — Part I</a></li>
+          
+          <li><a href="../posts/untitled-5.html">The Integer Quantum Hall Effect</a></li>
+          
+          <li><a href="../posts/geometry-as-the-theatre-of-physics.html">Geometry as the Theatre of Physics</a></li>
+          
+          <li><a href="../posts/untitled-3.html">Quantifying our Confidence in Statistical Models — The Confidence Interval</a></li>
+          
+          <li><a href="../posts/why-we-need-quantum-field-theory.html">Why do we have to combine Einstein&#39;s Relativity with Quantum Mechanics?</a></li>
+          
+          <li><a href="../posts/how-do-physicists-understand-the-different-phases-of-matter.html">How do Physicists understand the different Phases of Matter?</a></li>
+          
+          <li><a href="../posts/using-natural-language-processing-to-visualise-uncertainty-in-news-content.html">Using Natural Language Processing to visualise Uncertainty in News Content</a></li>
+          
+          <li><a href="../posts/the-wonderful-math-that-powers-disneys-animationwhere-physics-computer-science-and-art-come-together.html">The wonderful Math that powers Disney’s Animation</a></li>
+          
+          <li><a href="../posts/untitled.html">Finding Geometrical Beauty in Simple Physics</a></li>
+          
+          <li><a href="../posts/taming-infinities-why-is-it-possible-to-do-physics-at-all.html">Taming Infinities — Why is it possible to do Physics at all?</a></li>
+          
+          <li><a href="../posts/cheating-nashs-game-theory-with-quantum-mechanics.html">Cheating Nash’s Game Theory, with Quantum Mechanics</a></li>
+          
+          <li><a href="../posts/the-baffling-differences-between-classical-and-quantum-mechanics.html">The baffling Differences between Classical and Quantum Mechanics</a></li>
+          
+        </ul>
+      </details>
+      
+    </nav>
+  </aside>
+  
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">The Entropy of A Markov Chain</h2>
+    <p class="post-meta">
+      <span class="post-date">28 July 2026</span>
+      &middot; <span class="post-subtitle">A more explicit example</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>Clausius (1865)¹ defines a quantity called entropy. By decomposing physical processes as a chain of engines, he shows that entropy always increases for irreversible processes. For reversible processes like Carnot's ideal engine, the change in entropy is zero. But when an irreversible process occurs, entropy can never decrease unless energy is applied to a system. This is what is known as the second law of thermodynamics.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!k_8j!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!k_8j!,w_424,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 424w, https://substackcdn.com/image/fetch/$s_!k_8j!,w_848,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 848w, https://substackcdn.com/image/fetch/$s_!k_8j!,w_1272,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 1272w, https://substackcdn.com/image/fetch/$s_!k_8j!,w_1456,c_limit,f_webp,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/fc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' fetchpriority="high" height="409.5" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!k_8j!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif" srcset="https://substackcdn.com/image/fetch/$s_!k_8j!,w_424,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 424w, https://substackcdn.com/image/fetch/$s_!k_8j!,w_848,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 848w, https://substackcdn.com/image/fetch/$s_!k_8j!,w_1272,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 1272w, https://substackcdn.com/image/fetch/$s_!k_8j!,w_1456,c_limit,f_auto,q_auto:good,fl_lossy/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc0ed1cf-1827-423b-bae4-dbb3a7c7888f_950x500.gif 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!zGLq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!zGLq!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 424w, https://substackcdn.com/image/fetch/$s_!zGLq!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 848w, https://substackcdn.com/image/fetch/$s_!zGLq!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 1272w, https://substackcdn.com/image/fetch/$s_!zGLq!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/1ac41429-b996-46eb-964c-22a671f10432_1416x811.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":false,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!zGLq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png" srcset="https://substackcdn.com/image/fetch/$s_!zGLq!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 424w, https://substackcdn.com/image/fetch/$s_!zGLq!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 848w, https://substackcdn.com/image/fetch/$s_!zGLq!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 1272w, https://substackcdn.com/image/fetch/$s_!zGLq!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ac41429-b996-46eb-964c-22a671f10432_1416x811.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>And whilst entropy itself may not be measurable with a thermometer or ruler, it is still a useful concept since we can calculate derived quantities from it that are directly measurable.</p><p>I've written previously quite vaguely about 'life as entropy'. This was an idea motivated by Schrödinger (1944)² through the concept of <em>negentropy</em>.  Through negentropy, life seems to maintain order by feeding on the energy around it, and reducing its local disorder. But up until now, I've been confused about what this actually means in detail.</p><p>And so one way I'm trying to understand this is through models. One approach might be to make toy models and then figure out a mathematically consistent way to define entropy in those systems. Then, you could simulate the model and have a better idea of how the entropy evolves.</p><p>One such toy model that is useful to get an intuition is Dyson's toy model of a cell. Dyson's toy model of a cell is a Markov chain that settles into one of three equilibrium states, two of which are the 'life' and 'death' states. But if we care about the vague concept of 'life as entropy', then we should be able to make a definition of entropy to apply to the Markov chain.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!YR5V!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!YR5V!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 424w, https://substackcdn.com/image/fetch/$s_!YR5V!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 848w, https://substackcdn.com/image/fetch/$s_!YR5V!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 1272w, https://substackcdn.com/image/fetch/$s_!YR5V!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/febcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":false,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!YR5V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png" srcset="https://substackcdn.com/image/fetch/$s_!YR5V!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 424w, https://substackcdn.com/image/fetch/$s_!YR5V!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 848w, https://substackcdn.com/image/fetch/$s_!YR5V!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 1272w, https://substackcdn.com/image/fetch/$s_!YR5V!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffebcabe0-a18f-49ab-b133-6ccd41dde169_1356x1041.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>But the concept of entropy as originally defined by Clausius was a function of work and temperature</p><p class="math-block">$$ \mathrm{d}S \;=\; \frac{\delta Q_{\text{rev}}}{T} $$</p><p>And so it is unclear how to relate the two ideas together. Is there a different way to define entropy in the context of Markov chains that gives you the same result, consistent with physical ideas?</p><p>Well, one way to attack this is by looking at the work of Boltzmann, who quantified the relationship between entropy and the number of possible states in a system.</p><p>Suppose you take a system and then observe a system's state variables, like temperature, pressure and volume, using various instruments. Presumably, there are a number of different configurations of the physical system that are compatible with it being in that state. And if entropy is related to the concept of order and disorder, then presumably entropy would be higher if there were more possible states.</p><p>Here is a vague example. If you have a gas of identical molecules at absolute zero, fixed in position, with each at zero velocity at zero temperature, you have fewer possibilities for what the system could be for the gas to be in that state. Whereas if we had a heated gas at a hot temperature, there are many configurations that a state might be in as a result.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!NLlc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!NLlc!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 424w, https://substackcdn.com/image/fetch/$s_!NLlc!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 848w, https://substackcdn.com/image/fetch/$s_!NLlc!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 1272w, https://substackcdn.com/image/fetch/$s_!NLlc!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!NLlc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png" srcset="https://substackcdn.com/image/fetch/$s_!NLlc!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 424w, https://substackcdn.com/image/fetch/$s_!NLlc!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 848w, https://substackcdn.com/image/fetch/$s_!NLlc!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 1272w, https://substackcdn.com/image/fetch/$s_!NLlc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F293001d4-cab3-4bbb-bb02-f6a96a84f25e_1298x740.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>Temperature is higher, entropy is higher. Is it any coincidence that the number of possible states increases too?</p><p>It turns out there is a way to make these ideas rigorous. Boltzmann showed that entropy can be written as a function of the number of states that a system can be in, if we fixed what the macro state variables were. That means if we could count all the states that were possible in a system at fixed temperature, pressure and volume, then we could calculate the entropy.</p><p>This is written in the legendary equation below, which is also surprisingly simple — that the entropy of a system is the logarithm of the number of states, multiplied by a fixed constant called the Boltzmann constant.</p><p class="math-block">$$ S \;=\; k_B \ln W, \qquad W \;=\; \#\{\text{microstates consistent with the macrostate}\} $$</p><p>Whilst the result is simple it's completely non-obvious. Boltzmann creates a model of gas where each particle only can be in a set of finite velocities and positions and then tries to take the limit. The proof is not easy and mathematicians are still figuring out how to properly rigourise the work of Boltzmann.</p><p>But anyway!</p><p>To make this example even more concrete, let's try to compute the entropy of a basic system, given we know what the energy (macrostate) is. Consider Curie's model of a magnet. In this model, our physical space consists of a finite number of electrons, which can either be spin up or spin down. In models of magnets, energy (or work) is done when the spins are misaligned with the direction of the magnetic field that the metal is placed in.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!Wuy_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!Wuy_!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 424w, https://substackcdn.com/image/fetch/$s_!Wuy_!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 848w, https://substackcdn.com/image/fetch/$s_!Wuy_!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 1272w, https://substackcdn.com/image/fetch/$s_!Wuy_!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!Wuy_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png" srcset="https://substackcdn.com/image/fetch/$s_!Wuy_!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 424w, https://substackcdn.com/image/fetch/$s_!Wuy_!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 848w, https://substackcdn.com/image/fetch/$s_!Wuy_!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 1272w, https://substackcdn.com/image/fetch/$s_!Wuy_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a35b260-0bcf-4ca8-b0ad-676eda3e96b8_1430x740.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>And so this suggests that if we had a collection of atoms, the energy is a function of how many atoms are aligned with spin up vs spin down.</p><p class="math-block">$$ E \;=\; n_\uparrow - n_\downarrow $$</p><p>Ok, so suppose we had a very, very small system of 5 atoms. And suppose that we measured the energy as E = 1. First, we need to figure out how many atoms need to be spin up and spin down to have this configuration. The obvious answer is three spin up and two spin down because</p><p class="math-block">$$ E \;=\; 3 - 2 \;=\; 1 $$</p><p>We could also trivially solve this using the constraint that</p><p>n↑+n↓=5, so</p><p class="math-block">$$ E \;=\; 2n_\uparrow - 5 $$</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!b889!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!b889!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 424w, https://substackcdn.com/image/fetch/$s_!b889!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 848w, https://substackcdn.com/image/fetch/$s_!b889!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 1272w, https://substackcdn.com/image/fetch/$s_!b889!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/d0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!b889!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png" srcset="https://substackcdn.com/image/fetch/$s_!b889!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 424w, https://substackcdn.com/image/fetch/$s_!b889!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 848w, https://substackcdn.com/image/fetch/$s_!b889!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 1272w, https://substackcdn.com/image/fetch/$s_!b889!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd0a7802e-99ff-4ebf-b470-97c677af037c_1377x775.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>And the configurations we could have are the following. Each configuration has three up spins and two down spins, but you can arrange this in 10 ways. The diagram below lists all of the possibilities.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!Ld-5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!Ld-5!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 424w, https://substackcdn.com/image/fetch/$s_!Ld-5!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 848w, https://substackcdn.com/image/fetch/$s_!Ld-5!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 1272w, https://substackcdn.com/image/fetch/$s_!Ld-5!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/e820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!Ld-5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png" srcset="https://substackcdn.com/image/fetch/$s_!Ld-5!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 424w, https://substackcdn.com/image/fetch/$s_!Ld-5!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 848w, https://substackcdn.com/image/fetch/$s_!Ld-5!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 1272w, https://substackcdn.com/image/fetch/$s_!Ld-5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe820a209-45f8-485d-8035-daf44cbf54e8_1377x845.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>This is 5 choose 3 combinations, which is 10.</p><p class="math-block">$$ W \;=\; \binom{5}{3} \;=\; \frac{5!}{3!\,2!} \;=\; 10. $$</p><p>Those ten configurations are the entire content of the macrostate "E = 1".</p><p>This means that Boltzmann would label the entropy of the system as</p><p class="math-block">$$ S \;=\; k_B \ln W \;=\; k_B \ln 10 \;=\; 2.3026\,k_B, $$</p><p>or log₂ 10 = 3.32 bits. And so in this case we can see the entropy as a function of energy. If we plot out entropy as a function of the energies we get this graph:</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!98PU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!98PU!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 424w, https://substackcdn.com/image/fetch/$s_!98PU!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 848w, https://substackcdn.com/image/fetch/$s_!98PU!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 1272w, https://substackcdn.com/image/fetch/$s_!98PU!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!98PU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png" srcset="https://substackcdn.com/image/fetch/$s_!98PU!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 424w, https://substackcdn.com/image/fetch/$s_!98PU!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 848w, https://substackcdn.com/image/fetch/$s_!98PU!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 1272w, https://substackcdn.com/image/fetch/$s_!98PU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4df2c8cc-28ed-433c-82fc-b2682562eba1_1368x902.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>So now we've learnt how to compute entropy from the total number of microstates that a system can have. Ok, so how do we count the entropy of a Markov chain process like in Dyson's cell model?</p><p>In Dyson’s toy model that we have N sites, and each site could be in one of three states — empty, active, or inactive. Given some rules, in my last post I showed that this converges to an equilibrium. The equilibrium values are a complicated function of fixed points, but they do exist, and the probability of being empty, inactive or active does converge to a fixed value. </p><p>This equilibrium point allows us to define the entropy of a Markov chain through a counting argument. Say we had an equilibrium case where we had a 1/2 chance that a state is empty, a 1/4 chance that a state is active, and a 1/4 chance that a state is inactive.</p><p>This means if we had 8 sites, then we would have 4 that were empty, 2 that were active, and 2 that were inactive. So to measure the entropy, we now need to count all of the configurations of this happening. This is shown below, with all of the arrangements.</p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!9yqX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png" target="_blank"><div class="image2-inset"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!9yqX!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 424w, https://substackcdn.com/image/fetch/$s_!9yqX!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 848w, https://substackcdn.com/image/fetch/$s_!9yqX!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 1272w, https://substackcdn.com/image/fetch/$s_!9yqX!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 1456w" type="image/webp"/><img alt="" class="sizing-normal" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/d234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"normal","height":819,"width":1456,"resizeWidth":728,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":null,"isProcessing":false,"align":null,"offset":false}' height="409.5" loading="lazy" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!9yqX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png" srcset="https://substackcdn.com/image/fetch/$s_!9yqX!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 424w, https://substackcdn.com/image/fetch/$s_!9yqX!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 848w, https://substackcdn.com/image/fetch/$s_!9yqX!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 1272w, https://substackcdn.com/image/fetch/$s_!9yqX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd234537d-20a8-4fff-b6bb-a6ab7822a040_1430x1120.png 1456w" width="728"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>Counting them is the multinomial coefficient — choose which 4 of the 8 sites are empty, then which 2 of the remaining 4 are active, and the last 2 are inactive. This can be calculated by taking the factorial of the number of spaces there are, and dividing it by the factorials of the number in each distinct state. So in this case, since we have 4 empty, 2 active and 2 inactive, we divide by 96.</p><p class="math-block">$$ W \;=\; \frac{8!}{4!\,2!\,2!} \;=\; \frac{40320}{24\cdot 2\cdot 2} \;=\; 420. $$</p><p>And so the entropy of this is the logarithm of the number of states multiplied by the Boltzmann constant.</p><p class="math-block">$$ S \;=\; k_B \ln W \;=\; k_B \ln 420 \;=\; 6.0403\,k_B. $$</p><p>The next natural question is how the entropy evolves in the system. It turns out we can make some cool general statements about entropy based on the topology of the graph, which I'll explain in a later post, and also write down the conditions for which entropy increases.</p><p>Thanks to <a href="http://davidpfau.com/">David Pfau</a> for discussions and help, all mistakes are mine. </p><h2>References</h2><p><strong>¹</strong>  R. Clausius, <em>Ueber verschiedene für die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Wärmetheorie</em>, Annalen der Physik <strong>201</strong>(7), 353–400 (1865).</p><p><strong>²</strong>  E. Schrödinger, <em>What is Life? The Physical Aspect of the Living Cell</em>, Cambridge University Press (1944), ch. 6.</p>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Physics</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain">Read on Substack</a>
+     &middot; <a href="a-dinner-on-what-it-means-to-write.html">&laquo; Previous</a>
+     &middot; <a href="a-diy-temperature-controlled-incubator.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

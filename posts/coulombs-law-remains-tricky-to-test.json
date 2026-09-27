@@ -1,0 +1,400 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/coulombs-law-remains-tricky-to-test",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 214638879,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-09-07T21:26:57.955Z",
+  "updated_at": "2026-09-07T21:27:19.995Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "coulombs-law-remains-tricky-to-test",
+  "social_title": null,
+  "subtitle": "Oh how I take things for granted ",
+  "teaser_post_eligible": true,
+  "title": "Coulomb\u2019s law remains tricky to test at home",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 15
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "writing-what-i-see",
+  "next_post_slug": "ai-is-not-going-to-kill-my-love-of",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!tMfN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 214638879,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Oh how I take things for granted",
+  "body_html": "<p>One problem that I've had in physics is remembering physical laws. I want to be able to use physical law in the same way that I can fry an egg, string together a sentence, or add up numbers. I think the world 'fluency', comes to mind. Imagine manipulating the physical world as fluently as one can communicate ideas - 'oh my chicken gets overcooked, that\u2019s fine, I know how to solve the heat equation so I just need to reduce the temperature by X and make my chicken a bit more spherical next time!'.</p><p>Sure, I could just look up Coulomb's law or Maxwell's equations, or ask an LLM, but I'm always amazed that the Greeks managed to learn so much about the world with much less tools. And I kinda want to be able to do the same. One time my friend Cyrus and I we were sitting on the beach in Brighton and then challenged each other to try to compute the radius of the Earth from first principles using the angle of the horizon. I think these types of challenges are both fun and revealing.</p><p>There is piece of advice in one of Shankar's texts that stuck with me whilst I was chilling by the pool in Malaysia, from his textbook 'On Fundamental Physics II'. Shankar writes that to get deep understanding of physics, one should think hard about how physical law could actually be tested and measured with real life instrumentation. Lest, we might get lost in 'factors of 2pi' just doing symbolic manipulations like the Cambridge Masters theoretical physics student I was.</p><p>I've always had trouble trying to remember something like Coulombs law, so I had a bit of a think about how I could feel it and test it with my own hands. After all, Coulomb's law deals with point charges. And those are abstract ideas, it's not straightforward to just magic up a piece of electric charge. One starting point might be to use something like a pen and rub it against your hair, but</p><p>Coulombs law is meant to tell us the force between two charged particles. If we have two charged particles q1 and q2, then observations like two charged balloons tells us that there should be a force between the two charged particles. Coulomb's law quantifies this force.</p><p>It states that if the distance between the charged particles is x, then the force between them should be</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F = \\\\frac{1}{4\\\\pi\\\\varepsilon_0}\\\\,\\\\frac{q_1 q_2}{r^2}&quot;,&quot;id&quot;:&quot;SJOIHGVYJF&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Ok but let's think critically about this equation to see if there are any new insights to become of it. How could one have come to a reasonable conclusion that this is indeed the law of force between charges? Presumably, the law is a function of distance between the charges, and the charge on both. So we have the force being a function of the following</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F = F(r, q_1, q_2)&quot;,&quot;id&quot;:&quot;RUKUYHAVPH&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>To help us slim down what this function might be, we might ask what happens when one of the bodies are not charged. If one isn't charged, then intuition says that there should be no forces in between the two things. This means that the charges should enter the equation as multiplicative factors. This would imply then that the force law looks like below, where a and b are some constants</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F = K\\\\,q_1^{a}\\\\,q_2^{b}\\\\,f(r)&quot;,&quot;id&quot;:&quot;XHQIHJQEAW&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>But then by symmetry, we require a and b to be the same. So the force should look like</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F = K\\\\,(q_1 q_2)^{a}\\\\,f(r)&quot;,&quot;id&quot;:&quot;XBKWKRNWCL&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>But it's not at all obvious to me why the exponent <em>a</em> is 1 in nature. I think if I tried to write about a physical rabbit hole is out of scope but I will keep thinking about it.</p><p>The next question then is then figuring out  the force varies as the distance between the two increases. A logical guess would be that the force law might obey something similar to the inverse square law observed in the intensity of light, or the gravitational constant. For example, Newton's law of gravity reads that the force between two bodies is</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;F = G\\\\,\\\\frac{m_1 m_2}{r^2}&quot;,&quot;id&quot;:&quot;VLITOCPMRV&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>And so then the question is - how would you check that Coulomb\u2019s law indeed obeys inverse square law? It's not entirely clear. And in fact, a few scientists in the 16th century actually proposed that the original Coulomb\u2019s law was close to inverse square but not quite. To do this at home, you would probably need to figure out how to charge two electric balls with the same level of charge, hold one fixed, hold the other one by a string, and then measure the difference in angle deflection that the string makes with a vertical line to calculate how much force the ball experiences.</p><p>Coulomb did this with a sensitive piece of equipment called a torsion spring, but I\u2019m trying to find easier ways.</p><p>Charging an metal ball cleanly and with home materials is proving kind of tricky. Supposedly, one way to make two equal charges is to charge one thing and then put it in contact with the other thing, so that the charge splits by symmetry. But then how would we check that indeed we have two equally charged things?</p><p>I thought of maybe trying to make a Faraday cage. But instead, today I tried to make an aluminium foil electroscope. To do this I took some insulated wire from by breadboarding kit, drilled a hole through the top of a jar, made the end of a wire a hook and then cut a thin piece of aluminium foil. I then folded this piece of foil and hung it on the wire. the other side of the wire lies on the outside of the jar where I scrunched up some more foil. And when I charge an object by rubbing it against my hair, putting it on the contact causes the tin foil in the jar to separate because of the repulsion of charge in both sides of the strip!</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!tMfN!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!tMfN!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 424w, https://substackcdn.com/image/fetch/$s_!tMfN!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 848w, https://substackcdn.com/image/fetch/$s_!tMfN!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 1272w, https://substackcdn.com/image/fetch/$s_!tMfN!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!tMfN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/c26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!tMfN!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 424w, https://substackcdn.com/image/fetch/$s_!tMfN!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 848w, https://substackcdn.com/image/fetch/$s_!tMfN!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 1272w, https://substackcdn.com/image/fetch/$s_!tMfN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26791d6-bec7-44f7-bf01-41c3112166e1_828x1792.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>But right now this is a super messy and non quantitative way to do this. One of the main reasons is because of charge decay, usually because the air is humid and so takes away charge from the object. So I'm trying to think of a more robust way to create a repeatable charge at home to measure inverse square law more accurately as part of a killer experiment.</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "One problem that I've had in physics is remembering physical laws. I want to be able to use physical law in the same way that I can fry an egg, string together a sentence, or add up numbers. I think the world 'fluency', comes to mind. Imagine manipulating the physical world as fluently as one can communicate ideas - 'oh my chicken gets overcooked, that\u2019\u2026",
+  "wordcount": 1043,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        216,
+        80,
+        51
+      ],
+      "population": 85
+    },
+    "DarkVibrant": {
+      "rgb": [
+        164,
+        34,
+        15
+      ],
+      "population": 311
+    },
+    "LightVibrant": {
+      "rgb": [
+        188,
+        144,
+        101
+      ],
+      "population": 63
+    },
+    "Muted": {
+      "rgb": [
+        171,
+        130,
+        88
+      ],
+      "population": 376
+    },
+    "DarkMuted": {
+      "rgb": [
+        88,
+        65,
+        49
+      ],
+      "population": 384
+    },
+    "LightMuted": {
+      "rgb": [
+        216,
+        200,
+        183
+      ],
+      "population": 476
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 15,
+  "comment_count": 7,
+  "child_comment_count": 5,
+  "audio_items": [
+    {
+      "post_id": 214638879,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/214638879/tts/725b9d0f-6ec1-4af2-8b91-c3435db94990/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 332267573,
+      "body": "It's interesting to think about the mathematical representation of behavior that we can, over time, simply get an intuition for. I'm reminded of the ideal gas law, which (in addition to Coulomb's law) I also haven't given much thought to in quite a while.\n\nI don't know that I'd ever be able to go backwards from where I am, from intuition of physical principles to a concrete mathematical representation of observable behavior... but it sure is cool to see others (like yourself) with that aptitude!",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "It's interesting to think about the mathematical representation of behavior that we can, over time, simply get an intuition for. I'm reminded of the ideal gas law, which (in addition to Coulomb's law) I also haven't given much thought to in quite a while."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I don't know that I'd ever be able to go backwards from where I am, from intuition of physical principles to a concrete mathematical representation of observable behavior... but it sure is cool to see others (like yourself) with that aptitude!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 214638879,
+      "user_id": 544284576,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-09-08T09:53:49.673Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Tiffany, the ADHD PhD",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b89fbb98-977a-4ab4-ac4b-bb8c94f89a77_2299x2299.jpeg",
+      "handle": "theadhdphd",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "theadhdphd",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Tiffany, the ADHD PhD",
+          "id": 10725895,
+          "base_url": "https://theadhdphd.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 6,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "2 replies by CasualPhysicsEnjoyer and others"
+    },
+    {
+      "id": 331983319,
+      "body": "You know that a has to be an odd integer because you can observe both attraction and repulsion. If a was even, then it wouldn\u2019t matter whether charges are positive or negative; they\u2019d either always attract or always repel. Next, you know that a has to be 1 because doubling the amount of charge in one object doubles the force (that\u2019s an experimental result, not a theoretical deduction). If a was, for example, 3, then doubling one charge would multiply the force by 8.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "You know that a has to be an odd integer because you can observe both attraction and repulsion. If a was even, then it wouldn\u2019t matter whether charges are positive or negative; they\u2019d either always attract or always repel. Next, you know that a has to be 1 because doubling the amount of charge in one object doubles the force (that\u2019s an experimental result, not a theoretical deduction). If a was, for example, 3, then doubling one charge would multiply the force by 8."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 214638879,
+      "user_id": 241034254,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-09-07T21:53:25.864Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Heisenberg",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/cccede50-6670-4ff9-8087-428bc522c963_1000x1000.png",
+      "handle": "heisenbugged",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "heisenbugged",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": false,
+      "userStatus": null,
+      "score": 6,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

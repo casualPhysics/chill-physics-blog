@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} &mdash; Casual Physics Enjoyer{% endblock %}
+{% block content %}
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">{{ page.title }}</h2>
+    <p class="post-meta">
+      <span class="post-date">{{ page.date_human }}</span>
+      {% if page.parent %}&middot; part of <a href="{{ page.parent.href }}">{{ page.parent.title }}</a>{% endif %}
+    </p>
+  </header>
+
+  <div class="post-body">
+    {{ page.body_html | safe }}
+
+    {% if page.code_html %}
+    <h2 id="code">The code</h2>
+    <p><code>{{ page.code_file }}</code> &mdash; <a href="{{ page.slug }}/{{ page.code_file }}">download</a>. {{ page.code_lines }} lines.</p>
+    <pre class="code-listing"><code>{{ page.code_html | safe }}</code></pre>
+    {% endif %}
+  </div>
+
+  <p class="post-perma"><a href="{{ root }}lab.html">&laquo; Back to the lab</a></p>
+</article>
+
+{% endblock %}

@@ -1,0 +1,404 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/the-independent-science-society-review",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 216753032,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-09-21T15:16:43.216Z",
+  "updated_at": "2026-09-21T15:17:08.387Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "the-independent-science-society-review",
+  "social_title": "The Independent Science Society Review",
+  "subtitle": "Recent activities on the Society, and Tiffany Longfield. ",
+  "teaser_post_eligible": true,
+  "title": "The Independent Science Society Review",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 4,
+  "reactions": {
+    "\u2764": 12
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "a-new-experiment-meta-strategy",
+  "next_post_slug": "trying-to-observe-convection-plumes",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!MpSy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 216753032,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Recent activities on the Society, and Tiffany Longfield.",
+  "body_html": "<p>The Independent Science Society aims to help independent empiricists do their best work, at all stages of the scientific process. One of the ways we do this is through our <a href=\"https://discord.gg/M3qVyg3ME\">discord</a>. We reach out to empiricists doing stuff at home, and then do all we can to find funding, intros, reviews, expertise, or do wider broadcasting for them. We also act as a sounding board in one-on-one chats to see how we could help independent empiricists improve their work. So far, the flavour of science we are doubling down on is <em>curiosity-driven science</em>. We feel that curiosity-driven science has historically yielded outsized results for cost, and we have conviction that this flavour of science is ignored at multiple levels; it lacks institutional support, funding, and peer groups.</p><p>To our knowledge, this discord is one of the biggest networks of independent scientists in the world, where we have people doing everything from the microscopy of inks, to reselling open source lab equipment, to detecting muons, to hosting podcasts. Currently there is no Royal Society-like space for people to just hang out and chat about their experiments. Within the discord we also make an active effort to connect them to people doing similar things. We take no credit at all for the work done in our circles, nor do we require any attribution. We just want to see cool stuff happen.</p><p>I have met quite a few independent scientists as part of my role at the Independent Science Society, on discord, or Substack or otherwise. In an effort to map the frontier of independent science, I am excited to write more reviews of the stuff members are up to. As empiricism and experimentation become cheaper to do, it feels like there should be work to map out the frontier of what's going on in our circles. I want to write these reviews because I hope that they could act as signposts for people to collaborate with each other, or offer constructive feedback, or to just build a community.</p><p>These reviews will be my own feelings about their work, and all mistakes in representation are mine, and I really encourage you to check out the links yourself.</p><div><hr></div><p>Featuring <span class=\"mention-wrap\" data-attrs=\"{&quot;name&quot;:&quot;Tiffany, the ADHD PhD&quot;,&quot;id&quot;:544284576,&quot;type&quot;:&quot;user&quot;,&quot;url&quot;:null,&quot;photo_url&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b89fbb98-977a-4ab4-ac4b-bb8c94f89a77_2299x2299.jpeg&quot;,&quot;uuid&quot;:&quot;5fe19d6b-148e-4963-802b-c2bff53041d9&quot;}\" data-component-name=\"MentionToDOM\"></span> </p><p>One such person I wanted to review is Tiffany Longfield. Again, neither the society nor I take ANY credit for Tiffany's work; we just wanted to share it.</p><p><a href=\"https://www.theadhd.phd/\">Tiffany Longfield</a> is an ex-Cornell PhD, ex-NASA, materials scientist and analytical chemist. In a lab at home, Tiffany does optical microscopy of a wide range of complex materials phenomena. The tools of choice are a stereomicroscope, which allows the user to easily place samples on a surface and zoom in, as well as an array of compound microscopes.</p><p>I am amazed at how much Tiffany has been able to do with these tools. Most recently, Tiffany's work has involved using a microscope to film the dynamics of inks and dyes, and the material failure of commercial sanitary pads. But there is a whole library of other stuff that Tiffany has observed, like videoing cryogens, the fluid turbulence of coffee in milk, mixing, and crystallisation. Tiffany posts results and videos on Reddit, TikTok, <a href=\"https://substack.com/@theadhdphd\">Substack</a>, and also shares results on the Independent Science Society discord.</p><p>Over here at the society, we have been excited about folks who centre their science around experiment and observation at low cost, microscopy being one of them (temperature and gas probing are other forms of observation we are also excited about). I am personally excited about Tiffany's use of general microscopy because I never realised that it was such a versatile form of observation, and how much you can do with it - one can watch things from biological behaviours all the way to colloidal particles in fluids, all the way to the effect of cryogens. In addition, it is easy to record things, and we have more reason to expect that video as a form of data and evidence is going to get more important - there is a lot of data you can get out of video with image processing algorithms.</p><p>One of the streams of work that Tiffany does is observing the material and optical physics of inks and dyes. This field is rich with striking visual phenomena such as sheening, crystallisation, and the interaction of inks on substrates. For example, how does ink look as it dries on the different types of cellulose surfaces on paper? After reading Tiffany's posts on Reddit I was surprised to learn that the theory behind some behaviours in inks is not very well understood.</p><p>Here is a catalog of some stuff from Reddit posts. My words can't really do justice to how unexpected and visually striking some of these are, so here are a bunch of links from Tiffany's website:</p><ul><li><p>Inks on various substrates under the microscope (<a href=\"https://www.reddit.com/r/fountainpens/comments/1wcb9op/inks_on_various_substrates_eg_parchmentvellum/\">figures</a> of dried ink, <a href=\"https://www.reddit.com/r/fountainpens/comments/1wcj64x/inks_drying_on_a_variety_of_substrates_eg_tr/\">video</a> of drying inks)</p></li></ul><ul><li><p><a href=\"https://www.reddit.com/r/fountainpens/comments/1w2dyh7/kiwi_inks_treasures_of_atlantis_inkspot_drying/\">Kiwi Inks\u2019 Treasures of Atlantis drying timelapse under the compound microscope</a></p></li></ul><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!5Z6d!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!5Z6d!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 424w, https://substackcdn.com/image/fetch/$s_!5Z6d!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 848w, https://substackcdn.com/image/fetch/$s_!5Z6d!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 1272w, https://substackcdn.com/image/fetch/$s_!5Z6d!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!5Z6d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/060f685d-bf9d-4486-b678-13797d3fe632_446x557.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!5Z6d!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 424w, https://substackcdn.com/image/fetch/$s_!5Z6d!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 848w, https://substackcdn.com/image/fetch/$s_!5Z6d!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 1272w, https://substackcdn.com/image/fetch/$s_!5Z6d!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f685d-bf9d-4486-b678-13797d3fe632_446x557.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Images from Tiffany\u2019s reddit</figcaption></figure></div><ul><li><p><a href=\"https://www.reddit.com/r/fountainpens/comments/1v9rfqn/wet_emerald_de_chivor_ink_under_the_microscope/\">Wet Herbin Emerald de Chivor ink under the compound microscope (reflected/transmitted lighting)</a></p></li></ul><ul><li><p><a href=\"https://www.reddit.com/r/fountainpens/comments/1uhwtiu/various_fountain_pen_inks_under_the_microscope/\">Various dried fountain pen inks on glass, acrylic substrates under the compound microscope</a></p></li></ul><ul><li><p><a href=\"https://www.reddit.com/r/fountainpenink/comments/1ufgao0/iroshizuku_konpeki_ink/\">Pilot Iroshizuku Kon-Peki Ink undergoing Marangoni effect under the stereo microscope</a></p></li></ul><p>Microscopy experiments at home have been historically expensive, but I expect this to change due to a more liquid market in second hand scientific equipment and decreasing hardware costs. The philosophy of observing science as an act of spectacle is a fruitful approach that I also feel has been neglected, and I am happy to see Tiffany carrying on this tradition that was the de facto way of presenting scientific evidence in the Renaissance period. After all, all that Galileo did to prove that the moon was imperfect was to show his peers the moon through the newly invented telescope.</p><p>Tiffany was also nice enough to show me live footage of drops of water freezing in a gradient under the effects of cryogens. I find this exciting because materials like these are readily available, and yet the work shows a whole world of interdisciplinary science that seems to have been ignored from a 'come and see it!' perspective.</p><p>Tiffany has also observed a range of complex behaviours in a range of fluids that can be observed with a microscope. I have been particularly enamoured with the <a href=\"https://www.reddit.com/r/FluidMechanics/comments/1vmk0qo/unexpected_structure/\">images of tendrils</a> of brilliant blue dye in distilled water, a phenomenon that could be either Saffman-Taylor instability, viscous fingering, or something else. I am also trying to replicate this myself at home, since it's also within my research interest. I'm currently looking at papers like Bensimon et al. <a href=\"https://doi.org/10.1103/RevModPhys.58.977\">Bensimon, Kadanoff, Liang, Shraiman &amp; Tang, *Viscous flows in two dimensions*, Rev. Mod. Phys. **58**, 977 (1986)</a></p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!MpSy!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!MpSy!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 424w, https://substackcdn.com/image/fetch/$s_!MpSy!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 848w, https://substackcdn.com/image/fetch/$s_!MpSy!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 1272w, https://substackcdn.com/image/fetch/$s_!MpSy!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!MpSy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/ab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!MpSy!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 424w, https://substackcdn.com/image/fetch/$s_!MpSy!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 848w, https://substackcdn.com/image/fetch/$s_!MpSy!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 1272w, https://substackcdn.com/image/fetch/$s_!MpSy!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab90d3dd-5bbc-4872-a381-f558375f2503_1065x1096.png 1456w\" sizes=\"100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">Images from Tiffany\u2019s Reddit</figcaption></figure></div><p>Another stream of work that of <a href=\"https://www.theadhd.phd/seeing-red\">Tiffany's is the science of why commercial sanitary products fail, through hydrodynamics and microscopy in pad testing at home</a>. One thesis is that the saline water used to test these products doesn't accurately reflect the viscosity and physical dynamics of menstruation. And so Tiffany is looking at how absorbance and wicking effects vary across different pads using fluids that more accurately mimic menstruation.</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "The Independent Science Society aims to help independent empiricists do their best work, at all stages of the scientific process. One of the ways we do this is through our discord. We reach out to empiricists doing stuff at home, and then do all we can to find funding, intros, reviews, expertise, or do wider broadcasting for them. We also act as a sound\u2026",
+  "wordcount": 1190,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    },
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        4,
+        92,
+        156
+      ],
+      "population": 11
+    },
+    "DarkVibrant": {
+      "rgb": [
+        4,
+        76,
+        121
+      ],
+      "population": 573
+    },
+    "LightVibrant": {
+      "rgb": [
+        252,
+        212,
+        179
+      ],
+      "population": 83
+    },
+    "Muted": {
+      "rgb": [
+        96,
+        136,
+        164
+      ],
+      "population": 2
+    },
+    "DarkMuted": {
+      "rgb": [
+        42,
+        71,
+        89
+      ],
+      "population": 23
+    },
+    "LightMuted": {
+      "rgb": [
+        200,
+        171,
+        151
+      ],
+      "population": 173
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 12,
+  "comment_count": 5,
+  "child_comment_count": 2,
+  "audio_items": [
+    {
+      "post_id": 216753032,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/216753032/tts/6769f0a6-3000-44d2-b60e-ae2d237b34e7/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 342380428,
+      "body": "Thank you so much for the kind feature! It really means a lot to see that folks appreciate and value the work. \ud83d\udc96",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "Thank you so much for the kind feature! It really means a lot to see that folks appreciate and value the work. \ud83d\udc96"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 216753032,
+      "user_id": 544284576,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-09-21T15:36:43.892Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Tiffany, the ADHD PhD",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b89fbb98-977a-4ab4-ac4b-bb8c94f89a77_2299x2299.jpeg",
+      "handle": "theadhdphd",
+      "reactor_names": [
+        "CasualPhysicsEnjoyer"
+      ],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 2
+      },
+      "reaction_count": 2,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "theadhdphd",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "Tiffany, the ADHD PhD",
+          "id": 10725895,
+          "base_url": "https://theadhdphd.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 7,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "2 replies"
+    },
+    {
+      "id": 342367352,
+      "body": "love what Tiffany's working on",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "love what Tiffany's working on"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 216753032,
+      "user_id": 5309532,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-09-21T15:20:16.222Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Arina Berezovsky",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c969cff8-8f31-4509-ba6c-88c41fdf1564_1125x1125.jpeg",
+      "handle": "arinaberezovsky22",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "arinaberezovsky22",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 2,
+      "children_count": 1,
+      "reported_by_user": false,
+      "restacked": false,
+      "childrenSummary": "1 reply"
+    }
+  ]
+}

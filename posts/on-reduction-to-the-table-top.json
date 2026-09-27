@@ -1,0 +1,253 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/on-reduction-to-the-table-top",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 209469845,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-08-02T07:57:44.867Z",
+  "updated_at": "2026-08-02T07:58:56.350Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "on-reduction-to-the-table-top",
+  "social_title": null,
+  "subtitle": "Systematic Discovery at Low Cost",
+  "teaser_post_eligible": true,
+  "title": "On Reduction To The Table Top",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 1
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "a-diy-temperature-controlled-incubator",
+  "next_post_slug": "experiments-for-the-independent-science",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!oBQY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 209469845,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Systematic Discovery at Low Cost",
+  "body_html": "<p>My lab and blog aims to figure out how to do good science at home.</p><p>The \u2018good science\u2019 part means finding or replicating natural phenomena that we don\u2019t currently know how to model. This is the job of all scientists, regardless of whether they are in labs or houses. And my current approach to this is just talking to people (which I need to do more of), reading papers, and writing.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!oBQY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!oBQY!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 424w, https://substackcdn.com/image/fetch/$s_!oBQY!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 848w, https://substackcdn.com/image/fetch/$s_!oBQY!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!oBQY!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!oBQY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg\" width=\"1456\" height=\"1091\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/b5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1091,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:4147718,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/209469845?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!oBQY!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 424w, https://substackcdn.com/image/fetch/$s_!oBQY!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 848w, https://substackcdn.com/image/fetch/$s_!oBQY!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!oBQY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb5b76f73-fc3d-4719-81d6-85678caee2e4_5639x4226.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a><figcaption class=\"image-caption\">By Joseph Wright of Derby - National Gallery, London, Public Domain, </figcaption></figure></div><p>But the <em>at home</em> part requires extra steps.</p><p>First, I need to figure out if the essential parts of the phenomena can be captured on a kitchen desk. This means that I need to think carefully about if the essential parts <em>scale down</em> appropriately when you reduce the size by making a toy model. By <em>scale down</em>, I mean this in all aspects of the word. I was recently made aware of the mathematical theory of scale physics and dimensional analysis. But by <em>scale down</em>, I also mean reducing models to low N, reducing the volume of a environment, keeping stuff constant, and in general just removing big-ness in all aspects.</p><p>For certain problems like the biology of microbes or electron behaviour in materials, this is not a problem because the thing being studied is small to begin with, and you don\u2019t need to reduce it. If I wanted to study the movement of genetically engineered E. Coli, you could engineer it, grab a microscope and record it.</p><p>For problems in ecology, it <em>might</em> possible because I could build a biome in a jar, put in some food, and put in some microbes. But I\u2019d need to think carefully about the relative number of the microbes versus the abundance of food. If I wanted to make a toy ecology with two microbes in a jar, then I would need to think about which phenomena in two species systems would reasonably scale up to an ecology with a large number of species, or if any interesting effects could get washed out.</p><p>And for something like fluid turbulence, it\u2019s not obvious if turbulence that occurs when you shoot air at a toy plane scales up to a real plane. And then for really complex phenomena, like the climate of the whole earth, this feels like an impossible problem.</p><p>The second part of the problem is doing it cheaply.</p><p>For example, if you wanted to genetically engineer E-Coli, you would need to store and order plasmids, order a bunch of PCR machines, do sequencing, and more. Which would rack up in costs. But the benefit is that I\u2019d be studying something without having to scale it down. Similar with condensed matter physics - I could try to characterise the band structure of some materials which also is expensive.</p><p>Conversely, whilst a toy plane and home made fluid tunnel is cheaper, the translation to the original scaled up science of big planes is less obvious.</p><p>One way to get around the expensiveness problem is through \u2018replacements\u2019. For example, I\u2019m learning about thermophoresis in Nick Lane\u2019s \u2018The Vital Question\u2019. Lane argues that the pores in alkaline vents, along with temperature gradients, cause a clumping of organic material that is necessary for early life. His lab has done demonstrations of such things, which seem fairly expensive to do. I wonder if there are any really cheap replacements like sand and fluorescent material that still captures the essential physics. Sure, it wouldn\u2019t be a faithful replication, but there might be some phenomena their that might be inspiration for something interesting.</p><p>So there seems to be a set of systematic criteria which would quantify the types of interesting problems I could work on at home, where perhaps I should rank each problem based on the criteria as follows:</p><ul><li><p>Is the original phenomena I am trying to study currently uncertain in the scientific community?</p></li><li><p>Does the phenomena scale down neatly to table top size?</p></li><li><p>Is it cheap to do, and if not, are there replacements that can be done that still capture the essential physics?</p></li></ul><div><hr></div><p><strong>Acknowledgements</strong></p><p>Thanks to Ben Trettel for making me aware of the field scale physics and modelling! All mistakes and views are mine.</p><p><strong>References</strong></p><p>Lane, N. (2015). <em>The Vital Question: Why is Life the Way it Is?</em> Profile Books (UK) / W. W. Norton (US). \u2014 on thermophoresis and thermal gradients in alkaline hydrothermal vents concentrating organics.</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "My lab and blog aims to figure out how to do good science at home.",
+  "wordcount": 722,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "fb29b57b-4b2f-4525-8784-51bd2ac4b5cc",
+      "publication_id": 1692033,
+      "name": "Physics",
+      "slug": "physics",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        152,
+        88,
+        68
+      ],
+      "population": 2
+    },
+    "DarkVibrant": {
+      "rgb": [
+        95,
+        53,
+        36
+      ],
+      "population": 23
+    },
+    "LightVibrant": {
+      "rgb": [
+        228,
+        204,
+        140
+      ],
+      "population": 3
+    },
+    "Muted": {
+      "rgb": [
+        163,
+        133,
+        98
+      ],
+      "population": 146
+    },
+    "DarkMuted": {
+      "rgb": [
+        74,
+        57,
+        44
+      ],
+      "population": 396
+    },
+    "LightMuted": {
+      "rgb": [
+        208,
+        194,
+        164
+      ],
+      "population": 6
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 1,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 209469845,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/209469845/tts/028023f5-7ba7-48c8-9b3d-a9df9c5dac76/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "is_geoblocked": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Temperature calibration of the algae bioreactor",
+  "date": "2026-09-15",
+  "summary": "Heat-only peltier controller for a bioreactor in a mini-fridge: step tests, a four-point feedforward calibration, and the v4 controller that holds to ±0.07 °C.",
+  "code_file": "temp_step_calibration.py",
+  "extra_pages": [
+    {"src": "transcript.md", "out": "transcript.html", "title": "Session transcript — temperature calibration, 14–15 Sep 2026"}
+  ]
+}

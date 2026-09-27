@@ -1,0 +1,1617 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Temperature calibration of the algae bioreactor &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css?v=461bb07c">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      <a href="../index.html">Home</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../lab.html">Lab</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+  
+  <aside class="sidebar">
+    <h2 class="sidebar-title">Archive</h2>
+    <nav class="year-nav">
+      
+      
+      
+      <details class="year" open>
+        <summary>2026 <span class="year-count">76</span></summary>
+        <ul>
+          
+          <li><a href="../posts/minimal-assumptions-for-societal.html">Minimal Assumptions for Societal Resilience</a></li>
+          
+          <li><a href="../posts/trying-to-observe-convection-plumes.html">Trying to Observe Convection Plumes</a></li>
+          
+          <li><a href="../posts/the-independent-science-society-review.html">The Independent Science Society Review</a></li>
+          
+          <li><a href="../posts/a-new-experiment-meta-strategy.html">A New Experiment Meta-Strategy </a></li>
+          
+          <li><a href="../posts/ai-is-not-going-to-kill-my-love-of.html">AI Is Not Going To Kill My Love Of Math</a></li>
+          
+          <li><a href="../posts/coulombs-law-remains-tricky-to-test.html">Coulomb’s law remains tricky to test at home</a></li>
+          
+          <li><a href="../posts/writing-what-i-see.html">Writing What I See</a></li>
+          
+          <li><a href="../posts/liesegang-rings-experiment-update.html">Liesegang Rings Experiment Update</a></li>
+          
+          <li><a href="../posts/starting-to-clean-my-shack-of-a-lab.html">Starting to Clean My Shack Of A Lab</a></li>
+          
+          <li><a href="../posts/reforming-ukri-eligibility-rules.html">Reforming UKRI Eligibility Rules</a></li>
+          
+          <li><a href="../posts/characterising-a-cheap-water-bath.html">Characterising A Cheap Water Bath From Amazon</a></li>
+          
+          <li><a href="../posts/liesegang-rings.html">Liesegang Rings</a></li>
+          
+          <li><a href="../posts/oberreiter-seifert-and-baratos-conjecture.html">Oberreiter, Seifert and Barato’s Conjecture on Entropy Production by Biochemical Clocks</a></li>
+          
+          <li><a href="../posts/i-possibly-resolved-a-conjecture.html">Possibly Resolving A Conjecture On Matrix Theory With GPT Sol</a></li>
+          
+          <li><a href="../posts/suggested-experiment-equipment.html">Suggested Experiment Equipment</a></li>
+          
+          <li><a href="../posts/autonomous-buying-of-experiment-equipment.html">Autonomous Buying Of Experiment Equipment</a></li>
+          
+          <li><a href="../posts/johnson-noise-rig-full-chat-transcript.html">Johnson noise rig — full chat transcript</a></li>
+          
+          <li><a href="../posts/experiments-for-the-independent-science.html">Experiments For The Independent Science Society</a></li>
+          
+          <li><a href="../posts/on-reduction-to-the-table-top.html">On Reduction To The Table Top</a></li>
+          
+          <li><a href="../posts/a-diy-temperature-controlled-incubator.html">A DIY Temperature Controlled Incubator</a></li>
+          
+          <li><a href="../posts/the-entropy-of-a-markov-chain.html">The Entropy of A Markov Chain</a></li>
+          
+          <li><a href="../posts/a-dinner-on-what-it-means-to-write.html">A Dinner on What it Means To Write Science</a></li>
+          
+          <li><a href="../posts/how-do-we-write-science.html">How Do We Write Science?</a></li>
+          
+          <li><a href="../posts/computational-chemistry-locally.html">Computational chemistry, Locally?</a></li>
+          
+          <li><a href="../posts/what-counts-as-a-replication.html">What counts as a replication?</a></li>
+          
+          <li><a href="../posts/equilibrium-points-in-dysons-toy.html">Equilibrium points in Dyson&#39;s Toy Cell Model</a></li>
+          
+          <li><a href="../posts/better-temperature-control-of-algae.html">Better Temperature Control Of Algae?</a></li>
+          
+          <li><a href="../posts/measuring-milk-globule-sizes.html">Measuring Milk Globule Sizes</a></li>
+          
+          <li><a href="../posts/whats-the-point-of-doing-stuff.html">What&#39;s the point of doing stuff </a></li>
+          
+          <li><a href="../posts/in-memoriam.html">In memoriam </a></li>
+          
+          <li><a href="../posts/how-to-read-something.html">How To Read Something </a></li>
+          
+          <li><a href="../posts/questions-on-early-cell-membranes.html">Questions On Early Cell Membranes</a></li>
+          
+          <li><a href="../posts/the-questions-i-always-think-about.html">The Questions I Always Think About</a></li>
+          
+          <li><a href="../posts/preparing-algae-for-experiments-at.html">Preparing Algae for Experiments at Home</a></li>
+          
+          <li><a href="../posts/lean-for-checking-my-math.html">LEAN For Checking my Math</a></li>
+          
+          <li><a href="../posts/steady-states-in-dysons-theory-of.html">Steady States in Dyson&#39;s Theory of the Cell</a></li>
+          
+          <li><a href="../posts/what-is-the-most-intense-way-to-learn.html">What is the most intense way to learn something?</a></li>
+          
+          <li><a href="../posts/improved-tracking-of-brownian-milk.html">Improved Tracking Of Brownian Milk Globules</a></li>
+          
+          <li><a href="../posts/the-world-needs-replicators.html">The World Needs Replicators </a></li>
+          
+          <li><a href="../posts/on-a-tube-of-hot-gas.html">On a Tube Of Hot Gas</a></li>
+          
+          <li><a href="../posts/i-observed-some-brownian-motion-at.html">I Observed Some Brownian Motion At Home</a></li>
+          
+          <li><a href="../posts/join-the-independent-science-society.html">Join The Independent Science Society!</a></li>
+          
+          <li><a href="../posts/how-would-an-intelligent-system-do.html">How Would An Intelligent System Do Physics?</a></li>
+          
+          <li><a href="../posts/the-particle-comes-alive.html">The Particle Comes Alive</a></li>
+          
+          <li><a href="../posts/being-political-in-the-right-way.html">Being Political in the Right Way </a></li>
+          
+          <li><a href="../posts/do-not-plan.html">Do Not Plan</a></li>
+          
+          <li><a href="../posts/freeman-dysons-model-of-a-cell.html">Freeman Dyson’s Model of a Cell</a></li>
+          
+          <li><a href="../posts/how-to-write-better.html">How to Write Better</a></li>
+          
+          <li><a href="../posts/excerpts.html">Excerpts</a></li>
+          
+          <li><a href="../posts/why-read-faradays-diary.html">Why Read Faraday&#39;s Diary?</a></li>
+          
+          <li><a href="../posts/a-thermodynamics-for-biology.html">A Thermodynamics For Biology</a></li>
+          
+          <li><a href="../posts/its-ok-to-be-scared.html">It’s OK To Be Scared</a></li>
+          
+          <li><a href="../posts/fluid-dynamics-for-toddlers.html">Fluid dynamics for Toddlers</a></li>
+          
+          <li><a href="../posts/making-rayleigh-benard-convection.html">Making Rayleigh-Bénard Convection Cells</a></li>
+          
+          <li><a href="../posts/an-agentic-home-bioreactor.html">An Agentic Home Bioreactor </a></li>
+          
+          <li><a href="../posts/kew-gardens-turbulence-statistical.html">Kew Gardens, Turbulence, Statistical Mechanics, Bioreactors and Strength Training </a></li>
+          
+          <li><a href="../posts/how-to-get-cheaper-lab-equipment.html">How To Get Cheaper Lab Equipment </a></li>
+          
+          <li><a href="../posts/daily-readings.html">Daily Readings </a></li>
+          
+          <li><a href="../posts/posting-more-of-my-thoughts.html">Posting More of My Thoughts </a></li>
+          
+          <li><a href="../posts/the-best-town-ive-been-to.html">The Best Town I&#39;ve Been To. </a></li>
+          
+          <li><a href="../posts/so-my-friend-made-me-a-bioreactor.html">So My Friend Made Me A Bioreactor...</a></li>
+          
+          <li><a href="../posts/how-to-think-about-dynamic-systems.html">How To Think About Dynamic Systems</a></li>
+          
+          <li><a href="../posts/the-triumph-of-the-embryo.html">The Triumph Of The Embryo </a></li>
+          
+          <li><a href="../posts/ai-agents-to-organise-my-secret-societys.html">AI Agents to Organise My Secret Society&#39;s Dinners </a></li>
+          
+          <li><a href="../posts/from-reversibility-to-irreversibility.html">From Reversibility to Irreversibility </a></li>
+          
+          <li><a href="../posts/how-i-fixed-my-headaches.html">How I Fixed my Headaches</a></li>
+          
+          <li><a href="../posts/biology-as-clockwork.html">Biology as Clockwork </a></li>
+          
+          <li><a href="../posts/being-maximally-useful-whilst-commuting.html">Being Maximally Useful Whilst Commuting</a></li>
+          
+          <li><a href="../posts/trying-to-make-an-automated-ecologist.html">Trying to make an Automated Ecologist</a></li>
+          
+          <li><a href="../posts/will-future-generations-think-were.html">Will Future Generations Think We&#39;re Gross? </a></li>
+          
+          <li><a href="../posts/ppe-stockpile-degradation.html">PPE Stockpile Degradation </a></li>
+          
+          <li><a href="../posts/safety-and-danger.html">Safety And Danger</a></li>
+          
+          <li><a href="../posts/so-i-got-an-eeg.html">So I got an EEG...</a></li>
+          
+          <li><a href="../posts/bio-theory-lab-notes.html">Bio-theory Lab Notes!</a></li>
+          
+          <li><a href="../posts/how-can-i-make-useful-knowledge.html">How Can I Make Useful Knowledge? </a></li>
+          
+          <li><a href="../posts/20-references-in-complexity-theory.html">20 References In Complexity Theory and Biology</a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2025 <span class="year-count">80</span></summary>
+        <ul>
+          
+          <li><a href="../posts/using-linear-algebra-to-predict-a.html">Using Linear Algebra To Predict A Non-Linear Pendulum</a></li>
+          
+          <li><a href="../posts/testing-a-cheaper-laminar-flow-hood.html">Testing a cheaper laminar flow hood. </a></li>
+          
+          <li><a href="../posts/how-to-find-time-to-do-science.html">How To Find Time To Do Science</a></li>
+          
+          <li><a href="../posts/the-man-i-want-to-meet-the-most.html">The Man I Want To Meet The Most</a></li>
+          
+          <li><a href="../posts/when-is-a-complex-system-stable.html">When Is A Complex System Stable? </a></li>
+          
+          <li><a href="../posts/i-made-a-quieter-air-purifier.html">I Made A Quieter Air Purifier. </a></li>
+          
+          <li><a href="../posts/whats-a-good-theory-of-biology.html">What&#39;s A Good Theory Of Biology?</a></li>
+          
+          <li><a href="../posts/my-uv-experiment-worked.html">My UV Experiment Worked!</a></li>
+          
+          <li><a href="../posts/you-are-fucked-if-you-cant-write.html">Write Clearly </a></li>
+          
+          <li><a href="../posts/results-from-blasting-yeast-with.html">The Effect of UV Light On Yeast</a></li>
+          
+          <li><a href="../posts/sneeze-for-the-camera-baby.html">Sneeze for the Camera Baby! </a></li>
+          
+          <li><a href="../posts/non-equilibrium-statistical-mechanics.html">Non Equilibrium Statistical Mechanics and Biology </a></li>
+          
+          <li><a href="../posts/why-independent-science-now.html">Why Independent Science Now? </a></li>
+          
+          <li><a href="../posts/how-life-works-by-philip-ball.html">&#39;How Life Works&#39; by Philip Ball </a></li>
+          
+          <li><a href="../posts/making-an-automated-uv-sterilisation.html">Making an Automated UV Sterilisation Pump </a></li>
+          
+          <li><a href="../posts/i-managed-to-grow-countable-yeast.html">I Managed To Grow Countable Yeast Colonies </a></li>
+          
+          <li><a href="../posts/culturing-yeast-for-independent-science.html">Culturing Yeast For Independent Science Experiments </a></li>
+          
+          <li><a href="../posts/do-you-actually-hate-it.html">Do You Actually Hate It? </a></li>
+          
+          <li><a href="../posts/evidence-that-shrouds-increase-cr.html">Evidence That Shrouds Increase CR Box Performance </a></li>
+          
+          <li><a href="../posts/a-war-in-the-lake-district.html">A War in The Lake District </a></li>
+          
+          <li><a href="../posts/sealing-my-house-against-pathogens.html">Sealing my House Against Pathogens </a></li>
+          
+          <li><a href="../posts/bad-productivity-frameworks.html">Bad Productivity Frameworks</a></li>
+          
+          <li><a href="../posts/cycling-the-west-country.html">Cycling the West Country</a></li>
+          
+          <li><a href="../posts/measuring-my-diy-air-purifier.html">Measuring my DIY Air Purifier </a></li>
+          
+          <li><a href="../posts/the-ideas-factory.html">The Ideas Factory? </a></li>
+          
+          <li><a href="../posts/dear-friends-and-readers-please-help.html">Dear Friends and Readers, Please Help</a></li>
+          
+          <li><a href="../posts/did-i-just-make-quantum-dots.html">Did I Just Make Quantum Dots?</a></li>
+          
+          <li><a href="../posts/physics-departments-are-shutting.html">Physics Departments At Risk Of Shutting Down </a></li>
+          
+          <li><a href="../posts/trying-to-make-a-cheaper-air-purifier.html">Trying to make a Cheaper Air Purifier </a></li>
+          
+          <li><a href="../posts/you-like-too-many-things-now-what.html">You Like Too Many Things. Now What? </a></li>
+          
+          <li><a href="../posts/i-made-a-cheaper-way-to-test-ventilation.html">A Cheaper Way to Test Ventilation Rates?</a></li>
+          
+          <li><a href="../posts/frying-eggs-and-air-quality-tests.html">Frying Eggs and Air Quality Tests</a></li>
+          
+          <li><a href="../posts/i-want-to-do-experiments-but-its.html">I want to do experiments but its not cheap</a></li>
+          
+          <li><a href="../posts/noise-cancelling-a-fan.html">Noise Cancelling A Fan</a></li>
+          
+          <li><a href="../posts/dirt-cheap-holidays.html">Dirt Cheap Holidays</a></li>
+          
+          <li><a href="../posts/try-to-prove-math-with-computers.html">Try to Prove Math With Computers</a></li>
+          
+          <li><a href="../posts/you-need-to-read-thomas-kuhn.html">You Need to Read Thomas Kuhn. </a></li>
+          
+          <li><a href="../posts/just-get-a-partial-fix-and-move-on.html">Just get a Partial Fix and Move On.</a></li>
+          
+          <li><a href="../posts/computing-properties-of-molecules.html">Computing Properties of Molecules. </a></li>
+          
+          <li><a href="../posts/for-here-too-gods-dwell.html">For Here Too, Gods Dwell</a></li>
+          
+          <li><a href="../posts/tolerating-confusion.html">Tolerating Confusion </a></li>
+          
+          <li><a href="../posts/how-to-make-more-friends.html">How To Make More Friends</a></li>
+          
+          <li><a href="../posts/we-should-formalise-physics.html">We Should Formalise Physics</a></li>
+          
+          <li><a href="../posts/do-anything-in-20-minutes.html">Do Anything in 20 Minutes </a></li>
+          
+          <li><a href="../posts/math-for-cleaning-air.html">Models for Cleaning Air </a></li>
+          
+          <li><a href="../posts/if-its-not-obvious-it-probably-isnt.html">If It&#39;s Not Obvious, It Probably Isn&#39;t </a></li>
+          
+          <li><a href="../posts/how-to-easily-keep-something-alive.html">How to Easily Keep Something Alive </a></li>
+          
+          <li><a href="../posts/a-big-board-of-open-sourceable-science.html">A Big Board of Problems </a></li>
+          
+          <li><a href="../posts/teaching-cambridge-level-math-at.html">Teaching Cambridge-Level Math At Scale (Without Charging $150k)</a></li>
+          
+          <li><a href="../posts/what-i-learned-from-500-independent.html">What I Learned from 500 Independent Scientists</a></li>
+          
+          <li><a href="../posts/try-these-biosecurity-projects-in.html">Try these Biosecurity Projects in your free time!</a></li>
+          
+          <li><a href="../posts/diy-positive-pressure-build-log.html">DIY Positive Pressure Build Log</a></li>
+          
+          <li><a href="../posts/what-is-the-most-effective-day.html">What is the Most Effective Day?</a></li>
+          
+          <li><a href="../posts/can-i-use-air-pressure-to-protect.html">Can I use Air Pressure to Protect my House?</a></li>
+          
+          <li><a href="../posts/why-your-technical-expertise-might.html">Why Your Technical Expertise Might Not Be Your Greatest Asset</a></li>
+          
+          <li><a href="../posts/love-isnt-physics-but-popular-advice.html">Love isn&#39;t Physics, but popular advice acts like it is</a></li>
+          
+          <li><a href="../posts/what-i-use-for-notes-and-publishing.html">What I use for Notes (and Publishing) </a></li>
+          
+          <li><a href="../posts/buyin-and-tryin-an-elastomeric-respirator.html">Buyin&#39; and Tryin&#39; an Elastomeric Respirator</a></li>
+          
+          <li><a href="../posts/macos-ssh-file-system-sshfs.html">MacOS ssh File System (SSHFS) </a></li>
+          
+          <li><a href="../posts/its-hard-to-know-if-i-suck-at-writing.html">It&#39;s hard to know if I suck at writing</a></li>
+          
+          <li><a href="../posts/how-to-start-modelling-airflow-ventilation.html">How to Start Modelling Airflow Ventilation</a></li>
+          
+          <li><a href="../posts/calculations-for-practical-heuristics.html">Calculations for Practical Heuristics in Far UVC Use</a></li>
+          
+          <li><a href="../posts/how-do-i-achieve-what-i-want.html">How do I achieve what I want?</a></li>
+          
+          <li><a href="../posts/problems-trying-to-model-far-uvc.html">Problems Trying to Model Far UVC in a Room </a></li>
+          
+          <li><a href="../posts/thought-blobs-on-biosecurity-topics.html">Thought Blobs On Biosecurity Topics</a></li>
+          
+          <li><a href="../posts/lets-not-rawdog-the-next-plague.html">Let&#39;s Not Rawdog the Next Plague</a></li>
+          
+          <li><a href="../posts/contents.html">Contents</a></li>
+          
+          <li><a href="../posts/a-two-tier-model-of-optimal-career.html">A Two-Tier Model of Optimal Career Design</a></li>
+          
+          <li><a href="../posts/the-pain-of-finding-the-truth.html">The Pain of Finding the Truth </a></li>
+          
+          <li><a href="../posts/three-skills-of-virtue.html">Three Skills of Virtue</a></li>
+          
+          <li><a href="../posts/when-to-trust-someone.html">When To Trust Someone </a></li>
+          
+          <li><a href="../posts/dont-agree-to-things-too-easily.html">Don&#39;t Agree To Things Too Easily </a></li>
+          
+          <li><a href="../posts/what-do-we-do-now.html">What do we do now? </a></li>
+          
+          <li><a href="../posts/the-professor-and-the-plumber.html">The Professor and the Plumber</a></li>
+          
+          <li><a href="../posts/london-and-the-country.html">London and the Country</a></li>
+          
+          <li><a href="../posts/chicken-curry-piece-by-piece.html">Chicken Curry, Piece by Piece </a></li>
+          
+          <li><a href="../posts/how-my-life-changes.html">How my Life Changes </a></li>
+          
+          <li><a href="../posts/slow-down.html">Slow Down. </a></li>
+          
+          <li><a href="../posts/do-i-want-to-be-excellent.html">Do I want to be Excellent?</a></li>
+          
+          <li><a href="../posts/youre-a-slow-thinker-now-what.html">You&#39;re a Slow Thinker. Now what? </a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2024 <span class="year-count">14</span></summary>
+        <ul>
+          
+          <li><a href="../posts/why-casual-conversations-is-so-hard.html">Why Casual Conversation is So Hard </a></li>
+          
+          <li><a href="../posts/dont-chase-it.html">Don&#39;t Chase It</a></li>
+          
+          <li><a href="../posts/compulsion-as-a-tool.html">Compulsion as a Tool</a></li>
+          
+          <li><a href="../posts/on-good-writing.html">On Good Writing</a></li>
+          
+          <li><a href="../posts/scientists-will-become-data-harvesters.html">Scientists will become Data Harvesters </a></li>
+          
+          <li><a href="../posts/tediousness-is-good.html">Tediousness is Good. </a></li>
+          
+          <li><a href="../posts/conquering-the-molecules.html">Conquering the Molecules</a></li>
+          
+          <li><a href="../posts/when-scientific-method-fails.html">When The Scientific Method Fails</a></li>
+          
+          <li><a href="../posts/calibrating-myself-through-science.html">Calibrating Myself through Science Memoirs</a></li>
+          
+          <li><a href="../posts/selecting-good-problems-as-a-part.html">Selecting Good Problems as a Part-Time Physics Researcher</a></li>
+          
+          <li><a href="../posts/pursuing-physics-research-part-time.html">Doing Research Part-Time is Great</a></li>
+          
+          <li><a href="../posts/problems-come-from-dumb-questions.html">Problems come from Dumb Questions</a></li>
+          
+          <li><a href="../posts/do-physics-but-learn-history.html">Do Physics, But Learn History</a></li>
+          
+          <li><a href="../posts/a-quantum-mechanics-problem-on-a.html">A Quantum Mechanics Problem on a Particle in a Line under an Electric Field. </a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2023 <span class="year-count">6</span></summary>
+        <ul>
+          
+          <li><a href="../posts/preliminary-thoughts-on-solar-cell.html">Preliminary Thoughts on Solar Cell Efficiency </a></li>
+          
+          <li><a href="../posts/quantifying-wants-for-better-outcomes.html">Quantifying Wants, For Better Outcomes</a></li>
+          
+          <li><a href="../posts/essential-physics-for-the-solar-entrepreneur.html">Experiences with the Physics and Economics of Solar Cells in Malaysia </a></li>
+          
+          <li><a href="../posts/solar-energy-from-the-sahara.html">Solar Energy from the Sahara. </a></li>
+          
+          <li><a href="../posts/turning-my-passion-into-a-job-was.html">Turning my Passion into a Job was a Bad Idea</a></li>
+          
+          <li><a href="../posts/a-draft-of-some-start-up-ideas.html">A Draft of some Start-up Ideas </a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2022 <span class="year-count">27</span></summary>
+        <ul>
+          
+          <li><a href="../posts/changing-our-frame-to-make-things-easier.html">Changing our Frame to Make Things Easier</a></li>
+          
+          <li><a href="../posts/thoughts-on-gravitational-fields-around-shells.html">Thoughts on Gravitational Fields on Shells</a></li>
+          
+          <li><a href="../posts/physics-diaries-2.html">Physics Diaries #2</a></li>
+          
+          <li><a href="../posts/cool-physics-stuff-i-attempted-today.html">Cool Physics Stuff I Attempted today</a></li>
+          
+          <li><a href="../posts/a-list-of-problems-in-many-electron-systems.html">A List of Problems in Many Electron Systems</a></li>
+          
+          <li><a href="../posts/finding.html">Finding The Ground States of Quantum Systems</a></li>
+          
+          <li><a href="../posts/untitled-2.html">Heisenberg Spin Chains</a></li>
+          
+          <li><a href="../posts/the-energy-of-an-electron-hopping-model.html">The Energy of an Electron Hopping Model</a></li>
+          
+          <li><a href="../posts/how-do-loops-change-physics.html">How do Loops change Physics?</a></li>
+          
+          <li><a href="../posts/an-unfair-model-is-quite-easy-to-make.html">An Example of a &#34;Partially Fair&#34; Model</a></li>
+          
+          <li><a href="../posts/more-thoughts-on-space-solar-energy.html">More Thoughts on Space Solar Energy</a></li>
+          
+          <li><a href="../posts/what-i-wished-i-knew-about-abstract-algebra.html">A TL-DR for Basic Group Theory</a></li>
+          
+          <li><a href="../posts/what-makes-an-image-an-image.html">Thoughts on Words and their Meaning</a></li>
+          
+          <li><a href="../posts/redshift-from-massive-objects.html">Redshift from Massive Objects</a></li>
+          
+          <li><a href="../posts/measuring-disorder-and-complexity.html">Measuring Disorder and Complexity</a></li>
+          
+          <li><a href="../posts/noethers-theorem-and-the-principle-of-least-action.html">Noether’s Theorem and the Principle of Least Action</a></li>
+          
+          <li><a href="../posts/what-is-the-dollar-cost-of-malaysias-racial-discrimination.html">What is the Dollar Cost of Malaysia’s Racial Discrimination?</a></li>
+          
+          <li><a href="../posts/the-viability-of-space-solar-energy.html">The Viability of Space Solar Energy</a></li>
+          
+          <li><a href="../posts/will-ai-enabled-automation-will-constitute-more-than-half-of-the-gross-world-product-gwp-by-2100.html">Will AI-enabled automation constitute more than half of the Gross World Product by 2100?</a></li>
+          
+          <li><a href="../posts/untitled-9.html">The Hopf-Fibration and a Four-Dimensional Sphere</a></li>
+          
+          <li><a href="../posts/some-thoughts-on-solving-electrodynamics-problems.html">Electrodynamics Puzzles</a></li>
+          
+          <li><a href="../posts/small-sample-bias-and-data-ethics.html">Small Sample Bias and Data Ethics</a></li>
+          
+          <li><a href="../posts/what-is-our-natural-rate-of-extinction.html">What is our natural Rate of Extinction?</a></li>
+          
+          <li><a href="../posts/existential-risk-and-the-offence-defence-balance.html">Existential Risk and the Offence-Defence Balance.</a></li>
+          
+          <li><a href="../posts/slippage-in-automated-market-makers.html">Slippage in Automated Market Makers</a></li>
+          
+          <li><a href="../posts/density-functional-theory.html">Density Functional Theory</a></li>
+          
+          <li><a href="../posts/untitled-7.html">Time Crystals, Part II</a></li>
+          
+        </ul>
+      </details>
+      
+      
+      
+      <details class="year">
+        <summary>2021 <span class="year-count">18</span></summary>
+        <ul>
+          
+          <li><a href="../posts/time-crystals.html">Time Crystals</a></li>
+          
+          <li><a href="../posts/diffie-hellman-key-exchange.html">Diffie-Hellman Key Exchange</a></li>
+          
+          <li><a href="../posts/untitled-6.html">Computing a Feynman Diagram for the Magnetic g-Factor</a></li>
+          
+          <li><a href="../posts/phase-transitions-in-the-checkerboard-state.html">Phase Transitions in the Checkerboard State</a></li>
+          
+          <li><a href="../posts/explaining-quantum-degeneracy.html">Explaining Quantum Degeneracy</a></li>
+          
+          <li><a href="../posts/hydrogen-and-its-mysterious-energies.html">Hydrogen and its Mysterious Energies</a></li>
+          
+          <li><a href="../posts/the-economics-of-intergalactic-trade-part-i.html">The Economics of Intergalactic Trade — Part I</a></li>
+          
+          <li><a href="../posts/untitled-5.html">The Integer Quantum Hall Effect</a></li>
+          
+          <li><a href="../posts/geometry-as-the-theatre-of-physics.html">Geometry as the Theatre of Physics</a></li>
+          
+          <li><a href="../posts/untitled-3.html">Quantifying our Confidence in Statistical Models — The Confidence Interval</a></li>
+          
+          <li><a href="../posts/why-we-need-quantum-field-theory.html">Why do we have to combine Einstein&#39;s Relativity with Quantum Mechanics?</a></li>
+          
+          <li><a href="../posts/how-do-physicists-understand-the-different-phases-of-matter.html">How do Physicists understand the different Phases of Matter?</a></li>
+          
+          <li><a href="../posts/using-natural-language-processing-to-visualise-uncertainty-in-news-content.html">Using Natural Language Processing to visualise Uncertainty in News Content</a></li>
+          
+          <li><a href="../posts/the-wonderful-math-that-powers-disneys-animationwhere-physics-computer-science-and-art-come-together.html">The wonderful Math that powers Disney’s Animation</a></li>
+          
+          <li><a href="../posts/untitled.html">Finding Geometrical Beauty in Simple Physics</a></li>
+          
+          <li><a href="../posts/taming-infinities-why-is-it-possible-to-do-physics-at-all.html">Taming Infinities — Why is it possible to do Physics at all?</a></li>
+          
+          <li><a href="../posts/cheating-nashs-game-theory-with-quantum-mechanics.html">Cheating Nash’s Game Theory, with Quantum Mechanics</a></li>
+          
+          <li><a href="../posts/the-baffling-differences-between-classical-and-quantum-mechanics.html">The baffling Differences between Classical and Quantum Mechanics</a></li>
+          
+        </ul>
+      </details>
+      
+    </nav>
+  </aside>
+  
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">Temperature calibration of the algae bioreactor</h2>
+    <p class="post-meta">
+      <span class="post-date">15 September 2026</span>
+      
+    </p>
+  </header>
+
+  <div class="post-body">
+    <hr />
+<h2>The runs, in order</h2>
+<p>Each plot is one run of the step test: setpoint and measured temperature on top, peltier duty below. Fridge ambient is 21 °C.</p>
+<figure><img src="bioreactor-temp-calibration/20260914_095939_temp_steps.png" alt="20260914_095939"><figcaption><code>20260914_095939_temp_steps.csv</code></figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260914_105305_temp_steps.png" alt="20260914_105305"><figcaption><code>20260914_105305_temp_steps.csv</code></figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260914_153503_temp_steps.png" alt="20260914_153503"><figcaption><code>20260914_153503_temp_steps.csv</code></figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260914_155511_temp_steps.png" alt="20260914_155511"><figcaption><code>20260914_155511_temp_steps.csv</code></figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260914_180224_temp_steps.png" alt="20260914_180224"><figcaption><code>20260914_180224_temp_steps.csv</code></figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260915_105945_temp_steps.png" alt="20260915_105945"><figcaption><code>20260915_105945_temp_steps.csv</code></figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260914_all_runs.png" alt="All runs on 14 Sep"><figcaption>All runs from 14 September on one axis.</figcaption></figure>
+
+<figure><img src="bioreactor-temp-calibration/20260915_replication_vs_run8.png" alt="Replication vs run 8"><figcaption>Run 8 (14 Sep) against its replication (15 Sep).</figcaption></figure>
+
+<h2>Findings</h2>
+<p><em>The write-up below is the <code>FINDINGS.md</code> kept alongside the data on the Pi, reproduced as-is.</em></p>
+<h2>Temperature Step Calibration — Findings (2026-09-14)</h2>
+<h3>Test</h3>
+<p>Oscillate setpoint 21 → 23 → 25 → 27 → 25 → 23 °C (2 °C steps, 2 min holds,
+repeating) using the <code>bioreactor_v3</code> reference PID
+(<code>temperature_pid_controller</code>, kp=12, ki=0.015, kd=0, 5 s period, 70% max duty)
+driving the peltier, stirrer at 30%, DS18B20 sensor <code>28-00000f81ba5b</code>.</p>
+<h3>Data</h3>
+<ul>
+<li><code>data/20260914_080232_temp_steps.csv</code> — Run 1: reference PID as-is, ~27 min (3 cycles)</li>
+<li><code>data/20260914_083008_temp_steps.csv</code> — Run 2: PID state reset at each step, ~5.5 min</li>
+<li><code>data/20260914_084551_temp_steps.csv</code> — Run 3: settle-based holds (±0.25 C/60 s, 20 min cap)</li>
+<li><code>data/20260914_temp_step_analysis.png</code> — runs 1–2 plotted (temp, setpoint, signed duty)</li>
+<li><code>data/calibration.log</code> — full PID log of latest run</li>
+</ul>
+<h3>Run 3 (settle-based): conclusive thermal-runaway evidence</h3>
+<p>Context: the reactor sits in a fridge held at 21 C by an Inkbird, so ambient
+is actively pinned at 21 C. Step 1 (setpoint 21 C, from 25.6 C, PID at
+50–70% cool duty):</p>
+<table>
+<thead>
+<tr>
+<th>step time</th>
+<th>temp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0–2 min</td>
+<td>25.6 → 24.6 C — <em>genuine cooling while the hot side is still cold</em></td>
+</tr>
+<tr>
+<td>2–20 min</td>
+<td>24.6 → <strong>30.8 C</strong>, monotonic +0.4 C/min at a constant 70% cool duty</td>
+</tr>
+</tbody>
+</table>
+<p>Initial real cooling followed by runaway once the hot side heat-soaks
+(~2–3 min) is the signature of a <strong>peltier with no working hot-side heat
+removal</strong> — strongly supporting the fan hypothesis (cause 1) over a stuck
+DIR pin (cause 2), since a stuck DIR would have heated from t=0.
+The settle-based advance worked as designed: the step correctly timed out at
+20 min; the run was then manually stopped to avoid further pointless heating
+(vessel left at 31 C, passively cooling in the fridge).</p>
+<p><strong>Do not run cooling-side calibration again until the hot-side fan (likely on
+one of relay1–4, GPIO 6/13/19/26) is confirmed running during peltier cool
+mode.</strong></p>
+<h3>Heat-only controller (runs 4–6, 2026-09-14 afternoon)</h3>
+<p>Strategy adopted: peltier heats only; the fridge (Inkbird at 21 C) provides
+all cooling. Controller = calibrated feedforward + PID trim + hard-off above
+setpoint + predictive coast.</p>
+<ul>
+<li><strong>Run 4</strong> (<code>20260914_095939</code>): ff too high (8 %/C) fought the fridge during
+  overshoot recovery — 16+ min recoveries, one timeout. Interrupted.</li>
+<li><strong>Run 5</strong> (<code>20260914_105305</code>, 4.6 h, 5.5 cycles): hard-off fix worked
+  (all cooling steps settled in 3–6.6 min) but heating steps overshot
+  1.7–2.8 C every time (full duty until too close + ~90 s heater-block lag).
+  <strong>Calibration extracted:</strong> steady-state duty 23 C: 7.3%, 25 C: 20.9%,
+  27 C: 31.8% → <strong>ff = 6.1*(T−21) − 4.9 %</strong> (negative intercept = stirrer
+  heat). Passive cooling tau ≈ 9 min confirmed.</li>
+<li><strong>v3 controller:</strong> calibrated ff + predictive coast (cut heater when
+  temp + rate*90 s crosses setpoint) + approach throttle ff+15% within 1 C.</li>
+<li><strong>Run 6, hold experiment</strong> (<code>20260914_153503</code>): 25 C target from 23.2 C —
+  settled in 2.1 min, first crest 25.65 C (overshoot 0.65 C vs 2.5 C in v2).
+  10-min hold: mean 25.26 C, sd 0.30, range 24.75–25.75, mean duty 6%.
+  Character: ~20% duty bursts every ~2.3 min with coasting between; block
+  storage gives a +0.6 C sawtooth crest. Good enough to demonstrate
+  targeting; for a tighter hold (±0.1 C) switch to steady balance duty
+  (~ff) with small PI trim instead of bursts once settled.</li>
+</ul>
+<h3>Run 7: hold sweep 21/23/25/27 C (<code>20260914_155511</code>, 59 min, v3)</h3>
+<p>Settle then hold 10 min at each setpoint, single pass:</p>
+<table>
+<thead>
+<tr>
+<th>Setpoint</th>
+<th>Settle</th>
+<th>Hold mean</th>
+<th>sd</th>
+<th>Range</th>
+<th>In ±0.25 band</th>
+<th>Mean duty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21 C</td>
+<td>11.3 min</td>
+<td>20.99</td>
+<td>0.10</td>
+<td>20.88–21.19</td>
+<td>100%</td>
+<td>0.6%</td>
+</tr>
+<tr>
+<td>23 C</td>
+<td>3.2 min</td>
+<td>23.07</td>
+<td>0.11</td>
+<td>22.88–23.25</td>
+<td>100%</td>
+<td>3.1%</td>
+</tr>
+<tr>
+<td>25 C</td>
+<td>2.4 min</td>
+<td>25.23</td>
+<td>0.29</td>
+<td>24.75–25.62</td>
+<td>52%</td>
+<td>6.0%</td>
+</tr>
+<tr>
+<td>27 C</td>
+<td>1.8 min</td>
+<td>27.37</td>
+<td>0.42</td>
+<td>26.69–28.06</td>
+<td>39%</td>
+<td>8.4%</td>
+</tr>
+</tbody>
+</table>
+<p>Targeting works across the range; hold quality degrades with height above
+ambient (burst-coast limit cycle grows to ±0.7 C at 27 C, riding high).</p>
+<p><strong>Key recalibration:</strong> the hold-phase mean duties are the TRUE balance duties
+(0.6 / 3.1 / 6.0 / 8.4%) — the run-5 estimate (7.3/20.9/31.8%) was inflated
+~3x by sampling during bursts. True feedforward:
+<strong>ff = 1.33*(T−21) + 0.4 %</strong> (excellent linear fit). The inflated ff is also
+why v3 rides high: every burst starts ~15% above true balance.</p>
+<h3>Run 8: v4 hold sweep (<code>20260914_180224</code>, 49 min) — SOLVED</h3>
+<p>v4 = true-balance ff + trim phase (within ±0.3 C: continuous duty around
+balance with PI trim kp=8 ki=0.05, instead of burst/coast; approach phase
+unchanged). Same sweep, 10-min holds:</p>
+<table>
+<thead>
+<tr>
+<th>Setpoint</th>
+<th>v4 mean</th>
+<th>v4 sd</th>
+<th>v4 range</th>
+<th>In-band</th>
+<th>Duty</th>
+<th>(v3 sd / band%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21 C</td>
+<td>20.97</td>
+<td>0.04</td>
+<td>20.88–21.06</td>
+<td>100%</td>
+<td>1.3%</td>
+<td>0.10 / 100%</td>
+</tr>
+<tr>
+<td>23 C</td>
+<td>23.02</td>
+<td>0.07</td>
+<td>22.94–23.19</td>
+<td>100%</td>
+<td>2.4%</td>
+<td>0.11 / 100%</td>
+</tr>
+<tr>
+<td>25 C</td>
+<td>25.04</td>
+<td>0.07</td>
+<td>24.88–25.25</td>
+<td>100%</td>
+<td>5.0%</td>
+<td>0.29 / 52%</td>
+</tr>
+<tr>
+<td>27 C</td>
+<td>27.05</td>
+<td>0.06</td>
+<td>27.00–27.19</td>
+<td>100%</td>
+<td>7.0%</td>
+<td>0.42 / 39%</td>
+</tr>
+</tbody>
+</table>
+<p>±0.07 C (1 sd) at every setpoint, 100% in the ±0.25 band, means within
+0.05 C of target, settle times 1–3.8 min. The duty trace is a steady 1–7%
+ribbon instead of bursts — block never charges, sawtooth gone. This
+controller (heat-only, true-balance ff + trim + predictive-coast approach)
+is the recommended configuration for temperature targeting on this rig
+until the peltier hot-side fan is fixed.</p>
+<h3>Run 9: v4 replication sweep (<code>20260915_105945</code>, 2026-09-15) — REPRODUCED</h3>
+<p>Same v4 sweep, next day, stirrer visually confirmed spinning:</p>
+<table>
+<thead>
+<tr>
+<th>Setpoint</th>
+<th>Sep 14 mean/sd/band%</th>
+<th>Sep 15 mean/sd/band%</th>
+<th>Duty (14→15)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>21 C</td>
+<td>20.97 / 0.04 / 100%</td>
+<td>21.32 / 0.20 / 49%</td>
+<td>1.3 → 0.0%</td>
+</tr>
+<tr>
+<td>23 C</td>
+<td>23.02 / 0.07 / 100%</td>
+<td>23.04 / 0.06 / 100%</td>
+<td>2.4 → 2.2%</td>
+</tr>
+<tr>
+<td>25 C</td>
+<td>25.04 / 0.07 / 100%</td>
+<td>25.07 / 0.08 / 100%</td>
+<td>5.0 → 5.0%</td>
+</tr>
+<tr>
+<td>27 C</td>
+<td>27.05 / 0.06 / 100%</td>
+<td>27.06 / 0.12 / 88%</td>
+<td>7.0 → 6.7%</td>
+</tr>
+</tbody>
+</table>
+<p>Heated setpoints replicate within 0.03 C mean and near-identical balance
+duties — the ff calibration and controller behaviour are stable day-to-day.
+The 21 C "miss" is the FRIDGE, not the controller: ambient sat ~21.3–21.6 C
+during that window (Inkbird hysteresis / compressor phase), the heater was
+correctly hard-off the whole time, and the vessel simply cannot go below
+whatever the fridge floor is that hour. Heat-only floor = fridge ambient.</p>
+<p>Reproduced balance duties with confirmed stirring also retroactively
+validate the Sep 14 data (same physical configuration, genuinely mixed
+bulk readings). Comparison figure: <code>20260915_replication_vs_run8.png</code>.</p>
+<h3>Result summary</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Heating steps</th>
+<th>Cooling steps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Run 1, cycle 1</td>
+<td>Tracked well: reached 23.4 / 25.2 / 27.2 °C within each 2-min hold (~1 °C/min)</td>
+<td>27→25 fell only with low duty; 25→23 incomplete</td>
+</tr>
+<tr>
+<td>Run 1, cycles 2–3</td>
+<td>Degraded</td>
+<td>Oscillation collapsed to ~24–26.4 °C</td>
+</tr>
+<tr>
+<td>Run 2 (clean PID each step)</td>
+<td>n/a (never got past cooling)</td>
+<td>45–70% cooling duty for 5.5 min → temperature <strong>rose</strong> 25.2 → 27.5 °C</td>
+</tr>
+</tbody>
+</table>
+<h3>Issue 1 (primary, hardware): commanded cooling net-HEATS the vessel</h3>
+<p>With the peltier driven in the <em>cool</em> direction at sustained 45–70% duty, the
+vessel warmed at ~+0.4 °C/min — even 5 °C above ambient, where passive losses
+also help. Meanwhile <em>heat</em> direction works fine (~1 °C/min).</p>
+<p>The apparent cooling in run 1 (27 → 24 °C, minutes 8–14) happened while duty
+was still ramping through low values — consistent with passive loss to
+ambient (~21 °C) plus at best weak active cooling, then heat-soak taking over.</p>
+<p>Most likely causes, in order:
+1. <strong>Hot-side heatsink fan not running</strong> — the calibration config left
+   <code>relays</code> disabled; if a relay (GPIO 6/13/19/26) powers the peltier fan,
+   the hot side heat-soaks and conducts heat back into the vessel. Classic
+   over-driven-peltier signature: cooling works briefly/at low duty, net
+   heating at sustained high duty.
+2. <strong>DIR signal not switching the H-bridge</strong> (loose wire on GPIO 20) — both
+   directions would heat; heating rate differences would come from passive
+   losses.
+3. Peltier driven past its optimal current in cool mode (I²R &gt; pumping).</p>
+<h4>Suggested diagnostic (5 min)</h4>
+<p>Fixed 40% duty in each direction for 2 min each, watch temp slope — with the
+fan relay ON if one of relay1–4 feeds a fan. This separates (1) from (2).</p>
+<h3>Issue 2 (software): PID integral windup across setpoint steps</h3>
+<p><code>temperature_pid_controller</code> is a pure PID with a deliberately unclamped
+integral (<code># Update integral term (pure PID - no clamping)</code>, utils.py). Fine
+for its designed use (holding one setpoint), but when the plant can't follow
+a step within the hold time, the integral winds up without bound — it reached
+<strong>-1370</strong> by run 1 cycle 3 (≈ -20 duty% of authority, saturating the output at
+max_duty even against fresh setpoints). Each cycle got worse.</p>
+<p>Fixed in this test harness (<code>temp_step_calibration.py</code>): PID state
+(<code>_temp_integral</code>, <code>_temp_last_error</code>, <code>_temp_last_derivative</code>) is reset at
+every setpoint change. For production use in <code>bioreactor_v3</code>, consider
+anti-windup (integral clamp or back-calculation) in
+<code>temperature_pid_controller</code>.</p>
+<h3>Also noted (code smell, bioreactor_v3)</h3>
+<p><code>src/io.py</code>: <code>PeltierDriver.set</code> docstring says <code>forward: True=forward/heat,
+False=reverse/cool</code>, but <code>set_peltier_power</code> maps <code>'cool'→forward=True</code> and
+<code>'heat'→forward=False</code>. Observed behaviour says the <em>mapping</em> is right
+(heat commands do heat), so the <em>docstring</em> is wrong — worth fixing before it
+misleads someone.</p>
+<h2>Files</h2>
+<ul>
+<li><a href="bioreactor-temp-calibration/temp_step_calibration.py">temp_step_calibration.py</a> — the controller and step-test harness (also printed in full below)</li>
+<li><a href="bioreactor-temp-calibration/FINDINGS.md">FINDINGS.md</a> — the write-up above, as markdown</li>
+<li><a href="bioreactor-temp-calibration/calibration.log">calibration.log</a> — full controller log of the final run</li>
+<li><a href="bioreactor-temp-calibration/transcript.html">Session transcript</a> — the full Claude Code conversation that produced this, 14–15 Sep 2026 (<a href="bioreactor-temp-calibration/transcript.md">markdown</a>)</li>
+<li>Raw CSVs (5 s samples: time, setpoint, temperature, error, duty, direction, phase):<ul>
+<li><a href="bioreactor-temp-calibration/20260914_080232_temp_steps.csv">20260914_080232_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_083008_temp_steps.csv">20260914_083008_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_084551_temp_steps.csv">20260914_084551_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_095939_temp_steps.csv">20260914_095939_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_105305_temp_steps.csv">20260914_105305_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_153503_temp_steps.csv">20260914_153503_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_155511_temp_steps.csv">20260914_155511_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260914_180224_temp_steps.csv">20260914_180224_temp_steps.csv</a></li>
+<li><a href="bioreactor-temp-calibration/20260915_105945_temp_steps.csv">20260915_105945_temp_steps.csv</a></li>
+</ul>
+</li>
+</ul>
+
+    
+    <h2 id="code">The code</h2>
+    <p><code>temp_step_calibration.py</code> &mdash; <a href="bioreactor-temp-calibration/temp_step_calibration.py">download</a>. 712 lines.</p>
+    <pre class="code-listing"><code>&quot;&quot;&quot;
+Temperature step calibration test with live GUI.
+
+Oscillates the bioreactor temperature setpoint in 2 C steps between 21 C and
+27 C (21 -&gt; 23 -&gt; 25 -&gt; 27 -&gt; 25 -&gt; 23 -&gt; repeat). Each step advances once
+the temperature has settled (within +/-0.25 C of setpoint for 60 s) or after
+a 20 min timeout.
+
+HEAT-ONLY control (v4 — the reference temperature controller for this rig):
+the peltier is only ever driven in the heat direction (active cooling causes
+thermal runaway — see FINDINGS.md). Cooling comes from the fridge, whose
+Inkbird pins ambient at 21 C (passive loss, tau ~9 min).
+
+Controller, per 5 s tick:
+  * feedforward  ff = 1.33*(T_set - 21) + 0.4 % duty — the TRUE balance duty,
+    fitted to 10-min hold means at 21/23/25/27 C (0.6/3.1/6.0/8.4 %). (The
+    earlier ~8 %/C figure was inflated ~3x by sampling during heating bursts.)
+  * approach phase (|error| &gt; 0.3 C): ff + PI (kp=12, ki=0.015, clamped);
+    hard-off if &gt;0.05 C above setpoint; predictive coast — cut the heater
+    when temp + rate*90 s would cross the setpoint (heater-block lag);
+    duty capped at ff+15 % within 1 C of setpoint.
+  * trim phase (|error| &lt;= 0.3 C): continuous duty ff + PI (kp=8, ki=0.05,
+    clamped), ceiling ff+25 %, hard-off only if &gt;0.5 C above setpoint.
+  Integral resets on every setpoint or phase change.
+
+Validated 2026-09-14 (run 20260914_180224) and replicated 2026-09-15
+(run 20260915_105945): holds at 21/23/25/27 C with sd ~0.07 C, means within
+0.05 C of target, settle 1-4 min. Peltier drivers/sensors from bioreactor_v3.
+
+Run inside the bioreactor venv:
+    /home/afiq/bioreactor/bin/python temp_step_calibration.py [--autostart]
+&quot;&quot;&quot;
+
+import argparse
+import csv
+import math
+import os
+import sys
+import threading
+import time
+import tkinter as tk
+from tkinter import messagebox, ttk
+from datetime import datetime
+from functools import partial
+
+# --- bioreactor_v3 reference code ---
+BIOREACTOR_V3 = &#x27;/home/afiq/Documents/GitHub/bioreactor_v3&#x27;
+sys.path.insert(0, BIOREACTOR_V3)
+
+from src import Bioreactor, Config
+from src.io import (
+    get_temperature,
+    get_peltier_state,
+    set_peltier_power,
+    set_stirrer_speed,
+    stop_peltier,
+    stop_stirrer,
+)
+
+import matplotlib
+matplotlib.use(&#x27;TkAgg&#x27;)
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+from matplotlib.figure import Figure
+
+# --- Test profile ---
+SETPOINTS = [21.0, 23.0, 25.0, 27.0, 25.0, 23.0]  # one oscillation cycle, repeats
+# Settle-based advance: a step completes once temp stays within SETTLE_BAND of
+# the setpoint for SETTLE_TIME, or after STEP_TIMEOUT (whichever first). This
+# adapts to the heat/cool asymmetry (heating ~1 C/min; cooling is passive
+# loss to the 21 C fridge ambient, tau ~9 min).
+SETTLE_BAND = 0.25          # deg C either side of setpoint
+SETTLE_TIME = 60.0          # seconds continuously in band to count as settled
+STEP_TIMEOUT = 1200.0       # 20 min hard cap per step
+PID_PERIOD = 5.0            # seconds between PID updates (matches examples)
+PID_KP, PID_KI = 12.0, 0.015  # reference gains from examples/example_usage.py
+MAX_DUTY = 70.0             # hardware safety limit (PID default)
+
+# Heat-only controller (see FINDINGS.md: active cooling -&gt; thermal runaway).
+# Fridge ambient is pinned at 21 C by the Inkbird; the peltier only heats.
+AMBIENT_C = 21.0            # Inkbird setpoint (fridge ambient)
+# Feedforward: TRUE balance duty measured from run-7 hold-phase means
+# (21 C: 0.6%, 23 C: 3.1%, 25 C: 6.0%, 27 C: 8.4%) =&gt; duty = 1.33*(T-21)+0.4
+# (The earlier run-5 fit of 6.1*(T-21)-4.9 was ~3x inflated by burst sampling.)
+FF_A = 1.33                 # duty% per C above ambient
+FF_B = 0.4                  # intercept
+I_CLAMP = 25.0              # anti-windup: |integral contribution| &lt;= this duty%
+MIN_DUTY = 0.5              # below this, peltier is simply off (passive cool)
+OFF_DEADBAND = 0.05         # C above setpoint at which the peltier goes hard-off
+APPROACH_BAND = 1.0         # C below setpoint where the approach throttle kicks in
+APPROACH_HEADROOM = 15.0    # duty% above feedforward allowed during approach
+# Predictive coast: run 5 showed 1.7-2.8 C overshoot from ~90 s of heater-block
+# thermal lag. Cut the peltier when the projected temperature (current +
+# measured rate * LOOKAHEAD_S) will cross the setpoint, and coast in.
+LOOKAHEAD_S = 90.0          # projection horizon ~ observed block lag
+RATE_WINDOW_S = 30.0        # window for the temperature-rate estimate
+
+# Trim phase (v4): once near setpoint, run CONTINUOUS low duty around the true
+# balance point with PI trim, instead of burst/coast. The heater block stays
+# at vessel temperature, so there is no stored-heat sawtooth (run 7 showed the
+# burst-coast limit cycle growing to +/-0.7 C at 27 C).
+TRIM_ENTER = 0.3            # |error| &lt;= this -&gt; enter trim phase
+TRIM_EXIT = 1.0             # |error| &gt; this -&gt; back to approach phase
+TRIM_KP = 8.0               # duty% per C
+TRIM_KI = 0.05              # duty% per C-second
+TRIM_I_CLAMP = 10.0         # |integral contribution| &lt;= this duty%
+TRIM_MAX_ABOVE_FF = 25.0    # trim duty ceiling above feedforward
+TRIM_OFF_ERROR = -0.5       # this far above setpoint even trim goes hard-off
+
+
+def ff_duty(setpoint):
+    &quot;&quot;&quot;Calibrated feedforward: duty% to hold `setpoint` against the fridge.&quot;&quot;&quot;
+    return max(0.0, FF_A * (setpoint - AMBIENT_C) + FF_B)
+STIRRER_DUTY = 30.0         # keep contents mixed for uniform temperature
+ABORT_TEMP = 45.0           # emergency cutoff
+
+DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), &#x27;data&#x27;)
+
+
+class CalibConfig(Config):
+    &quot;&quot;&quot;Only the components needed for the temperature test.&quot;&quot;&quot;
+    INIT_COMPONENTS = {
+        &#x27;i2c&#x27;: False,
+        &#x27;temp_sensor&#x27;: True,
+        &#x27;peltier_driver&#x27;: True,
+        &#x27;stirrer&#x27;: True,
+        &#x27;led&#x27;: False,
+        &#x27;ring_light&#x27;: False,
+        &#x27;optical_density&#x27;: False,
+        &#x27;eyespy_adc&#x27;: False,
+        &#x27;co2_sensor&#x27;: False,
+        &#x27;o2_sensor&#x27;: False,
+        &#x27;pumps&#x27;: False,
+    }
+    RESULTS_PACKAGE = False
+    LOG_TO_TERMINAL = True
+    LOG_FILE = os.path.join(DATA_DIR, &#x27;calibration.log&#x27;)
+
+
+class TempStepTest:
+    &quot;&quot;&quot;Background control loop: steps the setpoint, runs the PID, logs CSV.
+
+    Modes:
+      hold_min=None              -&gt; oscillation profile, advance on settle,
+                                    repeat forever (original calibration)
+      hold_min=N                 -&gt; after settling at each setpoint, hold it
+                                    for N minutes before advancing
+      single_pass=True           -&gt; stop after the last setpoint (sweep/hold)
+    &quot;&quot;&quot;
+
+    def __init__(self, setpoints=None, hold_min=None, single_pass=False):
+        self.setpoints = list(setpoints) if setpoints else list(SETPOINTS)
+        self.hold_min = hold_min
+        self.single_pass = single_pass
+        self.lock = threading.Lock()
+        self.state = {
+            &#x27;running&#x27;: False,
+            &#x27;status&#x27;: &#x27;idle&#x27;,
+            &#x27;temp&#x27;: float(&#x27;nan&#x27;),
+            &#x27;error&#x27;: float(&#x27;nan&#x27;),
+            &#x27;step_index&#x27;: 0,
+            &#x27;cycle&#x27;: 1,
+            &#x27;settle&#x27;: &#x27;waiting&#x27;,
+            &#x27;step_elapsed&#x27;: 0.0,
+            &#x27;elapsed&#x27;: 0.0,
+            &#x27;setpoint&#x27;: self.setpoints[0],
+            &#x27;duty&#x27;: 0.0,
+            &#x27;direction&#x27;: &#x27;-&#x27;,
+            &#x27;csv_path&#x27;: None,
+            &#x27;history&#x27;: [],   # (elapsed_s, temp, setpoint)
+            &#x27;events&#x27;: [],
+        }
+        self.reactor = None
+        self._thread = None
+        self._stop = threading.Event()
+
+    # -- events / state helpers --
+    def _event(self, msg):
+        stamp = datetime.now().strftime(&#x27;%H:%M:%S&#x27;)
+        print(f&#x27;EVENT [{stamp}] {msg}&#x27;, flush=True)  # also to stdout for monitoring
+        with self.lock:
+            self.state[&#x27;events&#x27;].append(f&#x27;[{stamp}] {msg}&#x27;)
+            self.state[&#x27;events&#x27;] = self.state[&#x27;events&#x27;][-200:]
+
+    def snapshot(self):
+        with self.lock:
+            snap = dict(self.state)
+            snap[&#x27;history&#x27;] = list(self.state[&#x27;history&#x27;])
+            snap[&#x27;events&#x27;] = list(self.state[&#x27;events&#x27;])
+        return snap
+
+    # -- lifecycle --
+    def start(self):
+        if self._thread and self._thread.is_alive():
+            return
+        self._stop.clear()
+        self._thread = threading.Thread(target=self._run, daemon=True)
+        self._thread.start()
+
+    def stop(self):
+        self._stop.set()
+
+    def _shutdown_hardware(self):
+        if self.reactor is None:
+            return
+        try:
+            stop_peltier(self.reactor)
+            stop_stirrer(self.reactor)
+            self.reactor.finish()
+        except Exception as e:
+            self._event(f&#x27;Cleanup error: {e}&#x27;)
+        self.reactor = None
+
+    # -- main control loop --
+    def _run(self):
+        with self.lock:
+            self.state[&#x27;running&#x27;] = True
+            self.state[&#x27;status&#x27;] = &#x27;initializing hardware&#x27;
+        self._event(&#x27;Initializing bioreactor (temp_sensor, peltier, stirrer)...&#x27;)
+
+        try:
+            self.reactor = Bioreactor(CalibConfig())
+        except Exception as e:
+            self._event(f&#x27;FAILED to initialize bioreactor: {e}&#x27;)
+            with self.lock:
+                self.state[&#x27;running&#x27;] = False
+                self.state[&#x27;status&#x27;] = &#x27;init failed&#x27;
+            return
+
+        for comp in (&#x27;temp_sensor&#x27;, &#x27;peltier_driver&#x27;):
+            if not self.reactor.is_component_initialized(comp):
+                self._event(f&#x27;FAILED: required component {comp} not initialized&#x27;)
+                with self.lock:
+                    self.state[&#x27;running&#x27;] = False
+                    self.state[&#x27;status&#x27;] = f&#x27;{comp} init failed&#x27;
+                self._shutdown_hardware()
+                return
+
+        if self.reactor.is_component_initialized(&#x27;stirrer&#x27;):
+            set_stirrer_speed(self.reactor, STIRRER_DUTY)
+            self._event(f&#x27;Stirrer on at {STIRRER_DUTY:.0f}% for mixing&#x27;)
+
+        # CSV log
+        os.makedirs(DATA_DIR, exist_ok=True)
+        csv_path = os.path.join(
+            DATA_DIR, datetime.now().strftime(&#x27;%Y%m%d_%H%M%S_temp_steps.csv&#x27;))
+        csv_file = open(csv_path, &#x27;w&#x27;, newline=&#x27;&#x27;)
+        writer = csv.writer(csv_file)
+        writer.writerow([&#x27;time&#x27;, &#x27;elapsed_s&#x27;, &#x27;step_elapsed_s&#x27;, &#x27;cycle&#x27;,
+                         &#x27;step_index&#x27;, &#x27;setpoint_C&#x27;, &#x27;temperature_C&#x27;,
+                         &#x27;error_C&#x27;, &#x27;in_band&#x27;, &#x27;peltier_duty&#x27;,
+                         &#x27;peltier_direction&#x27;, &#x27;phase&#x27;])
+        with self.lock:
+            self.state[&#x27;csv_path&#x27;] = csv_path
+        setpoints = self.setpoints
+        self._event(f&#x27;Logging to {csv_path}&#x27;)
+        if self.hold_min is not None:
+            self._event(f&#x27;HOLD MODE: setpoints {setpoints} C — settle &#x27;
+                        f&#x27;(+/-{SETTLE_BAND} C for {SETTLE_TIME:.0f}s) then &#x27;
+                        f&#x27;hold {self.hold_min:.0f} min at each&#x27;
+                        + (&#x27;, single pass&#x27; if self.single_pass else &#x27;&#x27;))
+        else:
+            self._event(f&#x27;Profile: {setpoints} C, settle band +/-{SETTLE_BAND} C &#x27;
+                        f&#x27;for {SETTLE_TIME:.0f}s, timeout {STEP_TIMEOUT / 60:.0f} min/step&#x27;)
+        self._event(f&#x27;HEAT-ONLY v4: true-balance ff={FF_A}*(T-{AMBIENT_C:.0f})&#x27;
+                    f&#x27;{FF_B:+.1f}%, predictive coast, trim phase &#x27;
+                    f&#x27;(enter +/-{TRIM_ENTER} C: continuous duty, &#x27;
+                    f&#x27;kp={TRIM_KP} ki={TRIM_KI}); cooling is passive (fridge)&#x27;)
+
+        start_time = time.time()
+        step_index, cycle = 0, 1
+        step_start = start_time
+        in_band_since = None
+        integral = 0.0
+        temp_hist = []
+        hold_end = None
+        phase = &#x27;approach&#x27;
+        setpoint = setpoints[0]
+        self._event(f&#x27;START — step 1/{len(setpoints)}: setpoint {setpoint:.0f} C&#x27;)
+
+        try:
+            while not self._stop.is_set():
+                loop_t0 = time.time()
+                elapsed = loop_t0 - start_time
+                step_elapsed = loop_t0 - step_start
+
+                # advance profile: settled, or step timed out
+                advance_reason = None
+                if in_band_since is not None and \
+                        loop_t0 - in_band_since &gt;= SETTLE_TIME:
+                    advance_reason = (f&#x27;settled at {setpoint:.0f} C &#x27;
+                                      f&#x27;in {step_elapsed / 60:.1f} min&#x27;)
+                elif step_elapsed &gt;= STEP_TIMEOUT:
+                    advance_reason = (f&#x27;TIMEOUT: did not settle at &#x27;
+                                      f&#x27;{setpoint:.0f} C in &#x27;
+                                      f&#x27;{STEP_TIMEOUT / 60:.0f} min&#x27;)
+                advance_now = False
+                if hold_end is not None:
+                    # holding at a settled setpoint
+                    if loop_t0 &gt;= hold_end:
+                        self._event(f&#x27;HOLD COMPLETE: {self.hold_min:.0f} min &#x27;
+                                    f&#x27;at {setpoint:.0f} C&#x27;)
+                        advance_now = True
+                        hold_end = None
+                elif advance_reason:
+                    if self.hold_min is not None and \
+                            &#x27;TIMEOUT&#x27; not in advance_reason:
+                        # settled: begin the hold instead of advancing
+                        hold_end = loop_t0 + self.hold_min * 60.0
+                        self._event(f&#x27;Settled at {setpoint:.0f} C in &#x27;
+                                    f&#x27;{step_elapsed / 60:.1f} min — now &#x27;
+                                    f&#x27;holding for {self.hold_min:.0f} min&#x27;)
+                    else:
+                        self._event(f&#x27;Step {step_index + 1}/{len(setpoints)} &#x27;
+                                    f&#x27;done — {advance_reason}&#x27;)
+                        advance_now = True
+
+                if advance_now:
+                    step_index += 1
+                    if step_index &gt;= len(setpoints):
+                        if self.single_pass:
+                            self._event(&#x27;Sweep complete — all setpoints done&#x27;)
+                            break
+                        step_index = 0
+                        cycle += 1
+                        self._event(f&#x27;Cycle {cycle} starting&#x27;)
+                    setpoint = setpoints[step_index]
+                    step_start = loop_t0
+                    step_elapsed = 0.0
+                    in_band_since = None
+                    integral = 0.0  # clean step response
+                    phase = &#x27;approach&#x27;
+                    self._event(f&#x27;Step {step_index + 1}/{len(setpoints)}: &#x27;
+                                f&#x27;setpoint -&gt; {setpoint:.0f} C (PID state reset)&#x27;)
+
+                # read temperature + run heat-only PID w/ feedforward
+                temp = get_temperature(self.reactor, sensor_index=0)
+                if not math.isnan(temp) and temp &gt;= ABORT_TEMP:
+                    self._event(f&#x27;ABORT: temperature {temp:.2f} C &gt;= {ABORT_TEMP} C&#x27;)
+                    break
+                if not math.isnan(temp):
+                    error = setpoint - temp
+                    ff = ff_duty(setpoint)
+
+                    # temperature-rate estimate over RATE_WINDOW_S
+                    temp_hist.append((loop_t0, temp))
+                    while temp_hist and loop_t0 - temp_hist[0][0] &gt; RATE_WINDOW_S:
+                        temp_hist.pop(0)
+                    rate = 0.0
+                    if len(temp_hist) &gt;= 2 and \
+                            loop_t0 - temp_hist[0][0] &gt;= PID_PERIOD:
+                        rate = ((temp - temp_hist[0][1]) /
+                                (loop_t0 - temp_hist[0][0]))  # C/s
+
+                    # phase transitions
+                    if phase == &#x27;approach&#x27; and abs(error) &lt;= TRIM_ENTER:
+                        phase = &#x27;trim&#x27;
+                        integral = 0.0
+                    elif phase == &#x27;trim&#x27; and abs(error) &gt; TRIM_EXIT:
+                        phase = &#x27;approach&#x27;
+                        integral = 0.0
+
+                    coasting = False
+                    if phase == &#x27;trim&#x27;:
+                        # continuous low duty around the true balance point —
+                        # the block never charges, so no stored-heat sawtooth
+                        integral += error * PID_PERIOD
+                        i_limit = TRIM_I_CLAMP / TRIM_KI
+                        integral = max(-i_limit, min(i_limit, integral))
+                        output = ff + TRIM_KP * error + TRIM_KI * integral
+                        duty_cmd = max(0.0, min(ff + TRIM_MAX_ABOVE_FF, output))
+                        if error &lt; TRIM_OFF_ERROR:
+                            duty_cmd = 0.0
+                    elif error &lt; -OFF_DEADBAND:
+                        # Above setpoint (approach): peltier hard-off, fridge
+                        # does all downward work.
+                        duty_cmd = 0.0
+                    elif rate &gt; 0 and temp + rate * LOOKAHEAD_S &gt;= setpoint:
+                        # Predictive coast: momentum + heater-block lag will
+                        # carry us to the setpoint — stop heating now.
+                        duty_cmd = 0.0
+                        coasting = True
+                    else:
+                        # conditional integration + clamp (anti-windup)
+                        integral += error * PID_PERIOD
+                        i_limit = I_CLAMP / PID_KI
+                        integral = max(-i_limit, min(i_limit, integral))
+                        output = ff + PID_KP * error + PID_KI * integral
+                        duty_cmd = max(0.0, min(MAX_DUTY, output))
+                        # approach throttle: near setpoint, cap duty just
+                        # above the balance point to curb overshoot from
+                        # sensor/thermal lag
+                        if error &lt; APPROACH_BAND:
+                            duty_cmd = min(duty_cmd, ff + APPROACH_HEADROOM)
+                    if duty_cmd &gt;= MIN_DUTY:
+                        set_peltier_power(self.reactor, duty_cmd, forward=&#x27;heat&#x27;)
+                    else:
+                        stop_peltier(self.reactor)
+                    self.reactor.logger.info(
+                        f&#x27;Heat-only PID [{phase}]: setpoint={setpoint:.2f}C &#x27;
+                        f&#x27;current={temp:.2f}C error={error:+.2f}C &#x27;
+                        f&#x27;rate={rate * 60:+.2f}C/min ff={ff:.1f} &#x27;
+                        f&#x27;duty={duty_cmd:.1f}%&#x27;
+                        f&#x27;{&quot; (coasting)&quot; if coasting else &quot;&quot;}&#x27;)
+
+                pstate = get_peltier_state(self.reactor)
+                if pstate is not None:
+                    duty, forward = pstate
+                    # set_peltier_power maps &#x27;heat&#x27; -&gt; forward=False
+                    direction = &#x27;cool&#x27; if forward else &#x27;heat&#x27;
+                    if duty == 0:
+                        direction = &#x27;off&#x27;
+                else:
+                    duty, direction = float(&#x27;nan&#x27;), &#x27;?&#x27;
+
+                error = setpoint - temp if not math.isnan(temp) else float(&#x27;nan&#x27;)
+
+                # settle tracking
+                in_band = not math.isnan(error) and abs(error) &lt;= SETTLE_BAND
+                if in_band:
+                    if in_band_since is None:
+                        in_band_since = loop_t0
+                        self._event(f&#x27;Entered settle band at {temp:.2f} C &#x27;
+                                    f&#x27;({step_elapsed / 60:.1f} min into step)&#x27;)
+                    settle_txt = (f&#x27;in band {loop_t0 - in_band_since:.0f}&#x27;
+                                  f&#x27;/{SETTLE_TIME:.0f}s&#x27;)
+                else:
+                    if in_band_since is not None:
+                        self._event(f&#x27;Left settle band ({temp:.2f} C)&#x27;)
+                    in_band_since = None
+                    settle_txt = (&#x27;out of band&#x27; if not math.isnan(error)
+                                  else &#x27;no reading&#x27;)
+                if hold_end is not None:
+                    done_min = self.hold_min - max(0.0, hold_end - loop_t0) / 60
+                    settle_txt = (f&#x27;holding {done_min:.1f}/{self.hold_min:.0f} min&#x27;
+                                  + (&#x27;&#x27; if in_band else &#x27; — OUT OF BAND&#x27;))
+
+                writer.writerow([datetime.now().isoformat(timespec=&#x27;seconds&#x27;),
+                                 f&#x27;{elapsed:.1f}&#x27;, f&#x27;{step_elapsed:.1f}&#x27;,
+                                 cycle, step_index, setpoint, f&#x27;{temp:.3f}&#x27;,
+                                 f&#x27;{error:.3f}&#x27;, int(in_band),
+                                 f&#x27;{duty:.1f}&#x27;, direction, phase])
+                csv_file.flush()
+
+                with self.lock:
+                    st = self.state
+                    st[&#x27;status&#x27;] = &#x27;running&#x27;
+                    st[&#x27;temp&#x27;] = temp
+                    st[&#x27;setpoint&#x27;] = setpoint
+                    st[&#x27;error&#x27;] = error
+                    st[&#x27;step_index&#x27;] = step_index
+                    st[&#x27;cycle&#x27;] = cycle
+                    st[&#x27;settle&#x27;] = settle_txt
+                    st[&#x27;step_elapsed&#x27;] = step_elapsed
+                    st[&#x27;elapsed&#x27;] = elapsed
+                    st[&#x27;duty&#x27;] = duty
+                    st[&#x27;direction&#x27;] = direction
+                    st[&#x27;phase&#x27;] = phase
+                    st[&#x27;history&#x27;].append((elapsed, temp, setpoint))
+                    st[&#x27;history&#x27;] = st[&#x27;history&#x27;][-5000:]
+
+                # keep PID period, but stay responsive to stop
+                self._stop.wait(max(0.0, PID_PERIOD - (time.time() - loop_t0)))
+        finally:
+            csv_file.close()
+            self._event(&#x27;Stopping: peltier off, stirrer off&#x27;)
+            self._shutdown_hardware()
+            self._save_plot(csv_path)
+            with self.lock:
+                self.state[&#x27;running&#x27;] = False
+                self.state[&#x27;status&#x27;] = &#x27;stopped&#x27;
+                self.state[&#x27;duty&#x27;] = 0.0
+                self.state[&#x27;direction&#x27;] = &#x27;off&#x27;
+            self._event(f&#x27;Test finished. Data: {csv_path}&#x27;)
+
+    def _save_plot(self, csv_path):
+        &quot;&quot;&quot;Render the run to a PNG next to the CSV.&quot;&quot;&quot;
+        try:
+            with open(csv_path) as f:
+                rows = list(csv.DictReader(f))
+            if len(rows) &lt; 2:
+                return
+            t = [float(r[&#x27;elapsed_s&#x27;]) / 60 for r in rows]
+            temp = [float(r[&#x27;temperature_C&#x27;]) for r in rows]
+            sp = [float(r[&#x27;setpoint_C&#x27;]) for r in rows]
+            duty = [float(r[&#x27;peltier_duty&#x27;]) for r in rows]
+            fig = Figure(figsize=(11, 7), dpi=110)
+            ax1, ax2 = fig.subplots(2, 1, sharex=True,
+                                    height_ratios=[2, 1])
+            ax1.plot(t, temp, &#x27;g-&#x27;, lw=2, label=&#x27;Temperature&#x27;)
+            ax1.step(t, sp, &#x27;r--&#x27;, where=&#x27;post&#x27;, lw=1.5, label=&#x27;Setpoint&#x27;)
+            ax1.axhline(AMBIENT_C, color=&#x27;b&#x27;, ls=&#x27;:&#x27;, lw=1,
+                        label=f&#x27;Fridge ambient ({AMBIENT_C:.0f} °C)&#x27;)
+            ax1.set_ylabel(&#x27;°C&#x27;)
+            ax1.grid(alpha=0.3)
+            ax1.legend(loc=&#x27;upper left&#x27;)
+            ax1.set_title(&#x27;Heat-only temperature step calibration &#x27;
+                          &#x27;(peltier heats, fridge cools)&#x27;)
+            ax2.fill_between(t, duty, 0, color=&#x27;#c33&#x27;, alpha=0.4, step=None)
+            ax2.set_ylabel(&#x27;Heat duty (%)&#x27;)
+            ax2.set_xlabel(&#x27;Elapsed (min)&#x27;)
+            ax2.set_ylim(0, MAX_DUTY + 5)
+            ax2.grid(alpha=0.3)
+            fig.tight_layout()
+            png = csv_path.replace(&#x27;.csv&#x27;, &#x27;.png&#x27;)
+            fig.savefig(png)
+            self._event(f&#x27;Graph saved: {png}&#x27;)
+        except Exception as e:
+            self._event(f&#x27;Plot generation failed: {e}&#x27;)
+
+
+class CalibrationGUI:
+    def __init__(self, root, test, autostart=False):
+        self.root = root
+        self.test = test
+        if test.hold_min is not None:
+            sps = &#x27;/&#x27;.join(f&#x27;{sp:.0f}&#x27; for sp in test.setpoints)
+            root.title(f&#x27;Temperature Hold {&quot;Sweep&quot; if len(test.setpoints) &gt; 1 else &quot;Experiment&quot;}&#x27;
+                       f&#x27; — HEAT-ONLY — {sps} °C, hold {test.hold_min:.0f} min each &#x27;
+                       f&#x27;(settle ±{SETTLE_BAND} °C / {SETTLE_TIME:.0f} s)&#x27;)
+        else:
+            root.title(&#x27;Temperature Step Calibration — HEAT-ONLY (fridge cools) — &#x27;
+                       &#x27;21↔27 C, settle ±0.25 C / 60 s, 20 min cap&#x27;)
+        root.geometry(&#x27;1000x720&#x27;)
+
+        self._build_widgets()
+        self._n_events_shown = 0
+        self._tick()
+        if autostart:
+            self.start()
+
+    # -- layout --
+    def _build_widgets(self):
+        top = tk.Frame(self.root)
+        top.pack(fill=&#x27;x&#x27;, padx=10, pady=8)
+
+        self.temp_label = tk.Label(top, text=&#x27;--.- °C&#x27;,
+                                   font=(&#x27;Helvetica&#x27;, 44, &#x27;bold&#x27;), fg=&#x27;#0a5&#x27;)
+        self.temp_label.pack(side=&#x27;left&#x27;, padx=(0, 30))
+
+        grid = tk.Frame(top)
+        grid.pack(side=&#x27;left&#x27;)
+        self.info = {}
+        fields = [(&#x27;Setpoint&#x27;, &#x27;setpoint&#x27;), (&#x27;Error&#x27;, &#x27;error&#x27;),
+                  (&#x27;Step&#x27;, &#x27;step&#x27;), (&#x27;Cycle&#x27;, &#x27;cycle&#x27;),
+                  (&#x27;Settle&#x27;, &#x27;settle&#x27;), (&#x27;Step time&#x27;, &#x27;step_time&#x27;),
+                  (&#x27;Elapsed&#x27;, &#x27;elapsed&#x27;), (&#x27;Peltier&#x27;, &#x27;peltier&#x27;),
+                  (&#x27;Status&#x27;, &#x27;status&#x27;)]
+        for i, (label, key) in enumerate(fields):
+            r, c = divmod(i, 4)
+            tk.Label(grid, text=f&#x27;{label}:&#x27;, font=(&#x27;Helvetica&#x27;, 11, &#x27;bold&#x27;),
+                     anchor=&#x27;e&#x27;, width=14).grid(row=r, column=c * 2, sticky=&#x27;e&#x27;)
+            val = tk.Label(grid, text=&#x27;—&#x27;, font=(&#x27;Helvetica&#x27;, 11),
+                           anchor=&#x27;w&#x27;, width=16)
+            val.grid(row=r, column=c * 2 + 1, sticky=&#x27;w&#x27;)
+            self.info[key] = val
+
+        # profile strip: highlight active step
+        strip = tk.Frame(self.root)
+        strip.pack(fill=&#x27;x&#x27;, padx=10)
+        tk.Label(strip, text=&#x27;Profile:&#x27;, font=(&#x27;Helvetica&#x27;, 11, &#x27;bold&#x27;)
+                 ).pack(side=&#x27;left&#x27;)
+        self.step_labels = []
+        for sp in self.test.setpoints:
+            lbl = tk.Label(strip, text=f&#x27;{sp:.0f}°C&#x27;, width=6, relief=&#x27;ridge&#x27;,
+                           font=(&#x27;Helvetica&#x27;, 11))
+            lbl.pack(side=&#x27;left&#x27;, padx=2)
+            self.step_labels.append(lbl)
+        suffix = (&#x27;(hold each)&#x27; if self.test.hold_min is not None
+                  else &#x27;(repeats)&#x27;)
+        tk.Label(strip, text=suffix, font=(&#x27;Helvetica&#x27;, 10, &#x27;italic&#x27;)
+                 ).pack(side=&#x27;left&#x27;, padx=6)
+
+        # buttons
+        btns = tk.Frame(self.root)
+        btns.pack(fill=&#x27;x&#x27;, padx=10, pady=6)
+        self.start_btn = tk.Button(btns, text=&#x27;Start&#x27;, width=10, bg=&#x27;#cfc&#x27;,
+                                   command=self.start)
+        self.start_btn.pack(side=&#x27;left&#x27;, padx=4)
+        self.stop_btn = tk.Button(btns, text=&#x27;Stop&#x27;, width=10, bg=&#x27;#fcc&#x27;,
+                                  command=self.stop, state=&#x27;disabled&#x27;)
+        self.stop_btn.pack(side=&#x27;left&#x27;, padx=4)
+        self.csv_label = tk.Label(btns, text=&#x27;&#x27;, font=(&#x27;Helvetica&#x27;, 9), fg=&#x27;#555&#x27;)
+        self.csv_label.pack(side=&#x27;left&#x27;, padx=12)
+
+        # live plot
+        fig = Figure(figsize=(9.5, 3.6), dpi=100)
+        self.ax = fig.add_subplot(111)
+        self.ax.set_xlabel(&#x27;Elapsed (min)&#x27;)
+        self.ax.set_ylabel(&#x27;Temperature (°C)&#x27;)
+        self.ax.grid(True, alpha=0.3)
+        (self.temp_line,) = self.ax.plot([], [], &#x27;g-&#x27;, lw=2, label=&#x27;Temperature&#x27;)
+        (self.sp_line,) = self.ax.plot([], [], &#x27;r--&#x27;, lw=1.5, label=&#x27;Setpoint&#x27;,
+                                       drawstyle=&#x27;steps-post&#x27;)
+        self.ax.legend(loc=&#x27;upper left&#x27;)
+        self.canvas = FigureCanvasTkAgg(fig, master=self.root)
+        self.canvas.get_tk_widget().pack(fill=&#x27;both&#x27;, expand=True, padx=10)
+
+        # event log
+        logf = tk.Frame(self.root)
+        logf.pack(fill=&#x27;x&#x27;, padx=10, pady=(4, 8))
+        self.log = tk.Text(logf, height=7, font=(&#x27;Courier&#x27;, 9), state=&#x27;disabled&#x27;)
+        sb = ttk.Scrollbar(logf, command=self.log.yview)
+        self.log.configure(yscrollcommand=sb.set)
+        sb.pack(side=&#x27;right&#x27;, fill=&#x27;y&#x27;)
+        self.log.pack(fill=&#x27;x&#x27;, expand=True)
+
+    # -- actions --
+    def start(self):
+        self.test.start()
+        self.start_btn.config(state=&#x27;disabled&#x27;)
+        self.stop_btn.config(state=&#x27;normal&#x27;)
+
+    def stop(self):
+        self.test.stop()
+        self.stop_btn.config(state=&#x27;disabled&#x27;)
+
+    def on_closing(self):
+        snap = self.test.snapshot()
+        if snap[&#x27;running&#x27;]:
+            if not messagebox.askokcancel(
+                    &#x27;Quit&#x27;, &#x27;Test is running. Stop hardware and quit?&#x27;):
+                return
+            self.test.stop()
+            deadline = time.time() + 10
+            while self.test.snapshot()[&#x27;running&#x27;] and time.time() &lt; deadline:
+                time.sleep(0.2)
+        self.root.destroy()
+
+    # -- periodic refresh --
+    def _tick(self):
+        s = self.test.snapshot()
+
+        t = s[&#x27;temp&#x27;]
+        self.temp_label.config(text=&#x27;--.- °C&#x27; if math.isnan(t)
+                               else f&#x27;{t:.2f} °C&#x27;)
+        self.info[&#x27;setpoint&#x27;].config(text=f&quot;{s[&#x27;setpoint&#x27;]:.1f} °C&quot;)
+        self.info[&#x27;error&#x27;].config(
+            text=&#x27;—&#x27; if math.isnan(s[&#x27;error&#x27;]) else f&quot;{s[&#x27;error&#x27;]:+.2f} °C&quot;)
+        self.info[&#x27;step&#x27;].config(
+            text=f&quot;{s[&#x27;step_index&#x27;] + 1}/{len(self.test.setpoints)}&quot;)
+        self.info[&#x27;cycle&#x27;].config(text=str(s[&#x27;cycle&#x27;]))
+        self.info[&#x27;settle&#x27;].config(text=s[&#x27;settle&#x27;])
+        self.info[&#x27;step_time&#x27;].config(
+            text=f&quot;{int(s[&#x27;step_elapsed&#x27;] // 60)}:{int(s[&#x27;step_elapsed&#x27;] % 60):02d}&quot;
+                 f&quot; / {int(STEP_TIMEOUT // 60)}:00&quot;)
+        self.info[&#x27;elapsed&#x27;].config(
+            text=f&quot;{int(s[&#x27;elapsed&#x27;] // 60)}:{int(s[&#x27;elapsed&#x27;] % 60):02d}&quot;)
+        duty = s[&#x27;duty&#x27;]
+        self.info[&#x27;peltier&#x27;].config(
+            text=&#x27;—&#x27; if isinstance(duty, float) and math.isnan(duty)
+            else f&quot;{duty:.0f}% {s[&#x27;direction&#x27;]} ({s.get(&#x27;phase&#x27;, &#x27;-&#x27;)})&quot;)
+        self.info[&#x27;status&#x27;].config(text=s[&#x27;status&#x27;])
+
+        for i, lbl in enumerate(self.step_labels):
+            active = s[&#x27;running&#x27;] and i == s[&#x27;step_index&#x27;]
+            lbl.config(bg=&#x27;#ffd966&#x27; if active else self.root.cget(&#x27;bg&#x27;),
+                       font=(&#x27;Helvetica&#x27;, 11, &#x27;bold&#x27; if active else &#x27;normal&#x27;))
+
+        if s[&#x27;csv_path&#x27;]:
+            self.csv_label.config(text=f&quot;CSV: {s[&#x27;csv_path&#x27;]}&quot;)
+
+        if s[&#x27;history&#x27;]:
+            xs = [p[0] / 60.0 for p in s[&#x27;history&#x27;]]
+            temps = [p[1] for p in s[&#x27;history&#x27;]]
+            sps = [p[2] for p in s[&#x27;history&#x27;]]
+            self.temp_line.set_data(xs, temps)
+            self.sp_line.set_data(xs, sps)
+            self.ax.relim()
+            self.ax.autoscale_view()
+            self.canvas.draw_idle()
+
+        if len(s[&#x27;events&#x27;]) &gt; self._n_events_shown:
+            self.log.config(state=&#x27;normal&#x27;)
+            for line in s[&#x27;events&#x27;][self._n_events_shown:]:
+                self.log.insert(&#x27;end&#x27;, line + &#x27;\n&#x27;)
+            self.log.see(&#x27;end&#x27;)
+            self.log.config(state=&#x27;disabled&#x27;)
+            self._n_events_shown = len(s[&#x27;events&#x27;])
+
+        if not s[&#x27;running&#x27;] and s[&#x27;status&#x27;] in (&#x27;stopped&#x27;, &#x27;init failed&#x27;):
+            self.start_btn.config(state=&#x27;normal&#x27;)
+            self.stop_btn.config(state=&#x27;disabled&#x27;)
+
+        self.root.after(1000, self._tick)
+
+
+if __name__ == &#x27;__main__&#x27;:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(&#x27;--autostart&#x27;, action=&#x27;store_true&#x27;,
+                        help=&#x27;begin the test immediately on launch&#x27;)
+    parser.add_argument(&#x27;--hold&#x27;, type=float, default=None, metavar=&#x27;TEMP_C&#x27;,
+                        help=&#x27;hold experiment: reach TEMP_C, settle, hold, stop&#x27;)
+    parser.add_argument(&#x27;--sweep&#x27;, action=&#x27;store_true&#x27;,
+                        help=&#x27;hold sweep: settle + hold at 21/23/25/27 C, then stop&#x27;)
+    parser.add_argument(&#x27;--hold-min&#x27;, type=float, default=10.0,
+                        help=&#x27;hold duration in minutes (default 10)&#x27;)
+    args = parser.parse_args()
+
+    if args.hold is not None:
+        test = TempStepTest(setpoints=[args.hold], hold_min=args.hold_min,
+                            single_pass=True)
+    elif args.sweep:
+        test = TempStepTest(setpoints=[21.0, 23.0, 25.0, 27.0],
+                            hold_min=args.hold_min, single_pass=True)
+    else:
+        test = TempStepTest()
+
+    root = tk.Tk()
+    app = CalibrationGUI(root, test, autostart=args.autostart)
+    root.protocol(&#x27;WM_DELETE_WINDOW&#x27;, app.on_closing)
+    root.mainloop()
+</code></pre>
+    
+  </div>
+
+  <p class="post-perma"><a href="../lab.html">&laquo; Back to the lab</a></p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

@@ -178,58 +178,102 @@
   ],
   "hacker_news": [
     {
+      "slug": "youre-a-slow-thinker-now-what",
+      "date": "2025-09-10",
+      "points": 557,
+      "comments": 238,
+      "hn_id": "45204587"
+    },
+    {
       "slug": "the-entropy-of-a-markov-chain",
       "date": "2026-08-05",
       "points": 146,
-      "comments": 15
+      "comments": 15,
+      "hn_id": "49183017"
     },
     {
       "slug": "i-made-a-quieter-air-purifier",
       "date": "2025-11-24",
       "points": 131,
-      "comments": 65
+      "comments": 65,
+      "hn_id": "46039594"
     },
     {
       "slug": "results-from-blasting-yeast-with",
       "date": "2025-11-12",
       "points": 82,
-      "comments": 26
+      "comments": 26,
+      "hn_id": "45904161"
     },
     {
       "slug": "measuring-my-diy-air-purifier",
       "date": "2025-09-27",
       "points": 75,
-      "comments": 11
+      "comments": 11,
+      "hn_id": "45400114"
     },
     {
       "slug": "noise-cancelling-a-fan",
       "date": "2025-09-15",
       "points": 74,
-      "comments": 84
+      "comments": 84,
+      "hn_id": "45255004"
     },
     {
       "slug": "frying-eggs-and-air-quality-tests",
       "date": "2025-09-16",
       "points": 72,
-      "comments": 142
+      "comments": 142,
+      "hn_id": "45268293"
     },
     {
       "slug": "testing-a-cheaper-laminar-flow-hood",
       "date": "2025-12-12",
       "points": 64,
-      "comments": 17
+      "comments": 17,
+      "hn_id": "46248627"
+    },
+    {
+      "slug": "liesegang-rings",
+      "date": "2026-09-09",
+      "points": 50,
+      "comments": 5,
+      "hn_id": "49626110"
     },
     {
       "slug": "computational-chemistry-locally",
       "date": "2026-07-21",
       "points": 42,
-      "comments": 43
+      "comments": 43,
+      "hn_id": "48996119"
+    },
+    {
+      "slug": "a-new-experiment-meta-strategy",
+      "date": "2026-09-25",
+      "points": 34,
+      "comments": 1,
+      "hn_id": "49844266"
     },
     {
       "slug": "i-managed-to-grow-countable-yeast",
       "date": "2025-10-14",
       "points": 32,
-      "comments": 12
+      "comments": 12,
+      "hn_id": "45584500"
+    },
+    {
+      "slug": "coulombs-law-remains-tricky-to-test",
+      "date": "2026-09-22",
+      "points": 29,
+      "comments": 23,
+      "hn_id": "49800557"
+    },
+    {
+      "slug": "fluid-dynamics-for-toddlers",
+      "date": "2026-04-23",
+      "points": 12,
+      "comments": 0,
+      "hn_id": "47882565"
     }
   ]
 }

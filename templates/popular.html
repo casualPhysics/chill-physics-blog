@@ -19,7 +19,7 @@
       <span class="popular-count" title="{{ post.likes }} likes, {{ post.comments }} comments on Substack">&hearts;&nbsp;{{ post.likes }}</span>
       <a href="{{ post.canonical_url }}">{{ post.title }}</a>
       {% if post.subtitle %}<span class="archive-subtitle"> &mdash; {{ post.subtitle }}</span>{% endif %}
-      {% if post.hn %}<span class="popular-hn" title="{{ post.hn.points }} points, {{ post.hn.comments }} comments on Hacker News, {{ post.hn.date }}">&#9650; {{ post.hn.points }} HN &middot; {{ post.hn.comments }} comments</span>{% endif %}
+      {% if post.hn %}<span class="popular-hn" title="{{ post.hn.points }} points, {{ post.hn.comments }} comments on Hacker News, {{ post.hn.date }}"><a href="https://news.ycombinator.com/item?id={{ post.hn.hn_id }}">&#9650; {{ post.hn.points }} HN &middot; {{ post.hn.comments }} comments</a></span>{% endif %}
       <span class="popular-date">{{ post.date_human }}</span>
     </li>
     {% endfor %}
@@ -35,7 +35,7 @@
     <li>
       <span class="popular-count" title="{{ h.points }} points, {{ h.comments }} comments on Hacker News">&#9650;&nbsp;{{ h.points }}</span>
       <a href="{{ h.canonical_url }}">{{ h.title }}</a>
-      <span class="archive-subtitle"> &mdash; {{ h.comments }} HN comments, &hearts; {{ h.likes }} on Substack</span>
+      <span class="archive-subtitle"> &mdash; <a href="https://news.ycombinator.com/item?id={{ h.hn_id }}">{{ h.comments }} HN comments</a>, &hearts; {{ h.likes }} on Substack</span>
       <span class="popular-date">{{ h.date_human }}</span>
     </li>
     {% endfor %}

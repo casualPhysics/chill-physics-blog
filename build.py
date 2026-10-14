@@ -207,6 +207,7 @@ def build_popular(env, posts, by_year_sorted, css_version):
     stats_doc = json.loads(STATS.read_text()) if STATS.exists() else {"posts": {}}
     stats = stats_doc.get("posts", {})
     by_slug = {p["slug"]: p for p in posts}
+    hn_by_slug = {h["slug"]: h for h in cur.get("hacker_news", [])}
 
     def enrich(slug):
         p = by_slug.get(slug)
@@ -214,7 +215,8 @@ def build_popular(env, posts, by_year_sorted, css_version):
             print(f"  popular: unknown slug {slug!r}, skipped")
             return None
         st = stats.get(slug, {})
-        return {**p, "likes": st.get("likes", 0), "comments": st.get("comments", 0)}
+        return {**p, "likes": st.get("likes", 0), "comments": st.get("comments", 0),
+                "hn": hn_by_slug.get(slug)}
 
     categories = []
     for cat in cur["categories"]:
@@ -227,7 +229,9 @@ def build_popular(env, posts, by_year_sorted, css_version):
             "posts": items,
             "total_likes": sum(x["likes"] for x in items),
         })
-    categories.sort(key=lambda c: -c["total_likes"])
+    first = cur.get("first", [])
+    categories.sort(key=lambda c: (first.index(c["title"]) if c["title"] in first
+                                   else len(first), -c["total_likes"]))
 
     hn = []
     for h in cur.get("hacker_news", []):
@@ -235,7 +239,9 @@ def build_popular(env, posts, by_year_sorted, css_version):
         if p is None:
             continue
         d = datetime.fromisoformat(h["date"])
-        hn.append({**h, "title": p["title"], "date_human": d.strftime("%-d %B %Y")})
+        st = stats.get(h["slug"], {})
+        hn.append({**h, "title": p["title"], "date_human": d.strftime("%-d %B %Y"),
+                   "likes": st.get("likes", 0), "sub_comments": st.get("comments", 0)})
     hn.sort(key=lambda h: -h["points"])
 
     fetched = stats_doc.get("fetched")
@@ -244,7 +250,8 @@ def build_popular(env, posts, by_year_sorted, css_version):
     (SITE / "popular.html").write_text(env.get_template("popular.html").render(
         categories=categories, hacker_news=hn,
         total=sum(len(c["posts"]) for c in categories), fetched=fetched_human,
-        nav_years=by_year_sorted, css_version=css_version, active_slug=None, root="",
+        nav_years=by_year_sorted, no_sidebar=True,
+        css_version=css_version, active_slug=None, root="",
     ))
     print(f"Built popular page: {len(categories)} categories, {len(hn)} HN posts")
 

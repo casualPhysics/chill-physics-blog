@@ -53,6 +53,13 @@ a:hover {
   column-gap: 3rem;
   justify-content: center;
 }
+.site.no-sidebar {
+  grid-template-columns: minmax(0, var(--max));
+  grid-template-areas:
+    "header"
+    "content"
+    "footer";
+}
 .site-header { grid-area: header; }
 .sidebar     { grid-area: sidebar; }
 .content     { grid-area: content; }
@@ -407,6 +414,20 @@ a:hover {
   padding-left: 3.6rem;
   text-indent: -3.6rem;
 }
+.popular-hn {
+  text-indent: 0;
+  display: inline-block;
+  margin-left: 0.4rem;
+  padding: 0 0.35rem;
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  color: var(--muted);
+  font-size: 0.75rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  vertical-align: 0.05em;
+}
+.popular-hn a { color: inherit; border-bottom: none; }
 .popular-count {
   display: inline-block;
   width: 3.6rem;

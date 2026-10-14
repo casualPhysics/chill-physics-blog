@@ -2,7 +2,12 @@
   "_comment": "Categories follow the headings in the vault essay 'On what the independent science society does'. Posts inside each category are sorted by Substack likes at build time; categories are sorted by their total likes. Edit this file to recategorise; run scraper/stats.py to refresh counts. Categories named in 'first' are pinned to the top in that order; the rest follow by total likes.",
   "first": [
     "Independent science",
-    "Experiments at home"
+    "Experiments at home",
+    "Physics and dynamics",
+    "Theories of biology",
+    "Experimental technique and equipment",
+    "Mathematics",
+    "Writing and communicating science"
   ],
   "categories": [
     {

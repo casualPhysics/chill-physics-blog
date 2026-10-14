@@ -3,7 +3,6 @@
 {% block content %}
 
 <h2 class="page-title">Popular</h2>
-<p class="page-blurb">{{ total }} posts organised by topic. Within each topic the most-liked posts come first. &hearts; is Substack likes (refreshed {{ fetched }}); &#9650; is Hacker News points.</p>
 
 <nav class="popular-toc">
   {% for cat in categories %}<a href="#{{ cat.anchor }}">{{ cat.title }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}

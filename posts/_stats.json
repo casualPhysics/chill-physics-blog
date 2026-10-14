@@ -1,0 +1,1110 @@
+{
+ "fetched": "2026-10-14",
+ "posts": {
+  "20-references-in-complexity-theory": {
+   "comments": 2,
+   "likes": 12,
+   "restacks": 1
+  },
+  "a-big-board-of-open-sourceable-science": {
+   "comments": 9,
+   "likes": 20,
+   "restacks": 1
+  },
+  "a-dinner-on-what-it-means-to-write": {
+   "comments": 0,
+   "likes": 15,
+   "restacks": 1
+  },
+  "a-diy-temperature-controlled-incubator": {
+   "comments": 0,
+   "likes": 3,
+   "restacks": 0
+  },
+  "a-draft-of-some-start-up-ideas": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "a-list-of-problems-in-many-electron-systems": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "a-new-experiment-meta-strategy": {
+   "comments": 1,
+   "likes": 12,
+   "restacks": 1
+  },
+  "a-quantum-mechanics-problem-on-a": {
+   "comments": 0,
+   "likes": 5,
+   "restacks": 0
+  },
+  "a-thermodynamics-for-biology": {
+   "comments": 0,
+   "likes": 19,
+   "restacks": 5
+  },
+  "a-two-tier-model-of-optimal-career": {
+   "comments": 1,
+   "likes": 5,
+   "restacks": 0
+  },
+  "a-war-in-the-lake-district": {
+   "comments": 0,
+   "likes": 10,
+   "restacks": 0
+  },
+  "ai-agents-to-organise-my-secret-societys": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 0
+  },
+  "ai-is-not-going-to-kill-my-love-of": {
+   "comments": 2,
+   "likes": 24,
+   "restacks": 5
+  },
+  "an-agentic-home-bioreactor": {
+   "comments": 0,
+   "likes": 26,
+   "restacks": 2
+  },
+  "an-unfair-model-is-quite-easy-to-make": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "autonomous-buying-of-experiment-equipment": {
+   "comments": 2,
+   "likes": 9,
+   "restacks": 0
+  },
+  "bad-productivity-frameworks": {
+   "comments": 6,
+   "likes": 19,
+   "restacks": 6
+  },
+  "being-maximally-useful-whilst-commuting": {
+   "comments": 2,
+   "likes": 16,
+   "restacks": 0
+  },
+  "being-political-in-the-right-way": {
+   "comments": 0,
+   "likes": 12,
+   "restacks": 0
+  },
+  "better-temperature-control-of-algae": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "bio-theory-lab-notes": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "biology-as-clockwork": {
+   "comments": 2,
+   "likes": 13,
+   "restacks": 1
+  },
+  "buyin-and-tryin-an-elastomeric-respirator": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 0
+  },
+  "calculations-for-practical-heuristics": {
+   "comments": 1,
+   "likes": 3,
+   "restacks": 0
+  },
+  "calibrating-myself-through-science": {
+   "comments": 3,
+   "likes": 4,
+   "restacks": 5
+  },
+  "can-i-use-air-pressure-to-protect": {
+   "comments": 0,
+   "likes": 11,
+   "restacks": 0
+  },
+  "changing-our-frame-to-make-things-easier": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "characterising-a-cheap-water-bath": {
+   "comments": 1,
+   "likes": 6,
+   "restacks": 0
+  },
+  "cheating-nashs-game-theory-with-quantum-mechanics": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "chicken-curry-piece-by-piece": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "compulsion-as-a-tool": {
+   "comments": 1,
+   "likes": 9,
+   "restacks": 2
+  },
+  "computational-chemistry-locally": {
+   "comments": 0,
+   "likes": 13,
+   "restacks": 0
+  },
+  "computing-properties-of-molecules": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 0
+  },
+  "conquering-the-molecules": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 3
+  },
+  "contents": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "cool-physics-stuff-i-attempted-today": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "coulombs-law-remains-tricky-to-test": {
+   "comments": 7,
+   "likes": 15,
+   "restacks": 2
+  },
+  "culturing-yeast-for-independent-science": {
+   "comments": 6,
+   "likes": 8,
+   "restacks": 1
+  },
+  "cycling-the-west-country": {
+   "comments": 8,
+   "likes": 10,
+   "restacks": 0
+  },
+  "daily-readings": {
+   "comments": 0,
+   "likes": 2,
+   "restacks": 0
+  },
+  "dear-friends-and-readers-please-help": {
+   "comments": 6,
+   "likes": 6,
+   "restacks": 1
+  },
+  "density-functional-theory": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "did-i-just-make-quantum-dots": {
+   "comments": 2,
+   "likes": 13,
+   "restacks": 1
+  },
+  "diffie-hellman-key-exchange": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "dirt-cheap-holidays": {
+   "comments": 3,
+   "likes": 21,
+   "restacks": 1
+  },
+  "diy-positive-pressure-build-log": {
+   "comments": 2,
+   "likes": 7,
+   "restacks": 0
+  },
+  "do-anything-in-20-minutes": {
+   "comments": 0,
+   "likes": 24,
+   "restacks": 1
+  },
+  "do-i-want-to-be-excellent": {
+   "comments": 3,
+   "likes": 17,
+   "restacks": 4
+  },
+  "do-not-plan": {
+   "comments": 5,
+   "likes": 31,
+   "restacks": 2
+  },
+  "do-physics-but-learn-history": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 1
+  },
+  "do-you-actually-hate-it": {
+   "comments": 2,
+   "likes": 14,
+   "restacks": 1
+  },
+  "dont-agree-to-things-too-easily": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "dont-chase-it": {
+   "comments": 1,
+   "likes": 10,
+   "restacks": 5
+  },
+  "equilibrium-points-in-dysons-toy": {
+   "comments": 1,
+   "likes": 5,
+   "restacks": 0
+  },
+  "essential-physics-for-the-solar-entrepreneur": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "evidence-that-shrouds-increase-cr": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "excerpts": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 0
+  },
+  "existential-risk-and-the-offence-defence-balance": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "experiments-for-the-independent-science": {
+   "comments": 3,
+   "likes": 13,
+   "restacks": 2
+  },
+  "explaining-quantum-degeneracy": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "finding": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "fluid-dynamics-for-toddlers": {
+   "comments": 4,
+   "likes": 44,
+   "restacks": 7
+  },
+  "for-here-too-gods-dwell": {
+   "comments": 0,
+   "likes": 17,
+   "restacks": 2
+  },
+  "freeman-dysons-model-of-a-cell": {
+   "comments": 3,
+   "likes": 13,
+   "restacks": 3
+  },
+  "from-reversibility-to-irreversibility": {
+   "comments": 3,
+   "likes": 22,
+   "restacks": 1
+  },
+  "frying-eggs-and-air-quality-tests": {
+   "comments": 21,
+   "likes": 15,
+   "restacks": 1
+  },
+  "geometry-as-the-theatre-of-physics": {
+   "comments": 0,
+   "likes": 2,
+   "restacks": 0
+  },
+  "how-can-i-make-useful-knowledge": {
+   "comments": 6,
+   "likes": 19,
+   "restacks": 3
+  },
+  "how-do-i-achieve-what-i-want": {
+   "comments": 1,
+   "likes": 12,
+   "restacks": 3
+  },
+  "how-do-loops-change-physics": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "how-do-physicists-understand-the-different-phases-of-matter": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "how-do-we-write-science": {
+   "comments": 1,
+   "likes": 11,
+   "restacks": 2
+  },
+  "how-i-fixed-my-headaches": {
+   "comments": 3,
+   "likes": 17,
+   "restacks": 0
+  },
+  "how-life-works-by-philip-ball": {
+   "comments": 0,
+   "likes": 8,
+   "restacks": 2
+  },
+  "how-my-life-changes": {
+   "comments": 2,
+   "likes": 19,
+   "restacks": 0
+  },
+  "how-to-easily-keep-something-alive": {
+   "comments": 3,
+   "likes": 24,
+   "restacks": 1
+  },
+  "how-to-find-time-to-do-science": {
+   "comments": 2,
+   "likes": 26,
+   "restacks": 0
+  },
+  "how-to-get-cheaper-lab-equipment": {
+   "comments": 0,
+   "likes": 21,
+   "restacks": 2
+  },
+  "how-to-make-more-friends": {
+   "comments": 2,
+   "likes": 23,
+   "restacks": 1
+  },
+  "how-to-read-something": {
+   "comments": 1,
+   "likes": 20,
+   "restacks": 1
+  },
+  "how-to-start-modelling-airflow-ventilation": {
+   "comments": 2,
+   "likes": 4,
+   "restacks": 1
+  },
+  "how-to-think-about-dynamic-systems": {
+   "comments": 0,
+   "likes": 16,
+   "restacks": 0
+  },
+  "how-to-write-better": {
+   "comments": 0,
+   "likes": 31,
+   "restacks": 1
+  },
+  "how-would-an-intelligent-system-do": {
+   "comments": 5,
+   "likes": 8,
+   "restacks": 0
+  },
+  "hydrogen-and-its-mysterious-energies": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "i-made-a-cheaper-way-to-test-ventilation": {
+   "comments": 6,
+   "likes": 8,
+   "restacks": 2
+  },
+  "i-made-a-quieter-air-purifier": {
+   "comments": 2,
+   "likes": 22,
+   "restacks": 1
+  },
+  "i-managed-to-grow-countable-yeast": {
+   "comments": 0,
+   "likes": 15,
+   "restacks": 2
+  },
+  "i-observed-some-brownian-motion-at": {
+   "comments": 3,
+   "likes": 14,
+   "restacks": 1
+  },
+  "i-possibly-resolved-a-conjecture": {
+   "comments": 0,
+   "likes": 18,
+   "restacks": 2
+  },
+  "i-want-to-do-experiments-but-its": {
+   "comments": 5,
+   "likes": 22,
+   "restacks": 3
+  },
+  "if-its-not-obvious-it-probably-isnt": {
+   "comments": 3,
+   "likes": 26,
+   "restacks": 1
+  },
+  "improved-tracking-of-brownian-milk": {
+   "comments": 1,
+   "likes": 6,
+   "restacks": 0
+  },
+  "in-memoriam": {
+   "comments": 2,
+   "likes": 13,
+   "restacks": 0
+  },
+  "its-hard-to-know-if-i-suck-at-writing": {
+   "comments": 3,
+   "likes": 9,
+   "restacks": 1
+  },
+  "its-ok-to-be-scared": {
+   "comments": 1,
+   "likes": 19,
+   "restacks": 0
+  },
+  "johnson-noise-rig-full-chat-transcript": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "join-the-independent-science-society": {
+   "comments": 3,
+   "likes": 22,
+   "restacks": 3
+  },
+  "just-get-a-partial-fix-and-move-on": {
+   "comments": 3,
+   "likes": 11,
+   "restacks": 0
+  },
+  "kew-gardens-turbulence-statistical": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "lean-for-checking-my-math": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "lets-not-rawdog-the-next-plague": {
+   "comments": 1,
+   "likes": 2,
+   "restacks": 1
+  },
+  "liesegang-rings": {
+   "comments": 1,
+   "likes": 8,
+   "restacks": 1
+  },
+  "liesegang-rings-experiment-update": {
+   "comments": 0,
+   "likes": 5,
+   "restacks": 0
+  },
+  "london-and-the-country": {
+   "comments": 1,
+   "likes": 9,
+   "restacks": 0
+  },
+  "love-isnt-physics-but-popular-advice": {
+   "comments": 2,
+   "likes": 20,
+   "restacks": 2
+  },
+  "macos-ssh-file-system-sshfs": {
+   "comments": 1,
+   "likes": 5,
+   "restacks": 0
+  },
+  "making-an-automated-uv-sterilisation": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 1
+  },
+  "making-rayleigh-benard-convection": {
+   "comments": 0,
+   "likes": 9,
+   "restacks": 0
+  },
+  "math-for-cleaning-air": {
+   "comments": 2,
+   "likes": 5,
+   "restacks": 0
+  },
+  "measuring-disorder-and-complexity": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "measuring-milk-globule-sizes": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 0
+  },
+  "measuring-my-diy-air-purifier": {
+   "comments": 7,
+   "likes": 7,
+   "restacks": 0
+  },
+  "minimal-assumptions-for-societal": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "more-thoughts-on-space-solar-energy": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "my-uv-experiment-worked": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "noethers-theorem-and-the-principle-of-least-action": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "noise-cancelling-a-fan": {
+   "comments": 16,
+   "likes": 22,
+   "restacks": 1
+  },
+  "non-equilibrium-statistical-mechanics": {
+   "comments": 2,
+   "likes": 13,
+   "restacks": 1
+  },
+  "oberreiter-seifert-and-baratos-conjecture": {
+   "comments": 0,
+   "likes": 10,
+   "restacks": 0
+  },
+  "on-a-tube-of-hot-gas": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 0
+  },
+  "on-good-writing": {
+   "comments": 0,
+   "likes": 10,
+   "restacks": 4
+  },
+  "on-reduction-to-the-table-top": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "phase-transitions-in-the-checkerboard-state": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "physics-departments-are-shutting": {
+   "comments": 2,
+   "likes": 16,
+   "restacks": 3
+  },
+  "physics-diaries-2": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "posting-more-of-my-thoughts": {
+   "comments": 3,
+   "likes": 9,
+   "restacks": 0
+  },
+  "ppe-stockpile-degradation": {
+   "comments": 2,
+   "likes": 5,
+   "restacks": 0
+  },
+  "preliminary-thoughts-on-solar-cell": {
+   "comments": 0,
+   "likes": 3,
+   "restacks": 0
+  },
+  "preparing-algae-for-experiments-at": {
+   "comments": 1,
+   "likes": 4,
+   "restacks": 0
+  },
+  "problems-come-from-dumb-questions": {
+   "comments": 1,
+   "likes": 2,
+   "restacks": 0
+  },
+  "problems-trying-to-model-far-uvc": {
+   "comments": 2,
+   "likes": 4,
+   "restacks": 0
+  },
+  "pursuing-physics-research-part-time": {
+   "comments": 7,
+   "likes": 43,
+   "restacks": 7
+  },
+  "quantifying-wants-for-better-outcomes": {
+   "comments": 1,
+   "likes": 1,
+   "restacks": 0
+  },
+  "questions-on-early-cell-membranes": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 0
+  },
+  "redshift-from-massive-objects": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "reforming-ukri-eligibility-rules": {
+   "comments": 0,
+   "likes": 5,
+   "restacks": 1
+  },
+  "results-from-blasting-yeast-with": {
+   "comments": 2,
+   "likes": 10,
+   "restacks": 1
+  },
+  "safety-and-danger": {
+   "comments": 0,
+   "likes": 8,
+   "restacks": 0
+  },
+  "scientists-will-become-data-harvesters": {
+   "comments": 2,
+   "likes": 8,
+   "restacks": 1
+  },
+  "sealing-my-house-against-pathogens": {
+   "comments": 0,
+   "likes": 8,
+   "restacks": 0
+  },
+  "selecting-good-problems-as-a-part": {
+   "comments": 0,
+   "likes": 3,
+   "restacks": 0
+  },
+  "slippage-in-automated-market-makers": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "slow-down": {
+   "comments": 5,
+   "likes": 52,
+   "restacks": 9
+  },
+  "small-sample-bias-and-data-ethics": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "sneeze-for-the-camera-baby": {
+   "comments": 0,
+   "likes": 4,
+   "restacks": 0
+  },
+  "so-i-got-an-eeg": {
+   "comments": 2,
+   "likes": 16,
+   "restacks": 1
+  },
+  "so-my-friend-made-me-a-bioreactor": {
+   "comments": 8,
+   "likes": 36,
+   "restacks": 5
+  },
+  "solar-energy-from-the-sahara": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "some-thoughts-on-solving-electrodynamics-problems": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "starting-to-clean-my-shack-of-a-lab": {
+   "comments": 2,
+   "likes": 4,
+   "restacks": 0
+  },
+  "steady-states-in-dysons-theory-of": {
+   "comments": 1,
+   "likes": 2,
+   "restacks": 1
+  },
+  "suggested-experiment-equipment": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "taming-infinities-why-is-it-possible-to-do-physics-at-all": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "teaching-cambridge-level-math-at": {
+   "comments": 3,
+   "likes": 25,
+   "restacks": 2
+  },
+  "tediousness-is-good": {
+   "comments": 0,
+   "likes": 13,
+   "restacks": 4
+  },
+  "testing-a-cheaper-laminar-flow-hood": {
+   "comments": 1,
+   "likes": 15,
+   "restacks": 2
+  },
+  "the-baffling-differences-between-classical-and-quantum-mechanics": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "the-best-town-ive-been-to": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 0
+  },
+  "the-economics-of-intergalactic-trade-part-i": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "the-energy-of-an-electron-hopping-model": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "the-entropy-of-a-markov-chain": {
+   "comments": 4,
+   "likes": 26,
+   "restacks": 0
+  },
+  "the-ideas-factory": {
+   "comments": 2,
+   "likes": 8,
+   "restacks": 0
+  },
+  "the-independent-science-society-review": {
+   "comments": 5,
+   "likes": 14,
+   "restacks": 4
+  },
+  "the-man-i-want-to-meet-the-most": {
+   "comments": 1,
+   "likes": 19,
+   "restacks": 0
+  },
+  "the-pain-of-finding-the-truth": {
+   "comments": 0,
+   "likes": 9,
+   "restacks": 0
+  },
+  "the-particle-comes-alive": {
+   "comments": 4,
+   "likes": 21,
+   "restacks": 3
+  },
+  "the-professor-and-the-plumber": {
+   "comments": 0,
+   "likes": 10,
+   "restacks": 0
+  },
+  "the-questions-i-always-think-about": {
+   "comments": 3,
+   "likes": 12,
+   "restacks": 0
+  },
+  "the-triumph-of-the-embryo": {
+   "comments": 0,
+   "likes": 12,
+   "restacks": 1
+  },
+  "the-viability-of-space-solar-energy": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "the-wonderful-math-that-powers-disneys-animationwhere-physics-computer-science-and-art-come-together": {
+   "comments": 0,
+   "likes": 5,
+   "restacks": 0
+  },
+  "the-world-needs-replicators": {
+   "comments": 0,
+   "likes": 8,
+   "restacks": 0
+  },
+  "thought-blobs-on-biosecurity-topics": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "thoughts-on-gravitational-fields-around-shells": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "three-skills-of-virtue": {
+   "comments": 2,
+   "likes": 2,
+   "restacks": 0
+  },
+  "time-crystals": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "tolerating-confusion": {
+   "comments": 1,
+   "likes": 15,
+   "restacks": 0
+  },
+  "try-these-biosecurity-projects-in": {
+   "comments": 3,
+   "likes": 11,
+   "restacks": 0
+  },
+  "try-to-prove-math-with-computers": {
+   "comments": 1,
+   "likes": 9,
+   "restacks": 0
+  },
+  "trying-to-make-a-cheaper-air-purifier": {
+   "comments": 0,
+   "likes": 8,
+   "restacks": 0
+  },
+  "trying-to-make-an-automated-ecologist": {
+   "comments": 3,
+   "likes": 6,
+   "restacks": 0
+  },
+  "trying-to-observe-convection-plumes": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 0
+  },
+  "turning-my-passion-into-a-job-was": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled-2": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled-3": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled-5": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled-6": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled-7": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "untitled-9": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "using-linear-algebra-to-predict-a": {
+   "comments": 2,
+   "likes": 16,
+   "restacks": 1
+  },
+  "using-natural-language-processing-to-visualise-uncertainty-in-news-content": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "we-should-formalise-physics": {
+   "comments": 4,
+   "likes": 24,
+   "restacks": 2
+  },
+  "what-counts-as-a-replication": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "what-do-we-do-now": {
+   "comments": 1,
+   "likes": 7,
+   "restacks": 1
+  },
+  "what-i-learned-from-500-independent": {
+   "comments": 6,
+   "likes": 31,
+   "restacks": 8
+  },
+  "what-i-use-for-notes-and-publishing": {
+   "comments": 4,
+   "likes": 8,
+   "restacks": 0
+  },
+  "what-i-wished-i-knew-about-abstract-algebra": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "what-is-our-natural-rate-of-extinction": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "what-is-the-dollar-cost-of-malaysias-racial-discrimination": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "what-is-the-most-effective-day": {
+   "comments": 4,
+   "likes": 23,
+   "restacks": 1
+  },
+  "what-is-the-most-intense-way-to-learn": {
+   "comments": 2,
+   "likes": 12,
+   "restacks": 2
+  },
+  "what-makes-an-image-an-image": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "whats-a-good-theory-of-biology": {
+   "comments": 9,
+   "likes": 17,
+   "restacks": 2
+  },
+  "whats-the-point-of-doing-stuff": {
+   "comments": 4,
+   "likes": 16,
+   "restacks": 2
+  },
+  "when-is-a-complex-system-stable": {
+   "comments": 0,
+   "likes": 13,
+   "restacks": 1
+  },
+  "when-scientific-method-fails": {
+   "comments": 2,
+   "likes": 8,
+   "restacks": 2
+  },
+  "when-to-trust-someone": {
+   "comments": 0,
+   "likes": 7,
+   "restacks": 0
+  },
+  "why-casual-conversations-is-so-hard": {
+   "comments": 3,
+   "likes": 15,
+   "restacks": 4
+  },
+  "why-independent-science-now": {
+   "comments": 1,
+   "likes": 19,
+   "restacks": 3
+  },
+  "why-read-faradays-diary": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "why-we-need-quantum-field-theory": {
+   "comments": 0,
+   "likes": 0,
+   "restacks": 0
+  },
+  "why-your-technical-expertise-might": {
+   "comments": 0,
+   "likes": 23,
+   "restacks": 1
+  },
+  "will-ai-enabled-automation-will-constitute-more-than-half-of-the-gross-world-product-gwp-by-2100": {
+   "comments": 0,
+   "likes": 1,
+   "restacks": 0
+  },
+  "will-future-generations-think-were": {
+   "comments": 0,
+   "likes": 6,
+   "restacks": 0
+  },
+  "writing-what-i-see": {
+   "comments": 3,
+   "likes": 11,
+   "restacks": 3
+  },
+  "you-are-fucked-if-you-cant-write": {
+   "comments": 1,
+   "likes": 24,
+   "restacks": 0
+  },
+  "you-like-too-many-things-now-what": {
+   "comments": 6,
+   "likes": 40,
+   "restacks": 2
+  },
+  "you-need-to-read-thomas-kuhn": {
+   "comments": 3,
+   "likes": 23,
+   "restacks": 5
+  },
+  "youre-a-slow-thinker-now-what": {
+   "comments": 19,
+   "likes": 228,
+   "restacks": 26
+  }
+ }
+}

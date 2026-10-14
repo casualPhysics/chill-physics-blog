@@ -34,6 +34,8 @@ SITE = ROOT / "docs"
 TEMPLATES = ROOT / "templates"
 STATIC = ROOT / "static"
 LAB = ROOT / "lab"
+CURATED = ROOT / "curated" / "popular.json"
+STATS = POSTS / "_stats.json"
 
 
 def parse_date(s):
@@ -196,6 +198,57 @@ def build_lab(env, by_year_sorted, css_version):
     return pages
 
 
+def build_popular(env, posts, by_year_sorted, css_version):
+    """Curated reading list: categories from curated/popular.json, ranked by
+    the Substack like counts in posts/_stats.json (see scraper/stats.py)."""
+    if not CURATED.exists():
+        return
+    cur = json.loads(CURATED.read_text())
+    stats_doc = json.loads(STATS.read_text()) if STATS.exists() else {"posts": {}}
+    stats = stats_doc.get("posts", {})
+    by_slug = {p["slug"]: p for p in posts}
+
+    def enrich(slug):
+        p = by_slug.get(slug)
+        if p is None:
+            print(f"  popular: unknown slug {slug!r}, skipped")
+            return None
+        st = stats.get(slug, {})
+        return {**p, "likes": st.get("likes", 0), "comments": st.get("comments", 0)}
+
+    categories = []
+    for cat in cur["categories"]:
+        items = [x for x in (enrich(s) for s in cat["slugs"]) if x]
+        items.sort(key=lambda x: (-x["likes"], -x["comments"], x["date"]))
+        categories.append({
+            "title": cat["title"],
+            "blurb": cat.get("blurb", ""),
+            "anchor": re.sub(r"[^a-z0-9]+", "-", cat["title"].lower()).strip("-"),
+            "posts": items,
+            "total_likes": sum(x["likes"] for x in items),
+        })
+    categories.sort(key=lambda c: -c["total_likes"])
+
+    hn = []
+    for h in cur.get("hacker_news", []):
+        p = by_slug.get(h["slug"])
+        if p is None:
+            continue
+        d = datetime.fromisoformat(h["date"])
+        hn.append({**h, "title": p["title"], "date_human": d.strftime("%-d %B %Y")})
+    hn.sort(key=lambda h: -h["points"])
+
+    fetched = stats_doc.get("fetched")
+    fetched_human = (datetime.fromisoformat(fetched).strftime("%-d %B %Y")
+                     if fetched else "at last build")
+    (SITE / "popular.html").write_text(env.get_template("popular.html").render(
+        categories=categories, hacker_news=hn,
+        total=sum(len(c["posts"]) for c in categories), fetched=fetched_human,
+        nav_years=by_year_sorted, css_version=css_version, active_slug=None, root="",
+    ))
+    print(f"Built popular page: {len(categories)} categories, {len(hn)} HN posts")
+
+
 def main():
     if SITE.exists():
         shutil.rmtree(SITE)
@@ -260,6 +313,9 @@ def main():
 
     # lab write-ups
     lab_pages = build_lab(env, by_year_sorted, css_version)
+
+    # curated popular / by-topic page
+    build_popular(env, posts, by_year_sorted, css_version)
     print(f"Built {len(lab_pages)} lab page(s)")
 
     # individual posts

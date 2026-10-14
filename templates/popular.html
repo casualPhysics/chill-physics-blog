@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Popular &mdash; Casual Physics Enjoyer{% endblock %}
+{% block content %}
+
+<h2 class="page-title">Popular</h2>
+<p class="page-blurb">{{ total }} posts organised by topic. Topics with the most likes come first, and so do the posts within each topic. Like counts from Substack, refreshed {{ fetched }}.</p>
+
+<nav class="popular-toc">
+  {% for cat in categories %}<a href="#{{ cat.anchor }}">{{ cat.title }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
+  &middot; <a href="#hacker-news">Hacker News</a>
+</nav>
+
+{% for cat in categories %}
+<section class="popular-cat" id="{{ cat.anchor }}">
+  <h3 class="archive-year-title">{{ cat.title }} <span class="year-count">{{ cat.posts|length }}</span></h3>
+  {% if cat.blurb %}<p class="popular-blurb">{{ cat.blurb }}</p>{% endif %}
+  <ol class="popular-list">
+    {% for post in cat.posts %}
+    <li>
+      <span class="popular-count" title="{{ post.likes }} likes, {{ post.comments }} comments on Substack">&hearts;&nbsp;{{ post.likes }}</span>
+      <a href="posts/{{ post.slug }}.html">{{ post.title }}</a>
+      {% if post.subtitle %}<span class="archive-subtitle"> &mdash; {{ post.subtitle }}</span>{% endif %}
+      <span class="popular-date">{{ post.date_human }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endfor %}
+
+<section class="popular-cat" id="hacker-news">
+  <h3 class="archive-year-title">On Hacker News <span class="year-count">{{ hacker_news|length }}</span></h3>
+  <p class="popular-blurb">Posts that reached the Hacker News front page, by points.</p>
+  <ol class="popular-list">
+    {% for h in hacker_news %}
+    <li>
+      <span class="popular-count" title="{{ h.points }} points, {{ h.comments }} comments on Hacker News">&#9650;&nbsp;{{ h.points }}</span>
+      <a href="posts/{{ h.slug }}.html">{{ h.title }}</a>
+      <span class="archive-subtitle"> &mdash; {{ h.comments }} comments</span>
+      <span class="popular-date">{{ h.date_human }}</span>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+{% endblock %}

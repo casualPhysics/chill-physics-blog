@@ -5,8 +5,9 @@ A static mirror of [chillphysicsenjoyer.substack.com](https://chillphysicsenjoye
 ## Layout
 
 - `scraper/scrape.py` — pulls every post from Substack's public API into `posts/<slug>.json`.
-- `posts/` — raw scraped post JSON (data source for the build).
-- `templates/` — Jinja2 templates: `base.html`, `index.html`, `post.html`, `archive.html`, `about.html`.
+- `posts/` — raw scraped post JSON (data source for the build). `posts/_stats.json` holds live like/comment counts (refresh with `scraper/stats.py`).
+- `curated/popular.json` — hand-sorted categories for the Popular page; posts inside each are ranked by likes at build time.
+- `templates/` — Jinja2 templates: `base.html`, `index.html`, `post.html`, `archive.html`, `popular.html`, `lab.html`, `about.html`.
 - `static/style.css` — typography and layout.
 - `build.py` — renders templates to `docs/`.
 - `docs/` — the built static site, served by GitHub Pages.
@@ -17,6 +18,7 @@ A static mirror of [chillphysicsenjoyer.substack.com](https://chillphysicsenjoye
 python3 -m venv .venv
 .venv/bin/pip install requests jinja2 beautifulsoup4
 .venv/bin/python scraper/scrape.py   # only needed when new posts appear
+.venv/bin/python scraper/stats.py    # refresh like counts for the Popular page
 .venv/bin/python build.py
 ```
 

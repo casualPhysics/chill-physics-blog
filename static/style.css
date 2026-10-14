@@ -374,6 +374,57 @@ a:hover {
   font-size: 0.92rem;
 }
 
+/* ---------- popular / by-topic page ---------- */
+
+.popular-toc {
+  font-size: 0.9rem;
+  color: var(--muted);
+  line-height: 1.8;
+  margin: 0.4rem 0 1.2rem;
+}
+.popular-toc a {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  border-bottom: none;
+}
+.popular-toc a:hover { border-bottom: 1px solid var(--link-hover); }
+.popular-cat { margin-top: 2.2rem; }
+.popular-blurb {
+  color: var(--muted);
+  font-style: italic;
+  font-size: 0.95rem;
+  margin: 0 0 0.7rem;
+}
+.popular-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.popular-list li {
+  margin: 0.35rem 0;
+  font-size: 0.98rem;
+  line-height: 1.45;
+  padding-left: 3.6rem;
+  text-indent: -3.6rem;
+}
+.popular-count {
+  display: inline-block;
+  width: 3.6rem;
+  text-indent: 0;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.02em;
+}
+.popular-date {
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  margin-left: 0.4rem;
+}
+
 /* ---------- pager / footer ---------- */
 
 .pager {

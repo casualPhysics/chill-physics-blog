@@ -240,7 +240,7 @@ def build_popular(env, posts, by_year_sorted, css_version):
             continue
         d = datetime.fromisoformat(h["date"])
         st = stats.get(h["slug"], {})
-        hn.append({**h, "title": p["title"], "date_human": d.strftime("%-d %B %Y"),
+        hn.append({**h, "title": p["title"], "canonical_url": p["canonical_url"], "date_human": d.strftime("%-d %B %Y"),
                    "likes": st.get("likes", 0), "sub_comments": st.get("comments", 0)})
     hn.sort(key=lambda h: -h["points"])
 

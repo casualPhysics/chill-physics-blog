@@ -247,12 +247,14 @@ def build_popular(env, posts, by_year_sorted, css_version):
     fetched = stats_doc.get("fetched")
     fetched_human = (datetime.fromisoformat(fetched).strftime("%-d %B %Y")
                      if fetched else "at last build")
-    (SITE / "popular.html").write_text(env.get_template("popular.html").render(
+    html = env.get_template("popular.html").render(
         categories=categories, hacker_news=hn,
         total=sum(len(c["posts"]) for c in categories), fetched=fetched_human,
         nav_years=by_year_sorted, no_sidebar=True,
         css_version=css_version, active_slug=None, root="",
-    ))
+    )
+    (SITE / "popular.html").write_text(html)
+    (SITE / "index.html").write_text(html)   # site root is the Popular page
     print(f"Built popular page: {len(categories)} categories, {len(hn)} HN posts")
 
 
@@ -287,8 +289,10 @@ def main():
     FEATURED_SLUG = "suggested-experiment-equipment"
     featured = next((p for p in posts if p["slug"] == FEATURED_SLUG), None)
     recent = [p for p in posts if p["slug"] != FEATURED_SLUG][:8]
+    # the old chronological feed lives at home.html (unlinked for now);
+    # index.html is written by build_popular below.
     index_tpl = env.get_template("index.html")
-    (SITE / "index.html").write_text(index_tpl.render(
+    (SITE / "home.html").write_text(index_tpl.render(
         featured=featured,
         recent=recent,
         total=len(posts),

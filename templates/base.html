@@ -11,7 +11,7 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 <body>
-<div class="site{% if no_sidebar %} no-sidebar{% endif %}">
+<div class="site">
   <header class="site-header">
     <h1 class="site-title"><a href="{{ root }}index.html">Casual Physics Enjoyer</a></h1>
     <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
@@ -24,25 +24,6 @@
     </nav>
   </header>
 
-  {% if nav_years and not no_sidebar %}
-  <aside class="sidebar">
-    <h2 class="sidebar-title">Archive</h2>
-    <nav class="year-nav">
-      {% for year, year_posts in nav_years %}
-      {% set ns = namespace(active=False) %}
-      {% for p in year_posts %}{% if active_slug and p.slug == active_slug %}{% set ns.active = True %}{% endif %}{% endfor %}
-      <details class="year"{% if loop.first or ns.active %} open{% endif %}>
-        <summary>{{ year }} <span class="year-count">{{ year_posts|length }}</span></summary>
-        <ul>
-          {% for p in year_posts %}
-          <li{% if p.slug == active_slug %} class="active"{% endif %}><a href="{{ root }}posts/{{ p.slug }}.html">{{ p.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </details>
-      {% endfor %}
-    </nav>
-  </aside>
-  {% endif %}
 
   <main class="content">
     {% block content %}{% endblock %}

@@ -703,3 +703,4 @@ a:hover {
   border-bottom: none;
 }
 .archive-entry .archive-title:hover { border-bottom: 1px solid var(--link-hover); }
+.archive-view > .stream-group:first-child { margin-top: 0; }

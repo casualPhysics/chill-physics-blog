@@ -704,3 +704,24 @@ a:hover {
 }
 .archive-entry .archive-title:hover { border-bottom: 1px solid var(--link-hover); }
 .archive-view > .stream-group:first-child { margin-top: 0; }
+
+/* ---------- archive: two columns ---------- */
+
+body.archive-page .site { --max: 1100px; max-width: 1180px; }
+.archive-columns {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 3.5rem;
+  align-items: start;
+}
+.archive-col > .stream-group:first-child { margin-top: 0; }
+.archive-col .archive-stream { margin-top: 2rem; }
+.archive-col .archive-date { width: 3.6rem; }
+.archive-col .archive-entry-head { padding-left: 3.6rem; text-indent: -3.6rem; font-size: 0.95rem; }
+.archive-col .archive-subtitle { font-size: 0.85rem; }
+.archive-col .stream-pic { width: 52px; height: 52px; }
+.archive-col #lab { margin-top: 2rem; }
+@media (max-width: 820px) {
+  .archive-columns { grid-template-columns: 1fr; }
+  .archive-col + .archive-col { margin-top: 3rem; }
+}

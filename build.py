@@ -294,8 +294,8 @@ def assign_streams(posts, cur):
     counts = {}
     for st in stream_of.values():
         counts[st] = counts.get(st, 0) + 1
-    first = list(cur.get("first", [])) + [c["title"] for c in cur.get("categories", [])
-                                          if c["title"] not in cur.get("first", [])]
+    first = list(cfg.get("essay_order") or cur.get("first", []))
+    first += [c["title"] for c in cur.get("categories", []) if c["title"] not in first]
     first += [t for t in cfg.get("order_after_first", []) if t not in first]
     rest = sorted((t for t in counts if t not in exp_titles),
                   key=lambda t: (first.index(t) if t in first else len(first), -counts[t]))

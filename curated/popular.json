@@ -495,6 +495,15 @@
     "category_rename": {
       "Experiments at home": "Home lab: kit and technique",
       "Experimental technique and equipment": "Home lab: kit and technique"
-    }
+    },
+    "essay_order": [
+      "Physics and dynamics",
+      "Independent science",
+      "Experiments at home",
+      "Theories of biology",
+      "Experimental technique and equipment",
+      "Mathematics",
+      "Writing and communicating science"
+    ]
   }
 }

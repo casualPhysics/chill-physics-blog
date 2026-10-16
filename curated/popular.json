@@ -406,6 +406,18 @@
         ]
       },
       {
+        "title": "Home lab: kit and technique",
+        "blurb": "Buying, building and cleaning the lab itself, and what cheap experiments are worth doing.",
+        "slugs": [
+          "suggested-experiment-equipment",
+          "how-to-get-cheaper-lab-equipment",
+          "on-reduction-to-the-table-top",
+          "i-want-to-do-experiments-but-its",
+          "experiments-for-the-independent-science",
+          "starting-to-clean-my-shack-of-a-lab"
+        ]
+      },
+      {
         "title": "UV light and yeast",
         "blurb": "Culturing countable yeast colonies at home, then killing them with UV: modelling, sterile technique, a laminar flow hood and an automated sterilisation pump.",
         "slugs": [
@@ -477,18 +489,6 @@
           "solar-energy-from-the-sahara",
           "essential-physics-for-the-solar-entrepreneur",
           "preliminary-thoughts-on-solar-cell"
-        ]
-      },
-      {
-        "title": "Home lab: kit and technique",
-        "blurb": "Buying, building and cleaning the lab itself, and what cheap experiments are worth doing.",
-        "slugs": [
-          "suggested-experiment-equipment",
-          "how-to-get-cheaper-lab-equipment",
-          "on-reduction-to-the-table-top",
-          "i-want-to-do-experiments-but-its",
-          "experiments-for-the-independent-science",
-          "starting-to-clean-my-shack-of-a-lab"
         ]
       }
     ],

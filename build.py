@@ -468,8 +468,6 @@ def main():
     # copy static assets
     for f in STATIC.iterdir():
         shutil.copy2(f, SITE / f.name)
-    if THUMBS.exists():
-        shutil.copytree(THUMBS, SITE / "thumbs")
 
     # cache-busting version for the stylesheet (changes when the CSS changes)
     css_version = hashlib.md5((STATIC / "style.css").read_bytes()).hexdigest()[:8]
@@ -519,6 +517,8 @@ def main():
 
     # full archive (needs stats, curated categories and the lab pages)
     build_archive(env, posts, by_year_sorted, lab_pages, css_version)
+    if THUMBS.exists():
+        shutil.copytree(THUMBS, SITE / "thumbs")
 
     # curated popular / by-topic page
     build_popular(env, posts, by_year_sorted, css_version)

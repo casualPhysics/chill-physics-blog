@@ -12,7 +12,7 @@
     <li class="archive-entry">
       <div class="archive-entry-head">
         <span class="archive-date">{{ post.date_short }} <span class="archive-year-sm">{{ post.year }}</span></span>
-        <a class="archive-title" href="posts/{{ post.slug }}.html">{{ post.title }}</a>
+        <a class="archive-title" href="{{ post.canonical_url }}">{{ post.title }}</a>
         {% if post.likes %}<span class="archive-stat archive-stat-sm" title="{{ post.likes }} likes on Substack">&hearts; {{ post.likes }}</span>{% endif %}
         {% if post.hn %}<span class="popular-hn" title="{{ post.hn.points }} points on Hacker News"><a href="https://news.ycombinator.com/item?id={{ post.hn.hn_id }}">&#9650; {{ post.hn.points }}</a></span>{% endif %}
         {% if post.subtitle %}<span class="archive-subtitle">{{ post.subtitle }}</span>{% endif %}
@@ -31,7 +31,7 @@
     {% endfor %}
   </ol>
   <div class="stream-pics" aria-hidden="true">
-    {% for pic in st.pics %}<a href="posts/{{ pic.slug }}.html" class="stream-pic" title="{{ pic.title }}"><img src="{{ pic.thumb }}" alt="" loading="lazy" width="160" height="160"></a>{% endfor %}
+    {% for pic in st.pics %}<a href="{{ pic.canonical_url }}" class="stream-pic" title="{{ pic.title }}"><img src="{{ pic.thumb }}" alt="" loading="lazy" width="160" height="160"></a>{% endfor %}
   </div>
 </section>
 {% endmacro %}

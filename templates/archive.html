@@ -2,22 +2,65 @@
 {% block title %}Archive &mdash; Casual Physics Enjoyer{% endblock %}
 {% block content %}
 
-<h2 class="page-title">Archive</h2>
-<p class="page-blurb">{{ total }} posts, newest first.</p>
-
-{% for year, year_posts in by_year %}
-<section class="archive-year">
-  <h3 class="archive-year-title">{{ year }}</h3>
-  <ul class="archive-list">
-    {% for post in year_posts %}
-    <li>
-      <span class="archive-date">{{ post.date_short }}</span>
-      <a href="posts/{{ post.slug }}.html">{{ post.title }}</a>
-      {% if post.subtitle %}<span class="archive-subtitle"> &mdash; {{ post.subtitle }}</span>{% endif %}
+<div class="archive-view">
+{% for st in streams %}
+{% if loop.first or st.group != loop.previtem.group %}
+<h2 class="stream-group">{{ st.group }}</h2>
+{% endif %}
+<section class="archive-stream" id="{{ st.anchor }}">
+  <h3 class="archive-year-title">{{ st.title }}</h3>
+  <ol class="archive-full archive-compact">
+    {% for post in (st.posts|reverse if st.group == "Experiments" else st.posts) %}
+    <li class="archive-entry" data-search="{{ (post.title ~ ' ' ~ post.subtitle ~ ' ' ~ post.excerpt ~ ' ' ~ post.tags|join(' ') ~ ' ' ~ post.stream ~ ' ' ~ post.date_human)|lower }}">
+      <div class="archive-entry-head">
+        <span class="archive-date">{{ post.date_short }} <span class="archive-year-sm">{{ post.year }}</span></span>
+        <a class="archive-title" href="posts/{{ post.slug }}.html">{{ post.title }}</a>
+        {% if post.likes %}<span class="archive-stat archive-stat-sm" title="{{ post.likes }} likes on Substack">&hearts; {{ post.likes }}</span>{% endif %}
+        {% if post.hn %}<span class="popular-hn" title="{{ post.hn.points }} points on Hacker News"><a href="https://news.ycombinator.com/item?id={{ post.hn.hn_id }}">&#9650; {{ post.hn.points }}</a></span>{% endif %}
+        {% if post.subtitle %}<span class="archive-subtitle">{{ post.subtitle }}</span>{% endif %}
+      </div>
     </li>
     {% endfor %}
-  </ul>
+    {% for l in st.lab %}
+    <li class="archive-entry" data-search="{{ (l.title ~ ' ' ~ l.summary ~ ' lab ' ~ st.title)|lower }}">
+      <div class="archive-entry-head">
+        <span class="archive-date">{{ l.date.strftime('%-d %b') }} <span class="archive-year-sm">{{ l.date.year }}</span></span>
+        <a class="archive-title" href="lab/{{ l.slug }}.html">{{ l.title }}</a>
+        <span class="archive-chip">lab write-up</span>
+        <span class="archive-subtitle">{{ l.summary }}</span>
+      </div>
+    </li>
+    {% endfor %}
+  </ol>
+  <div class="stream-pics" aria-hidden="true">
+    {% for pic in st.pics %}<a href="posts/{{ pic.slug }}.html" class="stream-pic" title="{{ pic.title }}"><img src="{{ pic.thumb }}" alt="" loading="lazy" width="160" height="160"></a>{% endfor %}
+  </div>
 </section>
 {% endfor %}
+</div>
+
+
+{% if lab_pages %}
+<section class="archive-year" id="lab">
+  <h3 class="archive-year-title">Lab write-ups <span class="year-count">{{ lab_pages|length }}</span></h3>
+  <ol class="archive-full">
+    {% for page in lab_pages %}
+    <li class="archive-entry" data-search="{{ (page.title ~ ' ' ~ page.summary ~ ' lab ' ~ page.date_human)|lower }}">
+      <div class="archive-entry-head">
+        <span class="archive-date">{{ page.date.strftime('%-d %b') }}</span>
+        <a class="archive-title" href="lab/{{ page.slug }}.html">{{ page.title }}</a>
+      </div>
+      <p class="archive-excerpt">{{ page.summary }}</p>
+      <p class="archive-meta">
+        <span>{{ page.date_human }}</span>
+        {% if page.code_file %}<a class="archive-chip" href="lab/{{ page.slug }}.html#code">{{ page.code_file }} &middot; {{ page.code_lines }} lines</a>{% endif %}
+        {% for extra in page.extra_pages %}<a class="archive-chip" href="lab/{{ page.slug }}/{{ extra.out }}">{{ extra.title }}</a>{% endfor %}
+      </p>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+{% endif %}
+
 
 {% endblock %}

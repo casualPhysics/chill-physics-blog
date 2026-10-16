@@ -118,7 +118,8 @@ def load_posts():
             "canonical_url": data.get("canonical_url")
                 or f"https://chillphysicsenjoyer.substack.com/p/{data['slug']}",
             "tags": [t.get("name") for t in data.get("postTags") or [] if t.get("name")],
-            "wordcount": data.get("wordcount") or 0,
+            "wordcount": int(data.get("wordcount") or 0),
+            "cover_image": data.get("cover_image") or "",
         })
     posts.sort(key=lambda p: p["date"], reverse=True)
     # link prev/next (in chronological order across the list)
@@ -196,6 +197,165 @@ def build_lab(env, by_year_sorted, css_version):
         active_slug=None, root="",
     ))
     return pages
+
+
+from urllib.parse import quote
+
+_CDN_PREFIX = "https://substackcdn.com/image/fetch/"
+
+
+def thumb_url(cover: str, size: int = 160) -> str:
+    """Small square crop of a Substack cover image via the substackcdn resizer."""
+    if not cover:
+        return ""
+    transform = f"w_{size},h_{size},c_fill,f_auto,q_auto:good"
+    if cover.startswith(_CDN_PREFIX):
+        rest = cover[len(_CDN_PREFIX):]
+        _, _, original = rest.partition("/")
+        return f"{_CDN_PREFIX}{transform}/{original}"
+    return f"{_CDN_PREFIX}{transform}/{quote(cover, safe='')}"
+
+
+def assign_streams(posts, cur):
+    """Return (stream_of_slug, ordered stream titles, blurbs). See the
+    _streams_comment in curated/popular.json for the rules."""
+    cfg = cur.get("streams", {})
+    tag_map = cfg.get("tag_to_stream", [])
+    cutoff_year, early_title = cfg.get("untagged_before_year", [0, "Miscellany"])
+    fallback = cfg.get("untagged_fallback", "Miscellany")
+    blurbs = {c["title"]: c.get("blurb", "") for c in cur.get("categories", [])}
+    blurbs.update(cfg.get("stream_blurbs", {}))
+    rename = cfg.get("category_rename", {})
+    cat_of = {s: rename.get(c["title"], c["title"]) for c in cur.get("categories", []) for s in c["slugs"]}
+    exp_of, exp_titles, lab_of = {}, [], {}
+    for ex in cfg.get("experiment_streams", []):
+        exp_titles.append(ex["title"])
+        blurbs[ex["title"]] = ex.get("blurb", "")
+        lab_of[ex["title"]] = ex.get("lab", [])
+        for slug in ex["slugs"]:
+            exp_of[slug] = ex["title"]
+    known = {p["slug"] for p in posts}
+    for slug in exp_of:
+        if slug not in known:
+            print(f"  streams: unknown experiment slug {slug!r}")
+    stream_of = {}
+    for p in posts:
+        if p["slug"] in exp_of:
+            stream_of[p["slug"]] = exp_of[p["slug"]]
+            continue
+        if p["slug"] in cat_of:
+            stream_of[p["slug"]] = cat_of[p["slug"]]
+            continue
+        tags = {t.strip().lower() for t in p["tags"]}
+        hit = next((st for tag, st in tag_map if tag.lower() in tags), None)
+        if hit is None:
+            hit = early_title if (not tags and p["year"] < cutoff_year) else fallback
+        stream_of[p["slug"]] = hit
+    counts = {}
+    for st in stream_of.values():
+        counts[st] = counts.get(st, 0) + 1
+    first = list(cur.get("first", [])) + [c["title"] for c in cur.get("categories", [])
+                                          if c["title"] not in cur.get("first", [])]
+    first += [t for t in cfg.get("order_after_first", []) if t not in first]
+    rest = sorted((t for t in counts if t not in exp_titles),
+                  key=lambda t: (first.index(t) if t in first else len(first), -counts[t]))
+    order = [t for t in exp_titles if t in counts] + rest
+    groups = {t: ("Experiments" if t in exp_titles else "Essays and theory") for t in order}
+    return stream_of, order, blurbs, groups, lab_of
+
+
+def scatter(n, seed: str):
+    """Deterministic 'tossed on a table' positions for n thumbnails: (left %, top %, deg)."""
+    import random
+    rng = random.Random(seed)
+    cols = max(1, min(n, 7))
+    out = []
+    for i in range(n):
+        col, row = i % cols, i // cols
+        left = (col + 0.5) / cols * 100 + rng.uniform(-5, 5)
+        top = row * 46 + rng.uniform(0, 30)
+        out.append((round(left, 1), round(top, 1), round(rng.uniform(-11, 11), 1)))
+    return out
+
+
+def _norm(text: str) -> str:
+    return re.sub(r"[\s.!?…]+$", "", (text or "").strip().lower())
+
+
+def build_archive(env, posts, by_year_sorted, lab_pages, css_version):
+    """Full archive: every post with subtitle, excerpt, length, tags,
+    Substack likes/comments, Popular-page categories and HN badges."""
+    cur = json.loads(CURATED.read_text()) if CURATED.exists() else {"categories": [], "hacker_news": []}
+    stats_doc = json.loads(STATS.read_text()) if STATS.exists() else {"posts": {}}
+    stats = stats_doc.get("posts", {})
+    hn_by_slug = {h["slug"]: h for h in cur.get("hacker_news", [])}
+    cats_by_slug = {}
+    categories = []
+    for cat in cur.get("categories", []):
+        anchor = re.sub(r"[^a-z0-9]+", "-", cat["title"].lower()).strip("-")
+        n = 0
+        for slug in cat["slugs"]:
+            cats_by_slug.setdefault(slug, []).append({"title": cat["title"], "anchor": anchor})
+            n += 1
+        categories.append({"title": cat["title"], "anchor": anchor, "n": n})
+    categories.sort(key=lambda c: -c["n"])
+
+    tag_counter = {}
+    enriched = []
+    for p in posts:
+        st = stats.get(p["slug"], {})
+        cats = cats_by_slug.get(p["slug"], [])
+        tags = [t.strip() for t in p["tags"] if t and t.strip()]
+        for t in tags:
+            tag_counter[t] = tag_counter.get(t, 0) + 1
+        enriched.append({
+            **p, "tags": tags,
+            "likes": st.get("likes", p.get("likes", 0)),
+            "comments": st.get("comments", 0),
+            "hn": hn_by_slug.get(p["slug"]),
+            "categories": cats,
+            "category_titles": [c["title"] for c in cats],
+            "read_min": max(1, round(p["wordcount"] / 230)),
+            "show_excerpt": _norm(p["excerpt"]) not in ("", _norm(p["subtitle"]), _norm(p["title"])),
+            "thumb": thumb_url(p.get("cover_image")),
+        })
+    stream_of, stream_order, stream_blurbs, stream_groups, lab_of = assign_streams(enriched, cur)
+    anchors = {c["title"]: c["anchor"] for c in categories}
+    lab_by_slug = {l["slug"]: l for l in lab_pages}
+    streams = []
+    for title in stream_order:
+        items = [p for p in enriched if stream_of[p["slug"]] == title]
+        for p in items:
+            p["stream"] = title
+        pics = sorted((p for p in items if p["thumb"]), key=lambda p: (-p["likes"], p["date"]))[:7]
+        streams.append({
+            "title": title, "blurb": stream_blurbs.get(title, ""),
+            "anchor": "s-" + re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-"),
+            "popular_anchor": anchors.get(title),
+            "posts": items, "words": sum(p["wordcount"] for p in items),
+            "pics": [{**p, "pos": pos} for p, pos in zip(pics, scatter(len(pics), title))],
+            "group": stream_groups[title],
+            "lab": [lab_by_slug[l] for l in lab_of.get(title, []) if l in lab_by_slug],
+        })
+    by_year = {}
+    for p in enriched:
+        by_year.setdefault(p["year"], []).append(p)
+    by_year_full = sorted(by_year.items(), key=lambda kv: kv[0], reverse=True)
+    tag_counts = sorted(tag_counter.items(), key=lambda kv: (-kv[1], kv[0].lower()))
+
+    fetched = stats_doc.get("fetched")
+    fetched_human = (datetime.fromisoformat(fetched).strftime("%-d %B %Y")
+                     if fetched else "the last build")
+    (SITE / "archive.html").write_text(env.get_template("archive.html").render(
+        by_year=by_year_full, total=len(enriched),
+        total_words_k=sum(p["wordcount"] for p in enriched) // 1000,
+        first_year=min(p["year"] for p in enriched) if enriched else "",
+        tag_counts=tag_counts, categories=categories, lab_pages=lab_pages,
+        streams=streams, fetched=fetched_human,
+        nav_years=by_year_sorted, css_version=css_version, active_slug=None, root="",
+    ))
+    print(f"Built archive: {len(enriched)} posts in {len(streams)} streams, {len(tag_counts)} tags, "
+          f"{len(categories)} categories, {len(lab_pages)} lab pages")
 
 
 def build_popular(env, posts, by_year_sorted, css_version):
@@ -302,17 +462,6 @@ def main():
         root="",
     ))
 
-    # archive
-    arch_tpl = env.get_template("archive.html")
-    (SITE / "archive.html").write_text(arch_tpl.render(
-        by_year=by_year_sorted,
-        total=len(posts),
-        nav_years=by_year_sorted,
-        css_version=css_version,
-        active_slug=None,
-        root="",
-    ))
-
     # about
     about_tpl = env.get_template("about.html")
     (SITE / "about.html").write_text(about_tpl.render(
@@ -324,6 +473,9 @@ def main():
 
     # lab write-ups
     lab_pages = build_lab(env, by_year_sorted, css_version)
+
+    # full archive (needs stats, curated categories and the lab pages)
+    build_archive(env, posts, by_year_sorted, lab_pages, css_version)
 
     # curated popular / by-topic page
     build_popular(env, posts, by_year_sorted, css_version)

@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block title %}Archive &mdash; Casual Physics Enjoyer{% endblock %}
 {% block body_class %}archive-page{% endblock %}
+{% block mathjax %}{% endblock %}
 {% block content %}
 
 {% macro stream(st) %}
@@ -8,7 +9,7 @@
   <h3 class="archive-year-title">{{ st.title }}</h3>
   <ol class="archive-full archive-compact">
     {% for post in (st.posts|reverse if st.group == "Experiments" else st.posts) %}
-    <li class="archive-entry" data-search="{{ (post.title ~ ' ' ~ post.subtitle ~ ' ' ~ post.excerpt ~ ' ' ~ post.tags|join(' ') ~ ' ' ~ post.stream ~ ' ' ~ post.date_human)|lower }}">
+    <li class="archive-entry">
       <div class="archive-entry-head">
         <span class="archive-date">{{ post.date_short }} <span class="archive-year-sm">{{ post.year }}</span></span>
         <a class="archive-title" href="posts/{{ post.slug }}.html">{{ post.title }}</a>
@@ -19,7 +20,7 @@
     </li>
     {% endfor %}
     {% for l in st.lab %}
-    <li class="archive-entry" data-search="{{ (l.title ~ ' ' ~ l.summary ~ ' lab ' ~ st.title)|lower }}">
+    <li class="archive-entry">
       <div class="archive-entry-head">
         <span class="archive-date">{{ l.date.strftime('%-d %b') }} <span class="archive-year-sm">{{ l.date.year }}</span></span>
         <a class="archive-title" href="lab/{{ l.slug }}.html">{{ l.title }}</a>

@@ -9,6 +9,7 @@ A static mirror of [chillphysicsenjoyer.substack.com](https://chillphysicsenjoye
 - `curated/popular.json` — hand-sorted categories for the Popular page (posts inside each are ranked by likes at build time), plus the `streams` block that drives the Archive page: `experiment_streams` lists each experimental project line by slug (with optional `lab` write-up slugs); every other post falls into a topical stream via its Popular category, then its tags (`tag_to_stream`), then by year for untagged posts.
 - `templates/` — Jinja2 templates: `base.html`, `index.html`, `post.html`, `archive.html`, `popular.html`, `lab.html`, `about.html`.
 - `docs/archive.html` — the full archive: every post with subtitle, excerpt, length, tags, likes, Hacker News points and stream, filterable by text, with a "By stream" view (experiment projects first, each with a scatter of small cover thumbnails served through the substackcdn resizer) and a "By year" view.
+- `thumbs/` — small cover thumbnails for the Archive page, fetched once at build time from the Substack image resizer (only missing ones are fetched; delete a file to refresh it).
 - `static/style.css` — typography and layout.
 - `build.py` — renders templates to `docs/`.
 - `docs/` — the built static site, served by GitHub Pages.

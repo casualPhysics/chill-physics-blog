@@ -204,11 +204,51 @@ from urllib.parse import quote
 _CDN_PREFIX = "https://substackcdn.com/image/fetch/"
 
 
-def thumb_url(cover: str, size: int = 160) -> str:
+THUMBS = ROOT / "thumbs"
+
+
+def fetch_thumbs(posts, size: int = 120):
+    """Download a small square JPEG of each post's cover into thumbs/<slug>.jpg
+    (only when missing) and return {slug: 'thumbs/<slug>.jpg'}."""
+    import requests
+    from concurrent.futures import ThreadPoolExecutor
+    THUMBS.mkdir(exist_ok=True)
+    have = {}
+    todo = []
+    for p in posts:
+        if not p.get("cover_image"):
+            continue
+        out = THUMBS / f"{p['slug']}.jpg"
+        if out.exists():
+            have[p["slug"]] = f"thumbs/{out.name}"
+        else:
+            todo.append((p["slug"], thumb_url(p["cover_image"], size, fmt="jpg"), out))
+
+    def get(item):
+        slug, url, out = item
+        try:
+            r = requests.get(url, timeout=30)
+            r.raise_for_status()
+            out.write_bytes(r.content)
+            return slug, f"thumbs/{out.name}"
+        except Exception as e:  # noqa: BLE001
+            print(f"  thumb failed for {slug}: {e}")
+            return slug, ""
+
+    if todo:
+        print(f"Fetching {len(todo)} thumbnails...")
+        with ThreadPoolExecutor(8) as ex:
+            for slug, rel in ex.map(get, todo):
+                if rel:
+                    have[slug] = rel
+    return have
+
+
+def thumb_url(cover: str, size: int = 160, fmt: str = "auto") -> str:
     """Small square crop of a Substack cover image via the substackcdn resizer."""
     if not cover:
         return ""
-    transform = f"w_{size},h_{size},c_fill,f_auto,q_auto:good"
+    transform = f"w_{size},h_{size},c_fill,f_{fmt},q_auto:good"
     if cover.startswith(_CDN_PREFIX):
         rest = cover[len(_CDN_PREFIX):]
         _, _, original = rest.partition("/")
@@ -300,6 +340,7 @@ def build_archive(env, posts, by_year_sorted, lab_pages, css_version):
         categories.append({"title": cat["title"], "anchor": anchor, "n": n})
     categories.sort(key=lambda c: -c["n"])
 
+    thumbs = fetch_thumbs(posts)
     tag_counter = {}
     enriched = []
     for p in posts:
@@ -317,7 +358,7 @@ def build_archive(env, posts, by_year_sorted, lab_pages, css_version):
             "category_titles": [c["title"] for c in cats],
             "read_min": max(1, round(p["wordcount"] / 230)),
             "show_excerpt": _norm(p["excerpt"]) not in ("", _norm(p["subtitle"]), _norm(p["title"])),
-            "thumb": thumb_url(p.get("cover_image")),
+            "thumb": thumbs.get(p["slug"], ""),
         })
     stream_of, stream_order, stream_blurbs, stream_groups, lab_of = assign_streams(enriched, cur)
     anchors = {c["title"]: c["anchor"] for c in categories}
@@ -427,6 +468,8 @@ def main():
     # copy static assets
     for f in STATIC.iterdir():
         shutil.copy2(f, SITE / f.name)
+    if THUMBS.exists():
+        shutil.copytree(THUMBS, SITE / "thumbs")
 
     # cache-busting version for the stylesheet (changes when the CSS changes)
     css_version = hashlib.md5((STATIC / "style.css").read_bytes()).hexdigest()[:8]

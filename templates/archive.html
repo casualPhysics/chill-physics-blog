@@ -8,7 +8,7 @@
 <section class="archive-stream" id="{{ st.anchor }}">
   <h3 class="archive-year-title">{{ st.title }}</h3>
   <ol class="archive-full archive-compact">
-    {% for post in (st.posts|reverse if st.group == "Experiments" else st.posts) %}
+    {% for post in st.posts %}
     <li class="archive-entry">
       <div class="archive-entry-head">
         <span class="archive-date">{{ post.date_short }} <span class="archive-year-sm">{{ post.year }}</span></span>

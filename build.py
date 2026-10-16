@@ -366,6 +366,7 @@ def build_archive(env, posts, by_year_sorted, lab_pages, css_version):
     streams = []
     for title in stream_order:
         items = [p for p in enriched if stream_of[p["slug"]] == title]
+        items.sort(key=lambda p: (-p["likes"], -p["comments"], -p["date"].timestamp()))
         for p in items:
             p["stream"] = title
         pics = sorted((p for p in items if p["thumb"]), key=lambda p: (-p["likes"], p["date"]))[:7]

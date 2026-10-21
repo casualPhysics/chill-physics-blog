@@ -1,509 +1,516 @@
 {
-  "_comment": "Categories follow the headings in the vault essay 'On what the independent science society does'. Posts inside each category are sorted by Substack likes at build time; categories are sorted by their total likes. Edit this file to recategorise; run scraper/stats.py to refresh counts. Categories named in 'first' are pinned to the top in that order; the rest follow by total likes.",
-  "first": [
-    "Independent science",
-    "Experiments at home",
-    "Physics and dynamics",
-    "Theories of biology",
-    "Experimental technique and equipment",
-    "Mathematics",
-    "Writing and communicating science"
-  ],
-  "categories": [
-    {
-      "title": "Thinking and working",
-      "blurb": "Essays on attention, pace and getting things done.",
-      "slugs": [
-        "youre-a-slow-thinker-now-what",
-        "slow-down",
-        "you-like-too-many-things-now-what",
-        "do-not-plan",
-        "if-its-not-obvious-it-probably-isnt",
-        "do-anything-in-20-minutes",
-        "how-to-easily-keep-something-alive",
-        "what-is-the-most-effective-day",
-        "why-your-technical-expertise-might",
-        "how-my-life-changes",
-        "bad-productivity-frameworks",
-        "do-i-want-to-be-excellent",
-        "being-maximally-useful-whilst-commuting",
-        "tolerating-confusion",
-        "whats-the-point-of-doing-stuff",
-        "do-you-actually-hate-it",
-        "tediousness-is-good",
-        "what-is-the-most-intense-way-to-learn",
-        "how-do-i-achieve-what-i-want",
-        "the-questions-i-always-think-about",
-        "just-get-a-partial-fix-and-move-on",
-        "the-professor-and-the-plumber",
-        "dont-chase-it"
-      ]
-    },
-    {
-      "title": "Independent science",
-      "blurb": "Why do science outside institutions, how to afford it, and what happened when a thousand people tried.",
-      "slugs": [
-        "pursuing-physics-research-part-time",
-        "so-my-friend-made-me-a-bioreactor",
-        "what-i-learned-from-500-independent",
-        "an-agentic-home-bioreactor",
-        "how-to-find-time-to-do-science",
-        "i-want-to-do-experiments-but-its",
-        "join-the-independent-science-society",
-        "how-to-get-cheaper-lab-equipment",
-        "a-big-board-of-open-sourceable-science",
-        "why-independent-science-now",
-        "how-can-i-make-useful-knowledge",
-        "so-i-got-an-eeg",
-        "physics-departments-are-shutting",
-        "the-independent-science-society-review",
-        "computational-chemistry-locally",
-        "a-new-experiment-meta-strategy",
-        "try-these-biosecurity-projects-in",
-        "the-world-needs-replicators"
-      ]
-    },
-    {
-      "title": "Physics and dynamics",
-      "blurb": "Derivations and toy models: fluids, entropy, reversibility, stability.",
-      "slugs": [
-        "fluid-dynamics-for-toddlers",
-        "the-entropy-of-a-markov-chain",
-        "we-should-formalise-physics",
-        "from-reversibility-to-irreversibility",
-        "the-particle-comes-alive",
-        "using-linear-algebra-to-predict-a",
-        "how-to-think-about-dynamic-systems",
-        "when-is-a-complex-system-stable",
-        "how-would-an-intelligent-system-do"
-      ]
-    },
-    {
-      "title": "Theories of biology",
-      "blurb": "Non-equilibrium statistical mechanics and what a good theory of the cell would look like.",
-      "slugs": [
-        "a-thermodynamics-for-biology",
-        "whats-a-good-theory-of-biology",
-        "non-equilibrium-statistical-mechanics",
-        "biology-as-clockwork",
-        "freeman-dysons-model-of-a-cell",
-        "20-references-in-complexity-theory",
-        "the-triumph-of-the-embryo",
-        "how-life-works-by-philip-ball",
-        "equilibrium-points-in-dysons-toy",
-        "steady-states-in-dysons-theory-of"
-      ]
-    },
-    {
-      "title": "Experiments at home",
-      "blurb": "Things actually measured on the kitchen table, with the results.",
-      "slugs": [
-        "noise-cancelling-a-fan",
-        "i-made-a-quieter-air-purifier",
-        "frying-eggs-and-air-quality-tests",
-        "i-managed-to-grow-countable-yeast",
-        "coulombs-law-remains-tricky-to-test",
-        "testing-a-cheaper-laminar-flow-hood",
-        "i-observed-some-brownian-motion-at",
-        "did-i-just-make-quantum-dots",
-        "can-i-use-air-pressure-to-protect",
-        "results-from-blasting-yeast-with",
-        "making-rayleigh-benard-convection",
-        "liesegang-rings",
-        "culturing-yeast-for-independent-science",
-        "i-made-a-cheaper-way-to-test-ventilation",
-        "trying-to-make-a-cheaper-air-purifier",
-        "sealing-my-house-against-pathogens",
-        "measuring-my-diy-air-purifier"
-      ]
-    },
-    {
-      "title": "Writing and communicating science",
-      "blurb": "What gaps are there in the pursuit of empiricism at home? How to write, read and replicate.",
-      "slugs": [
-        "how-to-write-better",
-        "you-are-fucked-if-you-cant-write",
-        "you-need-to-read-thomas-kuhn",
-        "how-to-read-something",
-        "a-dinner-on-what-it-means-to-write",
-        "how-do-we-write-science",
-        "writing-what-i-see",
-        "on-good-writing",
-        "its-hard-to-know-if-i-suck-at-writing",
-        "what-counts-as-a-replication"
-      ]
-    },
-    {
-      "title": "Mathematics",
-      "blurb": "Conjectures digested with AI tools, proving things with computers, and teaching maths at scale.",
-      "slugs": [
-        "teaching-cambridge-level-math-at",
-        "ai-is-not-going-to-kill-my-love-of",
-        "i-possibly-resolved-a-conjecture",
-        "oberreiter-seifert-and-baratos-conjecture",
-        "try-to-prove-math-with-computers"
-      ]
-    },
-    {
-      "title": "Experimental technique and equipment",
-      "blurb": "Ways to control conditions at home, and characterising cheap kit before trusting it.",
-      "slugs": [
-        "suggested-experiment-equipment",
-        "autonomous-buying-of-experiment-equipment",
-        "characterising-a-cheap-water-bath",
-        "preparing-algae-for-experiments-at",
-        "measuring-milk-globule-sizes",
-        "a-diy-temperature-controlled-incubator",
-        "on-reduction-to-the-table-top"
-      ]
-    },
-    {
-      "title": "Life",
-      "blurb": "Friends, travel, fear, and the odd bike ride.",
-      "slugs": [
-        "how-to-make-more-friends",
-        "dirt-cheap-holidays",
-        "love-isnt-physics-but-popular-advice",
-        "the-man-i-want-to-meet-the-most",
-        "its-ok-to-be-scared",
-        "how-i-fixed-my-headaches",
-        "for-here-too-gods-dwell",
-        "why-casual-conversations-is-so-hard",
-        "in-memoriam",
-        "being-political-in-the-right-way",
-        "cycling-the-west-country",
-        "a-war-in-the-lake-district"
-      ]
-    }
-  ],
-  "hacker_news": [
-    {
-      "slug": "youre-a-slow-thinker-now-what",
-      "date": "2025-09-10",
-      "points": 557,
-      "comments": 238,
-      "hn_id": "45204587"
-    },
-    {
-      "slug": "the-entropy-of-a-markov-chain",
-      "date": "2026-08-05",
-      "points": 146,
-      "comments": 15,
-      "hn_id": "49183017"
-    },
-    {
-      "slug": "i-made-a-quieter-air-purifier",
-      "date": "2025-11-24",
-      "points": 131,
-      "comments": 65,
-      "hn_id": "46039594"
-    },
-    {
-      "slug": "results-from-blasting-yeast-with",
-      "date": "2025-11-12",
-      "points": 82,
-      "comments": 26,
-      "hn_id": "45904161"
-    },
-    {
-      "slug": "measuring-my-diy-air-purifier",
-      "date": "2025-09-27",
-      "points": 75,
-      "comments": 11,
-      "hn_id": "45400114"
-    },
-    {
-      "slug": "noise-cancelling-a-fan",
-      "date": "2025-09-15",
-      "points": 74,
-      "comments": 84,
-      "hn_id": "45255004"
-    },
-    {
-      "slug": "frying-eggs-and-air-quality-tests",
-      "date": "2025-09-16",
-      "points": 72,
-      "comments": 142,
-      "hn_id": "45268293"
-    },
-    {
-      "slug": "testing-a-cheaper-laminar-flow-hood",
-      "date": "2025-12-12",
-      "points": 64,
-      "comments": 17,
-      "hn_id": "46248627"
-    },
-    {
-      "slug": "liesegang-rings",
-      "date": "2026-09-09",
-      "points": 50,
-      "comments": 5,
-      "hn_id": "49626110"
-    },
-    {
-      "slug": "computational-chemistry-locally",
-      "date": "2026-07-21",
-      "points": 42,
-      "comments": 43,
-      "hn_id": "48996119"
-    },
-    {
-      "slug": "a-new-experiment-meta-strategy",
-      "date": "2026-09-25",
-      "points": 34,
-      "comments": 1,
-      "hn_id": "49844266"
-    },
-    {
-      "slug": "i-managed-to-grow-countable-yeast",
-      "date": "2025-10-14",
-      "points": 32,
-      "comments": 12,
-      "hn_id": "45584500"
-    },
-    {
-      "slug": "coulombs-law-remains-tricky-to-test",
-      "date": "2026-09-22",
-      "points": 29,
-      "comments": 23,
-      "hn_id": "49800557"
-    },
-    {
-      "slug": "fluid-dynamics-for-toddlers",
-      "date": "2026-04-23",
-      "points": 12,
-      "comments": 0,
-      "hn_id": "47882565"
-    }
-  ],
-  "_streams_comment": "Archive streams: every post goes into exactly one stream. 'experiment_streams' are the actual experimental project lines, listed by slug, and win over everything else (add a lab write-up slug under 'lab' to link it). Any other post in a Popular category takes that category as its stream (renamed via 'category_rename'); otherwise its tags are tried in the order of 'tag_to_stream'; untagged posts fall back by year.",
-  "streams": {
-    "tag_to_stream": [
-      [
-        "Biosecurity",
-        "Biosecurity"
-      ],
-      [
-        "biology",
-        "Theories of biology"
-      ],
-      [
-        "Metascience",
-        "Independent science"
-      ],
-      [
-        "Math",
-        "Mathematics"
-      ],
-      [
-        "Writing",
-        "Writing and communicating science"
-      ],
-      [
-        "Physics",
-        "Physics and dynamics"
-      ],
-      [
-        "Philosophy",
-        "Life"
-      ],
-      [
-        "Life",
-        "Life"
-      ],
-      [
-        "Economics",
-        "Life"
-      ],
-      [
-        "Entrepreneurship",
-        "Life"
-      ],
-      [
-        "Politics",
-        "Life"
-      ],
-      [
-        "Education",
-        "Life"
-      ],
-      [
-        "AI",
-        "Life"
-      ],
-      [
-        "Artificial Intelligence",
-        "Life"
-      ],
-      [
-        "Experiment",
-        "Home lab: kit and technique"
-      ]
-    ],
-    "untagged_before_year": [
-      2023,
-      "Early physics notes"
-    ],
-    "untagged_fallback": "Miscellany",
-    "order_after_first": [
-      "Biosecurity",
-      "Early physics notes",
-      "Life",
-      "Miscellany"
-    ],
-    "stream_blurbs": {
-      "Biosecurity": "Respirators, far-UVC, ventilation and pandemic resilience.",
-      "Early physics notes": "The 2021–22 explainers written around Part III: quantum Hall, Hopf fibrations, renormalisation and friends. Untagged on Substack, grouped here by date.",
-      "Miscellany": "Posts that fit nowhere else."
-    },
-    "experiment_streams": [
-      {
-        "title": "Algae bioreactor",
-        "blurb": "David Jordan's tabletop bioreactor, algae culture, and the temperature control that it turned out to need.",
-        "slugs": [
-          "so-my-friend-made-me-a-bioreactor",
-          "an-agentic-home-bioreactor",
-          "preparing-algae-for-experiments-at",
-          "better-temperature-control-of-algae",
-          "a-diy-temperature-controlled-incubator",
-          "characterising-a-cheap-water-bath"
-        ],
-        "lab": [
-          "bioreactor-temp-calibration"
-        ]
-      },
-      {
-        "title": "Liesegang rings",
-        "blurb": "Trying to grow periodic precipitation bands from chemical networks.",
-        "slugs": [
-          "liesegang-rings",
-          "liesegang-rings-experiment-update"
-        ]
-      },
-      {
-        "title": "Air purifiers and ventilation",
-        "blurb": "Corsi-Rosenthal boxes, CO₂ decay tests, fan noise and airflow visualisation.",
-        "slugs": [
-          "frying-eggs-and-air-quality-tests",
-          "i-made-a-cheaper-way-to-test-ventilation",
-          "trying-to-make-a-cheaper-air-purifier",
-          "measuring-my-diy-air-purifier",
-          "evidence-that-shrouds-increase-cr",
-          "i-made-a-quieter-air-purifier",
-          "noise-cancelling-a-fan",
-          "did-i-just-make-quantum-dots",
-          "math-for-cleaning-air",
-          "how-to-start-modelling-airflow-ventilation"
-        ]
-      },
-      {
-        "title": "Positive-pressure house",
-        "blurb": "Bio-hardening a living room with fans, foam and a pressure differential.",
-        "slugs": [
-          "can-i-use-air-pressure-to-protect",
-          "diy-positive-pressure-build-log",
-          "sealing-my-house-against-pathogens"
-        ]
-      },
-      {
-        "title": "Home lab: kit and technique",
-        "blurb": "Buying, building and cleaning the lab itself, and what cheap experiments are worth doing.",
-        "slugs": [
-          "suggested-experiment-equipment",
-          "how-to-get-cheaper-lab-equipment",
-          "on-reduction-to-the-table-top",
-          "i-want-to-do-experiments-but-its",
-          "experiments-for-the-independent-science",
-          "starting-to-clean-my-shack-of-a-lab"
-        ]
-      },
-      {
-        "title": "UV light and yeast",
-        "blurb": "Culturing countable yeast colonies at home, then killing them with UV: modelling, sterile technique, a laminar flow hood and an automated sterilisation pump.",
-        "slugs": [
-          "problems-trying-to-model-far-uvc",
-          "calculations-for-practical-heuristics",
-          "culturing-yeast-for-independent-science",
-          "i-managed-to-grow-countable-yeast",
-          "making-an-automated-uv-sterilisation",
-          "results-from-blasting-yeast-with",
-          "my-uv-experiment-worked",
-          "testing-a-cheaper-laminar-flow-hood"
-        ]
-      },
-      {
-        "title": "Brownian motion in milk",
-        "blurb": "Tracking milk globules under a microscope to get at diffusion relations.",
-        "slugs": [
-          "i-observed-some-brownian-motion-at",
-          "improved-tracking-of-brownian-milk",
-          "measuring-milk-globule-sizes"
-        ]
-      },
-      {
-        "title": "Convection and heat",
-        "blurb": "Rayleigh-Bénard cells, convection plumes and a Crookes radiometer rabbit hole.",
-        "slugs": [
-          "making-rayleigh-benard-convection",
-          "trying-to-observe-convection-plumes",
-          "on-a-tube-of-hot-gas"
-        ]
-      },
-      {
-        "title": "Coulomb's law",
-        "blurb": "Electrostatics is harder to test at home than it looks.",
-        "slugs": [
-          "coulombs-law-remains-tricky-to-test"
-        ]
-      },
-      {
-        "title": "Johnson noise rig",
-        "blurb": "Sourcing the parts for a thermal-noise measurement, semi-autonomously.",
-        "slugs": [
-          "autonomous-buying-of-experiment-equipment",
-          "johnson-noise-rig-full-chat-transcript"
-        ]
-      },
-      {
-        "title": "EEG weekend",
-        "blurb": "A weekend measuring brainwaves.",
-        "slugs": [
-          "so-i-got-an-eeg"
-        ]
-      },
-      {
-        "title": "Computational chemistry",
-        "blurb": "Quantum chemistry on remote machines: diabatisation of a dimer, ssh workflows, and whether it can run at home.",
-        "slugs": [
-          "conquering-the-molecules",
-          "computing-properties-of-molecules",
-          "macos-ssh-file-system-sshfs",
-          "computational-chemistry-locally"
-        ]
-      },
-      {
-        "title": "Solar energy",
-        "blurb": "Back-of-envelope solar: space, the Sahara, cell efficiency and installing panels in Malaysia.",
-        "slugs": [
-          "more-thoughts-on-space-solar-energy",
-          "solar-energy-from-the-sahara",
-          "essential-physics-for-the-solar-entrepreneur",
-          "preliminary-thoughts-on-solar-cell"
-        ]
-      }
-    ],
-    "category_rename": {
-      "Experiments at home": "Home lab: kit and technique",
-      "Experimental technique and equipment": "Home lab: kit and technique"
-    },
-    "essay_order": [
-      "Physics and dynamics",
-      "Independent science",
-      "Experiments at home",
-      "Theories of biology",
-      "Experimental technique and equipment",
-      "Mathematics",
-      "Writing and communicating science"
-    ]
+ "_comment": "Categories follow the headings in the vault essay 'On what the independent science society does'. Posts inside each category are sorted by Substack likes at build time; categories are sorted by their total likes. Edit this file to recategorise; run scraper/stats.py to refresh counts. Categories named in 'first' are pinned to the top in that order; the rest follow by total likes.",
+ "first": [
+  "Independent science",
+  "Experiments at home",
+  "Physics and dynamics",
+  "Theories of biology",
+  "Experimental technique and equipment",
+  "Mathematics",
+  "Writing and communicating science"
+ ],
+ "categories": [
+  {
+   "title": "Thinking and working",
+   "blurb": "Essays on attention, pace and getting things done.",
+   "slugs": [
+    "youre-a-slow-thinker-now-what",
+    "slow-down",
+    "you-like-too-many-things-now-what",
+    "do-not-plan",
+    "if-its-not-obvious-it-probably-isnt",
+    "do-anything-in-20-minutes",
+    "how-to-easily-keep-something-alive",
+    "what-is-the-most-effective-day",
+    "why-your-technical-expertise-might",
+    "how-my-life-changes",
+    "bad-productivity-frameworks",
+    "do-i-want-to-be-excellent",
+    "being-maximally-useful-whilst-commuting",
+    "tolerating-confusion",
+    "whats-the-point-of-doing-stuff",
+    "do-you-actually-hate-it",
+    "tediousness-is-good",
+    "what-is-the-most-intense-way-to-learn",
+    "how-do-i-achieve-what-i-want",
+    "the-questions-i-always-think-about",
+    "just-get-a-partial-fix-and-move-on",
+    "the-professor-and-the-plumber",
+    "dont-chase-it"
+   ]
+  },
+  {
+   "title": "Independent science",
+   "blurb": "Why do science outside institutions, how to afford it, and what happened when a thousand people tried.",
+   "slugs": [
+    "pursuing-physics-research-part-time",
+    "so-my-friend-made-me-a-bioreactor",
+    "what-i-learned-from-500-independent",
+    "an-agentic-home-bioreactor",
+    "how-to-find-time-to-do-science",
+    "i-want-to-do-experiments-but-its",
+    "join-the-independent-science-society",
+    "how-to-get-cheaper-lab-equipment",
+    "a-big-board-of-open-sourceable-science",
+    "why-independent-science-now",
+    "how-can-i-make-useful-knowledge",
+    "so-i-got-an-eeg",
+    "physics-departments-are-shutting",
+    "the-independent-science-society-review",
+    "computational-chemistry-locally",
+    "a-new-experiment-meta-strategy",
+    "try-these-biosecurity-projects-in",
+    "the-world-needs-replicators"
+   ]
+  },
+  {
+   "title": "Physics and dynamics",
+   "blurb": "Derivations and toy models: fluids, entropy, reversibility, stability.",
+   "slugs": [
+    "fluid-dynamics-for-toddlers",
+    "the-entropy-of-a-markov-chain",
+    "we-should-formalise-physics",
+    "from-reversibility-to-irreversibility",
+    "the-particle-comes-alive",
+    "using-linear-algebra-to-predict-a",
+    "how-to-think-about-dynamic-systems",
+    "when-is-a-complex-system-stable",
+    "how-would-an-intelligent-system-do"
+   ]
+  },
+  {
+   "title": "Theories of biology",
+   "blurb": "Non-equilibrium statistical mechanics and what a good theory of the cell would look like.",
+   "slugs": [
+    "a-thermodynamics-for-biology",
+    "whats-a-good-theory-of-biology",
+    "non-equilibrium-statistical-mechanics",
+    "biology-as-clockwork",
+    "freeman-dysons-model-of-a-cell",
+    "20-references-in-complexity-theory",
+    "the-triumph-of-the-embryo",
+    "how-life-works-by-philip-ball",
+    "equilibrium-points-in-dysons-toy",
+    "steady-states-in-dysons-theory-of"
+   ]
+  },
+  {
+   "title": "Experiments at home",
+   "blurb": "Things actually measured on the kitchen table, with the results.",
+   "slugs": [
+    "noise-cancelling-a-fan",
+    "i-made-a-quieter-air-purifier",
+    "frying-eggs-and-air-quality-tests",
+    "i-managed-to-grow-countable-yeast",
+    "coulombs-law-remains-tricky-to-test",
+    "testing-a-cheaper-laminar-flow-hood",
+    "i-observed-some-brownian-motion-at",
+    "did-i-just-make-quantum-dots",
+    "can-i-use-air-pressure-to-protect",
+    "results-from-blasting-yeast-with",
+    "making-rayleigh-benard-convection",
+    "liesegang-rings",
+    "culturing-yeast-for-independent-science",
+    "i-made-a-cheaper-way-to-test-ventilation",
+    "trying-to-make-a-cheaper-air-purifier",
+    "sealing-my-house-against-pathogens",
+    "measuring-my-diy-air-purifier"
+   ]
+  },
+  {
+   "title": "Writing and communicating science",
+   "blurb": "What gaps are there in the pursuit of empiricism at home? How to write, read and replicate.",
+   "slugs": [
+    "how-to-write-better",
+    "you-are-fucked-if-you-cant-write",
+    "you-need-to-read-thomas-kuhn",
+    "how-to-read-something",
+    "a-dinner-on-what-it-means-to-write",
+    "how-do-we-write-science",
+    "writing-what-i-see",
+    "on-good-writing",
+    "its-hard-to-know-if-i-suck-at-writing",
+    "what-counts-as-a-replication"
+   ]
+  },
+  {
+   "title": "Mathematics",
+   "blurb": "Conjectures digested with AI tools, proving things with computers, and teaching maths at scale.",
+   "slugs": [
+    "teaching-cambridge-level-math-at",
+    "ai-is-not-going-to-kill-my-love-of",
+    "i-possibly-resolved-a-conjecture",
+    "oberreiter-seifert-and-baratos-conjecture",
+    "try-to-prove-math-with-computers"
+   ]
+  },
+  {
+   "title": "Experimental technique and equipment",
+   "blurb": "Ways to control conditions at home, and characterising cheap kit before trusting it.",
+   "slugs": [
+    "suggested-experiment-equipment",
+    "autonomous-buying-of-experiment-equipment",
+    "characterising-a-cheap-water-bath",
+    "preparing-algae-for-experiments-at",
+    "measuring-milk-globule-sizes",
+    "a-diy-temperature-controlled-incubator",
+    "on-reduction-to-the-table-top"
+   ]
+  },
+  {
+   "title": "Life",
+   "blurb": "Friends, travel, fear, and the odd bike ride.",
+   "slugs": [
+    "how-to-make-more-friends",
+    "dirt-cheap-holidays",
+    "love-isnt-physics-but-popular-advice",
+    "the-man-i-want-to-meet-the-most",
+    "its-ok-to-be-scared",
+    "how-i-fixed-my-headaches",
+    "for-here-too-gods-dwell",
+    "why-casual-conversations-is-so-hard",
+    "in-memoriam",
+    "being-political-in-the-right-way",
+    "cycling-the-west-country",
+    "a-war-in-the-lake-district"
+   ]
   }
+ ],
+ "hacker_news": [
+  {
+   "slug": "youre-a-slow-thinker-now-what",
+   "date": "2025-09-10",
+   "points": 557,
+   "comments": 238,
+   "hn_id": "45204587"
+  },
+  {
+   "slug": "the-entropy-of-a-markov-chain",
+   "date": "2026-08-05",
+   "points": 146,
+   "comments": 15,
+   "hn_id": "49183017"
+  },
+  {
+   "slug": "i-made-a-quieter-air-purifier",
+   "date": "2025-11-24",
+   "points": 131,
+   "comments": 65,
+   "hn_id": "46039594"
+  },
+  {
+   "slug": "results-from-blasting-yeast-with",
+   "date": "2025-11-12",
+   "points": 82,
+   "comments": 26,
+   "hn_id": "45904161"
+  },
+  {
+   "slug": "measuring-my-diy-air-purifier",
+   "date": "2025-09-27",
+   "points": 75,
+   "comments": 11,
+   "hn_id": "45400114"
+  },
+  {
+   "slug": "noise-cancelling-a-fan",
+   "date": "2025-09-15",
+   "points": 74,
+   "comments": 84,
+   "hn_id": "45255004"
+  },
+  {
+   "slug": "frying-eggs-and-air-quality-tests",
+   "date": "2025-09-16",
+   "points": 72,
+   "comments": 142,
+   "hn_id": "45268293"
+  },
+  {
+   "slug": "testing-a-cheaper-laminar-flow-hood",
+   "date": "2025-12-12",
+   "points": 64,
+   "comments": 17,
+   "hn_id": "46248627"
+  },
+  {
+   "slug": "liesegang-rings",
+   "date": "2026-09-09",
+   "points": 50,
+   "comments": 5,
+   "hn_id": "49626110"
+  },
+  {
+   "slug": "computational-chemistry-locally",
+   "date": "2026-07-21",
+   "points": 42,
+   "comments": 43,
+   "hn_id": "48996119"
+  },
+  {
+   "slug": "a-new-experiment-meta-strategy",
+   "date": "2026-09-25",
+   "points": 34,
+   "comments": 1,
+   "hn_id": "49844266"
+  },
+  {
+   "slug": "i-managed-to-grow-countable-yeast",
+   "date": "2025-10-14",
+   "points": 32,
+   "comments": 12,
+   "hn_id": "45584500"
+  },
+  {
+   "slug": "coulombs-law-remains-tricky-to-test",
+   "date": "2026-09-22",
+   "points": 29,
+   "comments": 23,
+   "hn_id": "49800557"
+  },
+  {
+   "slug": "fluid-dynamics-for-toddlers",
+   "date": "2026-04-23",
+   "points": 12,
+   "comments": 0,
+   "hn_id": "47882565"
+  }
+ ],
+ "_streams_comment": "Archive streams: every post goes into exactly one stream. 'experiment_streams' are the actual experimental project lines, listed by slug, and win over everything else (add a lab write-up slug under 'lab' to link it). Any other post in a Popular category takes that category as its stream (renamed via 'category_rename'); otherwise its tags are tried in the order of 'tag_to_stream'; untagged posts fall back by year.",
+ "streams": {
+  "tag_to_stream": [
+   [
+    "Biosecurity",
+    "Biosecurity"
+   ],
+   [
+    "biology",
+    "Theories of biology"
+   ],
+   [
+    "Metascience",
+    "Independent science"
+   ],
+   [
+    "Math",
+    "Mathematics"
+   ],
+   [
+    "Writing",
+    "Writing and communicating science"
+   ],
+   [
+    "Physics",
+    "Physics and dynamics"
+   ],
+   [
+    "Philosophy",
+    "Life"
+   ],
+   [
+    "Life",
+    "Life"
+   ],
+   [
+    "Economics",
+    "Life"
+   ],
+   [
+    "Entrepreneurship",
+    "Life"
+   ],
+   [
+    "Politics",
+    "Life"
+   ],
+   [
+    "Education",
+    "Life"
+   ],
+   [
+    "AI",
+    "Life"
+   ],
+   [
+    "Artificial Intelligence",
+    "Life"
+   ],
+   [
+    "Experiment",
+    "Home lab: kit and technique"
+   ]
+  ],
+  "untagged_before_year": [
+   2023,
+   "Early physics notes"
+  ],
+  "untagged_fallback": "Miscellany",
+  "order_after_first": [
+   "Biosecurity",
+   "Early physics notes",
+   "Life",
+   "Miscellany"
+  ],
+  "stream_blurbs": {
+   "Biosecurity": "Respirators, far-UVC, ventilation and pandemic resilience.",
+   "Early physics notes": "The 2021–22 explainers written around Part III: quantum Hall, Hopf fibrations, renormalisation and friends. Untagged on Substack, grouped here by date.",
+   "Miscellany": "Posts that fit nowhere else."
+  },
+  "experiment_streams": [
+   {
+    "title": "Transparent chicken",
+    "blurb": "Modifying the optical properties of biological tissue with tartrazine, the yellow dye in Dorito dust.",
+    "slugs": [
+     "making-chicken-transparent-using"
+    ]
+   },
+   {
+    "title": "Algae bioreactor",
+    "blurb": "David Jordan's tabletop bioreactor, algae culture, and the temperature control that it turned out to need.",
+    "slugs": [
+     "so-my-friend-made-me-a-bioreactor",
+     "an-agentic-home-bioreactor",
+     "preparing-algae-for-experiments-at",
+     "better-temperature-control-of-algae",
+     "a-diy-temperature-controlled-incubator",
+     "characterising-a-cheap-water-bath"
+    ],
+    "lab": [
+     "bioreactor-temp-calibration"
+    ]
+   },
+   {
+    "title": "Liesegang rings",
+    "blurb": "Trying to grow periodic precipitation bands from chemical networks.",
+    "slugs": [
+     "liesegang-rings",
+     "liesegang-rings-experiment-update"
+    ]
+   },
+   {
+    "title": "Air purifiers and ventilation",
+    "blurb": "Corsi-Rosenthal boxes, CO₂ decay tests, fan noise and airflow visualisation.",
+    "slugs": [
+     "frying-eggs-and-air-quality-tests",
+     "i-made-a-cheaper-way-to-test-ventilation",
+     "trying-to-make-a-cheaper-air-purifier",
+     "measuring-my-diy-air-purifier",
+     "evidence-that-shrouds-increase-cr",
+     "i-made-a-quieter-air-purifier",
+     "noise-cancelling-a-fan",
+     "did-i-just-make-quantum-dots",
+     "math-for-cleaning-air",
+     "how-to-start-modelling-airflow-ventilation"
+    ]
+   },
+   {
+    "title": "Positive-pressure house",
+    "blurb": "Bio-hardening a living room with fans, foam and a pressure differential.",
+    "slugs": [
+     "can-i-use-air-pressure-to-protect",
+     "diy-positive-pressure-build-log",
+     "sealing-my-house-against-pathogens"
+    ]
+   },
+   {
+    "title": "Home lab: kit and technique",
+    "blurb": "Buying, building and cleaning the lab itself, and what cheap experiments are worth doing.",
+    "slugs": [
+     "suggested-experiment-equipment",
+     "how-to-get-cheaper-lab-equipment",
+     "on-reduction-to-the-table-top",
+     "i-want-to-do-experiments-but-its",
+     "experiments-for-the-independent-science",
+     "starting-to-clean-my-shack-of-a-lab"
+    ]
+   },
+   {
+    "title": "UV light and yeast",
+    "blurb": "Culturing countable yeast colonies at home, then killing them with UV: modelling, sterile technique, a laminar flow hood and an automated sterilisation pump.",
+    "slugs": [
+     "problems-trying-to-model-far-uvc",
+     "calculations-for-practical-heuristics",
+     "culturing-yeast-for-independent-science",
+     "i-managed-to-grow-countable-yeast",
+     "making-an-automated-uv-sterilisation",
+     "results-from-blasting-yeast-with",
+     "my-uv-experiment-worked",
+     "testing-a-cheaper-laminar-flow-hood"
+    ]
+   },
+   {
+    "title": "Brownian motion in milk",
+    "blurb": "Tracking milk globules under a microscope to get at diffusion relations.",
+    "slugs": [
+     "i-observed-some-brownian-motion-at",
+     "improved-tracking-of-brownian-milk",
+     "measuring-milk-globule-sizes"
+    ]
+   },
+   {
+    "title": "Convection and heat",
+    "blurb": "Rayleigh-Bénard cells, convection plumes and a Crookes radiometer rabbit hole.",
+    "slugs": [
+     "making-rayleigh-benard-convection",
+     "trying-to-observe-convection-plumes",
+     "on-a-tube-of-hot-gas"
+    ]
+   },
+   {
+    "title": "Coulomb's law",
+    "blurb": "Electrostatics is harder to test at home than it looks.",
+    "slugs": [
+     "coulombs-law-remains-tricky-to-test"
+    ]
+   },
+   {
+    "title": "Johnson noise rig",
+    "blurb": "Sourcing the parts for a thermal-noise measurement, semi-autonomously.",
+    "slugs": [
+     "autonomous-buying-of-experiment-equipment",
+     "johnson-noise-rig-full-chat-transcript"
+    ]
+   },
+   {
+    "title": "EEG weekend",
+    "blurb": "A weekend measuring brainwaves.",
+    "slugs": [
+     "so-i-got-an-eeg"
+    ]
+   },
+   {
+    "title": "Computational chemistry",
+    "blurb": "Quantum chemistry on remote machines: diabatisation of a dimer, ssh workflows, and whether it can run at home.",
+    "slugs": [
+     "conquering-the-molecules",
+     "computing-properties-of-molecules",
+     "macos-ssh-file-system-sshfs",
+     "computational-chemistry-locally"
+    ]
+   },
+   {
+    "title": "Solar energy",
+    "blurb": "Back-of-envelope solar: space, the Sahara, cell efficiency and installing panels in Malaysia.",
+    "slugs": [
+     "more-thoughts-on-space-solar-energy",
+     "solar-energy-from-the-sahara",
+     "essential-physics-for-the-solar-entrepreneur",
+     "preliminary-thoughts-on-solar-cell"
+    ]
+   }
+  ],
+  "category_rename": {
+   "Experiments at home": "Home lab: kit and technique",
+   "Experimental technique and equipment": "Home lab: kit and technique"
+  },
+  "essay_order": [
+   "Physics and dynamics",
+   "Independent science",
+   "Experiments at home",
+   "Theories of biology",
+   "Experimental technique and equipment",
+   "Mathematics",
+   "Writing and communicating science"
+  ]
+ }
 }

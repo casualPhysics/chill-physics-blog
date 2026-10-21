@@ -1,0 +1,255 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/responding-to-the-irkutsk-quarantine",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 218821518,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-10-04T19:09:23.233Z",
+  "updated_at": "2026-10-04T19:10:40.790Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "responding-to-the-irkutsk-quarantine",
+  "social_title": null,
+  "subtitle": "Mild practical steps taken",
+  "teaser_post_eligible": true,
+  "title": "Responding to the Irkutsk Quarantine News",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 1,
+  "reactions": {
+    "\u2764": 8
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "merging-with-an-llm",
+  "next_post_slug": "has-anyone-counted-londons-respirators",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!FPL-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 218821518,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Mild practical steps taken",
+  "body_html": "<p><em>This is not advice or medical advice. I am writing this in a personal capacity. I am writing this to record my set of actions before a potential pandemic threat. I hope nothing happens and that I am just being paranoid.</em></p><p>I heard of the <a href=\"https://irkutsklive.com/features/irkutsk-overnight-briefing\">quarantine situation</a> in Irkutsk a few hours ago. The quarantine involves a pathogen of some sort. There are photos of staff in hazmat suits on the street. There are estimates of hundreds of people in quarantine. The incident seems to be related to the Antiplague Institute, although that is unclear. The nature of the pathogen is unknown. It is unknown if it was a lab leak. It is unknown if it is plague, what type of plague it is, or if it is an engineered strain of plague. The transmission mechanism is also unknown. </p><p>The situation remains unclear. I have no reasons to trust completely what media is saying, nor what people on Twitter are saying. Reports from Russia have been heavily edited. Russian news is incoherent and confusing. I am not confident enough to say things publicly on Twitter or Substack about the incident; I do not want to cause harm by saying the wrong thing. But also, I have tried to make people aware that there is a situation. </p><p>Because of this uncertainty, there are two actions I have taken. These actions are cheap and don\u2019t cause harm. They pertain to my own sphere of influence, and I am comfortable executing them. </p><p>First, I have dug out my elastomeric respirator that I got from my local ScrewFix. Elastomeric respirators have a rubber seal and are reusable. This makes them more effective than N95s. I am to get another one tomorrow for my girlfriend. One uncertainty is what size of mask would be appropriate for her, so I will get her multiple sizes. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!FPL-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!FPL-!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 424w, https://substackcdn.com/image/fetch/$s_!FPL-!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 848w, https://substackcdn.com/image/fetch/$s_!FPL-!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!FPL-!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!FPL-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg\" width=\"2768\" height=\"3061\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:3061,&quot;width&quot;:2768,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:1619122,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/218821518?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4fafe5db-64e3-4f17-9a4d-b51a1e53e5af_4032x3024.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!FPL-!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 424w, https://substackcdn.com/image/fetch/$s_!FPL-!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 848w, https://substackcdn.com/image/fetch/$s_!FPL-!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!FPL-!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9300c733-f03a-4769-b6f2-21fe7b872081_2768x3061.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Secondly, I got ChatGPT to make a list of provisions for a month for a stockpile scenario. The list is reasonable, although I am worried about the lack of fruit and vegetables. I am not a fan of tinned fruits but whatever. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!cf-B!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!cf-B!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 424w, https://substackcdn.com/image/fetch/$s_!cf-B!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 848w, https://substackcdn.com/image/fetch/$s_!cf-B!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 1272w, https://substackcdn.com/image/fetch/$s_!cf-B!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!cf-B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png\" width=\"860\" height=\"667\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:667,&quot;width&quot;:860,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:84123,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/png&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/218821518?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!cf-B!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 424w, https://substackcdn.com/image/fetch/$s_!cf-B!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 848w, https://substackcdn.com/image/fetch/$s_!cf-B!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 1272w, https://substackcdn.com/image/fetch/$s_!cf-B!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F27f408ab-c42f-4011-9b2b-89d4b6b667dd_860x667.png 1456w\" sizes=\"100vw\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I live very close to a grocer, so I spent 50 pounds on what I could carry. Everything that was in this stockpile list was available at the store. I didn\u2019t get the whole list, but aim to buy more tomorrow. Admittedly it was a bit of a struggle carrying what I bought. The whole process could have been smoother. I spent a lot of time debating in my mind whether I should even bother to go. So if this thing does blow over, I need to have a better stockpile ready to go. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!VfzV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!VfzV!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!VfzV!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!VfzV!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!VfzV!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!VfzV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg\" width=\"1456\" height=\"1941\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:1941,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:3158389,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/jpeg&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:&quot;https://chillphysicsenjoyer.substack.com/i/218821518?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg&quot;,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!VfzV!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 424w, https://substackcdn.com/image/fetch/$s_!VfzV!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 848w, https://substackcdn.com/image/fetch/$s_!VfzV!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!VfzV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4de1d8bb-cb62-494a-af35-bb7f8144e5ef_4032x3024.jpeg 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I also thought in my mind about where I would go during a situation like this. For now, I\u2019ve decided to stay at home. Uncertainty is high, going to an airport would increase entropy of a situation. It would also increase infection risk. </p><p>That being said, my car does have fuel and is ready to go. I live in London, but I have an option to go to a less crowded place. Overall though, I loathe to attempt to leave my house. If I went and my car broke down, I risk being stranded in a situation that could get rapidly worse. I will likely increase my infection risk if I was caught in that situation. So for now, I chose to stay at home. </p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "This is not advice or medical advice. I am writing this in a personal capacity. I am writing this to record my set of actions before a potential pandemic threat. I hope nothing happens and that I am just being paranoid.",
+  "wordcount": 570,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "230b757e-0916-404c-994b-98e4876d0d44",
+      "publication_id": 1692033,
+      "name": "Biosecurity",
+      "slug": "biosecurity",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        197,
+        106,
+        44
+      ],
+      "population": 75
+    },
+    "DarkVibrant": {
+      "rgb": [
+        107,
+        52,
+        17
+      ],
+      "population": 276
+    },
+    "LightVibrant": {
+      "rgb": [
+        234,
+        187,
+        150
+      ],
+      "population": 107
+    },
+    "Muted": {
+      "rgb": [
+        150,
+        130,
+        110
+      ],
+      "population": 532
+    },
+    "DarkMuted": {
+      "rgb": [
+        71,
+        57,
+        44
+      ],
+      "population": 220
+    },
+    "LightMuted": {
+      "rgb": [
+        210,
+        184,
+        166
+      ],
+      "population": 57
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 8,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 218821518,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/218821518/tts/de0d8ebd-fd9f-47c8-9a01-aca007bdba62/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

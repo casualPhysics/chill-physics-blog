@@ -1,0 +1,255 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/calibrating-algae-grower-mini-fridge",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 217649450,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-09-27T10:30:26.062Z",
+  "updated_at": "2026-09-28T20:38:26.473Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "calibrating-algae-grower-mini-fridge",
+  "social_title": "Calibrating Algae Grower Mini-fridge system",
+  "subtitle": "On experimental uncertainty and the feedforward temperature control of bioreactor",
+  "teaser_post_eligible": true,
+  "title": "Calibrating Algae Grower Mini-fridge system",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 3
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "minimal-assumptions-for-societal",
+  "next_post_slug": "the-value-of-experience",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!mcvE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 217649450,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "On experimental uncertainty and the feedforward temperature control of bioreactor",
+  "body_html": "<p>One of the goals of this blog is to calibrate myself better on uncertainties in scientific measurement. This calibration right now feels like the 'tacit knowledge' that experienced experimenters have that I want to learn. Knowing what significant uncertainties are feels useful when judging the validity of a claim. An example of such an uncertainty, which I am working to death ;), is below.</p><p>In an experiment, the selection of acceptable temperature bands is a subjective choice made by the experimenter. For example, one might choose to say that a range of +- 1C might be acceptable for a biological growth rate experiment. A temperature range of +- 10C might be acceptable for a gravitational experiment. And on top of that, there is also uncertainty in the measurement of that temperature; it could be calibration uncertainty, or the declared uncertainty from the equipment.</p><p>But there could also be deeper causes of uncertainty at hand, which may not be obvious unless we thinking about them actively. For example, if you measure the temperature of a room, and there is a source of heating, then a point estimate of the temperature of the room may not be sufficient. This is because the room isn't well mixed, and there could be a temperature fluctuations throughout the room. I had to face a similar type of uncertainty when measuring the concentration of smoke particles for my <a href=\"https://chillphysicsenjoyer.substack.com/p/measuring-my-diy-air-purifier\">air purification experiments</a>  Or suppose that you are heating up some liquid, and you want to measure the temperature of that liquid. In the process of heating, there is also likely to be a temperature gradient there, and you can't assume even-ness in temperature through out.</p><p>Again, these uncertainties may not matter, and their relevance feels like a subjective choice for the experimenter. In many experiments, temperature uncertainty is unlikely to matter at all; if you were looking at the dynamics of a double pendulum, who cares about what its temperature is! But on the other hand, there are examples of temperature variations possibly causing flukes in historical experiments, like in Fleming's discovery of penicillin. In any case, if temperature <em>likely</em> bears even so much as a marginal effect, then temperature ranges should be declared as a relevant uncertainty in an experiment. It feels that a quality of a skilled experimenter is nailing down the suite of subjective uncertainties that may be overlooked by others.</p><p>In <a href=\"https://chillphysicsenjoyer.substack.com/p/a-diy-temperature-controlled-incubator\">my last post</a> I tried to to control the temperature of the bioreactor David Jordan made for me. And again, it's boring, but controlling environment and calibrating my equipment remain to be the biggest technical challenges. My solution to this was to put the bioreactor in a mini-fridge and drill some holes, and use an Inkbird to control the ambient temperature of the fridge at 21C. I would then use the heating element in the bioreactor to control its actual temperature.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!eUyS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!eUyS!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 424w, https://substackcdn.com/image/fetch/$s_!eUyS!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 848w, https://substackcdn.com/image/fetch/$s_!eUyS!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!eUyS!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!eUyS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/fb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!eUyS!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 424w, https://substackcdn.com/image/fetch/$s_!eUyS!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 848w, https://substackcdn.com/image/fetch/$s_!eUyS!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 1272w, https://substackcdn.com/image/fetch/$s_!eUyS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffb49d06f-1437-48aa-a1ee-d21253d95698_3840x2160.jpeg 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And so since the bioreactor had a heating element, I wanted to see if I could calibrate it at different set-point temperatures between 21C and 27C. In <a href=\"https://chillphysicsenjoyer.substack.com/p/an-agentic-home-bioreactor\">my last post</a> I mentioned how the bioreactor had an api to control its temperature.</p><p>So, I let Claude try to write a script to control the temperature with some error around different setpoints. I made the judgement to let AI do this one because I'm no expert in temperature calibration, and the problem itself was a fairly standard one (just some basic optimisation and control). And I guessed that it would be good enough to calibrate things at around +-1C. I expected that several experiments would be necessary for it to learn how to get the calibration right.</p><p>This was the initial run that Claude did. In the first run, you can see that kept overshooting when it went to increase the temperature, and so it took time for the fridge to cool it back down. The dotted line is the setpoint, and the bottom graph shows the heating duty. Again, bear in mind that this is only the temperature at where it's measured, there's no guarantee that this was uniform in the actual vial.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!Oy2F!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!Oy2F!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 424w, https://substackcdn.com/image/fetch/$s_!Oy2F!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 848w, https://substackcdn.com/image/fetch/$s_!Oy2F!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 1272w, https://substackcdn.com/image/fetch/$s_!Oy2F!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!Oy2F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!Oy2F!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 424w, https://substackcdn.com/image/fetch/$s_!Oy2F!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 848w, https://substackcdn.com/image/fetch/$s_!Oy2F!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 1272w, https://substackcdn.com/image/fetch/$s_!Oy2F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F240b2f27-a3f1-4cdc-a07a-68f805f8a021_1100x700.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>In the next run it was still overshooting at the different temperatures.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!VA6a!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!VA6a!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 424w, https://substackcdn.com/image/fetch/$s_!VA6a!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 848w, https://substackcdn.com/image/fetch/$s_!VA6a!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 1272w, https://substackcdn.com/image/fetch/$s_!VA6a!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!VA6a!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!VA6a!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 424w, https://substackcdn.com/image/fetch/$s_!VA6a!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 848w, https://substackcdn.com/image/fetch/$s_!VA6a!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 1272w, https://substackcdn.com/image/fetch/$s_!VA6a!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d6f78c3-9d17-4003-8cc4-525e27d6e533_1300x700.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>In the run after that, it got the bounds a little tighter, so all I had to do was just tell Claude to use that as feedback to try to make the cycle tighter.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!4yPH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!4yPH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 424w, https://substackcdn.com/image/fetch/$s_!4yPH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 848w, https://substackcdn.com/image/fetch/$s_!4yPH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 1272w, https://substackcdn.com/image/fetch/$s_!4yPH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!4yPH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!4yPH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 424w, https://substackcdn.com/image/fetch/$s_!4yPH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 848w, https://substackcdn.com/image/fetch/$s_!4yPH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 1272w, https://substackcdn.com/image/fetch/$s_!4yPH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9aa1bc19-ab76-4378-ba3e-160852592518_1210x770.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>Then in the next run it was working pretty good, within +-, which you can see in the oscillations 1C</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!mcvE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!mcvE!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 424w, https://substackcdn.com/image/fetch/$s_!mcvE!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 848w, https://substackcdn.com/image/fetch/$s_!mcvE!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 1272w, https://substackcdn.com/image/fetch/$s_!mcvE!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!mcvE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/e9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!mcvE!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 424w, https://substackcdn.com/image/fetch/$s_!mcvE!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 848w, https://substackcdn.com/image/fetch/$s_!mcvE!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 1272w, https://substackcdn.com/image/fetch/$s_!mcvE!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe9ae06c0-5308-480b-afbc-f5c5e0c12d40_1210x770.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>And this was the final run - I have suspicions that this one was overfit, and wouldn't really generalise to other situations. More on that later..</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!hvLH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!hvLH!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 424w, https://substackcdn.com/image/fetch/$s_!hvLH!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 848w, https://substackcdn.com/image/fetch/$s_!hvLH!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 1272w, https://substackcdn.com/image/fetch/$s_!hvLH!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!hvLH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!hvLH!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 424w, https://substackcdn.com/image/fetch/$s_!hvLH!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 848w, https://substackcdn.com/image/fetch/$s_!hvLH!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 1272w, https://substackcdn.com/image/fetch/$s_!hvLH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e443de7-1104-45dc-bd1d-da076d236414_1210x770.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>The final that set up Claude chose to do was a feedfoward duty cycle control. And the calibrations above lead to the following parameters.</p><div class=\"latex-rendered\" data-attrs=\"{&quot;persistentExpression&quot;:&quot;\\\\text{duty}_{\\\\text{ff}}(T_{\\\\text{set}}) = \\\\max\\\\!\\\\big(0,\\\\; 1.33\\\\,(T_{\\\\text{set}} - 21) + 0.4\\\\big)\\\\ \\\\%&quot;,&quot;id&quot;:&quot;KJQKFMMQTJ&quot;}\" data-component-name=\"LatexBlockToDOM\"></div><p>Here is some extra stuff that it added on the implementation, including a safety break if the temperature gets too hot. The actual code is in the links on my other website.</p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!pZKU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!pZKU!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 424w, https://substackcdn.com/image/fetch/$s_!pZKU!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 848w, https://substackcdn.com/image/fetch/$s_!pZKU!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 1272w, https://substackcdn.com/image/fetch/$s_!pZKU!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 1456w\" sizes=\"auto, 100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!pZKU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png\" width=\"728\" height=\"409.5\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/04b81688-c218-48f8-8a00-ad762dab7609_837x508.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;normal&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:728,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:true,&quot;topImage&quot;:false,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:null,&quot;offset&quot;:false}\" class=\"sizing-normal\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!pZKU!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 424w, https://substackcdn.com/image/fetch/$s_!pZKU!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 848w, https://substackcdn.com/image/fetch/$s_!pZKU!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 1272w, https://substackcdn.com/image/fetch/$s_!pZKU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04b81688-c218-48f8-8a00-ad762dab7609_837x508.png 1456w\" sizes=\"auto, 100vw\" loading=\"lazy\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p><em>Thanks as always to David Jordan for the support.</em></p><h2>Links</h2><ul><li><p><a href=\"https://casualphysics.github.io/chill-physics-blog/lab/bioreactor-temp-calibration.html\">Write-up on the site</a></p></li><li><p><a href=\"https://casualphysics.github.io/chill-physics-blog/lab/bioreactor-temp-calibration/temp_step_calibration.py\">Controller code</a></p></li><li><p><a href=\"https://casualphysics.github.io/chill-physics-blog/lab/bioreactor-temp-calibration/FINDINGS.md\">Findings</a></p></li><li><p><a href=\"https://casualphysics.github.io/chill-physics-blog/lab/bioreactor-temp-calibration/transcript.html\">Session transcript</a></p></li></ul>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "One of the goals of this blog is to calibrate myself better on uncertainties in scientific measurement. This calibration right now feels like the 'tacit knowledge' that experienced experimenters have that I want to learn. Knowing what significant uncertainties are feels useful when judging the validity of a claim. An example of such an uncertainty, whic\u2026",
+  "wordcount": 848,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "bbe9cb9f-1f3f-4654-a410-f614a73fe12b",
+      "publication_id": 1692033,
+      "name": "biology",
+      "slug": "biology",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        148,
+        204,
+        148
+      ],
+      "population": 2
+    },
+    "DarkVibrant": {
+      "rgb": [
+        42.801265822784806,
+        89.7987341772152,
+        42.801265822784806
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        236,
+        164,
+        164
+      ],
+      "population": 3
+    },
+    "Muted": {
+      "rgb": [
+        178,
+        168,
+        133
+      ],
+      "population": 12
+    },
+    "DarkMuted": {
+      "rgb": [
+        49.38607594936708,
+        103.61392405063292,
+        49.38607594936708
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        164,
+        209,
+        164
+      ],
+      "population": 8
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 3,
+  "comment_count": 0,
+  "child_comment_count": 0,
+  "audio_items": [
+    {
+      "post_id": 217649450,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/217649450/tts/5581b5b3-58f9-4c42-b5b2-b1f10eb0cd14/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": []
+}

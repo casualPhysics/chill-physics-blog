@@ -1,0 +1,323 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 218245617,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-09-30T21:24:14.909Z",
+  "updated_at": "2026-09-30T21:25:25.305Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "how-to-select-an-experiment",
+  "social_title": null,
+  "subtitle": "More on experiment metastrategy",
+  "teaser_post_eligible": true,
+  "title": "How to Select an Experiment",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 2,
+  "reactions": {
+    "\u2764": 5
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "the-value-of-experience",
+  "next_post_slug": "merging-with-an-llm",
+  "cover_image": "https://substackcdn.com/image/fetch/$s_!bEsi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png",
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 218245617,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "More on experiment metastrategy",
+  "body_html": "<p>I mostly do science for the fun of it. I wake up and my brain chooses something fun to do in a way that feels random. This is perfectly valid and something I encourage. Indeed, a lot of great discoveries have happened this way!</p><p>But sometimes I have a lot of fun things to try, and I want to optimise my scientific choices. If you have experiment ideas that seem equally promising, how do you select which ones to start with?</p><p>One way might be:</p><ol><li><p>List out all of your experiments.</p></li><li><p>Rank them on different factors.</p></li><li><p>For each experiment, average the rankings.</p></li><li><p>Start with the ones with the highest average ranking.</p></li></ol><p>The initial guess is unlikely to be right, but it's better than guessing. A few months ago, it would have been unreasonable to do this because of the work it would take to rank many factors across experiments. But now we have LLMs. In my experience, they have at least been able to estimate costs well. </p><p>Here is a preliminary prototype of what I made to estimate the average ranking of each choice. </p><div class=\"captioned-image-container\"><figure><a class=\"image-link image2 is-viewable-img\" target=\"_blank\" href=\"https://substackcdn.com/image/fetch/$s_!bEsi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png\" data-component-name=\"Image2ToDOM\"><div class=\"image2-inset image2-full-screen\"><picture><source type=\"image/webp\" srcset=\"https://substackcdn.com/image/fetch/$s_!bEsi!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 424w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 848w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1272w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1456w\" sizes=\"100vw\"><img src=\"https://substackcdn.com/image/fetch/$s_!bEsi!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png\" data-attrs=\"{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:false,&quot;imageSize&quot;:&quot;full&quot;,&quot;height&quot;:819,&quot;width&quot;:1456,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:null,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;captionedImage&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null,&quot;isProcessing&quot;:false,&quot;align&quot;:&quot;center&quot;,&quot;offset&quot;:false}\" class=\"sizing-fullscreen\" alt=\"\" srcset=\"https://substackcdn.com/image/fetch/$s_!bEsi!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 424w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 848w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1272w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1456w\" sizes=\"100vw\" fetchpriority=\"high\"></picture><div class=\"image-link-expand\"><div class=\"pencraft pc-display-flex pc-gap-8 pc-reset\"><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container restack-image buttonBase-GK1x3M\"><svg aria-hidden=\"true\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\" stroke-width=\"1.5\" stroke=\"var(--color-fg-primary)\" stroke-linecap=\"round\" stroke-linejoin=\"round\" xmlns=\"http://www.w3.org/2000/svg\" class=\"icon-noB79L\"><g><path d=\"M2.53001 7.81595C3.49179 4.73911 6.43281 2.5 9.91173 2.5C13.1684 2.5 15.9537 4.46214 17.0852 7.23684L17.6179 8.67647M17.6179 8.67647L18.5002 4.26471M17.6179 8.67647L13.6473 6.91176M17.4995 12.1841C16.5378 15.2609 13.5967 17.5 10.1178 17.5C6.86118 17.5 4.07589 15.5379 2.94432 12.7632L2.41165 11.3235M2.41165 11.3235L1.5293 15.7353M2.41165 11.3235L6.38224 13.0882\"></path></g></svg></button><button tabindex=\"0\" type=\"button\" class=\"pencraft pc-reset pencraft icon-container view-image buttonBase-GK1x3M\"><svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-maximize2 lucide-maximize-2 icon-noB79L\"><polyline points=\"15 3 21 3 21 9\"></polyline><polyline points=\"9 21 3 21 3 15\"></polyline><line x1=\"21\" x2=\"14\" y1=\"3\" y2=\"10\"></line><line x1=\"3\" x2=\"10\" y1=\"21\" y2=\"14\"></line></svg></button></div></div></div></a></figure></div><p>I fed the following factors for Claude to rank. I got it to rank interestingness from what I\u2019ve written about before. </p><p><strong>Cost</strong></p><p>Most independent scientists are self-funded, myself included. Probably less than 5% of us with self-funded home labs spend more than $1000 a month. Most of the community is constrained by cost. Even for those who aren't, it is worth getting bang for your buck. Even though hardware costs are decreasing, the cost of living and real estate are increasing. Therefore, personal savings are useful to have in a world with intense debate around LLMs and jobs. All the more reason to keep costs low.</p><p>This gives us constraints to work with, since indeps have more reason than other labs to minimise cost. But constraints often give rise to creativity! Again, this may give us an edge.</p><p><strong>Feasibility</strong></p><p>An experiment is less feasible if it is long and complex to do. Oftentimes this applies to biological experiments because of contamination risk (although this is something I am trying to solve). If two experiments are equally interesting, then shouldn't you want to do the simpler experiment? A long and complex experiment is likely to give more uncertainties and errors than a simpler one. Uncertainties are not necessarily bad - I have talked about type B uncertainty in a previous post - but the experimenter needs to put effort into communicating both measurement and subjective uncertainties.</p><p><strong>Interestingness</strong></p><p>Interestingness can be defined however you'd like. This factor is likely to be the only one where an LLM can't really help, and you should rank based on your feelings. Alternatively, you can ask LLMs to proxy you from your previous writings. For me, things are interesting when there is beautiful mathematics involved. For example, the dripping water experiment uses methods from chaos theory.</p><p><strong>Experimental uncertainty</strong></p><p>When taking fine measurements, or using complex sensors, it is likely that there is going to be uncertainty involved. There is likely to be measurement uncertainty, such as from the calibration of your digital calliper or your thermal probes. There are also subjective uncertainties that are less obvious. For example, the well-mixedness assumption in a thermal experiment may or may not hold true. There may be turbulent effects in your fluids experiment that affect what you want to study. There may be unknown unknowns that you can't even quantify, but that you suspect. Given your equipment, it is prudent to minimise experimental uncertainty where you can.</p><p><strong>Moral expected value</strong></p><p>It would be bad if your science could be used for bad things, so experimenting with things that are obviously bad is bad. I did work on DIY biosecurity measures because I didn't think it would be harmful. There was a chance that the work might even have been useful.</p><p>That being said, most science is dual-purpose and initially feels morally neutral. In those cases, it is unclear what the long-term moral outcomes of those scientific actions are. Here, the experimenter is in a situation of <em>moral uncertainty</em>, which is a topic I don't think is written about enough. We usually talk about how to act in cases where we know what the right and wrong things are. But the decision theory for cases where right and wrong are unclear, or where moral frameworks are not obvious, is not that developed.</p><p><strong>Contrarian-ness</strong></p><p>Experiments that have the potential to disprove a well-known dogma or paradigm always feel <em>strong</em>. I have more conviction that if you\u2019re going to spend time on stuff, then it\u2019s probably worth trying to find something that would up-end literature in some way. Kuhn writes about this in <em>The Structure of Scientific Revolutions</em>.</p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "I mostly do science for the fun of it. I wake up and my brain chooses something fun to do in a way that feels random. This is perfectly valid and something I encourage. Indeed, a lot of great discoveries have happened this way!",
+  "wordcount": 796,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "coverImagePalette": {
+    "Vibrant": {
+      "rgb": [
+        40,
+        148,
+        252
+      ],
+      "population": 2
+    },
+    "DarkVibrant": {
+      "rgb": [
+        1.824770642201825,
+        67.51651376146788,
+        130.77522935779817
+      ],
+      "population": 0
+    },
+    "LightVibrant": {
+      "rgb": [
+        228,
+        250,
+        128
+      ],
+      "population": 100
+    },
+    "Muted": {
+      "rgb": [
+        140,
+        172,
+        87
+      ],
+      "population": 13
+    },
+    "DarkMuted": {
+      "rgb": [
+        2.1055045871559566,
+        77.90366972477052,
+        150.89449541284404
+      ],
+      "population": 0
+    },
+    "LightMuted": {
+      "rgb": [
+        187,
+        188,
+        188
+      ],
+      "population": 180
+    }
+  },
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 5,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 218245617,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/218245617/tts/3fe29cc9-0564-44b0-a6dd-2afc960f2b74/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 354893566,
+      "body": "this is really cool!!",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "this is really cool!!"
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 218245617,
+      "user_id": 5309532,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-10-07T07:56:09.815Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Arina Berezovsky",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/c969cff8-8f31-4509-ba6c-88c41fdf1564_1125x1125.jpeg",
+      "handle": "arinaberezovsky22",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 0
+      },
+      "reaction_count": 0,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "arinaberezovsky22",
+      "metadata": {
+        "is_author": false,
+        "membership_state": null,
+        "eligibleForGift": true
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      },
+      "score": 1,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}

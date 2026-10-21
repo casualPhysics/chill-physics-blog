@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to Select an Experiment &mdash; Casual Physics Enjoyer</title>
+<link rel="stylesheet" href="../style.css?v=957f7cba">
+<script>
+  MathJax = { tex: {inlineMath: [['$','$'], ['\\(','\\)']]}, svg: {fontCache: 'global'} };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body class="">
+<div class="site">
+  <header class="site-header">
+    <h1 class="site-title"><a href="../index.html">Casual Physics Enjoyer</a></h1>
+    <p class="site-tagline">I try to do science in my house &mdash; also on <a href="https://chillphysicsenjoyer.substack.com/">Substack</a>.</p>
+    <nav class="site-nav">
+      
+      <a href="../popular.html">Popular</a>
+      <a href="../archive.html">Archive</a>
+      <a href="../about.html">About</a>
+    </nav>
+  </header>
+
+
+  <main class="content">
+    
+
+<article class="post">
+  <header class="post-header">
+    <h2 class="post-title">How to Select an Experiment</h2>
+    <p class="post-meta">
+      <span class="post-date">30 September 2026</span>
+      &middot; <span class="post-subtitle">More on experiment metastrategy</span>
+    </p>
+  </header>
+
+  <div class="post-body">
+    <p>I mostly do science for the fun of it. I wake up and my brain chooses something fun to do in a way that feels random. This is perfectly valid and something I encourage. Indeed, a lot of great discoveries have happened this way!</p><p>But sometimes I have a lot of fun things to try, and I want to optimise my scientific choices. If you have experiment ideas that seem equally promising, how do you select which ones to start with?</p><p>One way might be:</p><ol><li><p>List out all of your experiments.</p></li><li><p>Rank them on different factors.</p></li><li><p>For each experiment, average the rankings.</p></li><li><p>Start with the ones with the highest average ranking.</p></li></ol><p>The initial guess is unlikely to be right, but it's better than guessing. A few months ago, it would have been unreasonable to do this because of the work it would take to rank many factors across experiments. But now we have LLMs. In my experience, they have at least been able to estimate costs well. </p><p>Here is a preliminary prototype of what I made to estimate the average ranking of each choice. </p><div class="captioned-image-container"><figure><a class="image-link image2 is-viewable-img" data-component-name="Image2ToDOM" href="https://substackcdn.com/image/fetch/$s_!bEsi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png" target="_blank"><div class="image2-inset image2-full-screen"><picture><source sizes="100vw" srcset="https://substackcdn.com/image/fetch/$s_!bEsi!,w_424,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 424w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_848,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 848w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1272,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1272w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1456w" type="image/webp"/><img alt="" class="sizing-fullscreen" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png","srcNoWatermark":null,"fullscreen":false,"imageSize":"full","height":819,"width":1456,"resizeWidth":null,"bytes":null,"alt":null,"title":null,"type":"captionedImage","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":null,"isProcessing":false,"align":"center","offset":false}' fetchpriority="high" sizes="100vw" src="https://substackcdn.com/image/fetch/$s_!bEsi!,w_5760,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png" srcset="https://substackcdn.com/image/fetch/$s_!bEsi!,w_424,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 424w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_848,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 848w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1272,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1272w, https://substackcdn.com/image/fetch/$s_!bEsi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40221ba8-e46f-4eb8-86ff-72c8781e70e7_1807x916.png 1456w"/></picture><div class="image-link-expand"></div></div></a></figure></div><p>I fed the following factors for Claude to rank. I got it to rank interestingness from what I’ve written about before. </p><p><strong>Cost</strong></p><p>Most independent scientists are self-funded, myself included. Probably less than 5% of us with self-funded home labs spend more than $1000 a month. Most of the community is constrained by cost. Even for those who aren't, it is worth getting bang for your buck. Even though hardware costs are decreasing, the cost of living and real estate are increasing. Therefore, personal savings are useful to have in a world with intense debate around LLMs and jobs. All the more reason to keep costs low.</p><p>This gives us constraints to work with, since indeps have more reason than other labs to minimise cost. But constraints often give rise to creativity! Again, this may give us an edge.</p><p><strong>Feasibility</strong></p><p>An experiment is less feasible if it is long and complex to do. Oftentimes this applies to biological experiments because of contamination risk (although this is something I am trying to solve). If two experiments are equally interesting, then shouldn't you want to do the simpler experiment? A long and complex experiment is likely to give more uncertainties and errors than a simpler one. Uncertainties are not necessarily bad - I have talked about type B uncertainty in a previous post - but the experimenter needs to put effort into communicating both measurement and subjective uncertainties.</p><p><strong>Interestingness</strong></p><p>Interestingness can be defined however you'd like. This factor is likely to be the only one where an LLM can't really help, and you should rank based on your feelings. Alternatively, you can ask LLMs to proxy you from your previous writings. For me, things are interesting when there is beautiful mathematics involved. For example, the dripping water experiment uses methods from chaos theory.</p><p><strong>Experimental uncertainty</strong></p><p>When taking fine measurements, or using complex sensors, it is likely that there is going to be uncertainty involved. There is likely to be measurement uncertainty, such as from the calibration of your digital calliper or your thermal probes. There are also subjective uncertainties that are less obvious. For example, the well-mixedness assumption in a thermal experiment may or may not hold true. There may be turbulent effects in your fluids experiment that affect what you want to study. There may be unknown unknowns that you can't even quantify, but that you suspect. Given your equipment, it is prudent to minimise experimental uncertainty where you can.</p><p><strong>Moral expected value</strong></p><p>It would be bad if your science could be used for bad things, so experimenting with things that are obviously bad is bad. I did work on DIY biosecurity measures because I didn't think it would be harmful. There was a chance that the work might even have been useful.</p><p>That being said, most science is dual-purpose and initially feels morally neutral. In those cases, it is unclear what the long-term moral outcomes of those scientific actions are. Here, the experimenter is in a situation of <em>moral uncertainty</em>, which is a topic I don't think is written about enough. We usually talk about how to act in cases where we know what the right and wrong things are. But the decision theory for cases where right and wrong are unclear, or where moral frameworks are not obvious, is not that developed.</p><p><strong>Contrarian-ness</strong></p><p>Experiments that have the potential to disprove a well-known dogma or paradigm always feel <em>strong</em>. I have more conviction that if you’re going to spend time on stuff, then it’s probably worth trying to find something that would up-end literature in some way. Kuhn writes about this in <em>The Structure of Scientific Revolutions</em>.</p>
+  </div>
+
+  
+  <p class="post-tags">Filed under: Philosophy</p>
+  
+
+  <p class="post-perma">
+    <a href="https://chillphysicsenjoyer.substack.com/p/how-to-select-an-experiment">Read on Substack</a>
+     &middot; <a href="the-value-of-experience.html">&laquo; Previous</a>
+     &middot; <a href="merging-with-an-llm.html">Next &raquo;</a>
+  </p>
+</article>
+
+
+  </main>
+
+  <footer class="site-footer">
+    <p>Mirror of <a href="https://chillphysicsenjoyer.substack.com/">chillphysicsenjoyer.substack.com</a>.
+       Built statically, in the spirit of <a href="https://johncarlosbaez.wordpress.com/">Azimuth</a>.</p>
+  </footer>
+</div>
+</body>
+</html>

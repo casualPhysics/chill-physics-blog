@@ -1,0 +1,318 @@
+{
+  "audience": "everyone",
+  "audience_before_archived": null,
+  "canonical_url": "https://chillphysicsenjoyer.substack.com/p/merging-with-an-llm",
+  "default_comment_sort": null,
+  "editor_v2": false,
+  "exempt_from_archive_paywall": false,
+  "free_unlock_required": false,
+  "id": 218684290,
+  "podcast_art_url": null,
+  "podcast_duration": null,
+  "podcast_preview_upload_id": null,
+  "podcast_upload_id": null,
+  "podcast_url": null,
+  "post_date": "2026-10-03T20:43:10.161Z",
+  "updated_at": "2026-10-03T20:43:31.979Z",
+  "publication_id": 1692033,
+  "search_engine_description": null,
+  "search_engine_title": null,
+  "section_id": null,
+  "should_send_free_preview": false,
+  "show_guest_bios": true,
+  "slug": "merging-with-an-llm",
+  "social_title": null,
+  "subtitle": "Can an LLM reconstruct my values from small data?",
+  "teaser_post_eligible": true,
+  "title": "Merging With An LLM ",
+  "type": "newsletter",
+  "video_upload_id": null,
+  "write_comment_permissions": "everyone",
+  "meter_type": "none",
+  "live_stream_id": null,
+  "is_published": true,
+  "restacks": 0,
+  "reactions": {
+    "\u2764": 5
+  },
+  "top_exclusions": [],
+  "pins": [],
+  "section_pins": [],
+  "has_shareable_clips": false,
+  "previous_post_slug": "how-to-select-an-experiment",
+  "next_post_slug": "responding-to-the-irkutsk-quarantine",
+  "cover_image": null,
+  "cover_image_is_square": false,
+  "cover_image_is_explicit": false,
+  "videoUpload": null,
+  "podcastFields": {
+    "post_id": 218684290,
+    "podcast_episode_number": null,
+    "podcast_season_number": null,
+    "podcast_episode_type": null,
+    "should_syndicate_to_other_feed": null,
+    "syndicate_to_section_id": null,
+    "hide_from_feed": false,
+    "free_podcast_url": null,
+    "free_podcast_duration": null,
+    "preview_contains_ad": false,
+    "was_imported_self_serve_sync": false,
+    "draft_free_podcast_url": null,
+    "draft_free_podcast_duration": null
+  },
+  "podcastUpload": null,
+  "podcastPreviewUpload": null,
+  "voiceover_upload_id": null,
+  "voiceoverUpload": null,
+  "has_voiceover": false,
+  "description": "Can an LLM reconstruct my values from small data?",
+  "body_html": "<p>LLM capabilities are increasing. They cause risks to financial and logistical infrastructure, and make engineered pandemics more likely. So we should work on safety of these models and also societal mitigation efforts. Maybe even pause (?). </p><p>But in this post I will address an emotional part of human disempowerment that comes with smarter AI systems. </p><p>Computers can do things better than we can, and this hurts our ego. It sucks that we can no longer be uniquely good at something. When humans were the most intelligent things around, if you were unskilled, you could at least <em>dream that one day you could great</em>. But now, even the most skilled of us are unlikely to win against the machines on any timescale. Scientists and mathematicians are demoralised. So are artists.</p><p>This is hurtful, partly because we consider computers separate from us. The computer is a different thing, separate from our sense of self. This separate entity removes a source of happiness, like the feeling of being good at something. This makes us feel bad and disempowered. Another word for this is competition. We are in competition with the machines, and we have lost. The language we use to describe this is \u201cY has beaten me at X\u201d.</p><p>But could I change the framing so that it feels better? Could I reframe so that I am excited about the prospects of LLM intelligence? If so, I might feel more empowered. </p><p>One language game might be to consider <em>LLMs as part of our being.</em> Right now, we have an <em>idealogical</em> <em>boundary</em> between LLMs and ourselves. Could the feeling of disempowerment be solved by removing this idealogical line?</p><p>Why do English football fans, many of which are bitter rivals during the English Premier League, suddenly all band together during the World Cup? They consider themselves as one entity, and remove the idealogical lines from local teams during World Cup years.</p><p>Most people America felt good when the first moon landing happened. Amongst Americans, there was no competition nor adversity, despite Republican and Democrat divides. Why? American humans considered themselves as one entity. For a moment, <em>America was Neil Armstrong</em> (except the Soviets, who considered themselves as separate). </p><p>Suppose that I removed the idealogical boundary between me and and an LLM. In this paradigm, the LLM becomes as an extension of me. <em>I merge with the LLM.</em> If I do this, will I feel less bad about my inadequacy against the machine? How can I compete with something that I consider part of myself?</p><p>Maybe this is the solution to the disempowerment. If I prompt an LLM to do something great, then the emotional win is for both the <em><strong>LLM and I</strong></em>. I cease to feel bad.</p><p>There is one complication though. The ideological merge almost surely involves a third party, an unwanted dinner guest. This third party is the model provider; OpenAI, Anthropic, Deepmind, or whoever. With a third party, there are many bad things that can be injected in the merge. They might inject their values in unsavoury ways. They could invade your privacy. The LLM might run away and imitate you in ways that you don\u2019t want.</p><p>Therefore, the only acceptable merge would be merge with a local LLM on a local GPU cluster. This local LLM would reflect my values and beliefs and enhance them in ways that I feel comfortable with. Right now, there is no such service for me to design my own local aligned LLM. I don\u2019t have enough compute. I have been experimenting with models that can run on Mac M4 Studio memory but the results have been bad.</p><p>I need a way to fully specify my values and beliefs, and transfer them fully to the local LLM. One way could be having my LLM learn continuously from my Obsidian and blog, and then have it ask me about my beliefs to fill in the gaps. For unspecified moral problems, maybe it could extrapolate from what I have already. </p><p>I don\u2019t know how much data it would need though.</p><p>This is because mathematically, my ideals and beliefs from a very high dimensional space. The high dimensional space changes, and its unclear what the principal eigenvectors of this high dimensional space is. The high dimensional space gets projected down to my writing, and this writing is supposed to reflect my values.</p><p>For an LLM to be fully aligned, it would need to take the low dimensional space of my writing and then recreate the high dimensional space that is my complete value set. But this is a problem of information loss. The idea of recreating a high dimensional space from low dimensional space has deep connections with complex systems and theoretical physics. The holographic principle in string theory relates information in lower dimensional boundaries to a higher dimensional <em>bulk</em>. In complex systems research people try to recreate dynamics from a reduced representation called phase space.</p><p>But its unclear how successful this approach would be in an LLM and values context.</p><p>For example, would my feelings on capitalism be enough for an LLM to infer my feelings on abortion? Would my feelings on veganism be enough for an LLM to infer whether I want to buy that new toaster? Is this problem just a facade of the alignment problem that everyone\u2019s working on right now? It\u2019s all unclear. </p><p><strong>Acknowledgements</strong></p><p><em>Ideas sparked from an Independent Science Society dinner with Ariel Cheng. All views and mistakes my own.</em></p>",
+  "has_dynamic_content": false,
+  "truncated_body_text": "LLM capabilities are increasing. They cause risks to financial and logistical infrastructure, and make engineered pandemics more likely. So we should work on safety of these models and also societal mitigation efforts. Maybe even pause (?).",
+  "wordcount": 906,
+  "post_preview_limit": null,
+  "language": "en",
+  "postTags": [
+    {
+      "id": "40368706-9c9f-4636-bbce-fe63e6b87943",
+      "publication_id": 1692033,
+      "name": "Philosophy",
+      "slug": "philosophy",
+      "hidden": false
+    }
+  ],
+  "postCountryBlocks": [],
+  "headlineTest": null,
+  "publishedBylines": [
+    {
+      "id": 49747279,
+      "name": "CasualPhysicsEnjoyer",
+      "handle": "casualphysicsenjoyer",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/b5c89f9b-67e1-4fd6-839c-4c9b91fd115a_2101x2101.png",
+      "bio": "Testing to see if good science can be done at home. All writing reflects my own views. ",
+      "profile_set_up_at": "2022-02-03T23:04:05.601Z",
+      "reader_installed_at": "2023-05-30T08:29:56.462Z",
+      "publicationUsers": [
+        {
+          "id": 1669742,
+          "user_id": 49747279,
+          "publication_id": 1692033,
+          "role": "admin",
+          "public": true,
+          "is_primary": true,
+          "publication": {
+            "id": 1692033,
+            "name": "Casual Physics Enjoyer",
+            "subdomain": "chillphysicsenjoyer",
+            "custom_domain": null,
+            "custom_domain_optional": false,
+            "hero_text": "Testing to see if good science can be done at home. ",
+            "logo_url": null,
+            "author_id": 49747279,
+            "primary_user_id": 49747279,
+            "theme_var_background_pop": "#A33ACB",
+            "created_at": "2023-05-28T15:49:15.589Z",
+            "email_from_name": null,
+            "copyright": "Casual Physics Enjoyer",
+            "founding_plan_name": "Institutional",
+            "community_enabled": true,
+            "invite_only": false,
+            "payments_state": "enabled",
+            "language": null,
+            "explicit": false,
+            "homepage_type": "magaziney",
+            "is_personal_mode": false,
+            "logo_url_wide": null
+          }
+        }
+      ],
+      "is_guest": false,
+      "bestseller_tier": null,
+      "status": {
+        "bestsellerTier": null,
+        "subscriberTier": null,
+        "leaderboard": null,
+        "vip": false,
+        "badge": null,
+        "subscriber": null
+      }
+    }
+  ],
+  "reaction": null,
+  "reaction_count": 5,
+  "comment_count": 1,
+  "child_comment_count": 1,
+  "audio_items": [
+    {
+      "post_id": 218684290,
+      "voice_id": "en-GB-AdaMultilingualNeural",
+      "audio_url": "https://substack-video.s3.amazonaws.com/video_upload/post/218684290/tts/f4173646-4ed4-4d7d-b465-0207d3e82d83/en-GB-AdaMultilingualNeural.mp3",
+      "type": "tts",
+      "status": "completed"
+    }
+  ],
+  "vg_wort_pixel_url": null,
+  "is_geoblocked": false,
+  "is_editor_preview": false,
+  "hasCashtag": false,
+  "unlockedWithIP": false,
+  "unlockedWithCampaign": false,
+  "themeVariables": {
+    "color_theme_bg_pop": "#e11d48",
+    "background_pop": "#e11d48",
+    "color_theme_bg_web": "#f0fdf4",
+    "cover_bg_color": "#f0fdf4",
+    "cover_bg_color_secondary": "#e2eee5",
+    "background_pop_darken": "#ca1a41",
+    "print_on_pop": "#ffffff",
+    "color_theme_bg_pop_darken": "#ca1a41",
+    "color_theme_print_on_pop": "#ffffff",
+    "color_theme_bg_pop_20": "rgba(225, 29, 72, 0.2)",
+    "color_theme_bg_pop_30": "rgba(225, 29, 72, 0.3)",
+    "print_pop": "#e11d48",
+    "color_theme_accent": "#e11d48",
+    "cover_print_primary": "#363737",
+    "cover_print_secondary": "#757575",
+    "cover_print_tertiary": "#b6b6b6",
+    "cover_border_color": "#e11d48",
+    "home_hero": "feature",
+    "home_posts": "custom",
+    "web_bg_color": "#f0fdf4",
+    "background_contrast_1": "#e2eee5",
+    "background_contrast_2": "#d0dbd3",
+    "background_contrast_3": "#acb6af",
+    "background_contrast_4": "#8a918c",
+    "background_contrast_5": "#4c504d",
+    "color_theme_bg_contrast_1": "#e2eee5",
+    "color_theme_bg_contrast_2": "#d0dbd3",
+    "color_theme_bg_contrast_3": "#acb6af",
+    "color_theme_bg_contrast_4": "#8a918c",
+    "color_theme_bg_contrast_5": "#4c504d",
+    "color_theme_bg_elevated": "#f0fdf4",
+    "color_theme_bg_elevated_secondary": "#e2eee5",
+    "color_theme_bg_elevated_tertiary": "#d0dbd3",
+    "color_theme_detail": "#d8e4dc",
+    "background_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "color_theme_bg_contrast_pop": "rgba(225, 29, 72, 0.4)",
+    "theme_bg_is_dark": "0",
+    "print_on_web_bg_color": "hsl(138.4615384615385, 19.805720453318965%, 28.90196078431373%)",
+    "print_secondary_on_web_bg_color": "#808683",
+    "background_pop_rgb": "225, 29, 72",
+    "color_theme_bg_pop_rgb": "225, 29, 72",
+    "color_theme_accent_rgb": "225, 29, 72"
+  },
+  "comments": [
+    {
+      "id": 352252594,
+      "body": "I am happy I provided some brainfood!\n\n> Maybe this is the solution to the disempowerment. If I prompt an LLM to do something great, then the emotional win is for both the LLM and I. I cease to feel bad.\n\nNo, I think this is a solution to *feeling disempowered* but not *disempowerment*. Your feelings about whether you're disempowered may or may not track the reality of whether you're actually disempowered. I think it is better to change the reality of whether you're actually disempowered and then let your feelings can catch up with the reality afterward, than to delude yourself that actually it's the LLM + you that did it. Cyborg combinations of LLM + you might actually be better than just LLM, for a while, but this won't always be true as LLM gets smarter.\n\nI say delude because---suppose my prompt is \"haha pls solve riemann hypothesis thx\", and this results in the model solving the Riemann Hypothesis. I think I would be deluding myself to say that LLM + me did it.\n\nI think you try to address the \"how to actually get empowered, instead of just thinking one is empowered?\" question in the latter part of your post, but I think solving alignment (in the sense you lay out above) does not imply solving empowerment. Consider those WALL-E people who sit in their chairs all day; the systems hooked up to them are aligned, but arguably the people aren't very empowered! In another sense, though, they are empowered by the systems. It's interesting.",
+      "body_json": {
+        "type": "doc",
+        "attrs": {
+          "schemaVersion": "v1",
+          "title": null
+        },
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I am happy I provided some brainfood!"
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "> Maybe this is the solution to the disempowerment. If I prompt an LLM to do something great, then the emotional win is for both the LLM and I. I cease to feel bad."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "No, I think this is a solution to *feeling disempowered* but not *disempowerment*. Your feelings about whether you're disempowered may or may not track the reality of whether you're actually disempowered. I think it is better to change the reality of whether you're actually disempowered and then let your feelings can catch up with the reality afterward, than to delude yourself that actually it's the LLM + you that did it. Cyborg combinations of LLM + you might actually be better than just LLM, for a while, but this won't always be true as LLM gets smarter."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I say delude because---suppose my prompt is \"haha pls solve riemann hypothesis thx\", and this results in the model solving the Riemann Hypothesis. I think I would be deluding myself to say that LLM + me did it."
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "type": "text",
+                "text": "I think you try to address the \"how to actually get empowered, instead of just thinking one is empowered?\" question in the latter part of your post, but I think solving alignment (in the sense you lay out above) does not imply solving empowerment. Consider those WALL-E people who sit in their chairs all day; the systems hooked up to them are aligned, but arguably the people aren't very empowered! In another sense, though, they are empowered by the systems. It's interesting."
+              }
+            ]
+          }
+        ]
+      },
+      "publication_id": 1692033,
+      "post_id": 218684290,
+      "user_id": 163587899,
+      "ancestor_path": "",
+      "type": "comment",
+      "deleted": false,
+      "date": "2026-10-03T21:54:08.686Z",
+      "edited_at": null,
+      "status": "published",
+      "pinned_by_user_id": null,
+      "restacks": 0,
+      "name": "Ariel Cheng",
+      "photo_url": "https://substack-post-media.s3.amazonaws.com/public/images/90b4d45c-ccd7-4956-82cf-abf5a1db425d_700x700.jpeg",
+      "handle": "arielcheng",
+      "reactor_names": [],
+      "reaction": null,
+      "reactions": {
+        "\u2764": 1
+      },
+      "reaction_count": 1,
+      "children": [],
+      "bans": [],
+      "suppressed": false,
+      "user_banned": false,
+      "user_banned_for_comment": false,
+      "user_slug": "arielcheng",
+      "metadata": {
+        "is_author": false,
+        "membership_state": "free_signup",
+        "eligibleForGift": true,
+        "author_on_other_pub": {
+          "name": "sum ergo cogito",
+          "id": 2064057,
+          "base_url": "https://arielcheng.substack.com"
+        }
+      },
+      "user_bestseller_tier": null,
+      "can_dm": true,
+      "userStatus": {
+        "bestsellerTier": null,
+        "subscriberTier": 1,
+        "leaderboard": null,
+        "vip": false,
+        "badge": {
+          "type": "subscriber",
+          "tier": 1,
+          "accent_colors": null
+        },
+        "subscriber": null
+      },
+      "score": 2,
+      "children_count": 0,
+      "reported_by_user": false,
+      "restacked": false
+    }
+  ]
+}
